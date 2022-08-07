@@ -1,0 +1,1801 @@
+Management Board's Report On the Activities
+of the ABC Data Capital Group For the 2015 Financial Year
+Warsaw, 17 March 2016
+
+Management Board's Report on the Activities
+of the ABC Data Capital Group for FY 2015
+Table of Contents 1 Introduction.................................................................................................................................................... 4 2 Organizational and Capital Relations of ABC Data S.A.............................................................................. 4
+2.1 Changes in the Organization and Management Rules Applicable to the Company and the Capital Group ................................................................................................................................................ 5 2.2 Other Significant Relations ...................................................................................................................... 5 2.3 Branches and Permanent Establishments ............................................................................................... 6 3 Operations of the Capital Group .................................................................................................................. 6 3.1 Information on Key Products, Services and Goods ................................................................................. 6 3.2 Sales Markets .......................................................................................................................................... 7 3.3 Suppliers.................................................................................................................................................. 9 3.4 Major R&D Achievements........................................................................................................................ 9 3.5 Environmental Matters ........................................................................................................................... 10 3.6 Employment........................................................................................................................................... 11 4 Agreements Significant for the Business Activities of ABC Data S.A. Capital Group .......................... 12 4.1 Trade Contracts ..................................................................................................................................... 12 4.2 Shareholders' Agreements .................................................................................................................... 12 4.3 Insurance Contracts............................................................................................................................... 12 4.4 Related Party Transactions ................................................................................................................... 13 4.5 Credit Facilities, Loan and Factoring Agreements ................................................................................. 14 4.6 Sureties and Guarantees ....................................................................................................................... 19 5 Analysis of Financial Data .......................................................................................................................... 19 5.1 Selected Consolidated Financial Data ................................................................................................... 19 5.2 Principles of Preparation of the Consolidated Financial Statements...................................................... 21 5.3 Analysis of the Financial Position .......................................................................................................... 21
+5.3.1 Consolidated Statement of Comprehensive Income ...................................................................... 21 5.3.2 Consolidated Statement of Financial Position ............................................................................... 23 5.3.3 Consolidated Statement of Cash Flows ......................................................................................... 25 5.3.4 Financing Structure........................................................................................................................ 25 5.4 Description of the Structure of Assets, Equity and Liabilities of ABC Data Capital Group ..................... 26 5.5 Ratio Analysis ........................................................................................................................................ 28 5.5.1 Liquidity Ratios .............................................................................................................................. 28 5.5.2 Working Capital Management........................................................................................................ 28 5.5.3 Debt Ratios .................................................................................................................................... 29 5.6 Structure of Key Capital Deposits and Investments............................................................................... 30 5.7 Major Events with a Significant Effect on the Capital Group's Operations and Financial Performance in the Financial Year or the Effects of which may be Observed in the Following Years ........................................ 30 5.8 Projections vs. Actual Performance ....................................................................................................... 30 5.9 Untypical Factors and Events that Affect the Performance and Description of the Capital Group's Economic Position ............................................................................................................................................. 30 5.10 Evaluation of Management of Financial Resources........................................................................... 30 5.11 Financial Instruments......................................................................................................................... 31 5.12 Significant Off-Balance Sheet Items .................................................................................................. 31 5.13 Proceeds from Issue of Shares ......................................................................................................... 31 6 Growth Perspectives and Development Factors ...................................................................................... 31 6.1 Implementation of the ABC Data S.A. Capital Group's Strategy............................................................ 31 6.2 Company and the Capital Group's Growth Perspectives ....................................................................... 32 6.3 Development Factors Material for the Operations of the Capital Group ................................................ 33 6.3.1 Macro-economic Environment Influencing Operations of the Group; IT Industry Standing............ 33 6.4 Risks...................................................................................................................................................... 33 6.5 Planned Investments ............................................................................................................................. 37 7 Bodies of the Companies in ABC Data Group .......................................................................................... 37 7.1 Composition........................................................................................................................................... 37 7.1.1 Management Board ....................................................................................................................... 37 7.1.2 Supervisory Board ......................................................................................................................... 38 7.2 Changes in the Composition of the Management and Supervisory Board............................................. 38 7.3 Agreements between the Company and its Management Members ..................................................... 39 7.4 Remuneration of Members of the Company's Management and Supervisory Board ............................ 39 7.5 Members of Management and Supervisory Bodies Holding Shares in the Company or its Related Parties 40 8 Shares and Shareholding Structure of the Parent.................................................................................... 40 8.1 Share Capital Structure of ABC Data S.A. ............................................................................................. 40 8.1.1 Total Number and Nominal Value of all Shares ............................................................................. 40
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+2
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+
+8.1.2 Total Number and Par Value of all Shares in Subsidiaries ............................................................ 41
+
+8.2 Shareholder Structure............................................................................................................................ 41
+
+8.3 Agreements which may Lead to Changes in the Proportion of Shares Held by the Existing Share- and
+
+Bondholders ...................................................................................................................................................... 42
+
+8.4 Treasury Shares .................................................................................................................................... 42
+
+8.5 Employee Stock Control System ........................................................................................................... 42
+
+9 Additional Information to the Management Board Report on the Activities of ABC Data Group ......... 43
+
+9.1 Court Proceedings ................................................................................................................................. 43
+
+9.2 Entity Authorized to Audit Financial Statements .................................................................................... 43
+
+9.3 Characteristics of the Internal Control and Risk Management System with Respect to Preparation of
+
+Separate and Consolidated Financial Statements ............................................................................................. 43
+
+9.4 Significant Shareholders (direct or indirect) ........................................................................................... 44
+
+9.5 Holders of Securities Giving Special Control Rights with respect to the Company and a Description of
+
+Such Rights ....................................................................................................................................................... 44
+
+9.6 Limitations on Exercising Voting Rights ................................................................................................. 44
+
+9.7 Limitations on the Right to Transfer the Ownership Title to the Company's Securities.......................... 44
+
+9.8 Principles Regarding Appointment and Dismissal of Managerial Staff and their Authorization.............. 44
+
+9.9 Changes in the Company's Articles of Association................................................................................ 45
+
+9.10 Principles Applied to the General Meeting and its Powers; Shareholder Rights and the Way in which
+
+they are Exercised ............................................................................................................................................. 45
+
+9.11 Composition and Changes in the Company's Governing and Supervisory Bodies and their
+
+Committees during the Last Reporting Period ................................................................................................... 47
+
+9.11.1
+
+Management Board ................................................................................................................... 47
+
+9.11.2
+
+Supervisory Board ..................................................................................................................... 48
+
+9.11.3
+
+Committees................................................................................................................................ 48
+
+10 Contact Details ............................................................................................................................................ 51
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+3
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+
+1 Introduction
+The consolidated periodic report of the ABC Data S.A. Capital Group for 2015 includes Management Board's report on the activities of ABC Data Capital Group in 2015 that presents information in accordance with requirements of Article 92.1.4 of the Ordinance of the Minister of Finance of 19 February 2009 on current and periodic information [...], [Ordinance], selected financial data referred to in Article 92.1.2 thereof and consolidated financial statements of ABC Data S.A. for the period from 1 January to 31 December 2015 prepared in accordance with Article 92.1.3b of the Ordinance.
+Management Board's representation referred to in Article 92.1.5 and 92.1.6 and reports prepared by an entity authorized to audit financial statements, referred to in Article 92.1.7 thereof constitute appendices to the consolidated periodic report of the ABC Data S.A. Capital Group for 2015.
+The consolidated annual financial statements included in the consolidated annual report have been prepared in accordance with International Financial Reporting Standards (IFRS).
+If not stated otherwise, financial data are expressed in PLN'000.
+The financial statements have been prepared on the going concern basis as regards the ABC Data S.A. Capital Group. As at the date hereof, there have been no circumstances that would indicate a threat to the Group's ability to operate as a going concern.
+
+2 Organizational and Capital Relations of ABC Data S.A.
+
+Capital Group structure as at 31 December 2015:
+
+Name
+
+Registered office
+
+Core business
+
+ABC Data S.A.
+ABC Data s.r.o.
+ABC Data s.r.o.
+UAB "ABC Data Lietuva" ABC Data Marketing Sp. z o.o. ABC Data Hungary Kft.
+ABC Data Distributie SRL
+ABC Data Germany GmbH i.L.
+iSource S.A. ABC Data Finanse sp. z o.o.**
+
+ul. Daniszewska 14 03-230 Warsaw Na Radosti 399 155 21 Praha 5 Czech Republic Palisady 33, 811 06 Bratislava Slovakia Balt pr. 42, LT-48196 Kaunas, Litwa ul.Daniszewska 14 03-230 Warsaw
+1077 Budapest, Kéthly Anna tér 1., Hungary
+Str. Halelor, nr. 7, et. 3, sector 3, 030118, Bucuresti, Romania Lindberghstr. 5 82178 Puchheim b. München Germany ul. Daniszewska 14 03-230 Warsaw ul. Daniszewska 14 03-230 Warsaw
+
+Distribution of computer hardware and software Distribution of computer hardware and software
+Distribution of computer hardware and software
+Distribution of computer hardware and software
+Distribution of computer hardware and software
+Distribution of computer hardware and software
+Distribution of computer hardware and software
+Distribution of computer hardware and software
+Distribution of computer hardware and software Marketing services, trademark management
+
+Share of ABC Data S.A. in
+capital
+
+Share of ABC Data S.A. in votes
+
+Parent
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100% *)
+
+100% *)
+
+100%
+100% 100%
+
+100%
+100% 100%
+
+*) ABC Data S.A. directly holds 99% of shares and votes and the remaining 1% of shares and votes has been acquired by a subsidiary of ABC Data S.A. ­ ABC Data Marketing Sp. z o.o.
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+4
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+**) ­ ABC Data Finanse sp. z o.o. was incorporated on 1 October 2015, registered by the District Court for the capital city of Warsaw, XIII Business Division of the National Court Register under number KRS 0000581319 on 21 October 2015.
+On 1 October 2015, the company ABC Data Finanse sp. z o.o. was incorporated and registered on 21 October 2015 by the District Court for the capital city of Warsaw, XIII Business Division of the National Court Register under number KRS 0000581319. On 22 December 2015, in exercising the rights of the sole shareholder of ABC Data Germany GmbH i.L., the Management Board of the Company adopted a resolution on liquidation of ABC Data Germany GmbH i.L. effective from 31 December 2015. ABC Data Germany GmbH i.L. (Subsidiary) is a subsidiary of ABC Data S.A. within the meaning of the Accounting Act. Mr. Andrzej Bernat was appointed liquidator of ABC Data Germany GmbH i.L. The Subsidiary's business activity consisted of distribution and sale of IT hardware and software on the German market. In accordance with ABC Data Strategy for 2016 ­ 2018 adopted and published in the Current Report 81/2015 on 29 June 2015, the business model on the German market was replaced with the so-called light scenario i.e. provision of services to clients directly by the parent ABC Data. The business model change commenced in early July 2015 and was completed before the end of July 2015. The Subsidiary had finished conducting business activity before the date of the aforesaid resolution. Consequently, the liquidation of the Subsidiary will not have any effect on the activity of the ABC Data Capital Group.
+2.1 Changes in the Organization and Management Rules Applicable to the Company and the Capital Group
+In the reporting period and in the period until the publication hereof, there were no changes in the organization and management of ABC Data S.A. and its Capital Group.
+2.2 Other Significant Relations
+Apart from the capital relationships described in point 2.1 above, resulting from ABC Data S.A. interests in these entities, there are other material relationships between ABC Data S.A. and MCI Management S.A. Capital Group, arising from the ownership structure of shares in ABC Data S.A. MCI Capital Towarzystwo Funduszy Inwestycyjnych S.A. indirectly holds 77 060 378 shares representing 61.52% of the share capital of ABC Data S.A. through MCI PrivateVentures Fundusz Inwestycyjny Zamknity with separated sub-fund MCI.EuroVentures 1.0 and through MCI Venture Projects Sp. z o.o. VI S.K.A.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+5
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+2.3 Branches and Permanent Establishments
+In 2015, neither ABC Data S.A. nor any of its subsidiaries had any permanent establishments or branches. The Company's head office is located in Warsaw at ul. Daniszewska 14. The Group's warehouses are located in Warsaw and Sosnowiec, as well as in Romania.
+3 Operations of the Capital Group
+3.1 Information on Key Products, Services and Goods
+The ABC Data Capital Group is a leading distributor of computer hardware and software in Central and Eastern Europe and operates directly in Poland, the Czech Republic, Slovakia, Lithuania, Latvia, Estonia, Hungary and Romania. The offering of the Parent and its subsidiaries comprises over 180 000 products, over 1 000 renowned brands and is one of the largest in the region. Key classes of products offered by ABC Data include hardware (computers, peripherals, components, network equipment and accessories), software, operating materials, as well as telecom devices, tablets and electronic appliances.
+On the IT market, ABC Data Group acts as an agent between hardware manufacturers and resellers, whose role involves supplying products to end-users. When selling goods, ABC Data offers related services, from simple installation to complex integration of IT systems.
+The core business of ABC Data Marketing Sp. z o.o. is offering marketing support for ABC Data SA, its business partners and clients. Its purpose is to establish a continuously evolving portfolio of services to allow implementation of complementary marketing strategies for business partners.
+Sales of individual products vs. sales of goods and products in 2014 and 2015:
+
+Telephones and telecom 36%
+
+Components 12%
+Peripherials 16%
+
+Inne 15%
+Computers 21%
+
+2014
+Consumer electronics
+5%
+Software 5%
+IT networks 3%
+Other 2%
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+6
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+
+Components 15%
+Peripherials 14%
+
+Telephones and telecom 27%
+Inne 22%
+Computers 22%
+
+2015
+Consumer electronics
+10%
+Software 6%
+IT networks 5%
+Other 1%
+
+In 2015 ABC Data began systematic expansion of its product offering by adding new products categories to it. In recent months, the new product categories added to ABC Data`s product portfolio such as smart products, stationery and office products, toys, tools and power tools.
+3.2 Sales Markets
+The ABC Data Capital Group sells goods to the following groups of clients:
+ traditional IT companies, SME segment;  e-shops;  retail chains;  system integrators providing comprehensive IT services to large institutions;  wholesalers and sub-distributors;  telecom operators;  foreign clients.
+For over 17 years, communication of the ABC Data Group companies with their clients has been developed through Internet platforms. As a result, the Capital Group companies hold leading positions on their domestic markets in terms of online client service. The InterLink system, developed in Poland, translated into eight languages and adapted in all markets in which the ABC Data Capital Group operates, remains a referential B2B solution in the IT and other industries. The system allows for comprehensive transaction support to include placing orders, checking inventory levels, controlling order status, obtaining information regarding payments and trade credits available or the status of pending complaints. The system allows serving clients who operate in various countries, in local languages, using local currencies, within an integrated logistic system. InterLink has been continuously developed, which has resulted in improved functionality and work comfort. Today the Capital Group companies receive over 85% of their orders through this B2B platform via the Internet. Up to 90 000 orders a month are placed using the InterLink and the platform has up to 6 000 users a day.
+The registered office and the logistic center of ABC Data S.A. are located in Warsaw. At present, the Company has two warehouses in Poland (in Warsaw and Sosnowiec, with a surface area of 20 000 sq. m. and 11,500 sq. m., respectively). In January 2015, ABC Data began cooperation with a logistic partner in Romania, which has provided the Company with 10 000 sq. m of warehouse space that can be flexibly adjusted to our logistic needs (at present, the Company uses just a small percentage of the available space, incurring only the costs of the occupied space). Such a model ensures minimized fixed costs, while variable expenses arise from actual warehouse related needs. ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+7
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+
+Organization of the sales system allows supplying the entire territory of buyers of the ABC Data Capital Group from domestic warehouses.
+Logistic efficiency of a distributor, who has to supply the ordered goods to its clients within 24 hours via courier mail, is a key criterion for both suppliers and buyers. ABC Data S.A. not only fulfils the condition, but delivers goods on the same day in Warsaw, Kraków and Katowice agglomerations. ABC Data cooperates with e-shops, for which the ability to deliver products directly to end-users is of key importance.
+The Group's sales structure in 2014 and 2015 by buyer group:
+
+2014
+
+Export 35%
+
+Resellers 33%
+
+Telecom 1%
+Subdistribution 9%
+Export 27%
+Telecom 1%
+Subdistribution 8%
+
+Retail 12%
+
+Integrators 10%
+
+2015
+
+Resellers 40%
+
+Retail 14%
+
+Integrators 10%
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+8
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+Sales revenue structure by territory in 2014 and 2015:
+
+ty. PLN
+
+6 000 000 5 000 000 4 000 000 3 000 000 2 000 000 1 000 000
+0
+
+Territorial area
+
+48%
+
+-22%
+
+-4% 52%
+2014
+
+43% 57% 2015
+
+Abroad Domestic
+
+Sales to none of the buyers reach 10 per cent of the total sales. Since 2011 the Group has rapidly developed export to the other markets.
+
+3.3 Suppliers
+The Company cooperates with global IT manufacturers. The highest share in the total sales is generated by manufacturers of computers, peripherals and components. The Capital Group's supplier structure is quite dispersed (over 430 suppliers).
+3.4 Major R&D Achievements
+The Company continuously develops its IT tools including those related to Interlink, i.e. the leading B2B e-commerce on the IT distribution market. For many years, tool development has been an evolutionary process and it has not resulted in any significant one-off capital expenditure.
+As regards e-commerce, ABC Data takes advantage of its own potential and uses advanced analytical tools and tools supporting Internet channel sales in order to focus mainly on optimization of the current platforms. New functionalities are increasingly added to the tools with a view to actively support sales of ABC Data products by resellers. Furthermore, the Group systematically expands the portfolio of its advanced solutions targeting a wider group of B2B clients, e.g. cutting-edge mobile platforms.
+When planning its e-commerce and the surrounding IT environment, the Company puts great stress on its security, efficiency and sales opportunities. This facilitates a fast growth of the platform in terms of the commercial offer as well as regional growth. In this area, the Company plans on implementing dedicated tools supporting sale of software licenses, adding subscription services to the existing sales models and launching sale of cloud hosting services on the Company's e-commerce platforms.
+On account of the quantity and quality of data gathered and processed by ABC Data, the Company concentrates on integrating the existing analytical solutions with innovative business intelligence systems. This will allow it to use the full potential of Big Data to optimize its internal procedures regarding offering, maximize sales conversion and expand the sales offer in the most efficient way ensuring that the clients' and business partners' needs are met. The Group intensified work on developing internal analytical systems and implementing tools for effective market penetration in order to improve the quality and attractiveness of the commercial offer in the e-commerce channel.
+The launch of the -commerce Section within the organization enables the Company to execute e-commerce projects dynamically, effectively and in line with the latest trends and technological solutions. All initiatives are based
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+9
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+on in-depth research and interviews with the Company's key resellers and new partners who plan on tying their IT business to ABC Data S.A.
+3.5 Environmental Matters
+Environmental matters related to ABC Data S.A. stem from regulations concerning: - waste electrical and electronic equipment; - batteries; - packages and wastes, including package wastes; - substances and chemicals.
+Under regulations on waste electrical and electronic equipment, ABC Data S.A., being an entity introducing products to the market, is obliged to organize and finance collecting waste equipment and ensure processing, including recycling and disposing of used equipment from households and non-household users. Moreover, the first marketer of the equipment is obliged to collect a certain annual minimum level of equipment from households and carry out public educational campaigns. The Company has transferred its obligations ­ to the greatest extent possible ­ arising from the Act on waste electrical and electronic equipment of 11 September 2015 to ElektroEko Organizacja Odzysku Sprztu Elektrycznego i Elektronicznego S.A., under the relevant agreement signed with the latter. The Company declares that it has complied with all regulations on waste electrical and electronic equipment.
+The Company transferred its obligations arising from the Act on batteries of 24 April 2009 (Journal of Laws of 2015 item 687 as amended) and the Act amending the Act on Batteries and some other acts of 29 August 2014 to Polski System Recyklingu Organizacja Odzysku Opakowa SA to the greatest extent possible, in particular collection, processing, recycling and disposal of used batteries.
+Waste and packaging management has been regulated in several acts of law, in particular in: - the Act on waste of 14 December 2012, including changes made by the Act amending the Act on waste of 15 January 2015; - the Act on packaging and packaging waste of 13 June 2013; - the Act on obligations of entrepreneurs covering management of selected wastes and product and deposit fees of 11 May 2001 (Journal of Laws of 2014 item 1413 as amended).
+The Company has transferred its obligations under the acts specified above to Polski System Recyklingu Organizacja Odzysku SA to the extent possible. The agreement with Polski System Recyklingu Organizacja Odzysku Opakowa SA was terminated in January 2016. The Company signed an agreement with INTERSEROH Organizacja Odzysku Opakowa S.A. The agreement is a continuation of the terminated agreement because INTERSEROH is the owner of Polski System Recyklingu Organizacja Odzysku Opakowa SA. The Company declares that it has complied with all regulations on recycling of packaging and waste, including packaging waste. In particular, the Company reduces the volume and negative impact on the environment of industrial waste produced in the course of its business operations and it ensures disposal of waste which could not have been avoided or recycled, in line with environmental protection regulations.
+The Company performed a thorough analysis and assessment of its operations against the requirements of the Act on chemical substances and mixtures of 25 February 2011 (Journal of Laws of 2015 item 1203 as amended) and the REACH Regulation. The Company requested its suppliers to provide information on their products' compliance with REACH Regulation in order to mitigate a trade risk related to registration of chemical substances and the obligation to provide information on product characteristic and their safe application. By the end of 2012, the Company had received declarations from the majority of its suppliers stating that products supplied do not contain any chemical substances which could be produced intentionally during standard or predictable use. The Company has been collecting all documents required from its suppliers for substances of very high concern, the candidate list of which was published by the European Chemicals Agency on 28 October 2008. In view of the requirements in question the Company does not intend to limit the availability of any products offered.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+10
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+
+3.6 Employment
+
+The Group's headcount in FTEs as at the end of the financial year has been presented below:
+
+Year ended
+
+Year ended
+
+31 December 2014 31 December 2015
+
+Management Board of the Parent*
+
+2
+
+4
+
+Management Board of entities within the Group
+
+9
+
+8
+
+Administration
+
+151
+
+137
+
+Sales and marketing
+
+319
+
+230
+
+Logistics
+
+125
+
+172
+
+Total
+
+606
+
+551
+
+* The data covers all members of the Management Board regardless of the legal relation with the Company.
+
+Average headcount in the Group in the years ended 31 December 2014 and 31 December 2015:
+
+Management Board of the Parent* Management Board of entities within the Group Administration Sales and marketing Logistics Total
+
+Year ended 31 December 2014
+2 9 146 284 123 564
+
+Year ended 31 December 2015
+3 8 163 221 176 571
+
+* The data covers all members of the Management Board regardless of the legal relation with the Company.
+
+In 2015 the number of employees in individual teams was adapted to the efficiency ratios. Furthermore, new employees were recruited for the new product groups to develop the new business lines: Mobile/ Telco, Consumer Electronics, Value +, e-commerce.
+
+Along with the announcement of its strategy, ABC Data launched the "High Performance Organization" project. It focuses on improving the Company's four key areas: measurement of effectiveness of individual departments, building employee involvement, improvement in internal communication, and leadership skills and talent development.
+
+The Company uses an advanced human capital effectiveness measurement system. A test has indicated that the Company's Human Capital ROI is high and it uses its personnel effectively. The results have helped develop a comprehensive HR development system. Which includes the "ABC Data Academy" project. The Academy consists of a number of educational and development programs. The launch of four of them has been planned for 2016. The programs are: "Positive Productivity", "ABC Data Leadership Academy", "ABC Data Sales Academy" and "ABC Data English Academy". The first aims at optimization of a lot of processes in the Company and introduction of the LEAN concept. The other three will predominantly facilitate development of professional and personal skills of ABC Data's employees.
+
+In 2015 the Company also modified the compensation system in the front office area and incentive system adapting it to the existing strategy and market challenges in the future. As a consequence of the first employee involvement survey in the whole Capital Group which was supported by the international company Aon Hewitt, the Company launched "Join the game" program to improve involvement of the employees in ABC Data. The program will be the key element supporting implementation of the strategy and striving to reach above average individual, team and company results.
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+11
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+4 Agreements Significant for the Business Activities of ABC Data S.A. Capital Group
+According to the Group, equity is not considered a criterion determining significance of an agreement concluded. It classifies a given contract as important if the contractual amount has reached 10% of the sales revenue generated in the last four reporting quarters.
+During the period covered by the report the Group concluded no new significant agreements, as classified based on the criterion above. In accordance with Article 3.2 of the Ordinance the Group presents additional information ensuring a complete, true and fair view of the position of the Company and the Capital Group.
+4.1 Trade Contracts
+The Group did not enter into any significant trade contracts during the reporting period.
+4.2 Shareholders' Agreements
+The Group is not aware of any agreements concluded by and among its shareholders.
+4.3 Insurance Contracts
+Trade Credit Insurance Policy with a Collection of Receivables Option 2004 No. 701266 concluded by ABC Data S.A. and Towarzystwo Ubezpiecze Euler Hermes Spólka Akcyjna with the registered office in Warsaw dated 10 February 2014 with annexes and CAP Europe Insurance Policy No. 200567 based thereon and concluded on 6 March 2014 with annexes.
+Pursuant to the agreement T.U. Euler Hermes SA has provided the Company with insurance coverage for receivables from clients, arising from sale of goods and services with a deferred payment terms in case of their insolvency or permanent delay in payment. Clients are covered by the insurance on a case by case basis in line with the decision of the insurance company or under internal control procedures, if the requirements defined in the insurance policy have been met.
+The policy term covers receivables arising from 1 March 2015 to 29 February 2016 (12 months). The policy covers receivables with deferred payment terms due to sales of subsidiaries: ABC Data Hungary Kft., ABC Data Distributie S.R.L. and ABC Data Germeny GmbH i.L. as Policyholders. The maximum claim amount has been set at 40 times the amount of premium paid in a given policy period. Pursuant to the policy the Company is obliged to inform the Insurer of past due receivables from clients on specific dates, where not meeting such information requirements may result in losing the right to claim payment.
+The General Terms and Conditions for Trade Credit Insurance with the Collection Option 2004 constitute and integral part of the agreement.
+Trade Credit Insurance Policy No. 710820 concluded by ABC Data s.r.o. in Prague and Towarzystwo Ubezpiecze Euler Hermes Spólka Akcyjna, with its registered office in Warsaw, dated 11 May 2015 with subsequent annexes, and CAP Europe Insurance Policy No. 201535 based thereon concluded on 1 July 2015 with subsequent annexes
+Pursuant to the agreement Euler Hermes has provided the Company with insurance coverage for receivables from clients, arising from sale of goods and services with a deferred payment terms in case of their insolvency or permanent delay in payment. The policy period covers receivables occurred in the period from 1 March 2015 to 29 February 2016. The policy includes insurance subject to individual decisions of the Insurer for higher credit limits and for lower limits, an option to insure receivables from clients within own control procedures. The maximum claim amount has been set at 40 times the amount of premium paid in a given policy period. Pursuant to the policy the Company is obliged to inform the Insurer of past due receivables from clients on specific dates, where not meeting such information requirements may result in losing the right to claim payment. The General Terms and Conditions for Trade Credit Insurance with the Collection Option 2004 constitute and integral part of the agreement.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+12
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+Trade Credit Insurance Policy No. 710769 concluded by ABC Data s.r.o. in Bratislava and Towarzystwo Ubezpiecze Euler Hermes Spólka Akcyjna, with its registered office in Warsaw, dated 81 May 2015 with subsequent annexes, and CAP Europe Insurance Policy No. 201534 based thereon concluded on 1 July 2015 with subsequent annexes
+Pursuant to the agreement Euler Hermes has provided the Company with insurance coverage for receivables from clients, arising from sale of goods and services with a deferred payment terms in case of their insolvency or permanent delay in payment. The Policy period covers receivables arising in the period from 1 March 2015 to 29 February 2016. The policy includes insurance subject to individual decisions of the Insurer for higher credit limits and for lower limits, an option to insure receivables from clients within own control procedures. The maximum claim amount has been set at 40 times the amount of premium paid in a given policy period. Pursuant to the policy the Company is obliged to inform the Insurer of past due receivables from clients on specific dates, where not meeting such information requirements may result in losing the right to claim payment. The General Terms and Conditions for Trade Credit Insurance with the Collection Option 2004 constitute and integral part of the agreement.
+Trade Credit Insurance Policy No. 710768 concluded by UAB ABC Data Lietuva in Vilnius and Towarzystwo Ubezpiecze Euler Hermes Spólka Akcyjna, with its registered office in Warsaw, dated 8 May 2015 with subsequent annexes, and CAP Europe Insurance Policy No. 201536 based thereon concluded on 1 July 2015 with subsequent annexes
+Pursuant to the agreement Euler Hermes has provided the Company with insurance coverage for receivables from clients, arising from sale of goods and services with a deferred payment terms in case of their insolvency or permanent delay in payment. The Policy period covers receivables arising in the period from 1 March 2015 to 29 February 2016. The policy includes insurance subject to individual decisions of the Insurer for higher credit limits and for lower limits, an option to insure receivables from clients within own control procedures. The maximum claim amount has been set at 40 times the amount of premium paid in a given policy period. Pursuant to the policy the Company is obliged to inform the Insurer of past due receivables from clients on specific dates, where not meeting such information requirements may result in losing the right to claim payment. The General Terms and Conditions for Trade Credit Insurance with the Collection Option 2004 constitute and integral part of the agreement.
+Trade Credit Insurance Policy No. 703230 concluded by Isource SA and Towarzystwo Ubezpiecze Euler Hermes Spólka Akcyjna, with its registered office in Warsaw, dated 8 May 2015 and CAP Europe Insurance Policy No. 201076 based thereon and concluded on 17 June 2014 with subsequent annexes
+Pursuant to the agreement Euler Hermes has provided the Company with insurance coverage for receivables from clients, arising from sale of goods and services with a deferred payment terms in case of their insolvency or permanent delay in payment. The policy period covers receivables arising in the period from 1 April 2015 to 29 February 2016. The policy includes insurance subject to individual decisions of the Insurer for higher credit limits and for lower limits, an option to insure receivables from clients within own control procedures. The maximum claim amount is 40 times the amount of premium paid in a given policy period. Pursuant to the policy the Company is obliged to inform the Insurer of past due receivables from clients on specific dates, where not meeting such information requirements may result in losing the right to claim payment.
+4.4 Related Party Transactions
+The Company concluded related party transactions during the reporting period, acting mainly as the parent.
+During the reporting period the Company did not enter into transactions with related parties carrying out operations uncharacteristic for its core business. Related party transactions were concluded on arm's length terms.
+Nature and terms of related party transactions resulted from the current operating activities of the Company. Related party transactions concluded under standard operating activities included: sale of goods and services offered by the Company as a part of its core business (i.e. distribution of electronic devices and hardware, software and household appliances), marketing services, services related to the central financial management, accounting and logistic services.
+Related party transactions have been discussed in detail in Note 31 to the financial statements.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+13
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+4.5 Credit Facilities, Loan and Factoring Agreements
+The Group's sources of financing are short-term and medium-term credit facilities in banks and factoring facilities for selected clients. Also, intercompany short-term interest-bearing loan agreements are concluded.
+Cash Pooling Agreement between ABC Data SA, ABC Data Marketing Sp. z o.o., iSource S.A. in Warsaw, and ING Bank lski S.A. on 30 September 2015 with subsequent annexes
+The subject of the cash pooling agreement is optimization of the Participants' liquidity management in the form of Daily Limits provided by the Bank which aims at helping the Participants manage their cash on the daily basis. The agreement is collateralized with a statement of submission to enforcement provided by the Cash Pooling Participants. The agreement is valid until 31 October 2016. The agreement in valid until 31 October 2016, subject to a 90-day notification.
+Overdraft Agreement No. BDK/KR-RB/000803558/0356/08 concluded by ABC Data SA in Warsaw, ABC Data Marketing Sp. z o.o. in Warsaw, and Bank Handlowy in Warsaw on 21 October 2008 with subsequent annexes
+Under the agreement the Bank granted a revolving overdraft in PLN, EUR, USD, CZK and RON to ABC Data SA in Warsaw and an overdraft in PLN to ABC Data Marketing Sp. z o.o. in Warsaw for financing their current operations and repayment of a temporary loan No. BDK/KR-P/000803558/0042/10 granted to ABC Data SA in Warsaw. The facility limit was flexible and amounted to:
+PLN 70 million from 8 December 2011 to 28 February 2012 PLN 50 million from 29 February 2012 to 21 October 2012 PLN 70 million from 22 October 2012 to 28 February 2013 PLN 50 million from 1 March 2013 to 24 March 2013 PLN 70 million from 25 March 2013 to 30 July 2013 PLN 90 million from 31 July 2013 to 29 July 2016 The limit of PLN 90 million was allocated in the following manner: PLN 88 million - to ABC Data SA in Warsaw and PLN 2 million - to ABC Data Marketing Sp. z o.o. in Warsaw. The limits are denominated in USD, EUR, CZK and RON. The agreement may be terminated on each anniversary of the agreement execution date. The interest on the loan is based on floating rates WIBOR 1M, LIBOR 1M, EURIBOR 1M, or PRIBOR 1M depending on the currency used plus the Bank's margin. The collateral is a statement of submission to enforcement and an authorization to debit the Company's accounts at the Bank.
+Liability Limit Agreement No. CRD/L/5287/00 concluded between ABC Data SA in Warsaw and Raiffeisen Bank Polska SA on 18 September 2000 with subsequent annexes
+Pursuant to the agreement the Bank extends a liability limit for high risk banking products for financing current operations of the Company. Available products include:
+ overdraft (revolving) in: PLN, EUR, USD and CZK to be used in the form of payment orders made by the Company at the Bank,
+ PLN revolving loan used in the form of disbursements made by the Bank upon request of the Company. In the reporting period the limit amounted to PLN 40 million and it will be available until 6 September 2016.
+The interest on the loan is based on floating rates WIBOR 1M, LIBOR 1M, EURIBOR 1M or PRIBOR 1M depending on the currency used plus the Bank's margin. The collateral is a statement of submission to enforcement and an authorization to debit the Company's accounts at the Bank. The loan was terminated on 18 December 2015.
+Multi-Currency Credit Facility Agreement No. 7026/14/M/04 concluded between ABC Data SA in Warsaw and Bank Millennium S.A. in Warsaw on 29 April 2014
+Pursuant to the agreement the Bank extended a PLN overdraft for financing current operations of the Company. The facility limit amounts to:
+PLN 60 million until 28 April 2017. Pursuant to the Agreement the Bank provides ABC Data SA with funding in the form of an overdraft denominated in PLN, EUR and USD.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+14
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+The agreement may be terminated on each anniversary of the agreement execution date. The interest on the loan is based on the floating rates WIBOR 1M, EURIBOR 1M, and LIBOR 1M plus the Bank's margin. The collateral is a statement of submission to enforcement and an authorization to debit the Company's accounts at the Bank.
+Credit Limit Agreement concluded between ABC Data SA in Warsaw and ING Bank lski S.A. on 9 October 2013
+Pursuant to the agreement the Bank extends a liability limit for high risk bank products for financing current operations of the Company, securing its agreements and settlement of payments among ABC Data S.A. and its counterparties. Available products include:
+ overdraft (revolving) in: PLN, EUR, USD and CZK to be used in the form of payment orders made by the Company at the Bank up to PLN 80 million,
+ guarantees and letters of credit in PLN, EUR and USD in the form of payment orders up to PLN 10 million. In the reporting period the total limit amounted to PLN 80 million.
+The interest on the loan was based on floating rates WIBOR 1M, LIBOR 1M, EURIBOR 1M, or PRIBOR 1M depending on the currency used plus the Bank's margin. The collateral was a statement of submission to enforcement and an authorization to debit the Company's accounts at the Bank.
+On 16 March 2015 the aforementioned agreement was replaced with a tripartite Credit Facility Agreement was concluded among ING Bank lski S.A., ABC DATA S.A. and iSource S.A.
+Pursuant to the Agreement, the Bank grants a daily floating limit over the reporting period. The limit amounts to: PLN 98.2 million from 16 March 2015 to 27 January 2016; PLN 110 million from 28 January 2016. The agreement is valid until 9 October 2025. The agreement may be terminated on each anniversary of the agreement execution date. The limit can be used as follows: - Overdraft facility for ABC DATA SA denominated in: EUR, PLN, USD, CZK, for iSource SA in PLN; - Other credit risk bearing services, especially guarantees and bank guarantees. The total amount of the overdraft and other services to ABC DATA SA cannot exceed: PLN 80 million from 16 March 2015 to 27 January 2016 PLN 90 million from 28 January 2016 The interest on the loan is based on floating rates WIBOR 1M, LIBOR 1M, EURIBOR 1M, or PRIBOR 1M depending on the currency used plus the Bank's margin. The overdraft limit available to iSource S.A. from 16 March 2015 to 27 October 2015 was PLN 3 million; the total amount of overdraft and Other Services amounted to PLN 40 million. Since 27 October 2015 a limit of PLN 40 million for Other Services has been available to iSource S.A.. As a result of conclusion of the repatriate Credit Facility Agreement, the Surety Agreement concluded with iSource for the amount of PLN 21.84 million expired.
+Credit Limit Agreement No. 2013/2014/DF concluded between ABC Data SA in Warsaw and Bank Pekao S.A. on 18 December 2013
+Under the agreement the Bank granted a revolving overdraft in PLN, EUR and USD for financing the Company's current operations. The general financing limit of PLN 60 million will be available until 15 December 2016 and may be early terminated by each party as at each anniversary of the agreement date upon a 30-day notice. PLN 90 million available from 2 March 2016 to 15 December 2017. The limit is available in PLN, EUR and USD. From 2 March 2016 ­ the limit also available in PLN and EUR up to a total of PLN 15 million in the form of bank guarantees granted on request of Creditor. The interest on the loan is based on floating rates WIBOR 1M, LIBOR 1M, or EURIBOR 1M, depending on the currency used plus the Bank's margin. The limit is collateralized with a notarised statement of submission to enforcement under Art. 777.1.4 or Art. 777.1.5 of the Act of 17 November 1964, and authorization to debit the Company's accounts at the Bank.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+15
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+Multi-Purpose Credit Line Agreement No. WAR/3012/15/222/CB concluded between ABC Data SA in Warsaw and BG BNP Paribas S.A. in Warsaw on 1 December 2015
+The credit line was made available on 4 January 2016. Under the agreement the Bank granted a revolving overdraft in PLN, EUR and USD for financing the Company's current operations. The general financing limit of PLN 40 million will be available until 1 December 2025 and may be terminated or extended by each party as at each anniversary of the agreement date upon a 30-day notice. The interest on the loan is based on floating rates WIBOR 1M, LIBOR 1M, or EURIBOR 1M, depending on the currency used plus the Bank's margin. It is collateralized with a blank promissory note with a promissory note agreement issued by the ABC DATA S.A.
+Short-term Credit Agreement No. 2014/026 concluded with Societe Generale Spólka Akcyjna on 23 September 2014
+Under the agreement the Bank granted to ABC Data SA in Warsaw funding in the form of an overdraft amounting to PLN 38 million. The expiry date is 23 September 2019. As at 31 December 2015, the overdraft can be denominated in PLN, USD, EUR or HUF. The interest is based on WIBOR 1M, LIBOR 1M, EURIBOR 1M plus the Bank's margin. If the Bank does not terminate the agreement, it is automatically extended for a 12-month term no later than one month before the anniversary of the execution of the agreement.
+Factoring Agreement No. CRD/F/28959/08 concluded between ABC Data SA in Warsaw and Raiffeisen Bank Polska SA on 15 September 2008 with subsequent annexes
+Under the Agreement, the Factor determined a floating limit for the reporting period amounting to: PLN 80 million from 22 October 2013 to 31 October 2014 od 01.11.2014 r. 85 mln PLN do 28.11.2014 r. PLN 85 million from 1 November 2014 to 28 November 2014 PLN 105 million from 29 November 2014 to include full non-recourse factoring for a selected counterparty. The agreement has been concluded for an unlimited period subject to the condition that the Counterparty limit will be renewed on an annual basis. It is collateralized with a statement of submission to enforcement. The agreement was terminated on 31 January 2016.
+Factoring agreement No. CRD/F/44237/15 concluded between ABC Data SA in Warsaw and Raiffeisen Bank Polska SA on 29 April 2015 with subsequent annexes
+Under the Agreement, the Factor determined a floating limit for the reporting period amounting to: PLN 30 million from 29 April 2015 to 27 July 2015 PLN 35 million from 28 July 2015 The limit is available in PLN, EUR and USD. The limit is valid until 4 January 2017 to include full non-recourse factoring for a selected counterparty. It is collateralized with a blank promissory note with a promissory note agreement and assignment of rights arising from the Trade Receivables Insurance Agreement.
+Factoring agreement No. CRD/F/44235/15 concluded between ABC Data SA in Warsaw and Raiffeisen Bank Polska SA on 29 April 2015 with subsequent annexes
+According to the Agreement, the Factor determined a limit of PLN 25 million for the reporting period available in PLN, EUR and USD. The limit is valid until 5 January 2017 to include full non-recourse factoring for a selected counterparty.
+Factoring agreement No. 1505 concluded between ABC Data SA in Warsaw and Bank Millennium SA on 19 April 2010 with subsequent annexes
+Under the Agreement, the Factor determined a floating limit for the reporting period amounting to: PLN 10 million from 19 April 2010 to 26 March 2013 PLN 20 million from 27 March 2013 to 10 March 2015 PLN 15 million from 11 March 2015 to include full non-recourse factoring for a selected counterparty. The agreement has been concluded for an unlimited period subject to the condition that the Counterparty limit will be renewed on an annual basis. The limit expires on 11 March 2015. The agreement has been concluded for an indefinite term. The collateral is a statement
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+16
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+of submission to enforcement and an authorization to debit the Company's accounts at the Bank. A relevant annex thereto should be concluded soon.
+Reverse Factoring Agreement No. 2355 concluded between ABC Data SA in Warsaw and Bank Millennium Polska SA on 24 April 2013 with subsequent annexes
+Under the Agreement, the Factor determined a floating limit for the reporting period, amounting to PLN 20 million from 24 April 2013 to 23 October 2013, and PLN 34.2 million from 24 October 2013 to 23 April 2016, available in PLN, EUR and USD. The limit is available for reverse factoring regarding selected suppliers of the Company. The agreement may be terminated at each anniversary of the conclusion date. It is collateralized with a blank promissory note with a promissory note agreement issued by the Company.
+Factoring Agreement No. 100/2010 concluded between ABC Data SA in Warsaw and Pekao Faktoring Sp. z o.o.in Lublin on 20 December 2010 with subsequent annexes
+Under the Agreement, the Factor determined a floating limit for the reporting period amounting to: PLN 40 million from 20 December 2012 to 31 January 2013 PLN 30 million from 1 February 2013 to 12 December 2013 PLN 35 million from 13 December 2013 to 31 May 2014 PLN 30 million from 1 June 2014 to 17 June 2014 PLN 43 million from 18 June 2014 to 12 April 2015 PLN 40 million from 13 April 2015 to 16 June 2015 PLN 75 million from 17 June 2015 to include full non-recourse factoring for a selected counterparty. The agreement has been concluded for an unlimited period subject to the condition that the Counterparty limit will be renewed on an annual basis. It is collateralized with an authorization to debit the Company's bank account at PEKAO SA Bank, a blank promissory note with a promissory note agreement issued by the Company and assignment of rights arising from the Trade Receivables Insurance Agreement.
+Factoring Agreement No. 94/2014 concluded between ABC Data SA in Warsaw and Pekao Faktoring Sp. z o.o. in Lublin on 18 December 2014
+Under the Agreement, the Bank provides funding up to PLN 40 million for non-recourse factoring with regard to selected counterparties. The agreement was concluded for an indefinite term. It is collateralized with an authorization to debit the Company's bank account at PEKAO SA Bank and assignment of rights arising from the Trade Receivables Insurance Agreement.
+Master Agreement on Repayment of Trade Receivables No. SFR/ABC/19/2013 concluded between ABC Data SA in Warsaw and Bank Handlowy in Warsaw on 12 December 2013 with subsequent annexes
+Under the Agreement, the Factor determined a limit of PLN 20 million for the reporting period available in PLN, EUR and USD. The limit is valid until 24 November 2016. The limit is available for reverse factoring regarding selected suppliers of the Company. The agreement may be terminated at each anniversary of the conclusion date. It is collateralized with a statement of submission to enforcement.
+Factoring Agreement No. 134/2013 concluded between ABC Data SA in Warsaw and ING Commercial Finance Polska S.A. on 26 June 2013 with subsequent annexes
+Under the Agreement, the Factor determined a floating limit for the reporting period amounting to: PLN 60 million until 26 June 2013 and PLN 80 million from 12 December 2013 PLN 100 million from 18 June 2014 PLN 90 million from 9 October 2014 PLN 70 million from 2 December 2014 PLN 90 million from 1 March 2015 PLN 120 million from 23 March 2015 for non-recourse factoring with regard to selected counterparties. The agreement has been concluded for a definite term until 25 June 2015 with an option to renew it for another year. The limit is available in PLN, EUR and USD. The limit available to ABC Data S.A. and iSource S.A. is PLN 120 million; ABC Data S.A. alone can use a maximum of PLN 100 million; under a separate Factoring Agreement, iSource S.A. can use a separate limit up to PLN 70 million.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+17
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+It is collateralized with two blank promissory notes with a promissory note agreements and assignment of rights arising from the Trade Receivables Insurance Agreement.
+Factoring Agreement No. 29/2013 concluded between iSource SA in Warsaw and ING Commercial Finance Polska S.A. on 8 February 2013 with subsequent annexes
+Under the Agreement, the Factor determined a floating limit for the reporting period amounting to: PLN 11.6 million from 8 February 2013 PLN 16 million from 31 December 2014 PLN 30 million from 23 September 2014 PLN 50 million from 5 December 2014 PLN 30 million from 1 March 2015 PLN 50 million from 21 May 2015 PLN 70 million from 26 October 2015 for non-recourse factoring with regard to selected counterparties. The agreement has been concluded for a definite term until 7 February 2016 with an option to renew it for another year. The limit is available in PLN. The limit available to iSource S.A and ABC Data S.A. is PLN 120 million; iSource S.A. can use a maximum limit of PLN 70 million. It is collateralized with a blank promissory note with a promissory note agreement and assignment of rights arising from the Trade Receivables Insurance Agreement.
+Factoring Agreement No. 1/W/2015 and a factoring cooperation agreement No. 2/2015 concluded between ABC Data SA in Warsaw and ING Commercial Finance Polska S.A. in Warsaw on 5 October 2015 with subsequent annexes
+Under the Agreement, the Factor determined a limit of PLN 40 million for the reporting period available in PLN, EUR and USD. The limit is valid until 4 October 2016. The limit is available for reverse factoring regarding selected suppliers of the Company. The agreement may be terminated at each anniversary of the conclusion date. Under an Annex to the Agreement signed on 18 January 2016, iSource S.A., can also use the aforesaid limit. The collateral for the Agreement is a blank promissory note with a promissory note agreement.
+Factoring Agreement No. 1470/07/2015 concluded between ABC Data SA in Warsaw and BG BNP Paribas Faktoring Sp. z o.o. in Warsaw on 2 December 2015
+Under the Agreement, the Factor determined a PLN 100 million limit for the reporting period available in PLN. The limit has been granted for an unlimited period. The limit is available for full non-recourse factoring with regard to a selected counterparty. The agreement may be terminated on each anniversary of the agreement execution date. It is collateralized with a blank promissory note with a promissory note agreement and assignment of rights arising from the Trade Receivables Insurance Agreement.
+Factoring Agreement No. 1469/07/2015 concluded between ABC Data SA in Warsaw, ABC Data S.R.O. in Prague and BG BNP Paribas Faktoring Sp. z o.o. in Warsaw on 8 March 2016
+Under the Agreement, the Factor determined a CZK 242 970 000 limit for the reporting period available in PLN, CZK, EUR and USD. The whole limit has been granted to ABC Data S.R.O. The limit has been granted for an unlimited period. The limit is available for full non-recourse without recourse factoring with regard to a selected counterparty. The agreement may be terminated on each anniversary of the agreement execution date. It is collateralized with blank promissory notes guaranteed by the Companies with a promissory note agreements and assignment of rights arising from the Trade Receivables Insurance Agreement.
+Loan agreement No. 1/2013 concluded between ABC Data SA in Warsaw and ABC Data Marketing Sp. z o.o. in Warsaw on 27 May 2013
+Under the agreement, the subsidiary ABC Data Marketing Sp. z o.o. is committed to grant the Company a revolving facility of PLN 70 million maturing on 26 May 2017. The interest on a loan is based on the average WIBOR 1M rate plus a margin. Interest is paid monthly. As at 31 December 2014 the outstanding amount was PLN 36.4 million. The agreement was terminated on 28 December 2015; the loan was repaid on 23 December 2015.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+18
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+4.6 Sureties and Guarantees
+On 8 March 2016, ABC Data S.A. and its subsidiary ABC Data s.r.o, acting as joint and several guarantors, issued blank promissory notes to BG Paribas Faktoring Sp. z o.o. (the "Factor") up to CZK 364 455 000, i.e. an equivalent of PLN 58 349 245.50 at the average NBP FX rate applicable today, i.e. CZK/PLN 0.1601.
+The aforementioned guarantees constitute performance bond of the Factoring Agreement of 8 March 2016 (the "Agreement") between ABC Data S.R.O ­ Czech Republic and ABC Data S.A. Under the Agreement ABC Data S.R.O ­ Czech Republic and ABC Data S.A. act as joint and several guarantors with respect to the said Agreement. Liabilities arising from the guarantees and sureties are in force until all obligations under the Agreement are met, however, no later than 36 months from termination of the Agreement. The Agreement has been concluded for an indefinite term. Pursuant to the Agreement, owing to the joint and several liability of ABC Data S.A. and ABC Data SRO, and since ABC Data S.R.O. Czech Republic wholly owned by ABC Data S.A. (holding 100% of shares in the former company), mutual sureties are granted free of charge. On 16 March 2015 the Company concluded a tripartite overdraft facility agreement with ING Bank lski and iSource S.A., a subsidiary of the Company. According to the agreement, the Company and iSource shall bear joint and several liability for amounts payable to the bank. ABC Data S.A. issued guarantees and sureties for liabilities of its subsidiaries to their suppliers: USD 15 000 thousand to iSource S.A., and USD 4 500 thousand, EUR 400 thousand and RON 600 thousand to ABC Data Distributie SRL. Furthermore, on request of ABC Data S.A., Bank Handlowy w Warszawie S.A. issued a letter of credit for USD 300 thousand to secure currency transactions of ABC Data Distributie SRL.
+5 Analysis of Financial Data
+5.1 Selected Consolidated Financial Data
+The following tables present selected financial data for twelve month periods ended 31 December 2015 and 31 December 2014. Selected separate financial data:
+ derived from the statement of comprehensive income and from the statement of cash flows for the period from 1 January to 31 December of a given year have been translated into EUR at the average rate calculated as an arithmetic average of exchange rates published by the National Bank of Poland on the last day of a month in a given year: for the periods from 1 January to 31 December 2015 and 1 January to 31 December 2014 at, respectively, 4.1848 and 4.1893;
+ derived from the balance sheet, have been translated at the average exchange rate of the National Bank
+of Poland applicable on 31 December 2015 and 31 December 2014 of, respectively, 4.2615 and 4.2623.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+19
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+
+SELECTED FINANCIAL DATA
+
+Period
+
+01.01.2015
+
+01.01.2014
+
+Period
+
+01.01.2015
+
+01.01.2014
+
+31.12.2015 PLN'000
+
+31.12.2014 PLN'000
+
+31.12.2015 PLN'000
+
+31.12.2014 PLN'000
+
+Consolidated statement of comprehensive income
+
+Sales revenue Profit on operating activities Profit before tax
+
+4 856 264 66 514 59 172
+
+Net profit on continuing operations
+
+46 838
+
+Basic earnings per share on
+
+continued operations
+
+0.38
+
+(PLN/share or EUR/share)
+
+Weighted average number of ordinary shares (items)
+
+122 824 000
+
+Diluted earnings per share on
+
+continued operations
+
+0.38
+
+(PLN/share or EUR/share)
+
+Discontinued operations
+Net profit (loss) on discontinued operations
+Net profit
+Basic earnings per share (not in PLN/EUR`000)
+
+0 46 838
+0.38
+
+Diluted earnings per share (not in PLN/EUR `000)
+Consolidated cash flows
+Net cash flows from operating activities
+
+0.38 39 767
+
+Net cash flows from investing activities
+
+-1 244
+
+Net cash flows from financing activities
+Total net cash flows
+
+-40 387 -1 864
+
+5 573 430 60 548 48 587 33 282
+0.27
+124 043 000
+0.27
+0 33 282
+0.27 0.27
+157 942 -15 705 -125 135 17 102
+
+1 160 453 15 894 14 140 11 192
+0.09
+122 824 000
+0.09
+0 11 192
+0.09 0.09
+9 503 -297
+-9 651 -445
+
+1 330 396 14 453 11 598 7 945
+0.06
+124 043 000
+0.06
+0 7 945
+0.06 0.06
+37 701 -3 749 -29 870 4 082
+
+SELECTED FINANCIAL DATA
+Consolidated balance sheet Assets Non-current liabilities Current liabilities Equity Share capital
+
+As at
+
+As at
+
+31.12.2015
+
+31.12.2014
+
+PLN'000
+
+As at
+
+As at
+
+31.12.2015
+
+31.12.2014
+
+EUR'000
+
+1 068 337 1 345
+765 768 301 224 125 267
+
+948 364 1 304
+648 471 298 589 125 267
+
+250 695 316
+179 694 70 685 29 395
+
+222 501 306
+152 141 70 053 29 390
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+20
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+5.2 Principles of Preparation of the Consolidated Financial Statements
+The Management Board of the Parent is responsible for internal controls of the Capital Group and their efficiency in the process of preparing the financial statements and periodical reports drawn up and published in line with the Ordinance.
+The consolidated financial statements of the Group are prepared by the management of the Financial and Accounting Division of the Parent supervised by the Parent's CFO in charge of the financial function.
+The consolidated financial statements and periodic reports are prepared based on financial data from the separate financial statements of the Parent and subsidiaries derived from the underlying accounting records. Individual companies prepare their financial statements in accordance with a template prepared by the Parent, in compliance with the Group's accounting policy based on International Financial Reporting Standards. Information from the management reporting systems and data provided directly by the Management of the Parent and subsidiaries, as well as by the Group's legal counsel is used in the preparation of the financial statements. The monthly management reporting system regarding individual companies and the entire Group is a crucial element of the data quality and correctness control. Performance analysis is referred both to the budget approved for a given year and to previous periods.
+The consolidated financial statements are reviewed and pre-approved by the Chief Accountant and presented to the CFO for final approval. Before their final approval for publication they are provided to the Audit Committee of the Supervisory Board.
+Annual and semi-annual consolidated financial statements are reviewed and audited by a certified auditor of the Parent. Audit and review recommendations are presented to the Audit Committee. Audit Committee representatives analyze audit and review results during meetings with the Group's certified auditor including those not attended by the Management Board.
+5.3 Analysis of the Financial Position
+5.3.1 Consolidated Statement of Comprehensive Income
+
+in 000' PLN
+
+5 800 000 5 600 000 5 400 000 5 200 000 5 000 000 4 800 000 4 600 000 4 400 000
+Sales revenue
+
+Sales revenue
+-13%
+
+2014 5 573 430
+
+2015 4 856 264
+
+In 2015 the Group recorded a 13% decrease in sales revenue versus the previous year. The drop was due to a decrease in export sales.
+The geographical structure of sales revenue in 2015 against comparable period data:
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+21
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+
+in 000' PLN
+
+Geographical structure of sales
+
+3 500 000
+
+3 000 000
+
+52%
+
+57%
+
+2 500 000 39%
+
+2 000 000
+
+35%
+
+1 500 000
+
+1 000 000
+
+10%
+
+500 000
+
+8%
+
+0
+Poland Other EU member states Other countries
+
+2014 2 884 195 2 150 799 538 435
+
+2015 2 769 876 1 704 478 381 910
+
+Gross profit on sales by value and as a percentage of sales:
+
+in 000' PLN
+
+Gross profit on sales
+
+300 000
+
+6,0%
+
+250 000
+
+5,0%
+
+200 000
+
+4,0%
+
+150 000
+
+3,0%
+
+100 000
+
+2,0%
+
+50 000
+
+1,0%
+
+0
+Gross profit on sales Margin %
+
+2014 271 696
+4,9%
+
+0,0% 2015 268 230 5,5%
+
+Consolidated gross profit on sales for 2015 was 1% lower than in the previous year, i.e. a PLN 3.5 million decrease y-o-y. The Group managed to maintain the income as a result of an increase in margin (i.e. 0.6 p.p. y-o-y).
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+22
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+5.3.2 Consolidated Statement of Financial Position
+5.3.2.1 Selling Expense and General and Administrative Expenses
+
+in 000' PLN
+
+Selling, general and administrative expenses
+
+250 000
+
+5,0%
+
+200 000
+
+4,0%
+
+150 000
+
+3,0%
+
+100 000
+
+2,0%
+
+50 000
+
+1,0%
+
+0
+General & administrative expenses
+Selling expenses Total SG&A costs SG&A % of revenue
+
+2014
+36 822
+172 342 209 164
+3,8%
+
+0,0% 2015
+33 606
+165 679 199 285
+4,1%
+
+In 2015 selling and administrative expenses amounted to PLN 199 285 thousand and dropped by 4.7% (i.e. PLN 9.9 million) vs. the prior year. The drop was due to a decrease in revenue and an improvement in the cost discipline.
+
+5.3.2.2 Financial Performance
+
+in 000' PLN
+
+EBITDA
+
+80 000
+
+1,6%
+
+70 000
+
+1,4%
+
+60 000
+
+1,2%
+
+50 000
+
+1,0%
+
+40 000
+
+0,8%
+
+30 000
+
+0,6%
+
+20 000
+
+0,4%
+
+10 000
+
+0,2%
+
+0
+EBITDA EBITDA %
+
+2014 62 722 1,1%
+
+0,0% 2015 69 025 1,4%
+
+EBITDA is calculated as an operating profit plus depreciation/amortization.
+
+Consolidated EBITDA for 2015 amounted to PLN 69 025 thousand, which constituted a PLN 6.3 million increase year-on-year. EBITDA profitability calculated in relation to revenue was 1.4%. The improvement was possible because of lower selling and administrative expenses.
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+23
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+
+in 000'PLN
+
+Net profit
+
+50 000 45 000 40 000 35 000 30 000 25 000 20 000 15 000 10 000
+5 000 0
+Net profit Net profit %
+
+2014 33 282 0,6%
+
+2015 46 838 1,0%
+
+1,2% 1,0% 0,8% 0,6% 0,4% 0,2% 0,0%
+
+In 2015, Group's net profit on continuing operations increased by PLN 13.5 million year on year as a result of the above factors.
+
+5.3.2.3 Net Financial Expenses
+
+in 000' PLN
+
+14 000 12 000 10 000
+8 000 6 000 4 000 2 000
+0 -2 000
+Other financial costs Other founding sources Loans and credit facilities Financial revenue Net financial expenses
+
+Financial expenses and revenue
+
+2014 1
+6 501 5 592 -133 11 961
+
+2015 0
+4 884 2 538 -80 7 342
+
+Consolidated financial expenses of the Group decreased by over PLN 4.6 million compared to the previous year. The increase was mainly due to reduced demand for financing throughout the year and a lower interest expense.
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+24
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+5.3.3 Consolidated Statement of Cash Flows
+
+Item (PLN`000)
+Net cash flows from operating activities Net cash flows from investing activities Net cash flows from financing activities Total cash flows Opening balance of cash Closing balance of cash
+
+Period 01.01.2014 - Period 01.01.2015 -
+
+31.12.2014
+
+31.12.2015
+
+157 942 (15 705) (125 135)
+17 102 16 814 33 916
+
+39 767 (1 244) (40 387) (1 864) 33 916 32 052
+
+In 2015, the Group generated positive cash flows on operating activities. The cash flows had decreased as compared with the previous year, mainly as a result of a growth in demand for working capital at the end of the reporting period. The funds generated were spent predominantly on a dividend payment and acquisition of treasury shares.
+
+5.3.4 Financing Structure
+
+Item (PLN`000)
+Equity Cash and cash equivalents Long-term bank loan Short-term bank loan
+
+Balance as at 31.12.2014 298 589 33 916 0 80 594
+
+Balance as at 31.12.2015 301 224 32 052 0 96 293
+
+As at 31 December 2015 the balance of trade receivables did not change materially as compared to the previous year.
+As at 31 December 2015, the balance of cash was sufficient for the Group's operating needs. Liquidity is ensured through overdraft facilities available.
+Bank debt went up almost PLN 16 million, mainly due to increased demand for working capital at the end of the reporting period.
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+25
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+5.4 Description of the Structure of Assets, Equity and Liabilities of ABC Data Capital Group
+
+in 000'PLN
+
+Structure of assets
+1 200 000
+
+1 000 000
+
+800 000
+
+600 000
+
+400 000
+
+200 000
+
+0
+Funds Receivables and other Inventories Non-current assets
+
+balance as at 31.12.14 33 916 488 921 348 064 77 463
+
+balance as at 31.12.15 32 052 541 114 422 035 73 136
+
+Structure of assets
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+Funds Receivables and other Inventories Non-current assets
+
+balance as at 31.12.14 4% 52% 37% 8%
+
+balance as at 31.12.15 3% 51% 40% 7%
+
+The structure of assets reflects the specifics of the industry, with current assets, in particular inventories and shortterm trade receivables accounting for majority of assets.
+At the end of 2015 current assets constituted 93% of the balance sheet total and their share was comparable to that from the end of the previous year. Current assets included mostly inventories and short-term receivables, accounting for 40% and 51% of the balance sheet total, respectively.
+Non-current assets include mainly goodwill and deferred tax asset. ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+26
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+
+in 000'PLN
+
+Structure of liabilities
+
+1 200 000
+
+1 000 000
+
+800 000
+
+600 000
+
+400 000
+
+200 000
+
+0
+Short-term trade liabilities and other Short-term bank debt Long-term liabilities Shareholders' equity
+
+balance as at 31.12.14
+567 877
+80 594 1 304 298 589
+
+balance as at 31.12.15
+669 475
+96 293 1 345 301 224
+
+Structure of liabilities
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+Short-term trade liabilities and other Short-term bank debt Long-term liabilities Shareholders' equity
+
+balance as at 31.12.14
+60%
+8% 0% 31%
+
+balance as at 31.12.15
+63%
+9% 0% 28%
+
+Equity constituted 28% of the total equity and liabilities and funded all non-current and a portion of current assets. Current assets were mainly funded with trade credits granted by suppliers (63% of the total equity and liabilities) and short-term bank borrowings (9% of the total equity and liabilities).
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+27
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+
+5.5 Ratio Analysis
+5.5.1 Liquidity Ratios
+
+1,60 1,40 1,20 1,00 0,80 0,60 0,40 0,20 0,00
+Current ratio Quick ratio
+
+Liquidity ratios
+
+2014 1,34 0,81
+
+2015 1,30 0,75
+
+In 2015, Group's liquidity ratios remain close to those of the previous year. According to the Management Board, they have been safe and allow payment of liabilities within deadlines based on current assets.
+5.5.2 Working Capital Management
+
+Effective management of working capital is one of key objectives of the ABC Data Group. In the entire 2015, the average cash conversion cycle did not change materially as compared to the previous year. Extension of the payment terms by suppliers and changes in the sales structure were the key factors affecting the changes in individual ratios.
+
+The following data have been derived from management accounting records.
+
+Comparison of ratios per period is presented in the table below.
+
+Current assets Inventory turnover in days Receivables turnover in days Liabilities turnover in days Cash conversion cycle
+
+2014 29.6 26.4 29.2 26.8
+
+2015 33.7 28.7 36.8 25.6
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+28
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+Data regarding changes in the cash conversion cycle in 2015 are presented below.
+
+in days
+
+Cash conversion cycle
+
+80,0 60,0 40,0 20,0
+0,0 -20,0 -40,0 -60,0
+Liabilities turnover Receivables turnover Inventory turnover Cash conversion cycle
+
+1Q.2015 -30,9 26,0 28,0 23,1
+
+2Q.2015 -36,2 31,4 36,6 31,8
+
+3Q.2015 -41,1 30,5 39,1 28,5
+
+4Q.2015 -39,1 27,1 31,1 19,1
+
+CCC is presented as the arithmetical average of monthly ratios for a given period. The monthly ratios have been defined as the total of receivables and inventory turnover in days less liabilities turnover in days. Each component of the monthly ratio has been calculated as a relation between the level of relevant balance sheet items at monthend multiplied by 30 days and referred to revenue of the month increased by VAT on sales (for amounts receivable), to cost of sales in the month (for inventories) and to costs of sales in the month increased by VAT on purchases of goods (for liabilities).
+
+5.5.3 Debt Ratios
+
+Debt ratios
+30%
+
+25%
+
+20%
+
+15%
+
+10%
+
+5%
+
+0%
+Bank debt / assets Financial leverage
+
+2014 8% 21%
+
+2015 9% 24%
+
+Debt ratios have decreased year on year and remain safe.
+The financial leverage has been determined as the relation of bank debt to the total book value of equity plus this debt.
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+29
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+5.6 Structure of Key Capital Deposits and Investments
+Neither the Parent nor its Capital Group companies hold any material capital deposits.
+5.7 Major Events with a Significant Effect on the Capital Group's Operations and Financial Performance in the Financial Year or the Effects of which may be Observed in the Following Years
+In 2015, no such factors or events occurred according to the Management Board.
+5.8 Projections vs. Actual Performance
+On 12 November 2015, the Management Board published Current Report No. 86/2015 with projections of the performance of the ABC Data Capital Group for 2015.
+The sales revenue projection for the ABC Data Capital Group was PLN 4 762 477 thousand, the consolidated EBITDA of PLN 68 023 thousand and consolidated net profit of PLN 49 066 thousand. The projection included sales volume, costs and revenue structure based on historical data, market experience and predicted conditions on the markets on which the ABC Data Capital Group operates.
+The consolidated sales revenue for 2015 amounted to PLN 4 856 264 thousand, i.e. PLN 93 787 thousand higher than forecast; the consolidated EBITDA totalled PLN 69 025 thousand, i.e. PLN 1 002 thousand over the budgeted figure, whereas the consolidated net profit amounted to PLN 46 838 thousand, i.e. PLN 2 228 thousand below the budgeted amount.
+5.9 Untypical Factors and Events that Affect the Performance and Description of the Capital Group's Economic Position
+In 2015, no such factors or events occurred according to the Management Board.
+5.10 Evaluation of Management of Financial Resources
+In the period covered by the financial statements, the Company was fully capable of paying its liabilities.
+It funded its current operations using own funds, short--term credit facilities and bank loans, loans from ABC Data Marketing Sp. z o.o. in Warsaw, a subsidiary, and discounted receivables from selected clients under factoring agreements concluded. In order to optimize its financial liquidity, the Company launched a cash pooling mechanism on a daily limit basis.
+In order to ensure funding the current operations, the Company continued a diversified policy towards banks as funding sources, obtaining its borrowings from six banks providing it with short-term credit facilities, four banks providing factoring facilities regarding receivables and two reverse factoring facilities. The list of loan and factoring agreements is provided in section 4.5. Credit facility and loan agreements.
+During the financial year, all material financial ratios of the Company, including the debt ratios, remained on a good level. Thanks to sufficient funding limits provided by the banks, the Company was prepared to cover the growing demand for working capital and no problems regarding payment of its trade liabilities occurred.
+In the subsequent financial year, further steps will be taken to provide the Company with optimized funding sources allowing the performance of sales plans for 2015.
+Additional information about risks related to financial resources is presented in section 6.4 Debt risk.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+30
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+5.11 Financial Instruments
+Description of selected risks (among others, price, credit, material interruptions to cash flow, liquidity) to which the Group is exposed and information about objectives and methods of financial risk management adopted by the Group, to include hedging of material transactions under hedge accounting, are presented in section 6.4 Risks and threats.
+5.12 Significant Off-Balance Sheet Items
+Off-balance sheet items are presented in section 4.6 Sureties and guarantees.
+5.13 Proceeds from Issue of Shares
+In 2015, the Company did not issue any shares.
+
+6 Growth Perspectives and Development Factors
+6.1 Implementation of the ABC Data S.A. Capital Group's Strategy
+In order to ensure high quality, transparency and reliability of communication, on 29 June 2015, the Company published key assumptions of new strategy for ABC Data for the years 2016-2018 approved by a Supervisory Board resolution.
+Performed analyses, whose purpose was to identify new opportunities and development options on each market where Group companies are present, have underlain new Strategy for ABC Data for the years 2016-2018. The strategy has focused on enhancement of ABC Data's foundations and development of its business models to include the most promising areas.
+The key feature of the Strategy is its focus on continuous improvement of the standard and quality of distribution services provided and new business initiatives that complement the core business. Strategic business initiatives shall include e-commerce, mobile product portfolio development, cooperation with telecoms operators, value added distribution (Value+), export and support areas: HR, logistics, a new ERP systems and M&A projects. Further, the strategy assumes active search for new manufacturers in the CEE region.
+
+Vision:  
+ 
+
+
+
+Advancing to the position of IT distribution leader based on e-commerce in the CEE region through: building customer loyalty as a result of expanding the product offer, offering additional services (financial and technical support), new e-commerce tools and sales platforms, as well as logistic services; building new sales channels; developing relationships with manufacturers through improved quality of provided services, added value and innovative e-commerce solutions; extending the scope of the existing contracts and concluding new ones with manufacturers operating in Poland and in the CEE region; improving processes and optimizing costs through implementation of a new ERP system and changes in human capital management.
+
+Strategic objectives:  enhancing the leadership position in the CEE region: developing business and building the leader position on each market where the Company operates (under one of the three business models) through new contacts with key manufacturers operating on the local markets and active sales, as well as export development;  developing e-commerce projects as important competitive characteristics allowing substantial expansion of the existing product offer, avoidance of fixed costs and establishing of a new sales channel;  developing the Mobile and Telco areas: winning new sales channels and expanding the product offer with new brands; extending the scope of the existing contracts to the regional markets;  developing Value+ with respect to advisory competencies and expanding the product offer in all product groups (servers, storage, networking, software, power supply);
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+31
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+ M&A as an important growth supporting factor: acquiring important players on key CEE markets, focusing on acquisitions that enhance the assumed company development aspects;
+ organizational efficiency: optimizing and standardizing of processes, change in human capital management, new services offering added value in logistics, implementing of new WMS and ERP systems.
+Key assumptions of the regional strategy:  developing new business lines: Value+, Mobile as leading ones in their respective areas of the CEE region;  developing new credit risk management methodologies when serving the existing and new partners;  enhancing of the SMB channel;  introducing new product categories to the offer: radio and TV, household appliances, smart home, smart fit, smart med, solar panels;  developing e-commerce tools (InterLink and BiznesLink) in the entire capital group;  continuous monitoring and satisfying the needs of clients and manufacturers on all markets.
+Summary:  increase the market share in Poland to 25% in 2018;  increase the CEE market share to 10% in 2018;  advance to the position of CEE leader through strengthening market position on individual markets: - Poland ­ number one by 2018 - Three key countries in the region ­ in the top three by 2018 - Baltic States ­ light scenario; - German market ­ light scenario;  organic growth and M&A;  streamline the processes and optimize costs ­ ERP implementation;  implement High Performance Organization approach;  the ABC Data Capital Group to achieve the value of PLN 1 billion by 2018.
+The changes made as a consequence of the new strategy have resulted in a stronger position of ABC Data on individual markets in the region, as well as an increase in the number of clients.
+6.2 Company and the Capital Group's Growth Perspectives
+One of the key objectives of the Company is to grow sales in the Czech Republic, Romania, Slovakia, Lithuania, Estonia, Latvia and Hungary. To this aim, the Company expands its product offer and the client base, in particular in the SME, retail, system integrator and telecommunication operator sectors.
+Another development driver is intensifying works aimed at opening fully functional online shops managed by the Company's Trade Partners. Furthermore, the Capital Group will continue developing B2B and B2B2C tools.
+Cooperation with telecom operators and adding telecom products to the offer remains one of the most promising development directions of the Company. The Company has undertaken measures aimed at continuous cooperation with telecom operators through conclusion of individual high-volume transactions, still the growth potential of the cooperation is high. Similarly as in distribution of telecom devices (GSM and smartphones), manufacturers have just begun to notice opportunities and benefits arising from cooperation with IT distributors, especially those succeeding in cooperation with demanding clients, such as large retail networks.
+Today the fastest growing IT area is the Internet of Things. According to Gartner's very conservative estimations, over 25 bn. devices will be connected to the Internet worldwide by 2020. The potential for development in the sector is immense, therefore ABC Data is consistently expanding its solutions offering in this respect, including an addition of smart fir, smart health and smart home categories.
+A further growth in sales in the consumer electronics, household appliances, computer game software and hardware markets is also increasingly important.
+Value-added services (VAD) is another important area for development. In ABC Data this sector is being developed within the Value+ department. The Company offers a wide range of VAD services including audit of the existing IT resources, defining the optimum hardware and software needs, testing system effectiveness and security level, and advice on the optimal utilization of equipment and services ­ purchasing, leasing, outsourcing. The Company provides training to resellers and end-buyers (certified by manufacturers), business intelligence and system upgrades introducing new technological solutions.
+ABC Data's Value + department is also developing its own equipment, software and cloud computing product offering. It is regarded as one of the most promising areas on the IT market. The product offering of ABC Data ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+32
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+includes solutions of the best international cloud computing brands. In addition to that, the Company is developing advanced VAD services based on their own product portfolio.
+6.3 Development Factors Material for the Operations of the Capital Group
+6.3.1 Macro-economic Environment Influencing Operations of the Group; IT Industry Standing
+The key factors to shape the Company's operations in the reporting period and in the following year are:
+ continuous increase in the IT market in the countries of ABC Data's direct presence, stimulated by economic growth and development of CE countries but slower than in previous years;
+ growing role of Polish enterprises in Central and Eastern Europe that stimulates exports;  strong pricing competition in most IT product groups;  growing market share of the largest IT distributors;  uncertain standing of markets where ABC Data Group operates due to possible negative effects of events
+taking place in the Eurozone on the macro-economic standing of the region, in particular of less developed countries;  changes material to the industry made to tax law in 2015 ­ imposition of reverse VAT on some electronic products;  M&A activity among the leading global IT distributors in Central and Eastern Europe.
+6.4 Risks
+Risk Related to Macro-economic Standing of Poland and Other Countries where the Group Operates
+Growth of the IT sector is closely related with the general economic standing of Poland and other countries, in which the Group carries out its operations. Polish economy is sensitive to the global economic situation, in particular to the EU standing. Possible rapid market break may have substantial adverse impact on the financial performance of the Company and the entire Group. GDP growth in each country, IT expense level, pay level, investment in enterprises, inflation and foreign exchange rates are the key factors influencing the Group's financial performance. There is a risk that a slowdown in economic growth of the Group's markets, reduced investment and public procurement level or an inflation increase may negatively impact operations and financial standing of the Parent and subsidiaries, their performance and development perspectives. The political situation in Ukraine has no material impact on the sales of the ABC Data Capital Group. In particular it did not result in any major problems with insolvency of the Clients of the Company's Capital Group. The Companies in the ABC Data Group have not carried out any major sales projects in the Ukrainian market.
+Margin Reduction Risk
+All markets on which ABC Data Group operates are highly competitive. Growing competition arising from new market entries, increasing saturation with IT products and aggressive pricing may result in trade margin reductions.
+Margin control including all key factors that contribute to its amount, active response to margin drops and substantial diversification of the Group's offer allow significant risk mitigation.
+Foreign Exchange Risk
+A significant portion of products offered by the Company come from foreign suppliers. Settlement of foreign currency transactions concluded with suppliers and clients gives rise to the risk of revenue and expense fluctuation caused by changes in forex rates, which may negatively affect the Company's performance.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+33
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+The purchase structure of the Group is generally centralized in ABC Data S.A. in Warsaw. Then, the goods are sold to local clients by subsidiaries located in the Czech Republic, Slovakia, Lithuania and Hungary (which, except of Romania, do not have separate warehouses). Very few goods are purchased directly by the subsidiaries. Since deliveries from the head office to the subsidiaries are denominated in the currency used by these companies when selling to their clients, their forex risk is very small, and the entire risk management process lies with ABC Data S.A., the parent.
+The Parent attempts to mitigate the negative effect of forex rate changes through pro-active forex risk management. For this purpose, ABC Data S.A. applies solutions involving daily indexing prices of the offered products in foreign currencies. Such a pricing policy allows, on the one hand, flexible adjustment of domestic currency prices to the current exchange rates, and on the other hand, the use of inventory of goods expressed in foreign currencies as a natural hedge against the forex risk arising from foreign currency liabilities.
+The purpose of parent's currency position management is to maintain a balanced asset and liability position in each currency including the inventory level. Spot, forward and currency swap transactions are the key financial instruments used to hedge currency positions. In 2015, the Group did not use currency options as forex risk hedges.
+The parent has implemented hedge accounting involving hedging of the future cash flows from trading operations with regard to the pricing system and the relevant forex risk policy, as well as in order to mitigate financial effects of rapid forex rate changes and their impact on the Group's performance. This allows allocating forex differences to periods they actually pertain to, and thus limiting the risk of incidental misstatement of financial profit/loss in a given period.
+Interest Rate Risk
+During the reporting period the Company's liabilities included short-term bank loans and factoring facilities with interest rates based mostly on monthly base rates for a given currency increased by bank's margin. Since intercompany deliveries of purchases for Poland, Slovakia, Czech Republic, Lithuania, Hungary and Romania are centralized in ABC Data S.A. in Warsaw, the parent finances most of the operations. Purchases made by the subsidiaries: Czech, Slovakian, Lithuanian, Hungarian and Romanian are funded through trade liabilities to the Parent.
+A significant increase of market interest rates may adversely impact the financial performance of the Company. Risk mitigation and prevention measures involve continuous monitoring of the money market standing and active managing of balance sheet items that impact working capital, although do not include financial instruments hedging against forex rate risk.
+Business Acquisition Risk
+Accelerating business growth by acquiring other entities is an important element of the strategy adopted by the ABC Data Group. The Company may be forced to withdraw from investing in certain entities if acquisition transactions, initially evaluated as attractive, generate too much risk or the transaction price expected by their owners will render them not viable economically. Also, if transactions are concluded, future financial performance of acquirees and the presumed synergy effect may be lower than planned.
+Product Price Risk
+Continuous reduction of product prices arising from their progressing technical obsolescence and launch of new products is characteristic of the IT market. The Company purchases goods directly from IT hardware manufacturers for further distribution. During pre-sale storage, prices of individual products may drop following reductions introduced by manufacturers. Price protection clauses included in contracts concluded with key supplies, i.e. manufacturers of goods and market practice protect against the risk. They allow for obtaining a refund of a portion of the cost of unsold goods if the sales price to Group's clients decline. Manufacturer bearing full responsibility for price changes of goods held in distributor's warehouse is the standard distribution market practice.
+The Company does not store high volumes of goods purchased from distributors in order to avoid the risk of a price drop. Such transactions are usually concluded based on specific orders of the Company's buyers. Nevertheless, in order to limit the price risk, the Group focuses on maximizing inventory turnover.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+34
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+Debt Risk
+During the reporting period the Company used borrowings in the form of short-term bank loans, intercompany loans and factoring facilities. The Parent is the one charged with funding of the Group's operations as it operates the central warehouse supplying products for sale by distribution subsidiaries.
+The Parent uses services of six banks providing loans to fund the Parent's operations and five separate factoring facilities for selected clients of ABC Data S.A. in Warsaw for the purpose of discounting receivables from these clients on an ongoing basis.
+Due to the commercial nature of the operations of the Company and Capital Group, the amount of funding closely depends on the level of sales and working capital management quality (turnover of receivables, liabilities and inventory). Receivables, liabilities and inventory turnover is monitored on an ongoing basis in order to limit the amount of borrowings, at the same time optimizing product availability and attractiveness of trade credits offered to the Company's clients. Apart from planning the demand for borrowings in its annual budget, the Company keeps monitoring its debt and cash flows to be able to undertake relevant measures aimed at obtaining more funds necessary to ensure paying its trade liabilities within contractual deadlines if necessary.
+According to the Management Board, the current limits cover the potential demand for working capital both in the Company and Capital Group, and the risk that the banks providing the funding will be not willing to extend the funding agreements is limited.
+Supplier Risk
+The Company's operations are based on cooperation with key IT hardware suppliers. According to the Management Board, there are no suppliers so important that disruption in cooperation with them would have a material negative impact on the sales performance of the Company. A broad portfolio of products allows efficient management of relationships with suppliers and offering clients with alternative solutions if temporary shortages or price fluctuations occur.
+IT and Telecom System Risk
+Due to its operational specifics, the Company's efficiency closely depends on data flow and processing speed. Therefore, continuous improvement and uninterrupted operation of IT tools supporting communication and management is crucial. The Company has systematically extended and improved its IT infrastructure supporting business management processes. Despite being modern and efficient, the risk of IT system breakdown cannot be excluded, nor can be a future threat of its reduced efficiency due to growing scale of operations or other factors, including those beyond the Company's control. Any reduction in efficiency of the IT infrastructure used by the Group may have an adverse effect on business management, development strategy implementation and financial performance.
+The Company has monitored efficiency of its IT solutions on an ongoing basis, improved and extended it to match the Company's growth. Additionally, the Group has a team of IT specialists able to promptly repair potential breakdowns. The Group has implemented a system ensuring data control and recovery in crisis situations.
+Risk Related to Loss of Key Employees
+Operations of the Company and its development perspectives depend on knowledge, experience and qualifications of Management Board members and other key managers. Strong demand for IT specialists and competitors' activities may result in key personnel leaving the company and slow down the recruitment of new hires with relevant background and skills. There is a risk that the losing of key employees will negatively impact the operations and financial standing of the Company, its financial performance and growth perspectives. Please note, however, that employee turnover in the Group is on the standard level the survey by Saratoga shows. In addition, in order to reduce the aforesaid risk, the Company has implemented various employee development programs, benefit programs, modified its incentive systems and launched the High Performance Organization program. The Company has seen a growth in demand for highly qualified employees and managers. It continues its focus on Employer Branding initiatives.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+35
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+Risk Related to Trade Credits Granted
+The Company offers trade credits to its business partners, and as a result it is exposed to the risk of losing receivables due to potential insolvency of their counterparties.
+The risk is limited with group or individual insurance policies for trade receivables concluded by all Group companies. Insurance decisions determine internal decisions made with regard to trade credit limits for Group clients. In most cases, such limits do not exceed the level of coverage granted by the insurer.
+The companies within the Group use an internal integrated CRM system allowing analysis of risk related to clients, including the history of contracts, value of orders and timeliness of payment, as well as analysis, approval and management of credit limits for individual clients.
+Receivables from clients are monitored on an ongoing basis. In case of overdue payments, sales are suspended and immediate collection measures are implemented. The efficient procedure of trade credit granting, verifying and monitoring, bad debt level has remained flat.
+Risk Related to the Seasonality of Sales
+The Company's sales are of seasonal nature, which involves the sales level exceeding the sales average in the fourth quarter of a given year. Capital expenditure of institutional clients and increased purchases of retail clients over the Christmas period contribute most to the trend.
+There is a risk that a growth in sales in the fourth quarter may result in an increased demand for working capital in the period.
+Risk Related to Damage or Loss of Goods in Warehouse Following Force Majeure
+Gathering goods of substantial value in one place gives rise to a risk of exposing it to force majeure, such as fire, flood etc. Please note that all Company's assets (including inventories) are insured, as well as a potential loss of income.
+The above events may substantially limit or even suspend operations of the Company and Capital Group companies. This in turn may temporarily disrupt trade relations with clients and may damage their trust in ABC Data as a supplier.
+Risk Related to Changes in Tax Regulations and State Administration Reform
+For many years, the internal EU market of goods covered by VAT has been facing a problem whereby entities taking part in the sales process generate all or a substantial portion of their profits from late VAT payment or a complete failure to pay VAT. This poses a risk to all entities involved in international trade and filing for a VAT refund. The issue has been the topic of a heated debate among EN commissioners trying to create the same mechanisms for all EU Member States to eliminate dishonest competitors who gain advantage as a result of VAT fraud.
+Today the Ministry of Finance is also involved in solving VAT fraud problems and has announced a number of regulations to the tax system and operation of the tax administration reform. All the projects are in the preparatory stage so it is hard to predict their final shape and implementation dates. The closest to materialization is the idea of the Standard Audit File, i.e. a mechanism that allows monitoring the work of the accounting function in a company as well as automating tax data verification, which can expedite tax audits and inspections as well as verification of correctness of tax returns. This will help counteract irregularities such as VAT fraud or tax evasion. The solution proposed aims to improve the quality of services provided to businesses and a more effective response to the threats faced by tax systems.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+36
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+In order to minimize the risk arising from dishonest practices of competitors and thus protect to its own interest, the Company has been verifying all possible implementable internal procedures with respect to exercise of due professional care since 2012.
+Major Shareholder Risk
+As at 31 December 2015, MCI Group companies held jointly 61.52% of shares in the share capital, corresponding to 61.54% of votes at the General Shareholders' Meeting. As at the date of publishing the financial statements, MCI Group companies held jointly 61.52% of shares in the share capital, corresponding to 61.52% of votes at the General Shareholders' Meeting. During the reporting period and by the date of publication of this report, the number of the Company's shares held by the entities in the MCI Group did not change. At the same time during the reporting period and by the date of publication of this report, the number of the Company's shares held by the entities in the MCI Group did not change.
+The impact of MCI Group, as the majority shareholder, on decisions made by General Shareholders' Meeting of the Parent, may be substantially stronger than the impact of minority shareholders.
+6.5 Planned Investments
+The Company will focus on investments in improved warehouse service systems, further development of the IT infrastructure for warehousing and logistics purposes, necessary to ensure efficient e-trade in B2B and B2B2C areas. The Company is able to finance such investments. More detailed information is provided in point 6.1. Implementation of ABC Data S.A.'s Strategy S.A.
+7 Bodies of the Companies in ABC Data Group
+7.1 Composition
+7.1.1 Management Board
+Composition of the Management Board of ABC Data S.A. as at 31 December 2015:
+ Ilona Weiss ­ President of the Management Board  Juliusz Niemotko ­ Vice-President of the Management Board  Andrzej Kuniak - Vice-President of the Management Board  Maciej Piotr Kowalski - Vice-President of the Management Board in charge of M&A and Development
+The composition of the Management Board of the Company changed in the reporting period.
+On 6 October 2014, the Supervisory Board appointed Mr. Juliusz Niemotko to the position of Vice-President of the Management Board for the three-year term effective from 1 January 2015. The relevant information was published in Current Report No. 115/2014 of 7 October 2014.
+On 7 October 2014 Mr. Norbert Biedrzycki resigned from the position of the President of the Management Board effective from 31 December 2014. The relevant information was published in Current Report No. 115/2014 of 7 October 2014.
+At the same time, on 7 October 2014, the Company's Supervisory Board appointed Ms. Ilona Weiss, the former Vice-President for Finance and Operations, to the position of President of the Management Board effective from 1 January 2015. The relevant information was published in Current Report No. 115/2014 of 7 October 2014.
+On 17 September 2015, the Supervisory Board of the Company passed a resolution appointing Ms. Ilona Weiss Member and President of the Management Board for another three-year term effective from 1 December 2015. The relevant information was published in Current Report No. 82/2015 of 17 September 2015.
+On 3 April 2015, the Supervisory Board passed a resolution appointing Mr. Andrzej Kuniak Vice-President of the Board for a three-year term effective from 8 April 2015. The relevant information was published in Current Report No. 66/2015 on the same date.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+37
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+On 14 May 2015, the Supervisory Board passed a resolution appointing Mr. Maciej Piotr Kowalski Vice-President of the Management Board in charge of M&A and Development for a three-year term. The relevant information was published in Current Report No. 71/2015 on the same date.
+Composition of the Management Board of ABC Data S.A. as at the date of the report:
+ Ilona Weiss ­ President of the Management Board  Juliusz Niemotko ­ Vice-President of the Management Board  Andrzej Kuniak - Vice-President of the Management Board.  Maciej Piotr Kowalski - Vice-President of the Management Board In charge of M&A and Development
+On 15 March 2016 the Supervisory Board passed a resolution appointing Mr. Pawel Szymaski to the position of Vice-President of the Company's Management Board in charge of finance effective from 4 April 2016.
+7.1.2 Supervisory Board
+Composition of the Supervisory Board of ABC Data S.A. as at 31 December 2015:
+ Ulrich Kottmann -- Chairman of the Supervisory Board  Nevres Erol Bilecik ­ Member of the Supervisory Board  Miroslaw Godlewski -- Member of the Supervisory Board  Tomasz Czechowicz -- Member of the Supervisory Board, associated with MCI Management S.A.  Cezary Smorszczewski -- Member of the Supervisory Board, associated with MCI Management S.A.
+Changes in the composition of the Supervisory Board during the reporting period are described in section 7.2 hereof.
+On 17 February 2016 Mr. Miroslaw Godlewski resigned from the position of Member of the Supervisory Board of ABC Data with immediate effect.
+Composition of the Supervisory Board of ABC Data as at the date of the report:  Ulrich Kottmann -- Chairman of the Supervisory Board  Ireneusz Wojciech Dbrowski ­ Vice-Chairman of the Supervisory Board  Nevres Erol Bilecik ­ Member of the Supervisory Board  Tomasz Czechowicz -- Member of the Supervisory Board, associated with MCI Management S.A.  Cezary Smorszczewski -- Member of the Supervisory Board, associated with MCI Management S.A.
+7.2 Changes in the Composition of the Management and Supervisory Board
+The composition of the Supervisory Board changed during the reporting period.
+On 9 April 2015, Mr. Fabian Bohdziul resigned from his membership in the Supervisory Board of ABC Data S.A. effective from the end of the same day.
+On 9 April 2015, MCI Management S.A., acting in accordance with Article 14.3 of the Articles of Association of ABC Data S.A., appointed Mr. Ireneusz Wojciech Dbrowski to the position of Member of the Supervisory Board of ABC Data S.A. for a three-year term effective from 10 April 2015.
+On 14 May 2015, Mr. Miroslaw Godlewski resigned the position of Vice-President of the Supervisory Board of ABC Data S.A. remaining its member.
+On 14 May 2015, the Supervisory Board decided to appoint Mr. Ireneusz Dbrowski Vice-President of the Supervisory Board.
+On 14 May 2015, Mr. Maciej Kowalski resigned from his membership in the Supervisory Board of ABC Data S.A.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+38
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+On 16 June 2015, the General Shareholders' Meeting dismissed Mr. Ulrich Kottmann from the Supervisory Board of the Company (Resolution No. 22 of the General Shareholders' Meeting of 16 June 2015) without any justification and appointed him Member of the Supervisory Board for a three-year term (Resolution No. 23 of the General Shareholders' Meeting of 16 June 2015) effective from the same date.
+On 16 June 2015, the General Shareholders' Meeting appointed Mr. Tomasz Czechowicz to the position of Member of the Supervisory Board for a three-year term (Resolution No. 24 of the General Shareholders' Meeting of 16 June 2015) effective from the same date.
+On 23 June 2015, the Supervisory Board of the Company passed a resolution appointing Mr. Ulrich Kottmann President of the Supervisory Board.
+
+7.3 Agreements between the Company and its Management Members
+As at the date hereof, no agreements have been concluded by the company with members of its management, projecting compensation in cases they resign or are dismissed without a valid reason or when dismissed or laid off due to combination through acquisition.
+
+7.4 Remuneration of Members of the Company's Management and Supervisory Board
+
+Company's body
+Management Board of the Parent
+Norbert Biedrzycki, President of the Management Board (to 31 December I2lo0n1a4)Weiss ­ President of the Management Board (until 31 December 2014, Vice-President in charge of Finance and Operations)
+Juliusz Niemotko ­ Vice-President of the Management Board (from 1 January 2A0n1d5rz)ej Kuniak ­ Vice-President of the Management Board (from 8 April 2M0a1c5ie) j Piotr Kowalski Vice-President of the Management Board (from 1S5upDeercveismobreyrB2o0a1r5d) of the Parent
+Ulrich Kottmann, Chairman of the Supervisory Member
+Ireneusz Wojciech Dbrowski ­ ViceChairman of the Supervisory Board (from 10 April 2015)
+Tomasz Czechowicz ­ Member of the Supervisory Board Miroslaw Godlewski, Member of the Supervisory Board (to 17 February 2N0e1v6re)sVEicreo-lPBreilescidiken­t MofetmhebeSruopfervisory BthoeaSrdupervisory Board
+Fabian Bohdziul (from 1 January 2014 to 9 April 2015)
+Cezary Smorszczewski (from 23 June 2014)
+Maciej Piotr Kowalski (from 5 December 2014 to 4 May 2015)
+
+Short-term employee benefits
+
+Period 1.01.2014 -31.12.2014 Period 1.01.2015 -31.12.2015
+
+(PLN `000)
+
+(PLN `000)
+
+1 443
+
+197
+
+1 133
+
+939
+
+-
+
+560
+
+-
+
+349
+
+-
+
+-
+
+120
+
+193
+
+72
+
+15
+
+19
+
+19
+
+21
+
+12
+
+13
+
+15
+
+8
+
+8
+
+16
+
+1
+
+10
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+39
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+Members of the supervisory and management bodies receive no other remuneration related to their positions held in the Capital Group companies.
+
+7.5 Members of Management and Supervisory Bodies Holding Shares in the Company or its Related Parties
+
+Name Ilona Weiss
+Ulrich Kottmann Nevres Erol Bilecik
+
+Position
+President of the Managemen
+t Board (from 1 January 2015)
+President of the Supervisory
+Board Member of the Supervisory
+Board
+
+As at 31 Dec. 2015
+
+Number of shares/votes at the GSM
+
+% interest in the share capital / votes
+
+56 500
+
+0.045%
+
+284 271 1 252 222
+
+0.227% 1%
+
+As at 17 March 2016
+
+Number of shares/votes at the GSM
+
+% interest in the share capital / votes
+
+56 500
+
+0.045%
+
+284 271 1 252 222
+
+0.227% 1%
+
+To the best of the Management Board's knowledge, other members of the Company's Management Board do not hold any shares in the Company.
+Pursuant to Resolution No. 6 of the Extraordinary General Shareholders' Meeting of ABC Data S.A. of 21 October 2015, determining the rules of the Company's Incentive Scheme in 2015, disclosed in Current Report No. 84/2015, the following individuals in managing or supervising positions are eligible to acquire the Company's shares in accordance with the terms and conditions provided in the aforementioned resolution:
+ President of the Management Board ­ Ms. Ilona Weiss ­ is eligible to buy up to 240 000 Shares;  Vice-President of the Management Board ­ Mr. Juliusz Niemotko ­ is eligible to buy up to 180 000 Shares;  Vice-President of the Management Board ­ Mr. Andrzej Kuniak ­ is eligible to buy up to 180 000 Shares;  Chairman of the Supervisory Board ­ Mr. Ulrich Kottmann ­ is eligible to buy up to 150 000 Shares;  Vide-Chairman of the Supervisory Board ­ Mr. Ireneusz Dbrowski ­ is eligible to buy up to 150 000 Shares.
+
+8 Shares and Shareholding Structure of the Parent
+8.1 Share Capital Structure of ABC Data S.A.
+8.1.1 Total Number and Nominal Value of all Shares
+As at 31 December 2015, the Company's share capital amounted to PLN 125 266 899.00 (PLN one hundred twenty five million two hundred sixty six thousand eight hundred ninety nine) and was divided into 125 266 899 (one hundred twenty five million two hundred sixty six thousand eight hundred ninety nine) equal and indivisible shares with a par value of PLN 1 (one) each. The amount paid prior to the registration to cover the share capital was PLN 125 000 (in words: one hundred twenty five thousand).
+The share capital structure is the following: -- 500 000 ordinary A series bearer shares with sequential numbers from 000 001 to 500 000; -- 54 972 000 ordinary B series bearer shares with sequential numbers from B 00 000 001 to B 54 972 000; -- 44 000 000 ordinary C series bearer shares with sequential numbers from C 00 000 001 to C 44 000 000; -- 2 878 869 ordinary D series bearer shares with sequential numbers from D 0 000 001 to D 2 878 869; -- 291 584 ordinary E series bearer shares with sequential numbers from E 000 001 to E 291 584; -- 304 625 ordinary F series bearer shares with sequential numbers from F 000 001 to F 304 625; -- 304 625 ordinary G series bearer shares with sequential numbers from G 000 001 to G 304 625; -- 22 000 000 ordinary H series bearer shares with sequential numbers from H 00 000 001 to H 22 000 000; ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+40
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+
+-- 15 196 ordinary I series bearer shares with sequential numbers from I 00 001 to I 15 196. There were no changes in this respect in 2015.
+
+8.1.2 Total Number and Par Value of all Shares in Subsidiaries
+
+Related party
+ABC Data s.r.o. - Czech Republic
+
+Number of shares - *)
+
+Share 100%
+
+Nominal value of shares
+CZK 44 000 000
+
+ABC Data s.r.o. - Slovakia
+
+- *)
+
+100%
+
+EUR 6 638.78
+
+UAB "ABC Data Lietuva", Lithuania
+
+260 000
+
+100%
+
+EUR 75 400
+
+ABC Marketing Sp. z o.o.
+
+2 424 100
+
+100%
+
+PLN 121 205 000
+
+ABC Data Hungary Kft.
+
+- *)
+
+100 %
+
+Ft 34 870 000
+
+ABC Data Distributie SRL
+
+100
+
+99% **)
+
+RON 889 680
+
+ABC Data Germany GmbH i.L.
+
+250 000
+
+100%
+
+EUR 250 000
+
+iSource S.A.
+
+163265306
+
+100%
+
+PLN 16 326 530.60
+
+ABC Data Finanse sp. z o.o.
+
+100
+
+100%
+
+PLN 5 000
+
+*) In accordance with the local law if 100% of shares in a company are held, the share capital is not divided into shares
+
+**) ABC Data S.A. directly holds 99% of shares and votes and the remaining 1% of shares and votes has been acquired by
+
+a subsidiary of ABC Data S.A. ­ ABC Data Marketing Sp. z o.o.
+
+8.2 Shareholder Structure
+
+Shareholder
+MCI Venture Projects sp. z o.o. VI S.K.A. OFE PZU "Zlota Jesie"
+
+As at 31 December 2015
+
+Number of shares/votes at
+the GSM
+
+% interest in the share
+capital/votes
+
+77 060 378
+
+61.52%
+
+11 624 678
+
+9.28%
+
+Aviva OFE Aviva BZ WBK
+
+8 741 426
+
+6.98%
+
+BZ WBK Asset Management S.A.
+Other Shareholders
+
+6 192 289* 21 648 128
+
+4.94%* 17.28
+
+Total
+
+125 266 899
+
+* As per communication received on 5 March 2015
+
+100.00%
+
+As at 31 March 2016
+
+Number of shares/votes at
+the GSM
+
+% interest in the share
+capital/votes
+
+77 060 378
+
+61.52%
+
+11 624 678 8 741 426
+
+9.28% 6.98%
+
+6 192 289*
+
+4.94%*
+
+21 648 128 125 266 899
+
+17.28 100.00%
+
+Pursuant to a communication received on 5 March 2015 from BZ WBK Asset Management Spólka Akcyjna with the registered office in Pozna, following the sale of shares effected on 2 March 2015, clients of that entity became the holders of shares being the equivalent of less than 5% of votes at the General Shareholders' Meeting of the Company. Before the share reduction referred to above, clients of BZ WBK Asset Management S.A. whose accounts are subject to management contracts held the total of 6 268 077 Company's shares which accounted for 5.00% interest in the share capital. The shares entitled them to 6 268 077 votes at the General Shareholders' Meeting, i.e. 5.00% of the total number of votes at GSM. On 2 March 2015, clients of BZ WBK Asset Management S.A. whose accounts are subject to management contracts held a total of 6 192 289 shares, i.e. 4.94% of the share capital. The shares entitled them to 6 192 289 votes at the General Shareholders' Meeting, i.e. 4.94% of the total number of votes at GSM (Current Report no. 44/2015 of 5 March 2015).
+
+The Company's Management Board also uses information on asset structure published by open-ended pension funds to analyze changes in the period since the date of providing of the most recent periodic report.
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+41
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+8.3 Agreements which may Lead to Changes in the Proportion of Shares Held by the Existing Share- and Bondholders
+The incentive scheme and its performance have been presented in Note 20.1.
+8.4 Treasury Shares
+On 30 March 2015 the Company informed that the Treasury Shares Acquisition Plan would end on the same date after the deadline indicated in the resolution had lapsed.
+The acquisition of treasury shares commenced pursuant to a resolution of the Management Board of the Company of 24 June 2014 (Current Report No. 38/2014 of 24 June 2014). The acquisition was carried out in accordance with decisions of the General Shareholders' Meeting of 23 June 2014 (Current Report No. 36/2014 of 23 June 2014). On 17 November 2014, the Company decided to increase the daily limit of purchased treasury shares above 25% of the average daily trading volume effective from 18 November 2014. The Company declared, however, that the aforesaid volume would not exceed 50% of the average daily trading volume and published the relevant information in Current Report No. 148/2014 of 17 November 2014.
+Summary of the Treasury Shares Acquisition Plan: · under the Plan, the Company acquired a total of 2 672 349 treasury shares corresponding to 2 672 349 votes at General Shareholders' Meeting; · the total number of the acquired shares constituted 2.13% of its share capital and of the total number of votes at the General Shareholders' Meeting; · the nominal value of one share is PLN 1, and the total nominal value of the shares acquired is PLN 2 672 349; · the average share price was PLN 3.75; · the total number of the acquired shares is 2 672 349 (including those acquired on 30 March 2015 that shall be settled on 1 April 2015) and constitutes 2.13% of the Company's share capital and of the total number of votes at General Shareholders' Meeting.
+The Treasury Shares Acquisition Plan was passed in order to enable the Company to purchase treasury shares for redemption or further resale on terms determined in the Resolution and Ordinance, in particular for further resale under M&A procedures to shareholders of the acquired entities in exchange for shares in these entities.
+Pursuant to Resolution No. 5 of the Extraordinary General Shareholders' Meeting of ABC Data S.A. of 21 October 2015, determining the rules of the Company's Incentive Scheme which the Company disclosed in its Current Report No. 84/2015, the Extraordinary General Shareholders' Meeting gave its consent to earmark the treasury shares bought under the Treasury Shares Acquisition Plan pursuant to resolution No. 31 of the Ordinary General Shareholders' Meeting of ABC Data S.A. of 23 June 2014, authorizing the Management Board of ABC Data S.A. to buy back shares for further resale or redemption, for further resale of shares also as part of performance of the Company's obligations under its incentive schemes.
+Pursuant to Resolution No. 6 of the Extraordinary General Shareholders' Meeting of ABC Data S.A. of 21 October 2015, determining the rules of the Company's Incentive Scheme in 2015, which the Company disclosed in its Current Report No. 84/2015, the individuals in managing or supervising positions referred to in point 6.2 of this report are eligible to acquire the Company's shares in accordance with the terms and conditions provided in the aforementioned resolution.
+8.5 Employee Stock Control System
+Supervisory Board is the body authorized to set parameters and principles of employee stock granting. It determines the financial parameters for a reporting period and controls their performance.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+42
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+
+9 Additional Information to the Management Board Report on the Activities of ABC Data Group
+9.1 Court Proceedings
+In 2015, no proceedings were pending or instituted before courts, arbitration authorities or public administration authorities with regard to liabilities or receivables of ABC Data S.A. or its subsidiaries, whose value would amount to at least ten percent of the Company's equity, both for individual and combined proceedings.
+In 2015, proceedings were instituted or pending before courts, arbitration authorities or public administration authorities with regard to liabilities or receivables of ABC Data S.A. or its subsidiaries with a value amounting to at least ten percent of the equity of ABC Data S.A.
+The total value of ABC Data's liabilities or receivables subject to court cases is PLN 29 229 487.70
+Claims with the highest value in the receivables category ­ lawsuit instigated by ABC Data S.A. (writ dated 11 February 2015) against a professional advisor for neglect in performing a due diligence agreement in relation to acquisition of a subsidiary by ABC Data S.A. ­ the value of claim is PLN 21 552 185.37.
+
+9.2 Entity Authorized to Audit Financial Statements
+
+On 8 July 2015, the Company concluded an agreement with Deloitte Polska Sp. z ograniczon odpowiedzialnoci Sp. k., with its registered office in Warsaw, at al. Jana Pawla II 19, concerning audit of annual financial statements and review of mid-year separate and consolidated financial statements for years 2015 and 2016.
+
+The following list presents the services provided by Deloitte Polska Sp. z ograniczon odpowiedzialnoci Sp. k. and the fee for the services for the financial year ended 31 December 2015.
+
+Remuneration of the entity authorized to audit financial statements paid or due for the year ended 31 December 2014 by service:
+
+Service
+Statutory audit and review of the Parent's financial statements Tax advisory services Other services Services regarding subsidiaries Total
+
+Year ended
+
+Year ended
+
+31 December 2014 31 December 2015
+
+209
+
+215
+
+42
+
+-
+
+42
+
+34
+
+350
+
+323
+
+643
+
+572
+
+In 2015 and 2014, the above services were provided by Deloitte Group companies. Deloitte Group carried out statutory audit in all companies of ABC Data S.A. Capital Group for 2015.
+
+9.3 Characteristics of the Internal Control and Risk Management System with Respect to Preparation of Separate and Consolidated Financial Statements
+The Management Board of the Company is responsible for internal controls of the Company and their efficiency in the process of preparing the financial statements and periodic reports drawn up and published in line with the Ordinance.
+The financial statements of the Company are prepared by the management of the Financial and Accounting Division supervised by CFO in charge of the Company's finance.
+The financial statements and periodic reports are prepared based on financial data from the financial and accounting system, registered in line with the Company's accounting policy approved by the Management Board and compliant with the International Financial Reporting Standards. Information from the management reporting
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+43
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+systems and data provided directly by the Management or the Legal Department are used in the preparation of the financial statements.
+The financial statements are reviewed and pre-approved by the Chief Accountant and presented to the CFO for final approval. Before their final approval for publication they are provided to the Audit Committee of the Supervisory Board. Annual and semi-annual financial statements are reviewed and audited by an independent certified auditor of the Company. Audit and review recommendations are presented to the Audit Committee. Audit Committee representatives analyze audit and review results during meetings with the Company's certified auditor including those not attended by the Management Board.
+9.4 Significant Shareholders (direct or indirect)
+Shareholders controlling over 5% of shares in ABC Data S.A. have been presented in point 8.2 hereof.
+9.5 Holders of Securities Giving Special Control Rights with respect to the Company and a Description of Such Rights
+None of the holders of securities have any special control rights.
+9.6 Limitations on Exercising Voting Rights
+No limitations regarding the exercising of the voting rights exist, except for the Company's treasury shares described in section 8.4 hereof (the Company cannot exercise the voting rights arising from these shares).
+9.7 Limitations on the Right to Transfer the Ownership Title to the Company's Securities
+According to the best knowledge of the Management Board, as at the date hereof, no such limitations occur.
+9.8 Principles Regarding Appointment and Dismissal of Managerial Staff and their Authorization
+The Management Board of ABC Data S.A. has the statutory empowerment to manage the Company's business and represent it before third parties. It operates in accordance to the valid legal regulations, in particular the Code of Commercial Companies and Accounting Act, as well as the Company's Articles of Association. The Management Board exercises its statutory rights subject to the valid corporate governance principles.
+The Board is led by its President. Its activities include current business operations of the Company, management and representation before third parties. The Management Board is responsible for all tasks related to the day-today running of the business, which have not been delegated to members of other governing bodies under the applicable laws or provisions of the Company's Articles of Association.
+The Management Board consists of one to five members, including the President. The term of office of the Board members takes three years. The number of the Management Board members is determined by the Supervisory Board.
+The Supervisory Board appoints Management Board members, determines and modifies their tasks and responsibilities, dismisses and suspends them. The mandates of members of the Management Board expire as of the date of the General Meeting approving the financial statements, balance sheet and income statement for the last full financial year of their office term.
+Two members of the Management Board acting jointly or one member with a proxy may make statements of will or sign documents on behalf of the Company. A proxy may represent the Company only jointly with a Management Board member. ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+44
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+Management Board resolutions are required among others for issues in excess of ordinary management of the Company. The resolutions of the Management Board are adopted with an absolute majority of votes of all members present. In the event of a tie vote, the President has the deciding vote.
+The Management Board is not authorized to make any decisions concerning the issue or redemption of shares.
+9.9 Changes in the Company's Articles of Association
+In accordance with Article 22 (i) of the Company's Articles of Association any changes thereto must be approved in the form a resolution of the General Shareholders' Meeting.
+Changes in the Company's Articles of Association result from Article 430 of the Code of Commercial Companies.
+9.10 Principles Applied to the General Meeting and its Powers; Shareholder Rights and the Way in which they are Exercised
+The General Shareholders' Meeting of ABC Data S.A. is an authority determining key issues for the Company's business operations. The General Shareholders' Meeting of ABC Data S.A. acts in line with the Code of Commercial Companies, the Company's Articles of Association and the Regulations of the General Shareholders' Meeting dated 30 June 2011. The full text of the Company's Articles of Association detailing the competencies of the GSM and Regulations of the GSM are available at the Company's premises and its website www.abcdata.eu.
+The General Shareholders' Meeting may be either ordinary or extraordinary.
+The Ordinary Shareholders' Meeting is convened by the Management Board and held within six months of the end of the financial year. It may also be convened by the Supervisory Board if the Management Board does not convene it within six months of the end of the financial year.
+The Management Board convenes an Ordinary Shareholders' Meeting to analyse urgent issues: a) on its own initiative; b) on written request of the Supervisory Board (may be filed electronically); c) on written (or electronic) request of shareholders, jointly representing at least 5% (five per cent) of the share capital.
+The Management Board convenes an Extraordinary Shareholders' Meeting within 14 days of filing a request. The Supervisory Board may convene an Extraordinary Shareholders' Meeting if the Management Board fails to so or if it finds it appropriate.
+Shareholders representing at least 50% of the share capital or at least 50% of votes in the Company may also call an Extraordinary Shareholders' Meeting. The shareholders appoint the chairman of the meeting. If the shareholders convene an Extraordinary Shareholders' Meeting, as mentioned above, the Company's Management Board will be obliged to promptly carry out activities referred to in Articles 4021-4023 of the Code of Commercial Companies and relating to calling a General Shareholders' Meeting.
+The General Meeting is convened at least twenty six days before the planned date of the shareholders' meeting through an announcement published on the Company's website in a manner specified for communicating current information, in line with the regulations concerning public offering, conditions governing the introduction of financial instruments to organized trading, and public companies.
+The announcement of the general shareholders' meeting of a public company should include: 1) date, time and venue of the general shareholders' meeting and a detailed agenda, 2) detailed description of procedures concerning participation in the general shareholders' meeting and exercising voting rights, in particular information on: a) shareholders' right to request specified issues in the meeting agenda; b) shareholders' right to present resolution drafts concerning issues on the agenda of the general shareholders' meeting and issues to be added to the agenda before the meeting date; c) shareholders' right to present resolution drafts concerning issues added to the agenda during the general shareholders' meeting; d) method of exercising the voting rights through a proxy, in particular in templates used in the voting through a proxy at the general shareholders' meeting and the method of notifying the company of appointing a proxy, using electronic communication; ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+45
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+e) the possibility and method of participating in a general shareholders' meeting using electronic communication; f) the method of voicing one's opinion at a general shareholders' meeting using electronic communication; g) the method of exercising the voting right by mail or using electronic communication; 3) general meeting attendee registration date; 4) information that in order to participate in the general meeting, one has to be the company's shareholder at the general meeting attendee registration date, 5) indicating where and how a given person authorized to participate in the general shareholders' meeting may gain access to the full text of the documentation to be presented to the general meeting and resolution drafts or, if no resolutions are planned to be adopted, comments of the management board or the supervisory board concerning issues on the agenda of the general shareholders' meeting and issues to be added to the agenda before the meeting date; 6) specification of the website address where information concerning the general meeting will be published.
+Moreover, from the date of calling the general meeting the following information will be available at the Company's website: 1) the announcement of convening a general meeting; 2) information on the total number of shares in the company and votes related to the shares on the announcement day, and in case of various types of shares ­ information on share distribution to individual types and number of votes attributable to individual types of shares, 3) documentation to be presented to the general meeting, 4) resolution drafts or, if no resolutions are planned to be adopted, comments of the management board or supervisory board, concerning issues on the agenda of the general shareholders' meeting and issues to be added to the agenda before the meeting date; 5) templates authorizing to exercise the voting right by a proxy or by mail, if not directly sent to all shareholders.
+The Management Board of the Company may agree on participation in the General Shareholders' Meeting using electronic communication, in particular: a) real-time transmission of general meetings; b) real-time two-way communication where shareholders may take the floor during a general meeting from a location other than the venue of the general meeting; c) the possibility to exercise the voting right during a general meeting either in person or through a proxy.
+In accordance with Article 22 of the Company's Articles of Association, the competencies of the General Shareholders' Meeting include: a) reviewing and approving Management Report on the activities of the Company, reviewing and approving Supervisory Board's report, reviewing and approving the financial statements of the Company and the consolidated financial statements of the capital group for the previous financial year and discharging members of the Company's governing bodies; b) all decisions concerning claims to cure damages related to incorporation of the Company or its management or supervision; c) disposal or lease of the Company's enterprise or establishing a usufruct right to the enterprise; d) sale of the real estate of the Company; e) issue of bonds including senior convertible bonds and issues of subscription warrants; f) redemption of Company's shares; g) business combination or spin-off of the Company; h) profit distribution or loss absorption, determining the dividend record date and the payment date; i) amending the Company's Articles of Association; j) increasing or decreasing the share capital of the Company; k) approving the Regulations of the Supervisory Board amendments thereto; m) appointing and dismissing members of the Supervisory Board; n) adopting Regulations of the General Shareholders' Meeting.
+The Company's Shareholders exercise their rights in a manner and within limits specified by generally applicable law, the Company's Articles of Association and Regulations of the General Shareholders' Meeting. Shareholders may exercise their voting right during General Shareholders' Meetings in person or through a proxy. All shares are ordinary bearer shares. Each share entitles to one vote. The are no limitations concerning transfer of rights to shares of the Company or exercising voting rights attributable to shares of the Company, other than those resulting from generally applicable law. The Company did not issue securities that would give special control rights with respect to the Company.
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+46
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+
+9.11 Composition and Changes in the Company's Governing and Supervisory Bodies and their Committees during the Last Reporting Period
+
+9.11.1
+
+Management Board
+
+Composition of the Management Board of ABC Data S.A. as at 31 December 2015:
+ Ilona Weiss ­ President of the Management Board  Juliusz Niemotko ­ Vice-President of the Management Board  Andrzej Kuniak - Vice-President of the Management Board.  Maciej Piotr Kowalski - Vice-President of the Management Board in charge of M&A and Development
+Changes in the composition of the Management Board during the reporting period have been described in section 7.1.1 hereof.
+Composition of the Management Board of ABC Data S.A. as at the date of the report:
+ Ilona Weiss ­ President of the Management Board  Juliusz Niemotko ­ Vice-President of the Management Board  Andrzej Kuniak - Vice-President of the Management Board.  Maciej Piotr Kowalski - Vice-President of the Management Board in charge of M&A and Development
+On 15 March 2016 the Supervisory Board passed a resolution appointing Mr. Pawel Szymaski to the position of Vice-President of the Company's Management Board in charge of finance effective from 4 April 2016.
+The Management Board's responsibilities include managing current operations of the Company and current supervision over subsidiaries, representing the Company outside and managing the Company's assets. In particular the Management Board is responsible for: 1) developing, updating and implementing the strategy and key operational objectives of the Company and supervision over developing and updating strategies of subsidiaries; 2) developing and implementing annual budgets of the Company and the Capital Group, preparing quarterly operational plans and performance monitoring; 3) performing duties of a shareholders' meeting/general shareholders' meeting and corporate governance and supervision over other governing bodies in subsidiaries; 4) approving financial liabilities not included in the Company's budget and not subject to approval of the Supervisory Board; 5) developing and implementing risk management principles in the Company and subsidiaries and monitoring operational processes compliance with procedures approved; 6) taking decisions on operational processes in the Company; 7) taking decision on payroll systems applied in the Company and changes thereto, in particular concluding and terminating managerial contracts and employment contracts in the scope not related to the Management Board of the Company, 8) concluding and terminating all trade contracts with the Company's contractors; 9) calling General Shareholders' Meetings and proposing their agendas; 10) filing requests and GSM's resolution drafts; 11) placing requests to convene a Supervisory Board's meeting with the President of the Supervisory Board; 12) preparing a balance sheet, income statement and report of the activities of the Company; 13) providing financial statements and reports of the activities of the Company with suggested profit distribution or loss absorption scheme to the Supervisory Board and the General Shareholders' Meeting of the Company; 14) analyzing assessments, audit and post-audit recommendations and their implementation; 15) carrying out activities related to registration and meeting information requirements of the Company; 16) developing media and investors relations procedures and principles and following a communication policy ensuring coherent and reliable communication about the Company and subsidiaries; 17) filing job descriptions of individual members of the Management Board with replacement plans for approval of the Supervisory Board.
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+47
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+
+9.11.2
+
+Supervisory Board
+
+Composition of the Supervisory Board of ABC Data S.A. as at 31 December 2015:
+
+ Ulrich Kottmann -- Chairman of the Supervisory Board  Ireneusz Wojciech Dbrowski ­ Vice-Chairman of the Supervisory Board  Nevres Erol Bilecik ­ Member of the Supervisory Board  Miroslaw Godlewski -- Member of the Supervisory Board  Tomasz Czechowicz -- Member of the Supervisory Board, associated with MCI Management S.A.  Cezary Smorszczewski -- Member of the Supervisory Board, associated with MCI Management S.A.
+Changes in the composition of the Supervisory Board during the reporting period are described in section 7.2 hereof. Composition of the Supervisory Board of ABC Data as at the date of the report:
+ Ulrich Kottmann -- Chairman of the Supervisory Board  Ireneusz Wojciech Dbrowski ­ Vice-Chairman of the Supervisory Board  Nevres Erol Bilecik ­ Member of the Supervisory Board  Tomasz Czechowicz -- Member of the Supervisory Board, associated with MCI Management S.A.  Cezary Smorszczewski -- Member of the Supervisory Board, associated with MCI Management S.A.
+The Supervisory Board provides continuous general supervision of all areas of the Company's operations in line with the Code of Commercial Companies, Articles of Association of the Company, Regulations of the Supervisory Board, resolutions of the General Shareholders' Meeting and acts of law. The competencies of the Supervisory Board have been specified in the Code of Commercial Companies and the Company's Articles of Association.
+Specifically, the Supervisory Board is responsible for analyzing the statements and reports referred to in Article 395.2.1 of the Code of Commercial Companies to ensure that they are consistent with the accounting records, documents and facts and for reviewing Management Board's requests concerning profit distribution or loss coverage and providing the General Shareholders Meeting with an annual report on the results of such assessments.
+On 23 June 2014, the General Shareholders' Meeting of the Company passed a resolution approving amendments to the Regulations of the Supervisory Board.
+
+9.11.3
+
+Committees
+
+Under Resolution 30/2010 of the Supervisory Board of ABC Data S.A. on 22 June 2010 the Company appointed an Audit Committee operating based on the binding provisions of law, in particular the Regulations of the Supervisory Board and the Act on statutory auditors and their self-governing bodies, entities authorized to audit financial statements and public supervision of 7 May 2009.
+On 23 June 2014, the General Shareholders' Meeting of the Company passed a resolution approving amendments to the Regulations of the Supervisory Board. The introduced amendments included the operation of the Audit Committee.
+In particular the Audit Committee is responsible for: 1) Supporting the Supervisory Board with regard to: a. monitoring of the fairness of financial information presented by the Company, in particular in the form of review of appropriateness and consistency of application of the accounting principles adopted by the Company and its capital group; b. at least once a year, reviewing of internal controls and risk management systems to ensure that key risks are correctly identified, managed and disclosed; c. ensuring of effective operation of the internal audit function, in particular in the form of issuing recommendations on the selection, appointment, re-appointment and dismissal of the internal audit head and regarding the internal audit budget, as well as through monitoring of management's response to its findings and recommendations; d. monitoring of financial operations of the Company and its capital group; 2) issuing of recommendations for the Supervisory Board regarding the selection, appointment, reappointment and dismissal of an external auditor, as well as terms and conditions of its employment;
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+48
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+3) monitoring of independence of the external auditor and its objectivism, in particular in the form of the audit firm's complying with the valid guidelines regarding audit partner turnover, fees paid by the company and relevant regulatory requirements;
+4) controlling of the nature and scope of non-audit services, in particular based on the total of all fees paid by the company and its capital group to the audit firm and its network, as disclosed by this audit firm, in terms of avoiding a conflict of interests;
+5) reviewing of the effectiveness of external control and monitoring management's response to recommendations presented by external auditors in letters to the management;
+6) analyzing of issues underlying the resignation from the services provided by an external auditor and issuing recommendations regarding activities that must be performed.
+Composition of the Supervisory Board Audit Committee as at 31 December 2015 and as at the date of submitting this report:
+As at 31 December 2015:
+1. Ulrich Kottmann 2. Ireneusz Dbrowski
+As at the date of submitting this report:
+1. Ulrich Kottmann 2. Ireneusz Dbrowski
+Changes in the composition of the Supervisory Board Audit Committee during the reporting period:
+By Resolution of the Supervisory Board of 13 January 2015, Mr. Maciej Kowalski was appointed member of the Audit Committee.
+On 9 April 2015, Mr. Fabian Bohdziul resigned from his membership in the Supervisory Board of ABC Data S.A. effective from the end of the same day, and his Audit Committee membership stopped as a result of that.
+On 14 May 2015, Mr. Maciej Kowalski resigned from his membership in the Supervisory Board of ABC Data S.A., and his Audit Committee membership stopped as a result of that.
+By Resolution of the Supervisory Board of 14 May 2015, Mr. Ireneusz Dbrowski was appointed member of the Audit Committee.
+On 14 May 2015, by a resolution of the Supervisory Board, Mr. Ulrich Kottmann was appointed Chairman of the Audit Committee.
+On 23 June 2015, as a result of a dismissal and reappointment a member of the Supervisory Board for another term, by resolution of the Supervisory Board, Mr. Ulrich Kottmann was appointed Chairman of the Audit Committee.
+By Resolution 36/2010 of the Supervisory Board of ABC Data S.A., on 22 September 2010 the Company appointed a Remuneration Committee operating pursuant to the applicable provisions of law and Code of Best Practice for WSE Listed Companies.
+On 23 June 2014, the General Shareholders' Meeting of the Company passed a resolution approving amendments to the Regulations of the Supervisory Board. The introduced amendments included the operation of the Remuneration Committee. It changed its name to "Nomination and Remuneration Committee".
+The Nomination and Remuneration Committee is responsible for: 1) appointing and recommending candidates for vacant positions in the Management Board, to be approved by the Supervisory Board; 2) periodic evaluation of the structure, number of members, composition and performance of the Management Board and recommending changes to the Supervisory Board; 3) periodic assessment of skills and experience of each Management Board member and presenting the results to the Supervisory Board; 4) appropriate analysis of replacement planning issues; 5) reviewing the Management Board's policy in terms of selecting and appointing high level managers;
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+49
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+6) presenting proposals regarding remuneration of the Management Board members during the first meeting following the annual budget approval for Supervisory Board's acceptance;
+7) presenting proposals regarding remuneration of each Management Board member to the Supervisory Board, ensuring their compliance with the remuneration principles adopted by the Company and with performance assessment of a given member;
+8) presenting the Supervisory Board with proposals regarding appropriate form of agreements concluded with Management Board members;
+9) supporting the Supervisory Board in the supervision of process ensuring compliance with the binding information obligations regarding remuneration (in particular, remuneration principles adopted and remuneration granted to the Management Board members);
+10) on behalf of the Supervisory Board, carrying out negotiations with Management Board members regarding managerial contracts;
+11) issuing general recommendations for Management Board members with regard to the level and structure of remuneration paid to high-level managers;
+12) monitoring the level and structure of remuneration paid to high-level managers based on relevant information provided by Management Board members;
+13) with regard to share options or other share-based incentive schemes available to directors, managers or other employees: a. discussing general principles of implementing such systems, in particular share options, and presenting relevant proposals to the Supervisory Board; b. reviewing the related information included in annual reports and presented at GSM, as appropriate; c. presenting the Supervisory Board with proposals to choose between granting share subscription options or share purchase options, indicating the reasons and consequences of each solution;
+14) carrying out a periodic review of the remuneration system adopted by the Company.
+Composition of the Supervisory Board and Appointment and Remuneration Committee as at 31 December 2015 and as at the date of submitting this report:
+As at 31 December 2015:
+1. Ulrich Kottmann 2. Tomasz Czechowicz
+As at the date of submitting this report:
+1. Ulrich Kottmann 2. Tomasz Czechowicz
+Changes in the composition of the Supervisory Board Nomination and Remuneration Committee during the reporting period: On 17 August 2015 Cezary Smorszczewski resigned the position of the Appointment and Remuneration Committee member. On the same day, the Supervisory Board appointed Maciej Kowalski a member of the Appointment and Remuneration Committee. On 14 May 2015, Mr. Maciej Kowalski resigned from his membership in the Supervisory Board of ABC Data S.A., and his Audit Committee and Appointment and Remuneration Committee membership stopped as a result. On 23 June 2015, as a result of a dismissal and reappointment a member of the Supervisory Board for another term, by a resolution of the Supervisory Board, Mr. Ulrich Kottmann was appointed Chairman of the Appointment and Remuneration Committee. On 23 June 2015, as a result of a dismissal and reappointment a member of the Supervisory Board for another term, by a resolution of the Supervisory Board, Mr. Ulrich Kottmann was appointed Chairman of the Appointment and Remuneration Committee. By Resolution 32/2015 of the Supervisory Board of ABC Data S.A., on 14 May 2015, the Company appointed the Strategy Committee operating pursuant to the applicable provisions of law. The Strategy Committee's objective is to support the Supervisory Board in realization of all the strategic plans and initiatives of ABC Data S.A. and the ABC Data S.A. Capital Group.
+Composition of the Supervisory Board Audit Committee as at 31 December 2015 and as at the date of submitting this report:
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+50
+
+Management Board's Report on the Activities of the ABC Data Capital Group for FY 2015
+As at 31 December 2015:
+1. Ireneusz Dbrowski 2. Ulrich Kottmann
+As at the date of submitting this report:
+1. Ireneusz Dbrowski 2. Ulrich Kottmann
+Changes in the composition of the Strategy Committee of the Supervisory Board during the reporting period:
+On 14 May 2015, by a resolution of the Supervisory Board, Mr. Ulrich Kottmann and Mr. Ireneusz Dbrowski were appointed members of the Strategy Committee. Mr. Ireneusz Dbrowski was appointed Chairman of the Strategy Committee. On 23 June 2015, as a result of a dismissal and reappointment a member of the Supervisory Board for another term, by a resolution of the Supervisory Board, Mr. Ulrich Kottmann was appointed member of the Strategy Committee.
+10 Contact Details
+Contact:
+ABC Data S.A. ul. Daniszewska 14 03-230 Warsaw Tel.: +48 (022) 676 09 00 Fax: +48 (022) 614 16 16
+Contact for investors:
+Investor Relations Department Agnieszka Forasiska e-mail: agnieszka.forasinska@abcdata.eu tel: +48 (22) 591 6783
++48 (22) 676 0900 fax: +48 (22) 614 1616
+Warsaw, 17 March 2016
+
+Ilona Weiss President of the Management Board
+
+Juliusz Niemotko Vice-President of the Management
+Board
+
+Andrzej Kuniak Vice-President of the Management
+Board
+
+Maciej Piotr Kowalski Vice-President of the Management
+Board
+
+ABC Data S.A. ul. Daniszewska 14, 03-230 Warsaw, NIP: 524-26-17-178, tel.: +48 022/676 09 00, fax: +48 022/614 16 16 sekretariat@abcdata.eu
+51
+
+

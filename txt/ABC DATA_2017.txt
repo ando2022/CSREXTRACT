@@ -1,0 +1,3759 @@
+ABC DATA S.A.
+FINANCIAL STATEMENTS FOR THE FINANCIAL YEAR CLOSED ON 31 DECEMBER 2017
+WITH AUDITOR'S REPORT
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+(PLN `000)
+Statement of Comprehensive Income .......................................................................................................... 4 Balance Sheet ............................................................................................................................................... 5 Cash Flow Statement ................................................................................................................................... 6 Statement of Changes in Equity ................................................................................................................... 7 Accounting Principles (Policy) and Supplementary Explanatory Notes ...................................................... 8 1. General information .............................................................................................................................. 8 2. Identification of the consolidated financial statements ......................................................................... 8 3. Composition of the Management Board................................................................................................ 8 4. Approval of the financial statements ..................................................................................................... 9 5. Investments ........................................................................................................................................... 9 6. Material values based on professional judgement and estimates ........................................................ 10
+6.1. Professional judgement and uncertainty of estimates .............................................................. 10 7. Basis for the preparation of the financial statements ........................................................................... 11
+7.1. Statement of compliance .......................................................................................................... 11 7.2. Functional and presentation currency ...................................................................................... 11 8. Changes in accounting principles........................................................................................................ 11 9. New standards and amendments to standards ..................................................................................... 12 10. Significant accounting policies ........................................................................................................... 15 10.1. Foreign currency translations ................................................................................................... 15 10.2. Property, plant and equipment ................................................................................................. 15 10.3. Intangible assets ....................................................................................................................... 16 10.4. Leases....................................................................................................................................... 18 10.5. Impairment of non-financial non-current assets....................................................................... 18 10.6. Shares in subsidiaries ............................................................................................................... 18 10.7. Financial assets ........................................................................................................................ 18 10.8. Impairment of financial assets ................................................................................................. 20 10.9. Derivative financial instruments and hedges............................................................................ 20 10.10. Inventories................................................................................................................................ 21 10.11. Trade and other receivables ..................................................................................................... 22 10.12. Cash and cash equivalents........................................................................................................ 22 10.13. Interest-bearing bank loans, credit facilities and debt securities .............................................. 22 10.14. Trade and other liabilities ........................................................................................................ 22 10.15. Provisions................................................................................................................................. 23 10.16. Retirement severance pays ....................................................................................................... 23 10.17. Share-based payments .............................................................................................................. 23 10.18. Revenue ................................................................................................................................... 24 10.19. Expenses .................................................................................................................................. 24 10.20. Taxes ........................................................................................................................................ 25 10.21. Net profit per share .................................................................................................................. 26 11. Data comparability .............................................................................................................................. 27 12. Operating segments ............................................................................................................................. 28 13. Revenue and expenses......................................................................................................................... 28 13.1. Other operating revenue ........................................................................................................... 28 13.2. Other operating expenses ......................................................................................................... 28 13.3. Financial revenue ..................................................................................................................... 29 13.4. Financial expenses ................................................................................................................... 29 13.5. Expenses by type...................................................................................................................... 29
+1
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+(PLN `000)
+13.6. Depreciation and amortization recognized in profit or loss ..................................................... 30 13.7. Employee benefit expenses ...................................................................................................... 30 14. Income tax ........................................................................................................................................... 31 14.1. Tax returns ............................................................................................................................... 31 14.2. Tax expense ............................................................................................................................. 31 14.3. Effective tax rate ...................................................................................................................... 31 14.4. Deferred income tax................................................................................................................. 32 15. Profit per share .................................................................................................................................... 32 16. Dividends paid and proposed to be paid.............................................................................................. 33 17. Property, plant and equipment............................................................................................................. 33 18. Leases.................................................................................................................................................. 34 18.1. Operating lease liabilities - the Company as a lessee .............................................................. 34 18.2. Finance lease liabilities ............................................................................................................ 34 19. Intangible assets .................................................................................................................................. 35 20. Long-term investments........................................................................................................................ 36 21. Other assets, including assets measured at fair value through profit or loss ....................................... 36 22. Employee benefits ............................................................................................................................... 37 22.1. Employee stock ownership plans ............................................................................................. 37 22.2. Retirement and other post-employment benefits...................................................................... 37 23. Inventories........................................................................................................................................... 37 24. Trade and other receivables................................................................................................................. 38 25. Cash and cash equivalents ................................................................................................................... 38 26. Share capital, supplementary capital and reserve capitals ................................................................... 39 26.1. Share capital............................................................................................................................. 39 26.2. Supplementary capital .............................................................................................................. 39 26.3. Treasury shares ........................................................................................................................ 40 26.4. Other reserve capitals............................................................................................................... 40 26.5. Undistributed profit/uncovered loss and dividend limitations ................................................. 40 27. Interest-bearing bank loans andcredit facilities ................................................................................... 41 28. Provisions ............................................................................................................................................ 42 28.1. Change in provisions................................................................................................................ 42 28.2. Provision for warranty repairs and returns ............................................................................... 42 28.3. Onerous contracts..................................................................................................................... 42 29. Trade and otherliabilities..................................................................................................................... 43 29.1. Liabilities due to employee benefits......................................................................................... 43 29.2. Other financial liabilities.......................................................................................................... 43 30. Contingent liabilities ........................................................................................................................... 44 30.1. Guarantees and sureties issued for the subsidiaries' liabilities ................................................. 44 30.2. Contingent liabilities for reprographic fees.............................................................................. 44 30.3. Tax returns ............................................................................................................................... 44 30.4. Electrical and electronic waste ................................................................................................. 45 30.5. Litigation.................................................................................................................................. 45 31. Information on related parties ............................................................................................................. 46 31.1. Ultimate parent......................................................................................................................... 47 31.2. Terms of related-party transactions.......................................................................................... 47 31.3. Loans granted to members of the Management Board............................................................. 48 31.4. Other transactions with members of the Management Board .................................................. 48
+2
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+(PLN `000) 31.5. Remuneration of the Company's management ......................................................................... 48 32. Fees of the statutory auditor or the entity authorized to audit financial statements............................. 48 33. Financial risk management objectives and policy ............................................................................... 49 33.1. Interest rate risk........................................................................................................................ 49 33.2. Currency risk............................................................................................................................ 49 33.3. Commodity price risk............................................................................................................... 51 33.4. Credit risk................................................................................................................................. 51 33.5. Liquidity risk............................................................................................................................ 51 34. Financial instruments .......................................................................................................................... 53 34.1. Fair values of financial instruments by class............................................................................ 53 34.2. Revenue, expenses, profits and losses recognized in the profit and loss account by category of
+financial instruments ................................................................................................................ 54 34.3. Hedges ..................................................................................................................................... 56 35. Capital management ............................................................................................................................ 57 36. Headcount structure............................................................................................................................. 58 37. Events after the balance sheet date ...................................................................................................... 58
+3
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+(PLN `000)
+STATEMENT OF COMPREHENSIVE INCOME
+for the financial year closed on 31 December 2017
+
+Revenues Cost of sales Gross profit on sales
+Other operating income Selling expenses Administrative expenses Oter operating expenses Gross profit on operations
+Financial income Financial expenses Net financial income
+Profit before tax
+Income tax
+Net profit for the period
+Items that may be subsequently reclassified to profit or loss Net chnage in fair value of cash flow hedges Income tax on other comprehensive income Total other comprehensive income
+TOTAL COMPREHENSIVEINCOMEFOR THEPERIOD
+Profit per share in PLN: ­ basic profit for the reporting period ­ diluted profit for the reporting period
+
+Notes
+
+Year ended 31 December 2017
+
+Year ended 31 December 2016
+
+12
+
+3 504 999
+
+4 017 321
+
+(3 296 505)
+
+(3 813 174)
+
+208 494
+
+204 147
+
+13.1
+
+2 432
+
+8 588
+
+13.5
+
+(156 032)
+
+(171 926)
+
+13.5
+
+(28 133)
+
+(27 084)
+
+13.2
+
+(1 259)
+
+(1 737)
+
+25 502
+
+11 988
+
+13.3
+
+21 780
+
+22 609
+
+13.4
+
+(7 985)
+
+(14 678)
+
+13 795
+
+7 931
+
+39 297
+
+19 919
+
+14
+
+(4 180)
+
+(383)
+
+35 117
+
+19 536
+
+34.3
+
+3 704
+
+(1 396)
+
+14
+
+(704)
+
+265
+
+3 000
+
+(1 131)
+
+38 117
+
+18 405
+
+15
+
+0,29
+
+0,16
+
+15
+
+0,29
+
+0,16
+
+Ilona Weiss President Warsaw, 19 April 2018
+
+Andrzej Kuniak Vice-President
+
+Arkadiusz Lew-Kiedrowski Vice-President
+
+Krystyna Cybulska Chief Accountant
+
+Accounting Principles (Policy) and Supplementary Explanatory Notes to the Financial Statements on pages 8 to 59 form an integral part thereof 4
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+(PLN `000)
+
+BALANCE SHEET
+as at 31 December 2017
+
+ASSETS Non-current assets Property, plant and equipment Intangible assets Investments in subsidiaries Deferred tax assets
+Current assets Inventories Short-term financial assets Income tax receivables Trade and other receivables Cash and cash equivalents
+
+31.12.2017 Noty
+
+31.12.2016 (restated/*)
+
+17
+
+8 278
+
+6 619
+
+19
+
+33 659
+
+30 442
+
+20
+
+52 885
+
+52 835
+
+14.4
+
+10 495
+
+12 598
+
+105 317
+
+102 494
+
+23
+
+352 877
+
+369 649
+
+21
+
+17 829
+
+17 080
+
+5 430
+
+5 047
+
+24
+
+551 782
+
+491 778
+
+25
+
+4 479
+
+58 543
+
+932 397
+
+942 097
+
+TOTAL ASSETS
+
+1 037 714
+
+1 044 591
+
+EQUITY AND LIABILITIES
+
+Equity
+
+Share capital
+
+26.1
+
+Share premium
+
+26.2
+
+Treasury shares
+
+26.3
+
+Other reserve capital
+
+26.4
+
+Retained profit
+
+26.5
+
+Long-term liabilities
+
+Long-term financial liabilities
+
+29.2
+
+Provisions for employee benefits
+
+22
+
+Other long-term laibilities
+
+29
+
+Provisions
+
+28
+
+Short-term liabilities
+
+Current portion of interst bearing borrowings and debt instruments
+
+27
+
+Liabilities due to employee benefits
+
+29.1
+
+Other financial liabilities
+
+29.2
+
+Trade and other liabilities
+
+29.
+
+Provisions
+
+28
+
+125 267 39 825 (10 065) 1 942 102 877 259 846
+452 588 8 749 452 10 241
+117 917 11 579 22 676 613 227 2 228 767 627
+
+125 267 39 825 (10 065) (1 070) 77 568 231 525
+642 11 075 463 12 180
+137 987 9 911 21 933
+628 681 2 374
+800 886
+
+Total liabilities
+
+777 868
+
+813 066
+
+TOTAL EQUITY AND LIABILITIES
+/* See Note 11
+
+1 037 714
+
+1 044 591
+
+Ilona Weiss President
+
+Andrzej Kuniak Vice-President
+
+Arkadiusz Lew-Kiedrowski Vice-President
+
+Krystyna Cybulska Chief Accountant
+
+Warsaw, 19 April 2018
+
+Accounting Principles (Policy) and Supplementary Explanatory Notes to the Financial Statements on pages 8 to 59 form an integral part thereof 5
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+(PLN `000)
+
+CASH FLOW STATEMENT
+for the financial year closed on 31 December 2017
+
+Cash flow from operating activites Gross profit Adjusted by: Amortization / Depreciation Cost of share-based payments (Profit) / loss on investing activities (Increase)/decrease in receivables (Increase)/decrease in inventories Increase/(decrease) in liabilities, except for borrowings Financial income Financial expemses Increase /(decrease) in liabilities to employees Change in provisions Income tax paid Other Net cash flow from operating activities
+
+Notes
+
+Year ended 31 December 2017
+
+Year ended 31 December 2016
+
+39 297
+
+19 919
+
+13.6
+
+3 344
+
+2 053
+
+22.1
+
+12
+
+61
+
+(11)
+
+(16)
+
+(60 004)
+
+(5 088)
+
+16 772
+
+18 754
+
+(17 780)
+
+64 749
+
+13.3
+
+(21 780)
+
+(22 609)
+
+13.4
+
+7 985
+
+14 678
+
+1 614
+
+879
+
+28
+
+(157)
+
+(1 136)
+
+(3 163)
+
+(8 528)
+
+2 861
+
+(6 897)
+
+(31 010)
+
+76 819
+
+Cash flow from investing activities Sales of property, plant, equipment and intangible assets Acquisition of property, plant, equipment and intangible assets Acquisition of subsidiaries Borrowing granted to subsidiary Dividends received from subsidiaries Interest received Other Net cash flow from investing activities
+
+17,19 20
+13.3
+
+40 (7 643)
+(50) -
+21 668 111 -
+14 126
+
+36 (7 858) (6 521) (17 075) 22 457
+152 -
+(8 809)
+
+Cash flow from financing activities Change in overdrafts Payments due ti financial leasing Inflow due to cash pooling Dividend paid Interest paid Other financilal inflows Net cash flow from financing activities
+
+27
+
+(20 070)
+
+41 694
+
+(30)
+
+994
+
+29
+
+16
+
+(9 808)
+
+(47 812)
+
+(8 267)
+
+(8 112)
+
+1
+
+-
+
+(37 180)
+
+(14 201)
+
+Net increase / (decrease) in cash and cash equivalents Opening balance of cash Closing balance of cash
+
+(54 064)
+
+53 809
+
+58 543
+
+4 734
+
+25
+
+4 479
+
+58 543
+
+Ilona Weiss President
+
+Andrzej Kuniak Vice-President
+
+Warsaw, 19 April 2018
+
+Arkadiusz Lew-Kiedrowski Vice-President
+
+Krystyna Cybulska Chief Accountant
+
+Accounting Principles (Policy) and Supplementary Explanatory Notes to the Financial Statements on pages 8 to 59 form an integral part thereof 6
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+STATEMENT OF CHANGES IN EQUITY
+for the financial year closed on 31 December 2017
+
+12 months 2017 As at 1 January 2017
+Net profit for the period
+Other comprehensive income for the period Comprehensive income for the period
+
+Note Share capital
+125 267 -
+34
+-
+
+Share premium
+
+Treaury shares
+
+39 825 -
+-
+
+(10 065) -
+-
+
+Other reserve capital
+
+Retained profit
+
+Net profit
+
+Total equity
+
+(1 070) -
+
+77 568 -
+
+35 117
+
+231 525 35 117
+
+3 000 3 000
+
+-
+
+-
+
+-
+
+35 117
+
+3 000 38 117
+
+Share-bansed payments Dividend paid
+
+22
+
+-
+
+16
+
+-
+
+-
+
+-
+
+-
+
+-
+
+12
+
+-
+
+-
+
+12
+
+-
+
+(9 808)
+
+-
+
+(9 808)
+
+As at 31 December 2017
+
+125 267
+
+39 825
+
+(10 065)
+
+1 942
+
+67 760
+
+35 117
+
+259 846
+
+12 months 2016 As at 1 January 2016 Net profit for the period Other comprehensive income for the period Comprehensive income for the period
+Share-bansed payments Dividend paid
+
+Note Share capital
+
+125 267 -
+
+34
+-
+
+22
+
+-
+
+16
+
+-
+
+As at 31 December 2016
+
+125 267
+
+Ilona Weiss President Warsaw, 19 April 2018
+
+Andrzej Kuniak Vice-President
+
+Share premium
+
+Treaury shares
+
+Other reserve capital
+
+Retained profit
+
+Net profit
+
+Total equity
+
+39 825 -
+
+(10 065) -
+
+-
+
+105 844
+
+-
+
+260 871
+
+-
+
+-
+
+19 536
+
+19 536
+
+-
+
+-
+
+(1 131)
+
+-
+
+-
+
+(1 131)
+
+-
+
+-
+
+-
+
+19 536
+
+(1 131) 18 405
+
+-
+
+-
+
+-
+
+-
+
+61
+
+-
+
+-
+
+(47 812)
+
+-
+
+61
+
+-
+
+(47 812)
+
+39 825
+
+(10 065)
+
+(1 070)
+
+58 032
+
+19 536
+
+231 525
+
+Arkadiusz Lew-Kiedrowski Vice-President
+
+Krystyna Cybulska Chief Accountant
+
+Accounting Principles (Policy) and Supplementary Explanatory Notes to the Financial Statements on pages 8 to 59 form an integral part thereof 7
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+ACCOUNTING PRINCIPLES (POLICY) AND SUPPLEMENTARY EXPLANATORY NOTES
+1. General information
+The financial statements of ABC DATA S.A. cover the financial year closed on 31 December 2017 and include comparative data for the financial year closed on 31 December 2016. ABC DATA S.A. ("Company", "entity") was incorporated under Notarial Deed of 25 July 2007 under the business name ABC Data Holding S.A. The register office of the Company is in Warsaw at ul. Daniszewska 14. The Company is entered in the Register of Entrepreneurs of the National Court Register kept by the District Court, 13th Commercial Division of the National Court Register, under number KRS 0000287132. The Company was assigned the following statistical number REGON: 141054682. The duration of the Company is indefinite. The Company's core business includes: · wholesale of computers, peripherals and software, · wholesale of electronic and telecommunication equipment, · manufacture of computers and peripherals, · software-related activities, · data processing, hosting and similar activities, · repair and maintenance of computers and peripherals, · other IT and computer services, · IT equipment administration, · other non-school forms of education.
+MCI Capital S.A. is the ultimate parent of the ABC Data S.A. Capital Group, and it controls the Group through its subsidiary: MCI Venture Projects Spólka z ograniczon odpowiedzialnoci VI S.K.A.
+2. Identification of the consolidated financial statements
+The Company prepared consolidated financial statements for the year closed on 31 December 2017, which was approved for publication on 19 April 2018.
+3. Composition of the Management Board
+As at 1 January 2017, the Management Board was composed of: Ilona Weiss ­ President; Juliusz Niemotko ­ Vice-President; Andrzej Kuniak ­ Vice-President; Maciej Kowalski ­ Vice-President. On 22 May 2017, Mr. Juliusz Niemotko resigned from the Board (Current Report No. 20/2017). On 11 December 2017, Mr. Maciej Kowalski resigned from the Board (Current Report No. 47/2017). As at 31 December 2017, the Management Board was composed of: Ilona Weiss ­ President; Andrzej Kuniak - Vice-President. On 19 February 2018, the Supervisory Board appointed Mr. Arkadiusz Lew-Kiedrowski as Vice-President of the Company's Management Board, effective from 1 March 2018 (Current Report No. 6/2018).
+As at the date of preparation hereof, the Management Board was composed of:
+8
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+Ilona Weiss ­ President; Andrzej Kuniak ­ Vice-President; Arkadiusz Lew-Kiedrowski ­ Vice-President.
+
+4. Approval of the financial statements
+These financial statements were approved for publication by the Management Board on 19 April 2018.
+
+5. Investments
+
+The Company has invested resources in the following subsidiaries:
+
+Entity
+
+Reg is tered office General scope of business activity
+
+Interest in the share capital
+
+31.12.2017
+
+31.12.2016
+
+ABC Data s.r.o
+
+Praga (Czechy)
+
+Wholesale of computers, peripherals nad s o ftware
+
+100%
+
+100%
+
+ABC Data s.r.o
+
+Bratyslawa Wholesale of computers, peripherals nad (Slowacja) software
+
+100%
+
+100%
+
+UAB "ABC Data Lietuva"
+
+Wilno (Litwa)
+
+Wholesale of computers, peripherals nad s o ftware
+
+100%
+
+100%
+
+ABC Data Marketing Sp. z o.o. Warszawa Wholesale of computers, peripherals nad s o ftware
+
+ABC Data Hungary Kft
+
+Budapeszt Wholesale of computers, peripherals nad (Wgry) software
+
+ABC Data Distributie SRL
+
+Bukareszt Wholesale of computers, peripherals nad (Rumunia) software
+
+ABC Data Germany GmbH i L Monachium Wholesale of computers, peripherals nad (Niemcy) software
+
+100% 100% 99% 100%
+
+100% 100% 99% 100%
+
+iSource S.A.
+
+Warszawa Wholesale of computers, peripherals nad s o ftware
+
+100%
+
+100%
+
+ABC Data Finanse Sp. z o.o. Warszawa Accounting services
+
+100%
+
+100%
+
+SPV Sail Sp. z o.o.
+
+Warszawa Activities of holding copmpanies
+
+100%
+
+S4E S.A.
+
+Kraków
+
+Software and data processing services, consulting related to hardware
+
+81,3%
+
+*/ The Company holds shares of S4E S.A. indirectly, through the company SPV Sail Sp. z o.o.
+
+100% 81,3%
+
+As at 31 December 2017 and 31 December 2018, the share in the total number of votes held by the Parent in its subsidiaries was equal to the interest in their share capitals.
+
+9
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+6. Material values based on professional judgment and estimates
+6.1. Professional judgment and uncertainty of estimates
+Apart from accounting estimates, professional judgment of the management in such areas as the assessment of indications of asset impairment, projections of future cash flows used as the basis for goodwill impairment tests, as well as estimates of provisions, was the key factor affecting the application of the accounting principles (policy) to the issues presented below. Below, the Group presents the key assumptions for the future as well as other major sources of uncertainty identified at the balance sheet date, which involve a substantial risk of considerable adjustment to the carrying amounts of assets and liabilities in the following financial year.
+Asset impairment Inventories The Company estimates impairment losses on inventories reducing their value to the net realizable value on the basis of an analysis of the margin on goods sold in the month immediately preceding the balance sheet date and on the basis of the mark-up of selling expenses. It also estimates impairment losses on slow-moving goods (Note 23).
+Receivables Impairment losses are recognized for non-insured past due receivables, receivables from debtors in liquidation or bankruptcy and based on an individual assessment of bad debt risk related to specific receivables (Note 24). Goodwill The Company tested its goodwill for impairment. It required estimating the value in use of the cash generating unit. The value in use is estimated through determination of future cash flows generated by the cash generating unit and it requires determination of a discount rate for the calculation of the present value of the said cash flows (Note 19).
+Deferred tax asset The Company recognizes a deferred tax asset on the assumption that it will generate taxable profit sufficient to realize the asset in the future. If the taxable profit was to decrease considerably in the future, the above assumption might prove baseless (Note 14.3). Provisions Provisions for bonuses The Company recognizes provisions for bonuses (sales-based cash bonuses) for buyers. The amount of such provisions results from the assessment of whether the conditions for bonus payment, as set out in contracts and agreements, will be satisfied. In particular, bonus estimates concern the reaching or exceeding of specific sales levels in transactions with contracting parties when the billing period has not ended yet. Provisions for employee benefits The Company recognizes a provision for annual bonuses for employees and management board members, paid vacation and retirement benefits. Provisions for bonuses are recognized on an aggregate basis for each employee group. Bonuses that depend on the financial result of the Company are calculated considering the degree of adherence to the budget in a given period. The provision for paid vacation is calculated based on the number of outstanding days off and individual salaries and wages, considering social security charges. The provision for retirement benefits is calculated by an actuary based on a model which takes account of the age structure of the staff, years in service, probability of retiring without changing employers, salaries and wages and time value of money (Note 22.2).
+Other provisions
+10
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+The Company recognizes provisions for guarantee service costs (Note 28.2), open purchase orders (Note 28.3), expenses which have not been billed by suppliers until the end of the reporting period and disputed amounts subject to litigation, including reprographic fees (Note 30.2).
+Fair value of financial instruments The fair value of financial instruments which are not traded on an active market is measured using appropriate valuation techniques. While selecting appropriate methods and assumptions, the Company uses professional judgment. The fair value measurement methods applied to financial instruments have been presented in Note 34.
+Depreciation and amortization rates Depreciation and amortization rates are determined based on the estimated useful life of fixed and intangible assets. Every year the Company reviews the adopted useful lives based on current estimates (Notes 10.2 and 10.3).
+7. Basis for the preparation of the financial statements
+These financial statements have been prepared on the historical cost basis, except derivative financial instruments. These financial statements have been presented in Polish zlotys (PLN) and all figures are in PLN thousand, unless stated otherwise. These financial statements have been prepared based on the assumption that Company will continue as a going concern in the foreseeable future. As at the date of approval of this financial statement, there were no circumstances found that would indicate a risk to the Company's ability to continue as a going concern.
+7.1. Statement of compliance
+These financial statements have been prepared in accordance with the International Financial Reporting Standards ("IFRS"), as endorsed by the European Union. As at the date of approval of these financial statement for publication, considering the IFRS implementation process taking place in the EU and the activities carried out by the Company, as regards the accounting principles applied by the Company, the IFRS which came into force do not differ from those endorsed by the EU. IFRS consist of standards and interpretations approved by the International Accounting Standards Board ("IASB") and the International Financial Reporting Interpretations Committee ("IFRIC").
+7.2. Functional and presentation currency
+PLN is the functional currency of the Company and the presentation currency for these financial statements.
+8. Changes in accounting principles
+Amendments to existing standards first applied in the Company's financial statement for 2017
+The following amendments to the existing standards issued by the International Accounting Standards Board (IASB) and endorsed by the EU have been first applied in the Group's financial statements for 2017:
+· Amendments to IAS 7 "Cash Flow Statement" ­ Initiative concerning disclosures ­ endorsed by the EU on 6 November 2017 (applicable to annual periods starting on or after 1 January 2017),
+· Amendments to IAS 12 "Income Tax" ­ Recognition of assets for deferred income tax on unrealized loss ­ endorsed by the EU on 6 November 2017 (applicable to annual periods starting on or after 1 January 2017),
+· Amendments to IFRS 12 resulting from "IFRS Improvements (2014-2016)" ­ amendments to standards resulting from the annual IFRS improvement process (IFRS 1, IFRS 12 and IAS 28) aimed in particular at
+11
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+resolving inconsistencies and clarifying wording ­ endorsed by the EU on 7 February 2018 (amendments to IFRS 12 are applicable to annual periods starting on or after 1 January 2017).
+The aforesaid amendments to standards have not had a considerable effect on the Group financial statements for the year 2017.
+9. New standards and amendments to standards
+New standards and amendments to existing standards that have already been issued by the IASB and approved by the EU, but which have not yet entered into force
+· IFRS 9 "Financial Instruments" ­ endorsed by the EU on 22 November 2016 (applicable to annual periods starting on or after 1 January 2018),
+· IFRS 15 "Revenue from the Contracts with Clients" and amendments to IFRS 15 "Effective Date of IFRS 15" ­ endorsed by the EU on 22 September 2016 (applicable to annual periods starting on or after 1 January 2018),
+· IFRS 16 "Leases" ­ endorsed by the EU on 31 October 2017 (applicable to annual periods beginning on or after 1 January 2019);
+· Amendments to IFRS 2 "Share-based payments" ­ Classification and valuation of share-based payments ­ endorsed by the EU on 27 February 2018 (applicable to annual periods starting on or after 1 January 2018),
+· Amendments to IFRS 4 "Insurance Contracts" ­ Application of IFRS 9 "Financial Instruments" together with IFRS 4 "Insurance Instruments" ­ endorsed by the EU on 3 November 2017 (applicable to annual periods starting on or after 1 January 2018 or at the time of the first application of IFRS 9 "Financial Instruments"),
+· Amendments to IFRS 15 "Revenue from Contracts with Clients" ­ Clarification to IFRS 15 "Revenue from Contracts with Clients ­ endorsed by the EU on 31 October 2017 (applicable to annual periods starting on or after 1 January 2018),
+· Amendments to IAS 40 ,,Investment Property" ­ Transfers of investment property ­ endorsed by the EU on 14 March 2018 (applicable to annual periods starting on or after 1 January 2018),
+· Amendments to IFRS 1 and IAS 28 resulting from "IFRS Improvements (2014-2016)" ­ amendments to standards resulting from the annual IFRS improvement process (IFRS 1, IFRS 12 and IAS 28) aimed in particular at resolving inconsistencies and clarifying wording ­ endorsed by the EU on 7 February 2018 (amendments to IFRS 1 and IAS 28 are applicable to annual periods starting on or after 1 January 2018),
+· Amendments to IFRS 9 "Financial instruments" ­ Prepayment Features with Negative Compensation (applicable to annual periods beginning on or after 1 January 2019);
+· Interpretation of IFRIC 22 "Transactions in Foreign Currencies and Advance Payments" ­ (applicable to annual periods starting on or after 1 January 2018).
+The Company decided not to take advantage of the possibility to apply the above-mentioned new standards earlier and to change the existing standards.
+Impact of implementation of IFRS 15 "Revenue from Contracts with Clients"
+The IFRS 15 "Revenue from Contracts with Clients" establishes a Five-Step Revenue Recognition Model for recognizing revenue arising from the contracts with clients. In accordance with IFRS 15, revenue is recognized in the amount of remuneration which, as expected, is due in exchange for the transfer of promised goods or
+12
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+services to the client. The new standard will replace all existing requirements regarding revenue recognition in accordance with IFRS.
+According to the Company's estimates, the implementation of IFRS 15 will not have a significant effect on the recognition of revenue and the financial statements of the Company. The Company generates its revenue mainly from IT hardware, software and household appliances distribution, as well as from the provision of services in the field of marketing, logistics and training. The current method of revenue recognition applied by the Company is generally in line with IFRS 15. The Company recognizes all kinds of bonuses and discounts payable to contracting parties in the period in which the goods were sold. Returns of sold goods made after the balance sheet date reduce revenue for the period in which the sale took place. The impact of delivery terms on the moment of revenue recognition is also consistent with IFRS 15. The services provided by the Company are of a short-term nature, and their revenue is not required to be settled over time. The company does not conclude complex contracts that would require the obligations to perform various services to be identified, the sale prices of these services to be allocated and the revenues to be recognized in various reporting periods.
+Impact of implementation of IFRS 9 "Financial Instruments"
+The IFRS 9 "Financial Instruments" defines the requirements for recognition and measurement of financial assets, financial liabilities and certain sale agreements regarding non-financial items. It replaces IAS 39 Instruments: Recognition and Measurement standard. The IFRS 9 replaces the "incurred loss" model defined in IAS 39 with the "expected credit loss" model (ECL).
+The Company has developed a methodology for calculating the expected credit loss for trade receivables.
+General concept and methodology To calculate the expected credit loss (ECL) for trade receivables, the Company applies a simplified method of lifetime ECL calculation using a provision matrix estimated based on historical repayment of sales invoices. The Company assumes that the credit risk for trade receivables is defined by the number of days of delay in repayment, based on which the value of PD is estimated.
+Definition of default The Company assumes that receivables outstanding over 60 days (counting from the invoice due date) bear mark of default on the part of the contracting party.
+Probability of Default (PD) For the purpose of estimation of PD, 4 risk groups were distinguished based on the delay on the payment date criterion: not overdue, overdue from 1 to 30 days, overdue from 31 to 60 days, overdue more than 60 days (default). The PD in particular risk participation companies is estimated on the basis of historical delays in the repayment of trade receivables. The company estimates the PD based on the history of repaid sales invoices within the period not longer than 4 years.
+Segmentation of contracting parties Due to the business characteristics of sales and the credit risk profile resulting therefrom, the Company distinguishes four groups of contracting parties (one group of internal contracting parties and three groups of external contracting parties), for whom it estimates the PD. For the purpose of calculating the expected credit loss, the Company applies a separate PD estimation to each of the groups.
+Security measures The Company benefits from a trade receivables insurance where, at the level of a given contracting party, there is a defined overdraft limit covered by the insurance. Additionally, the amount of own share is included in the calculation of the expected credit loss.
+Calculation of expected credit loss The basis for calculating the expected credit loss are trade receivables from a given contracting party.
+13
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+The amount of ECL for individual receivables from a given contracting party is calculated by multiplying it by the PD applicable to the given outstanding period and the percentage own share in loss.
+Forward-looking information IFRS 9 requires that the estimation of expected credit loss include forward-looking information. Taking into account the limited availability of data and the limited possibility to precisely quantify the impact of macroeconomic factors on the parameters of credit risk, the Company developed a two-step approach to apply the forward looking factor:
+1) Qualitative part Expert assessment of the risk related to the timely repayment of trade receivables as a result of expected changes in macroeconomic factors in the future, based on such criteria as current GDP growth, leading indicators for the economy (e.g. PMI), inflation value, unemployment rate, retail sales growth.
+2) Quantitative part Adjustment of PD rates is based on historical variability of PD rates calculated on the basis of annual periods.
+As at 31 December 2017, the Company calculated the impairment loss in accordance with the above-described methodology, which did not differ significantly from the impairment loss estimated based on the existing rules.
+Impact of implementation of IFRS 16 "Leases"
+The IFRS 16 standard replaces the existing leasing regulations (IAS 17), and fundamentally changes the approach to leasing contracts of various nature by obliging lessees to recognize on their balance sheets assets and liabilities due to concluded leasing contracts regardless of their type. Currently, the use of finance lease in the Company is minor. Passenger cars are used under operating lease agreements. Additionally, the Company leases properties under long-term contracts. Disclosure of these assets and corresponding liabilities in the balance sheet may have a significant impact on its structure and balance sheet total. In addition, the amount of financial expenses, depreciation and amortization will increase, which will affect the EBITDA rate. The Company has not yet estimated the impact on its financial statements. Future minimum lease payments due to operating lease agreements in accordance with the existing standards are presented in note 18.1.
+Impact of amendments to the remaining standards
+According to the Company's estimates, the remaining new standards listed above and the amendments to existing standards would have no significant impact on the financial statements if applied by the Company at the balance sheet date.
+New standards and amendments to existing standards issued by the IASB, but not yet approved for use in the EU
+Currently, the IFRS in the form approved by the EU do not significantly differ from the regulations issued by the International Accounting Standards Board (IASB), except for new standards, amendments to standards and the new interpretation as below, which have not yet been approved for use in the EU as at 19 April 2018 (the effective dates below relate to the standards in their full version):
+· IFRS 14 ,,Deferred Budget Balance of Regulated Activities" (applicable to annual periods starting on or after 1 January 2016) ­ the European Commission has decided not to initiate the approval process of this provisional standard for use inside the EU pending the issuance of the final IFRS 14,
+· IFRS 17 ,,Insurance Contracts" ­ (applicable to annual periods starting on or after 1 January 2021),
+· Amendments to IFRS 10 ,,Consolidated Financial Statements" and IAS 28 ,,Investments in Associates and Joint Ventures" ­ Sale or transfer of assets between the investor and its associated company or joint venture and subsequent amendments (the effective date of the amendments has been deferred until the investigation of the equity method is completed),
+14
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+· Amendments to IAS 19 ,,Employee Benefits" ­ Scheme modification, limitation and settlement (applicable to annual periods starting on or after 1 January 2019),
+· Amendments to IAS 28 ,,Investments in Associates and Joint Ventures" ­ Long-term share in associated entities and joint ventures (applicable to annual periods starting on or after 1 January 2019),
+· Amendments to various standards "IFRS Improvements (2015-2017)" ­ amendments to standards resulting from the annual IFRS improvement process (IFRS 3, IFRS 11, IAS 12 and IFRS 23) aimed in particular at resolving inconsistencies and clarifying wording (applicable to annual periods starting on or after 1 January 2019);
+· Interpretation of IFRIC 23 ,,Uncertainty regarding Income Tax Accounting" (applicable to annual periods starting on or after 1 January 2019).
+According to the Company's estimates, the new standards listed above, amendments to existing standards and their interpretation would have no significant impact on the financial statements if applied by the Company at the balance sheet date. The hedge accounting of the financial assets and liabilities portfolio whose rules have not been approved for use in the EU remain external to the regulations approved by the EU.
+According to the Company's estimates, the application of the hedge accounting of the financial assets and liabilities portfolio in accordance with IAS 39 ,,Financial Instruments: Recognition and valuation" would have no significant impact on the financial statements if applied for use at the balance sheet date.
+
+10. Significant accounting policies
+
+10.1. Foreign currency translations
+
+Foreign currency transactions are translated into Polish zloty (PLN) at the exchange rate applicable as at the date of transaction.
+As at the balance sheet date, monetary assets and liabilities denominated in currencies other than the Polish zloty are translated into PLN at the National Bank of Poland's average exchange rate for a given currency applicable at the end of the reporting period. Exchange differences resulting from the translation are recognized in the respective items of the profit and loss account depending on which assets or liabilities they relate to, and in the cases specified in the accounting principles (policy), they are capitalized in the assets. Non-monetary assets and liabilities recognized at historical cost denominated in a foreign currency are disclosed at the historical exchange rate applicable as at the transaction date. Non-monetary assets and liabilities recognized at fair value in a foreign currency are translated at the exchange rate effective as at the fair value measurement date.
+For currencies to which hedge accounting principles apply, exchange differences resulting from valuation, in the part considered to be an effective hedge of future cash flows, are recognized in equity and subsequently increase or reduce sales revenue, as appropriate, once the hedged sales transactions have been completed. The exchange differences which are not a fully effective hedge are recognized as other operating revenue or expenses in the reporting period.
+The following exchange rates have been used for the purposes of balance sheet valuation:
+
+Exchange rate as at EUR USD CZK RON 100 HUF
+
+31.12.2017 4,1709 3,4813 0,1632 0,8953 1,3449
+
+31.12.2016 4,4240 4,1793 0,1637 0,9749 1,4224
+
+10.2. Property, plant and equipment
+Property, plant and equipment are recognized at cost, less depreciation and impairment losses. The initial value of fixed assets includes their cost increased by any expenses related directly with the purchase and bringing the
+
+15
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+asset to a usable condition. The cost also includes the cost of spare parts for machines and devices when incurred, provided that the recognition criteria are met. The costs incurred after the date of making a fixed asset available for use, such as costs of maintenance and repair, are recognized in profit or loss when incurred. Upon acquisition, fixed assets are divided into components of material value, to which separate useful lives may be assigned.
+
+Depreciation is calculated using the straight-line method over the estimated useful life of an asset:
+
+Type
+
+Period
+
+Technical equipment and machines Office equipment Means of transportation
+
+3-10
+
+years
+
+3-7
+
+years
+
+5-10
+
+years
+
+The residual value, useful life and depreciation method of assets are reviewed on an annual basis and, if necessary, adjusted with effect as of the date of the review.
+An item of property, plant and equipment may be derecognized following its sale or if no economic benefits are expected to be derived from the continued use of the asset. Any gains or losses (calculated as the difference between possible net proceeds from sale and the carrying amount of the item) resulting from derecognition of the asset are recognized in profit or loss for the period of the said derecognition.
+Fixed assets under construction include fixed assets in the course of construction or assembly, which are recognized at cost less any impairment losses. Fixed assets under construction are not depreciated until their construction is complete and until they are made available for use.
+10.3. Intangible assets
+Intangible assets acquired in a separate transaction or developed (if they meet the recognition terms for the cost of research and development) are initially recognized at cost. The cost of intangible assets acquired in a business combination is equal to their fair value as at the date of combination. After initial recognition, intangible assets are recognized at cost less amortization and impairment losses. The expenditures incurred on intangible assets developed internally, except capitalized R&D costs, are not capitalized but recognised as an expense in the period in which they are incurred.
+The Company determines whether the useful life of intangible assets is indefinite or finite. Intangible assets with a finite useful life are amortized over their useful life and tested for impairment each time when there is any indication that the assets may be impaired. The period and method of amortization of intangible assets with a finite useful life are reviewed at least at the end of each financial year. Changes in the estimated useful life or in the expected pattern of consumption of economic benefits derived from an intangible asset are recognized by a change in the amortization period or method, respectively, and regarded as changes in estimates. Amortization of intangible assets with a finite useful life is recognized in profit or loss, in the category which corresponds to the function of the asset.
+Intangible assets with an indefinite useful life and intangible assets which are not used are tested for impairment once a year, at the level of individual assets or cash generating units.
+The useful lives are reviewed on an annual basis and, if necessary, adjusted with effect as of the date of the review. R&D costs
+Research cost is recognized in profit or loss when incurred. Expenses related to R&D carried out on a specific project are carried forward to the following period if they are considered recoverable in the future. After initial recognition of R&D costs, the historical cost model is used. It requires that assets be recognized at cost less
+
+16
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+accumulated amortization and accumulated impairment losses. Capitalized costs are amortized over the period when sales revenue is expected to be generated on a given project.
+Summary of principles applied to intangible assets of the Company:
+
+Useful lives Amortization method Internally manufactured or acquired
+
+Computer Software 2 - years
+straight-line
+
+Databases, Internet domains 4 - 5 years
+straight-line
+
+Development works 5 - 10 years straight-line
+
+Acquired
+
+Acquired
+
+Manufactured
+
+Goodwill indefinite unamortized
+Acquired
+
+Impairment test
+
+Annual assessment Annual assessment Annual assessment
+
+of indication of
+
+of indication of
+
+of indication of Annual impairment
+
+impairment
+
+impairment
+
+impairment
+
+test
+
+Gains or losses arising from derecognition of intangible assets are measured as the difference between the net proceeds from sale and the carrying amount of a given asset, and they are recognized in profit or loss upon derecognition.
+
+17
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+10.4. Leases
+The Company as a lessee Finance leases transferring substantially all the risks and rewards of ownership of the leased asset onto the Company are recognized on the balance sheet as at the inception of the lease at the lower of two values: fair value of the leased fixed asset and the present value of the minimum lease payments. Lease payments are split into financial expenses and a decrease in the balance of lease liabilities in order to arrive at a fixed interest rate on the outstanding liability. Financial expenses are recognized in profit or loss unless the capitalization requirements are met. Fixed assets used under finance lease agreements are depreciated over the shorter of two periods: estimated useful life of the fixed asset or the lease term. Leases whereby the lessor retains substantially all the risks and rewards of ownership of the leased asset are classified as operating leases. Operating lease payments and the subsequent rent are charged to operating expenses in profit or loss using the straight-line method over the lease term. Contingent lease payments are expensed in the period when they become due.
+10.5. Impairment of non-financial non-current assets
+At the end of each reporting period, the Company verifies whether there is any indication that its non-financial non-current assets may be impaired. If there is any indication of impairment or if an annual impairment test is necessary, the Company estimates the recoverable amount of an asset or a cash generating unit which the asset belongs to. The recoverable amount of an asset or a cash generating unit corresponds to the fair value less costs necessary to sell the asset or cash generating unit, or its value in use, whichever higher. The recoverable amount is determined for individual assets unless an asset does not generate cash flows which are largely independent of those generated by other assets or groups of assets. If the carrying amount of an asset exceeds its recoverable amount, the asset is considered impaired and an impairment loss is recognized to a specified recoverable amount. When the value in use is estimated, projected cash flows are discounted to their present value using a pre-tax rate that reflects current market assessments of the time value of money and the risks specific to the asset. Impairment losses on assets used for purposes of continuing operations are charged to expenses which correspond to the function of the asset which has been impaired. As at the balance sheet date, the Company verifies whether there is any indication that an impairment loss recognized on an asset in the preceding periods is redundant, or whether it should be reduced. If there is such indication, the Company estimates the recoverable amount of the asset. The prior impairment loss is reversed only when the estimates used to determine the recoverable amount of the asset have changed since the recognition of the last impairment loss. Then, the carrying amount of the asset is increased to its recoverable amount. The increased amount may not exceed the carrying amount of the asset which would have been determined (taking account of depreciation) had the Group not recognized an impairment loss on the asset in the previous years. Reversals of impairment losses on assets are recognized immediately within revenue. Following the reversal of an impairment loss, in subsequent periods, depreciation of a given asset is adjusted so that during the remaining useful life of the asset its reviewed carrying amount, reduced by the residual value, could be systematically written down.
+10.6. Shares in subsidiaries
+Shares in subsidiaries are recognized at historical cost after recognition of impairment losses.
+10.7. Financial assets
+Categories of financial assets: · Held-to-maturity financial assets; · Financial assets measured at fair value through profit or loss; · Loans and receivables; · Available-for-sale financial assets
+18
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+Held-to-maturity financial assets are financial assets quoted on an active market, which are not derivatives, with fixed or determinable payments and defined maturity, which the Company intends to and is able to hold to maturity, other than:
+· those designated at initial recognition as measured at fair value through profit or loss;
+· those designated as available for sale;
+· those that meet the definition of loans and receivables. Held-to-maturity financial assets are measured at amortized cost using the effective interest method. Held-tomaturity financial assets are classified as non-current assets if their maturity exceeds 12 months of the balance sheet date. A financial asset measured at fair value through profit or loss has to satisfy one of the following criteria: a) it is classified as held for trading. Financial assets are classified as held for trading if they are:
+· acquired mainly for the purpose of being sold in the short term; · a part of the portfolio of identified financial instruments that are managed together, and it is probable
+that they will generate profit in the short term;
+· derivative instruments (except those forming part of hedge accounting or financial guarantee agreements);
+b) classified to the category at initial recognition in accordance with IAS 39. Financial assets measured at fair value through profit or loss are measured at fair value taking into account their market value as at the balance sheet date, less sales transaction costs. Changes in these financial instruments are recognized in the statement of comprehensive income as revenue (favorable net changes in fair value) or costs (unfavorable changes in fair value). For contracts with one or more embedded derivatives, the entire contract may be classified as a financial asset measured at fair value through profit or loss. This does not apply to embedded derivatives which have no material impact on the cash flows from contracts, or when it is obvious without an analysis or after a brief analysis that if a similar hybrid instrument were first considered, the separation of an embedded derivative would be prohibited. At initial recognition, financial assets may be classified as measured at fair value through profit or loss if the following criteria are met: (i) such classification eliminates or significantly reduces recognition or measurement inconsistency (accounting mismatch); or (ii) these assets belong to a group of financial assets managed and evaluated based on their fair value in line with a documented risk management strategy; or (iii) the financial assets include embedded derivatives that should be recognized separately. As at 31 December 2017, the Company reported FX contracts in this category of assets (as at 31 December 2016, the asset category was not present). Loans and receivables are financial assets which have not been classified as derivatives, have fixed or determinable payments, and are not quoted on an active market. They are classified as current assets if their maturity does not exceed 12 months of the balance sheet date. Loans and receivables whose maturity exceeds 12 months of the balance sheet date are classified as non-current assets. Available-for-sale financial assets are non-derivative financial assets which are designated as available for sale or are not classified to any of the aforementioned three categories of assets. Available-for-sale financial assets are recognized at fair value, increased by transaction costs which are directly attributable to the acquisition or issue of a financial asset. If no stock market prices are available on an active market and the fair value may not be estimated reliably using alternative methods, available-for-sale financial assets are measured at cost adjusted by impairment losses. Positive and negative differences between the fair value of available-for-sale assets (if a market price set on an active regulated market is available or the fair value may be estimated reliably otherwise) and cost, less deferred tax, are recognized in other comprehensive income. Any decline in value of available-forsale assets, resulting from impairment, is recognized as a financial expense. Acquisition and sale of financial assets are recognized as at the transaction date. At initial recognition, a financial asset is measured at fair value increased, for assets not classified as measured at fair value through profit or loss, by transaction costs directly attributable to the acquisition. A financial asset is derecognized when the Company loses control over the contractual rights attached to the instrument; typically, when the instrument is sold or when all cash flows attributable to the instrument are transferred onto an independent third party.
+19
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+10.8. Impairment of financial assets
+As at each balance sheet date, the Company verifies whether there is any objective indication that a financial asset or a group of financial assets may be impaired.
+10.8.1 Assets recognized at amortized cost
+If there is any objective indication that a loss has been incurred due to impairment of loans and receivables measured at amortized cost, the impairment loss is equal to the difference between the carrying amount of the financial asset and the present value of projected future cash flows (excluding future losses due to bad debts, which have not been incurred yet), discounted using the original (i.e. determined at initial recognition) effective interest rate. The carrying amount of an asset is reduced by recognition of an impairment loss. The loss is recognized in profit or loss. The Company first reviews whether there is any objective indication of impairment of individual financial assets which individually are material, as well as those which individually are not material. If the review shows that there is no objective indication that an individually analyzed financial asset may be impaired, whether it is material or not, the Company includes the asset in a group of financial assets with a similar credit risk and tests them for impairment collectively. Assets which are individually tested for impairment and for which an impairment loss has been recognized, or it has been determined that the previous one will not change, are not included in the collective test of a group of assets for impairment. If the impairment loss decreased in the subsequent period and the decrease can be objectively linked to an event taking place after the loss has been recognized, the prior impairment loss is reversed. The subsequent reversal of an impairment loss is recognized in profit or loss to the extent that the carrying amount of the asset does not exceed its amortized cost as at the date of reversal.
+10.8.2 Financial assets recognized at cost
+If there is any objective indication of impairment of an unquoted equity instrument which is not measured at fair value as its fair value cannot be estimated reliably, or of a derivative instrument which is linked with and has to be settled by delivery of such an unquoted equity instrument, the impairment loss is determined as the difference between the carrying amount of a financial asset and the present value of projected future cash flows discounted using the current market rate of return for similar financial assets.
+10.8.3 Available-for-sale financial assets
+If there is any objective indication that an available-for-sale financial asset may be impaired, the difference between the cost of the asset (less any repayment of the principal and amortization) and its present fair value, less any impairment losses previously recognized in profit or loss, is derecognized from equity and reclassified to profit or loss. Reversal of impairment losses on equity instruments classified as available for sale cannot be recognized in profit or loss. If, in the subsequent period, the fair value of a debt instrument available for sale increases and the increase can be objectively linked to an event occurring after the impairment loss has been recognized in profit or loss, the amount of the reversed impairment loss is recognized in profit or loss.
+10.9. Derivative financial instruments and hedges
+For the purpose of hedging risks related to changes in foreign exchange rates, the Company mainly uses FX forwards. Such derivative financial instruments are measured at fair value. Derivatives are presented as assets if their value is positive or as liabilities if their value if negative. Any gains and losses resulting from changes in the fair value of derivatives which do not qualify for hedge accounting are directly recognized in the net profit or loss for the financial year. The fair value of FX forwards is measured by reference to the current forward rates applicable to contracts with similar maturity. In hedge accounting, hedges are classified as: · fair value hedges, hedging the exposure to changes in the fair value of a recognized asset or a liability; or
+20
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+· cash flow hedges, hedging the exposure to changes in cash flows that are attributable to a specific risk associated with a recognized asset or liability or a forecast transaction; or
+· hedges of shares in the net assets of a foreign entity.
+Foreign currency hedges related to a firm commitment are accounted for as cash flow hedges.
+At the inception of the hedge, the Company formally designates and documents the hedging relationship, the risk management objective and the hedging strategy. The said documentation includes identification of the hedging instrument, the hedged item or transaction, the nature of risk hedged and the method of assessment of the hedging instrument's effectiveness in offsetting the exposure to changes in the fair value of the hedged item or cash flows related to the hedged risk. The hedge is expected to be highly effective in offsetting changes in the fair value or cash flows resulting from the hedged risk. The effectiveness of the hedge is assessed on an ongoing basis to determine if the hedge has been highly effective in all reporting periods for which it had been established.
+
+10.9.1 Cash flow hedges
+Cash flow hedges are hedges of the exposure to changes in cash flows that are attributable to a specific risk associated with a recognized asset or liability or a highly probable forecast transaction and that could affect profit or loss. A portion of gains or losses related to the hedging instrument that constitutes an effective hedge is recognized in other comprehensive income, while the ineffective portion is recognized in profit or loss.
+If a hedged forecast transaction subsequently results in recognition of a financial asset or liability, the related gains or losses that were recognized in other comprehensive income and accumulated in equity are reclassified to profit or loss in the same period or in the periods during which the asset acquired or liability assumed affects profit or loss.
+If a hedged forecast transaction subsequently results in recognition of a non-financial asset or liability, or if a forecast transaction involving a non-financial asset or liability becomes a firm commitment to which a fair value hedge is planned to be applied, the gains or losses recognized previously in other comprehensive income are reclassified from equity to profit or loss in the same period or in the periods during which the non-financial asset acquired or liability assumed affects profit or loss.
+Gains or losses resulting from changes in the fair value of derivatives which do not qualify for hedge accounting are recognized directly in the net result for the current period.
+The Company no longer applies hedge accounting if the hedging instrument expires, is sold, terminated or exercised, or if it no longer meets the criteria for application of hedge accounting principles. In such a case, the total gain or loss on a hedging instrument, which was initially recognized in other comprehensive income and accumulated in equity, is still recognized in equity until the forecast transaction occurs. If the forecast transaction is no longer expected to occur, the total net gain or loss accumulated in equity is recognized in the net profit or loss for the current period.
+
+10.9.2 Presentation in the cash flow statement
+Changes in the balance of derivatives and other reserve capitals from revaluation relating to hedge accounting are presented within the "Other" item in operating activities.
+
+10.10. Inventories
+
+Inventories are measured at the lower of two values: cost and net realizable value.
+
+The cost of each inventory component includes any and all purchase costs, processing costs and other costs incurred while bringing the inventories to their current location and condition, both in relation to the current and previous year, and it is determined as follows:
+
+Materials
+
+· ­ at cost determined using the weighted average method.
+
+Goods
+
+· ­ at cost determined using the weighted average method.
+
+The net realizable value is the estimated sales price in the ordinary course of business, less the costs of completion and the estimated costs necessary to effect the sale.
+
+21
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+10.11. Trade and other receivables
+Trade receivables are recognized and presented at the originally billed amounts, less impairment losses relating to doubtful debts. An impairment loss on receivables is estimated when collection of the full amount due becomes unlikely. When the effect of the time value of money is significant, the value of receivables is determined by discounting projected future cash flows to their present value by applying a gross discount rate that reflects the current market assessments of the time value of money. If a discounting method has been applied, the increase in value of receivables due to the lapse of time is recognized as financial revenue. Other receivables include in particular advance payments related to future purchases of property, plant and equipment, intangible assets and inventories. Advance payments are presented considering the nature of the assets they concern, as current or non-current assets, respectively. As non-monetary assets, advance payments are not discounted. Receivables from the State Treasury are presented as other non-financial assets, except for CIT receivables, which are a separate item on the balance sheet.
+10.12. Cash and cash equivalents
+Cash and short-term deposits recognized on the balance sheet include cash at bank and at hand and short-term deposits with original maturity of up to three months. The balance of cash and cash equivalents recognized in the cash flow statement consists of the aforesaid cash and cash equivalents.
+10.13. Interest-bearing bank loans, credit facilities and debt securities
+At initial recognition, all bank loans, credit facilities and debt securities are recognized at fair value less costs incurred to obtain the loan or credit facility. After initial recognition, interest-bearing loans, credit facilities and debt securities are measured at amortized cost using the effective interest method. When determining the amortized cost, costs incurred to obtain the loan or credit facility as well as discounts or premiums related to the liability are taken into consideration. Revenue and expenses are recognized in profit or loss upon derecognition of a liability and as a result of measurement using the effective interest method.
+10.14. Trade and other liabilities
+Short-term trade liabilities are measured at amortized cost. Financial liabilities measured at fair value through profit or loss include held-for-trading financial liabilities and those originally classified as measured at fair value through profit or loss. Financial liabilities are classified as held for trading if they have been acquired to be sold in the near future. Derivatives, including separated embedded instruments, are also classified as held for trading unless they are designated as effective hedging instruments. At initial recognition, financial liabilities may be classified as measured at fair value through profit or loss if the following criteria are met: (i) such classification eliminates or significantly reduces the treatment inconsistency where both measurement and recognition of profit or loss are subject to different regulations; or (ii) the liabilities form part of a group of financial liabilities that are managed and evaluated on a fair value basis, in accordance with a documented risk management strategy; or (iii) the financial liabilities include embedded derivatives that should be recognized separately. As at 31 December 2017, this category was not present (as at 31 December 2016, the Group reported FX contracts in this category). Financial liabilities measured at fair value through profit or loss are measured at fair value taking into account their market value as at the balance sheet date, less sales transaction costs. Any changes in the fair value of such instruments are recognized in profit or loss as financial expenses or revenue. Financial liabilities, which are not classified as financial instruments measured at fair value through profit or loss, are measured at amortized cost using the effective interest method. The Company derecognizes a financial liability when it is extinguished, i.e. when the obligation set out in the contract has been fulfilled, cancelled or has expired. Replacement of an existing debt instrument with an
+22
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+instrument with substantially different terms by the same entities is recognized as expiry of the original financial liability and recognition of a new one. Similarly, significant modification of the contract terms of an existing financial liability is recognized as expiry of the original liability and recognition of a new one. Differences in the carrying amounts resulting from the replacement are recognized in profit or loss. Other non-financial liabilities include in particular VAT liabilities to the tax office and liabilities arising from advance payments received to be settled through delivery of goods or services. Other non-financial liabilities are recognized at amount due.
+10.15. Provisions
+Provisions are recognized when the Company has a present obligation (legal or constructive) as a result of a past event, it is probable that an outflow of resources embodying economic benefits will be required to settle the obligation and a reliable estimate can be made of the amount of the obligation. If the Company expects a refund of the costs for which a provision has been recognized (for example, under insurance contracts), the refund is recognized as a separate asset but only when it is virtually certain that the refund will be received. Expenses relating to a provision are recognized in the statement of comprehensive income less any refunds. Where the effect of the time value of money is significant, the amount of the provision is determined by discounting projected future cash flows to their present value using a gross discount rate that reflects current market assessments of the time value of money and any potential risks specific to the liability. If a discounting method is applied, an increase in the provision due to the lapse of time is recognized as financial expenses.
+10.16. Retirement severance pays
+In accordance with the labor law, the Company's employees are entitled to retirement severance pays. Severance pays are paid once when the employee retires. The amount of the benefit depends on the average salary of the employee. The Company recognizes a provision for future liabilities relating to retirement benefits to allocate expenses to the periods they pertain to. In accordance with IAS 19, retirement severance pays are postemployment defined benefit plans. Accrued liabilities are equal to discounted future payments, taking into account employee turnover, and pertain to the time left until the balance sheet date. Demographic and employee turnover data are based on historical information. Changes in provisions resulting from calculations are recognized in profit or loss.
+10.17. Share-based payments
+The Company's employees (including Management Board members) receive bonuses in the form of shares.
+10.17.1 Equity-settled transactions
+The cost of transactions settled with employees in equity instruments is measured by reference to the fair value as at the grant date. The fair value is determined by an independent appraiser. Transactions settled in equity instruments are measured by reference to market vesting conditions (related to the price of Company shares) and conditions other than the vesting conditions. The cost of equity-settled transactions is recognized along with the corresponding increase in equity over the period in which the conditions related to efficiency/performance and/or work or services are satisfied and which ends on the day when specified employees acquire all rights to the benefits (the "vesting date"). The accumulated cost of equity-settled transactions as at the end of each balance sheet date, by the vesting date reflects the lapse of time of acquiring the rights and the number of awards which ­ in the opinion of the Management Board of the Company as at that date based on the best estimates of the number of equity instruments ­ will be granted. The Group does not recognize any costs related to awards the rights to which will not ultimately be granted, save for those where rights vesting depends on market conditions or conditions other than the vesting conditions, which are treated as vested whether the market conditions or conditions other than the vesting conditions have been satisfied or not, provided that all other efficiency/performance and/or work or service conditions have been met.
+23
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+If the terms of granting the equity-settled awards are modified, to meet the minimum requirement the costs are recognized as if the conditions did not change. Moreover, costs related to each increase in transaction value resulting from modification, measured as at the change date, are recognized. If the equity-settled award is cancelled, it is treated as if the rights to the award were acquired at the cancellation date, and all costs of the award which have not been accounted for are immediately recognized. The same applies to awards where the conditions, other than the vesting conditions, controlled by the Company or an employee are not met. However, if a cancelled award is replaced with a new award ­ designated as a substitute award on the day when it is granted, the cancelled award and the new award are treated as if they were a modification of the original award, i.e. as described above.
+10.17.2 Cash-settled transactions
+As regards share-based payments settled in cash, the fair value of payment is recognized as cost with a corresponding increase in liabilities. Initially, the fair value is estimated as at the grant date and distributed over the period during which the unconditional right to the payment is conferred on the employees. Liability measurement is reviewed at the end of each reporting period and as at the settlement date. Any changes in the fair value of a liability are recognized in profit loss for the period as personnel costs.
+10.18. Revenue
+Revenue is recognized insofar as it is probable that future economic benefits relating to a transaction will flow to the Company and the amount of such revenue can be measured reliably. Revenue is recognized at the fair value of the consideration received or due, less VAT and discounts. Revenue is also recognized in line with the criteria set out below.
+10.18.1 Sale of goods and products
+Revenue is recognized when significant risks and rewards of ownership of goods and products have been transferred onto the buyer and the amount of revenue can be estimated reliably.
+10.18.2 Provision of services
+The Company does not provide any long-term services. Revenue from the provision of services is recognized in the period when the service was delivered.
+10.18.3 Interest
+Interest income is recognized as it accrues (using the effective interest method, i.e. the rate discounting future cash inflows over the estimated life of financial instruments) relative to the net carrying amount of the financial asset.
+10.18.4 Dividends
+Dividends are recognized at the time when shareholders' rights to the dividends are established.
+10.18.5 Exchange differences
+Exchange differences on trade liabilities and receivables as well as loans and credit facilities incurred to financing Company operations are recognized in other operating revenues and expenses.
+10.19. Expenses
+10.19.1 Cost of sales
+The cost of sales includes the value of goods and licenses sold at cost, as well as consumption of materials and purchases of external services from subcontractors for the purpose of service provision. Furthermore, the cost of sales includes impairment losses on inventories, worn-out equipment and packaging recycling cost, reprographic fees, inventory differences, transport losses and changes in the balance of the provision for warranty repairs.
+24
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+10.19.2 Selling expenses
+Selling expenses include personnel and administrative costs of sales, marketing and logistics departments, expenses related to storage, insurance and transport of goods, advertisement and complaint handling. Furthermore, they include costs of insurance of receivables and impairment losses on trade receivables.
+10.20. Taxes
+10.20.1 Current tax
+Current tax liabilities and receivables for the current and prior periods are measured at anticipated amounts payable to (due from) the tax authorities using tax rates and based on tax regulations which were enacted or substantively enacted as at the balance sheet date.
+10.20.2 Deferred tax
+For financial reporting purposes, the deferred tax is recognized in line with the balance sheet liability method with respect to temporary differences between the tax value of assets and liabilities and their carrying amount presented in the financial statements as at the balance sheet date. The deferred tax liability is recognized in relation to all taxable temporary differences: · except where the deferred tax liability arises from the initial recognition of goodwill or initial recognition of
+an asset or liability in a transaction which is not a business combination and, at the time of the transaction, affects neither the gross accounting profit or loss, nor the taxable profit or loss; and · for taxable temporary differences resulting from investments in subsidiaries or associates and interests in joint ventures, save for situations where the dates of reversal of temporary differences are controlled by the investor, and it is probable that the temporary differences will not be reversed in the foreseeable future. Deferred tax assets are recognized for all negative temporary differences as well as unused tax credits and losses carried forward in the amount of probable taxable income, which would allow for the use of the above differences, assets and losses: · except where the deferred tax asset relating to negative temporary differences arises from the initial recognition of an asset or liability in a transaction which is not a business combination and, at the time of the transaction, affects neither the gross accounting profit or loss nor the taxable profit or loss; and · for negative temporary differences resulting from investments in subsidiaries or associates and interests in joint ventures, the deferred tax asset is recognized on the balance sheet only to the extent that it is probable that the aforesaid temporary differences will be reversed in the foreseeable future, and that it is probable that the future taxable income will enable the negative temporary differences to be offset. The carrying amount of the deferred tax asset is reviewed as at each balance sheet date and reduced to the extent that it is no longer probable that sufficient taxable income will be available to allow all or part of the asset to be recovered. An unrecognized deferred tax asset is again reviewed as at the balance sheet date and recognized up to the amount of probable future taxable income that will allow for recovering the asset in question. The deferred tax assets and liabilities are measured by reference to the tax rates expected to be applicable in the period when the asset is realized or the liability derecognized, assuming tax rates (and tax regulations) effective as at the balance sheet date, or those certain to be effective as at the aforementioned date as the basis. Income tax on items which are not recognized in profit or loss is not recognized in profit or loss, either, but in other comprehensive income in relation to items recognized in other comprehensive income or directly in equity in relation to items recognized directly in equity. The Company offsets its deferred tax assets against the deferred tax liabilities only if it has an enforceable legal title to offset its current tax receivables with liabilities, whereas the deferred income tax concerns the same taxpayer and the same tax authority.
+10.20.3 Value added tax
+Revenue, expenses, assets and liabilities are recognized less VAT, except:
+25
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+· situations where VAT paid at the time of purchase of assets or services may not be recovered from the tax authorities, in which case it is recognized as a part of the asset cost or as a part of a cost item; and
+· receivables and liabilities, which are recognized together with VAT. The net VAT amount recoverable from or payable to the tax authorities is recognized on the balance sheet as a part of receivables or liabilities.
+10.21. Net profit per share
+The Company presents basic and diluted profit per share. Basic net profit per share for each period is calculated by dividing the net profit for the period by the weighted average number of shares in the reporting period, adjusted by the amount of treasury shares held by the Company. Diluted profit per share is calculated by dividing the net profit for the given period by the weighted average number of shares in the reporting period, adjusted by treasury shares held by the Group and dilution effects of potential shares, which include warrants and share options granted under incentive schemes.
+26
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+11. Data comparability
+In the financial statements for 2016, the Company recognized a liability due to discounts from Company's property lessors received in advance for the whole term of long-term rental agreements, in full as other shortterm liabilities. In these financial statements, the data presented in the balance sheet for 2016 has been restated so as to obtain comparability with the data for 2017, and the part to be repaid as at 31 December 2016 was presented correctly after 31 December 2017 as the remaining long-term liability. The impact of modified method for the recognition of liabilities due to discounts on the Company's balance sheet and explanatory notes:
+
+Balance sheet
+Other lon-term liablities/* Trade an other liabilities
+
+31.12.2016 It was
+-
+639 756
+
+31.12.2016 Restated
+11 075
+628 681
+
+Explanatory note
+Other long-term laibilities Discount on rental agreements Total other long-term laibilities
+Trade liabilities to related entieties to unrelated entities
+Other liabilities short-term Liabilities due to VAT, customs duties and other benefits payable Accrued expenses Other liabilities (including discount on rental agreements)
+Total short-term liabilities
+/* A new item that did not appear in the financial statements for 2016.
+
+31.12.2016 It was
+
+31.12.2016 Restated
+
+-
+
+11 075
+
+-
+
+11 075
+
+5 616 580 615 586 231
+
+5 616 580 615 586 231
+
+13 376 25 284 14 865 53 525
+639 756
+
+13 376 25 284 3 790 42 450
+628 681
+
+27
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+12. Operating segments
+The Company identifies one reporting segment: distribution. This segment deals in the wholesale trade in computer hardware and software and the provision of sales-related services. The Management Board evaluates the Company's operations based on financial statements. Information on geographic areas Sales revenue by seat (country) of particular clients:
+
+Poland Sales markets/* Other EU Member States Other countries
+
+Year ended 31.12.2017
+2 329 899 797 198 344 753 33 149
+3 504 999
+
+Year ended 31.12.2016 (restated**)
+2 583 047 933 179 429 058 72 037
+4 017 321
+
+/*Direct markets: / * Czechia, Slovakia, Lithuania, Hungary, Romania /* In the financial statements for 2016, sales to German clients was recognized under "Direct markets". In these statements, it is recognized under "EU countries".
+Buyers with a significant share in sales
+Sales to none of the Company's clients are of material importance exceeding 10 per cent of the total sales.
+
+13. Revenue and expenses
+13.1. Other operating revenue
+
+Penal interest on untimely payments Damages received Gain on sale of property, plant and equipment Reversal of provision for pending purchase orders Other/*
+
+Year ended 31.12.2017
+325 8 11
+522 1 566 2 432
+
+Year ended 31.12.2016
+417 67 16
+8 088 8 588
+
+/* In 2016, the Company recognized the profit from the transfer of assets to BiznesLinkCO in the amount of 6,367 under "Other".
+
+13.2. Other operating expenses
+Exchange losses Loss on sales of receivables Premiums Provision for pending purchase orders Donations Other
+
+Year ended 31.12.2017
+(309) -
+(263) (418)
+(5) (264) (1 259)
+
+Year ended 31.12.2016
+(968) (162) (276) (142)
+(6) (183) (1 737)
+
+28
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+13.3. Financial revenue
+
+Year ended 31.12.2017
+
+Year ended 31.12.2016
+
+Bank interest income Interest income from cash pooling Dividends from subsidiaries Other
+
+111 -
+21 668 1
+
+131 21 22 457
+-
+
+21 780
+
+22 609
+
+13.4. Financial expenses
+
+Interest and fees on bank credit facilities Interest and fees on other laibilities Interst on cash pooling Other financial expenses/*
+
+Year ended 31.12.2017
+(2 921) (4 815)
+(249) -
+(7 985)
+
+Year ended 31.12.2016
+(3 600) (4 443)
+(252) (6 383) (14 678)
+
+/* In 2016, "Other financial expenses" included an impairment loss on shares in BiznesLinkCO.
+
+13.5. Expenses by type
+Amortization / depreciation Consumption of materials and energy Costs of lease and operations Costs of transport Other external services Taxes and charges Employee benefits Other epenses by type (including license fees)
+
+Year ended 31.12.2017
+(3 337) (10 629) (10 072) (26 582) (33 573) (2 190) (79 033) (18 749)
+
+Year ended 31.12.2016
+(2 050) (10 934) (11 459) (25 848) (46 547) (1 823) (79 637) (20 712)
+
+Total costs by type, including: Items charged to selling expenses Items charged to general and administrative expenses
+
+(184 165) (156 032) (28 133)
+
+(199 010) (171 926) (27 084)
+
+29
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+13.6. Depreciation and amortization recognized in profit or loss
+
+Items charged to cost of sales Depreciation of fixed assets Amortization of intangible assets
+
+Year ended 31.12.2017
+(7) -
+
+Items charged to selling expenses Depreciation of fixed assets Amortization of intangible assets
+
+(1 705) (1 489)
+
+Items charged to general and administrative expenses Depreciation of fixed assets Amortization of intangible assets
+
+(132) (11)
+
+Total amortization/depreciation, including Depreciation of fixed assets Amortization of intangible assets
+
+(3 344) (1 844) (1 500)
+
+Year ended 31.12.2016
+(3) -
+(1 190) (726)
+(125) (9)
+(2 053) (1 318)
+(735)
+
+13.7. Employee benefit expenses
+Salaries Costs of social insurance Costs of retirement benefits Costs of share-based payments Appropriation to the Company's Social Benfits Fund Other employee benefit costs
+Costs of employee benefits, including Items charged to selling expenses Items charged to general and administrative expenses
+
+Year ended 31.12.2017
+(69 379) (7 889)
+54 (12) (504) (1 303)
+(79 033) (60 661) (18 372)
+
+Year ended 31.12.2016
+(71 298) (5 558)
+(205) (345) (469) (1 762)
+(79 637) (61 988) (17 649)
+
+30
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+14. Income tax
+
+14.1. Tax returns
+Tax returns and other regulated (such as customs or foreign exchange) issues may be audited by administrative authorities, which are authorized to impose considerable penalties and sanctions. A lack of reference to established legal regulations in Poland results in the applicable laws being inconsistent and ambiguous. Frequent differences in opinion as to the interpretation of tax provisions, both within state authorities and between state authorities and entrepreneurs, lead to uncertainties and conflicts. Therefore, the tax risk in Poland is much higher than in countries with a more developed tax system. Tax returns may be audited within five years of the end of the year in which the tax was paid. Consequently, additional tax liabilities may be assessed for the Company.
+
+14.2. Tax expense
+Key items of the tax expense for the financial years closed on 31 December 2017 and 31 December 2016:
+
+Current income tax Deferred income tax Income tax charged to net profit for the current period
+
+Year ended 31.12.2017
+(2 780) (1 400) (4 180)
+
+Year ended 31.12.2016
+(4 558) 4 175 (383)
+
+14.3. Effective tax rate
+
+Reconciliation of the income tax on profit before tax at the statutory tax rate with the income tax calculated using the effective tax rate of the Company for the financial years closed on 31 December 2017 and 31 December 2016:
+
+Gross profit before tax
+
+Year ended 31.12.2017
+39 297
+
+Year ended 31.12.2016
+19 919
+
+Tax at statutory tax rate in Poland, 19% (2016: 19%) Non tax-deductible expenses Revenue not classified as taxable income Adjustment of current tax from previous years Other
+
+(7 466) (840) 4 118 8
+
+(3 785) (875) 4 289 (24) 12
+
+Tax at effective tax rate of 10.6% (2016: 1.9% )
+
+(4 180)
+
+(383)
+
+Income tax (expense) charged tp profit or loss
+
+(4 180)
+
+(383)
+
+31
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+14.4. Deferred income tax
+Deferred income tax arises from the following items:
+Property, plant and equipment Intangible assets Trade and other receivables Trade and other liabilities Deferred tax liability
+Inventories Trade and other receivables Other short term investments Liabilities due to employee benefits Other financial liabilities Trade and other liabilities Pro v is io n s Deferred tax assets Net deferred tax assets
+
+Balance sheet
+
+31.12.2017
+
+31.12.2016
+
+127
+
+34
+
+852
+
+555
+
+11
+
+-
+
+466
+
+6
+
+1 456
+
+595
+
+2 252 2 665
+1 988
+77 4 460
+509
+11 951
+10 495
+
+2 492 -
+1 189 1 621
+131 7 221
+539
+13 193
+12 598
+
+15. Profit per share
+Basic profit per share is calculated by dividing the net profit for the period attributable to equity holders of the Company by the weighted average number of ordinary shares issued and outstanding during the period, adjusted by treasury shares held by the Company. Diluted profit per share is calculated by dividing the net profit for the period attributable to equity holders by the weighted average number of ordinary shares issued and outstanding during the period, adjusted by treasury shares held by the Company and by the weighted average number of ordinary shares that would have been issued on conversion of all dilutive potential equity instruments into ordinary shares. Information concerning the profit and shares used for purposes of calculating basic and diluted profit per share is presented below: Information concerning the profit and shares used for purposes of calculating basic and diluted profit per share is presented below (number of shares is provided in thousands):
+
+in thousand PLN
+Net profit
+Net earnings attributable to ordinary shareholders used to calculate diluted earning per share
+in thousand Weighted avearage number of ordinary shares used to calculate basic earnings per share Dilution effect Subscription warrants included in the incentive scheme Adjusted weighted number of shares used to calculate diluted earnings per share
+
+Year ended 31.12.2017
+35 117
+35 117
+
+Year ended 31.12.2016
+19 536
+19 536
+
+122 595 -
+122 595
+
+122 595 -
+122 595
+
+The Company offers incentive schemes for members of its Management Board and Supervisory Board, whereby the participants may receive share options (Note 22.1).
+
+32
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+16. Dividends paid and proposed to be paid
+On 28 June 2017, the General Meeting of Shareholders of the Company, by way of a resolution on the distribution of profit for the year 2016, resolved to retain the entire profit within the Company. On 8 December 2017, the Group paid out an advance towards the expected dividend for 2017 in the amount of PLN 9,808 thousand (PLN 0.08 per share). The dividend from ordinary shares for 2015 was paid on 11 July 2016 and amounted to PLN 47,812 thousand.
+
+The Management Board of the Group is planning to allocate the net profit for 2017 to dividend payment to the shareholders in line with the dividend policy of the Company.
+
+17. Property, plant and equipment
+
+Year ended 31.12.2017
+
+Machines and
+equipment
+
+Vehicles
+
+Other fixed assets
+
+Fixed asstes unfer
+co n s tru ctio n
+
+Total
+
+Gross value as at 1 January 2017
+
+11 879
+
+Other acquisition (including financial leasing)
+
+606
+
+Sales /disposal
+
+(499)
+
+Reclassification from fixed assets under construction 1 636
+
+Gross value ast at 31 December 2017
+
+13 622
+
+1 836 (52)
+373 2 157
+
+4 522 (33)
+681 5 170
+
+142 2 926
+(2 690)
+378
+
+18 379 3 532 (584)
+21 327
+
+Accumulated depreciation as at 1 January 2017 Depreciation for the period Sales /disposal Accumulated depreciation as at 31 December 2017
+
+(7 681) (1 205)
+484
+(8 402)
+
+(1 035) (218) 52
+(1 201)
+
+(3 044) (421) 19
+(3 446)
+
+-
+
+(11 760)
+
+-
+
+(1 844)
+
+-
+
+555
+
+-
+
+(13 049)
+
+Net value as at 1 January 2017 Net value as at 31 December 2017
+
+4 198 5 220
+
+801
+
+1 478
+
+956
+
+1 724
+
+142
+
+6 619
+
+378
+
+8 278
+
+Year ended 31.12.2016
+
+Machines and
+equipment
+
+Vehicles
+
+Other fixed assets
+
+Fixed asstes unfer
+co n s tru ctio n
+
+Total
+
+Gross value as at 1 January 2016
+
+9 661
+
+Other acquisition
+
+-
+
+Sales /disposal
+
+(656)
+
+Reclassification from fixed assets under construction 2 874
+
+Gross value ast at 31 December 2016
+
+11 879
+
+1 616 -
+(111) 331 1 836
+
+3 996 (1)
+527 4 522
+
+26 3 856
+(8) (3 732)
+142
+
+15 299 3 856 (776)
+18 379
+
+Accumulated depreciation as at 1 January 2016 Depreciation for the period Sales /disposal Accumulated depreciation as at 31 December 2016
+
+(7 546) (779) 644
+(7 681)
+
+(983) (163) 111
+(1 035)
+
+(2 669) (376) 1
+(3 044)
+
+-
+
+(11 198)
+
+-
+
+(1 318)
+
+-
+
+756
+
+-
+
+(11 760)
+
+Net value as at 1 January 2016 Net value as at 31 December 2016
+
+2 115 4 198
+
+633
+
+1 327
+
+801
+
+1 478
+
+26
+
+4 101
+
+142
+
+6 619
+
+33
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+18. Leases
+18.1. Operating lease liabilities - the Company as a lessee
+ABC Data S.A. leases office and warehouse buildings located at ul. Daniszewska and a warehouse building in Sosnowiec. As at the date of these financial statements, payment of the related lease liabilities are secured by bank guarantees issued by ING Bank lski S.A. in the total amount of EUR 816 thousand. The said guarantees will expire on 30 June 2018 and 19 September 2018, respectively. The cost of rent including operating charges recognized in the statement of comprehensive income amounted in 2017 to PLN 8,975 thousand (in 2016: PLN 10,218 thousand). Furthermore, the Company uses 45 passenger cars under operating lease agreements concluded for a term of 2036 months. The lease costs recognized in the statement of comprehensive income amounted in 2017 to PLN 1,055 thousand (in 2016: PLN 1,201 thousand). Future minimum lease payments under non-cancellable operating lease agreements as at 31 December 2017 and 31 December 2016:
+
+Up to 1 year From 1 to 5 years Above 5 years
+
+31.12.2017
+8 364 26 971
+35 335
+
+31.12.2016
+8 560 29 653 2 960 41 173
+
+18.2. Finance lease liabilities
+
+In 2017, the Company concluded financial lease agreements for the lighting in warehouses in Warsaw and Sosnowiec
+
+Future minimum lease payments under the agreements and current net amount of minimum lease as at 31 December 2017:
+
+Up to 1 year From 1 to 5 years
+
+31 December 2017
+
+31 December 2016
+
+Minimum Present
+
+Present
+
+fees value of fees Minimum fees value of fees
+
+145
+
+123
+
+-
+
+-
+
+486
+
+452
+
+-
+
+-
+
+Total minimum lease fees Less financial expenses
+
+631
+
+-
+
+-
+
+56
+
+-
+
+-
+
+Present value of minimum lease fees, of which: Short-term Long-term
+
+575 123 452
+
+-
+
+-
+
+-
+
+-
+
+34
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+19. Intangible assets
+Rok zakoczony 31.12.2017
+Gross value as at 1 January 2016 Other acquisitions Sales / disposal/other corrections R&D transfer Gross value as at 31 December 2017
+Accumulated amortization as at 1 January 2017 Amortization for the period Sales / disposal Accumulated amortization as at 31 December 2017
+Net value as at 1 January 2017 Net value as at 31 December 2017
+
+Goodwill
+
+Concessions, lecenses,
+
+computer software and Developmen
+
+other
+
+t works
+
+24 517 -
+24 517
+
+12 773 2 910
+25 1 078 16 786
+
+1 212 1 807
+(25) (1 078) 1 916
+
+-
+
+(8 060)
+
+-
+
+-
+
+(1 500)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(9 560)
+
+-
+
+24 517 24 517
+
+4 713 7 226
+
+1 212 1 916
+
+Total
+38 502 4 717
+43 219
+(8 060) (1 500)
+-
+(9 560)
+30 442 33 659
+
+Year ended 31.12.2016
+Gross value as at 1 January 2016 Other acquisitions Sales / disposal R&D transfer Gross value as at 31 December 2016
+Accumulated amortization as at 1 January 2016 Amortization for the period Sales / disposal Accumulated amortization as at 31 December 2016
+Net value as at 1 January 2016 Net value as at 31 December 2016
+
+Goodwill
+
+Concessions, lecenses,
+
+computer software and Developmen
+
+other
+
+t works
+
+24 517 -
+24 517
+
+9 983 2 790
+12 773
+
+1 212
+1 212
+
+-
+
+(7 325)
+
+-
+
+-
+
+(735)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(8 060)
+
+-
+
+24 517 24 517
+
+2 658 4 713
+
+1 212
+
+Total
+34 500 4 002
+38 502
+(7 325) (735) -
+(8 060)
+27 175 30 442
+
+Goodwill arose from the purchase of ABC Data Sp. z o.o. on 28 December 2007, and it was recognized in the Company's books following a legally valid merger on 4 January 2010.
+The Company tested goodwill for impairment to determine the recoverable amount in accordance with the accounting principle presented in Note 10.3. For purposes of impairment testing, goodwill arising from the acquisition of ABC Data sp. z o.o. was assigned to a cash generating unit defined as ABC Data S.A.
+The recoverable amount of the cash generating unit was established based on an estimate of its value in use, in accordance with the DCF method. Cash flows were estimated based on EBITDA forecasts and changes in the working capital, including development and replacement investments planned for the years 2018-2021, prepared by the Management Board of the Company as at 31 December 2017. The key assumption made for the said forecasts is an increase in sales by 8% in 2018, followed by an annual increase by 3% on average in the
+
+35
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+following years of the forecast period. The gross margin for management purposes will drop in 2018 by 0.1 pp as compared to 2017 and will remain at an unchanged level in the upcoming years.
+Cash flows beyond the four-year period were extrapolated assuming an annual increase by 1%. The projected cash flows were discounted at a pre-tax rate of 9.0%. The discount rate was determined assuming that the cost of equity is 10.4% and the cost of borrowed capital is 4.8%. The test did not indicate any impairment. According to the Management Board of the Company, no reasonable and probable changes in the key assumptions will result in the carrying amount of goodwill exceeding its recoverable amount. In particular, the sensitivity of a forecast, estimating a lower than assumed level of sales (maintaining sales at the level of that achieved in 2017 in all forecast years) was analyzed. The results of the analysis showed no impairment, as well.
+
+20. Long-term investments
+The carrying amount of shares in individual companies is presented in the table below:
+
+ABC Data s.r.o - Czech Republic ABC Data s.r.o - Slovakia UAB "ABC Data Lietuva" - Lithuania ABC Data Marketing Sp. z o.o. ABC Data Hungary Kft - Hungary ABC Data Distributie SRL - Romania ABC Data GmbH - Germany iSource S.A. ABC Data Finanse Sp. z o.o. BiznesLinkCo Sp. z o.o. SPV Sail Sp. z o.o. Total
+
+31.12.2017
+14 790 -
+303 27 4 164 881 26 049 150 6 521 52 885
+
+31.12.2016
+14 790 -
+303 27 4 164 881 26 049 100 6 521 52 835
+
+Since 22 December 2015, ABC Data GmbH in Germany has been in liquidation. In 2014, shares in ABC Data s.r.o Slovakia and ABC Data GmbH were subject to a full impairment loss. The same happened to shares in BiznesLinkCo Sp z o.o. in 2016.
+
+21. Other assets, including assets measured at fair value through profit or loss
+
+31.12.2017
+
+31.12.2016
+
+FX contracts Borrowing granted to subsidiary Other assets
+
+752 17 075
+2 17 829
+
+17 075
+5 17 080
+
+A loan in the amount of PLN 17,075 thousand was granted to SPV Sail sp. z o.o. for the purchase of 1,249,923 shares of S4E S.A.
+The Company enters into swap and forward transactions regarding purchases and sales of foreign currencies.
+
+36
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+As at 31 December 2017, the Company held contracts for net currency purchase amounting to USD 11,924 thousand, as well as for net currency sale amounting to CZK 157,000 thousand, HUF 2,726,559 thousand and RON 38,836 thousand with the term from 3 January to 27 March 2018.
+As a result of valuation of the above contracts, as at 31 December 2017, the Company recognized financial assets worth PLN 752 thousand (as at 31 December 2016 financial liabilities amounted to PLN 94 thousand).
+
+22. Employee benefits
+22.1. Employee stock ownership plans
+
+Incentive scheme for 2015
+Under the incentive scheme for 2015, the beneficiaries were entitled to receive no more than 900,000 options in total. One option entitled to one share for a specific price. Options could be exercised no later than on 31 October 2017. No beneficiary exercised their option. The total cost of the incentive scheme amounted to PLN 75 thousand, of which PLN 6 thousand was allocated to the financial result for 2017 (PLN 45 thousand for 2016, respectively).
+Incentive schemes for 2016
+Under the scheme for the year 2016 designed for the members of the Management Board of the Company, the beneficiaries may receive no more than 641,000 options in total, and under the scheme designed for the members of the Supervisory Board - no more than 245,000 options in total. One option entitled to one share for a specific price. Due to a failure to comply with arm's length terms, the options cannot be offered to the beneficiaries. The total cost of the scheme designed for the members of the Management Board of the Company was estimated at PLN 23 thousand, of which PLN 6 thousand was allocated to the financial result for 2017 (PLN 16 thousand for 2016, respectively).The scheme designed for the members of Supervisory Board generated no costs.
+22.2. Retirement and other post-employment benefits
+The Company pays out to eligible employees retirement severance pays in such amounts as required by the Labor Code. Therefore, the Company recognizes a provision for the present value of liabilities due to retirement severance pays. The provision amount is estimated based on a model with the input data including the headcount, its age and gender structure, years in service and the average monthly salary in the Company. The amount of the provision and changes in its balance during the financial year have been presented in the table below:
+
+As at 1 January Increase of the provision Decrease of the provision As at 31 December
+
+31.12.2017
+642 (54)
+588
+
+31.12.2016
+437 205
+642
+
+23. Inventories
+
+Merchandise Total inventories
+
+31.12.2017
+352 877 352 877
+
+31.12.2016
+369 649 369 649
+
+37
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+In the financial year closed on 31 December 2017, the Company reduced the impairment loss on inventories by PLN 1,266 thousand up to PLN 11,852 thousand (in 2016, it was decreased by PLN 835 thousand up to PLN 13,118 thousand). Changes in impairment losses on inventories are recognized within the "Cost of sales".
+None of the inventory categories were pledged as collateral securing the repayment of credit facilities or loans in the financial years closed on 31 December 2017 and 31 December 2016.
+
+24. Trade and other receivables
+Trade receivables from subsidiaries Trade receivables from other entities Prepayments Other receivables Total net receivables Provision for impairment of receivables Gross receivables
+
+31.12.2017
+152 770 397 609
+1 025 378
+551 782 14 380
+566 162
+
+31.12.2016
+168 337 321 745
+1 424 272
+491 778 9 809
+501 587
+
+The terms of related-party transactions have been presented in Note 30.
+Trade receivables do not bear interest and, on average, have a 37-day maturity period for clients from outside the ABC Data SA Group and a 29-day maturity period for subsidiaries.
+The Company has a policy in place whereby sales transactions are made only with verified clients. According to the management, there is no credit risk other than that reflected in impairment losses on bad debts related to the Company's trade receivables.
+
+Over 90% of the Company's receivables are covered by insurance, which is an important factor in mitigating the credit risk.
+
+As at 31 December 2017, trade receivables of PLN 14,380 thousand were classified as bad debt and an impairment loss was recognized (of PLN 9,809 in 2016).
+
+Changes in impairment losses on receivables:
+
+31.12.2017
+
+31.12.2016
+
+Provision for impairment of receivables as at 1 January Increase Release Provision for impairment of receivables as at 31 December
+
+9 809 4 571
+14 380
+
+9 526 283 -
+9 809
+
+Below, the Group presents an analysis of trade receivables which were past due as at 31 December 2017 and 31 December 2016 but not classified as bad debt, hence no impairment losses were recognized in their respect.
+
+31.12.2017 31.12.2016
+
+Total
+
+Current
+
+550 379
+
+490 082
+
+Past due, but collectible
+
+< 30 days 30 - 60 days 60 - 90 days 90 - 120 days > 120 days
+
+413 140
+
+82 170
+
+14 370
+
+23 672
+
+10 221
+
+6 806
+
+446 183
+
+30 628
+
+6 808
+
+4 517
+
+667
+
+1 279
+
+25. Cash and cash equivalents
+Cash at bank bears floating-rate interest, which depends on the interest rate for O/N bank deposits. Short-term deposits may mature from one day to one month, depending on the Company's current demand for cash, and they bear interest at specified rates. As at 31 December 2017, cash and cash equivalents amounted to PLN 4,479 thousand (versus PLN 58,543 thousand as at 31 December 2016).
+
+38
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+The balance of cash and cash equivalents recognized in the cash flow statement consists of:
+31.12.2017
+
+Cash at bank and in hand Other cash
+
+4 479 -
+4 479
+
+26. Share capital, supplementary capital and reserve capitals
+26.1. Share capital
+
+31.12.2016
+58 543 -
+58 543
+
+Share capital in PLN
+
+31.12.2017
+
+Ordinary shares A series / nominal value of 1 PLN each Ordinary shares B series / nominal value of 1 PLN each Ordinary shares C series / nominal value of 1 PLN each Ordinary shares D series / nominal value of 1 PLN each Ordinary shares E series / nominal value of 1 PLN each Ordinary shares F series / nominal value of 1 PLN each Ordinary shares G series / nominal value of 1 PLN each Ordinary shares H series / nominal value of 1 PLN each Ordinary shares I series / nominal value of 1 PLN each
+
+500 000 54 972 000 44 000 000 2 878 869
+291 584 304 625 304 625 22 000 000 15 196 125 266 899
+
+There were no changes in the share capital during the 2017 or 2016 financial year.
+
+26.1.1 Par value of shares
+
+31.12.2016
+500 000 54 972 000 44 000 000 2 878 869
+291 584 304 625 304 625 22 000 000 15 196 125 266 899
+
+The par value of each issued share is PLN 1, and the shares have been fully paid up for.
+26.1.2 Shareholders' rights
+
+One voting right is attached to each share. The shares of any series have the same preference as to dividends and return on equity.
+
+26.1.3 Major shareholders
+
+MCI Venture Projects sp. z o.o. VI S.K.A. OFE PZU "Zlota Jesie" Pozostali Akcjonariusze Total
+
+31.12.2017
+
+31.12.2016
+
+Number of
+
+shares % of votes held Number of shares % of votes held
+
+76 060 378
+
+60,72%
+
+76 060 378
+
+60,72%
+
+9 650 000
+
+7,70%
+
+11 624 678
+
+9,28%
+
+39 556 521
+
+31,58%
+
+37 581 843
+
+30,00%
+
+125 266 899
+
+100,00%
+
+125 266 899
+
+100,00%
+
+26.2. Supplementary capital
+The supplementary capital of the Company includes the share premium and appropriations of profit generated in the preceding years.
+
+39
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+The share premium of PLN 39,825 thousand, recognized as a separate item on the balance sheet, is the total of the share premiums on C, D, E, F, G, H and I series shares, less issue costs. Moreover, the item includes the surplus of the fair value over the cost of treasury shares issued in exchange for the acquired shares in iSource S.A., recognized by the Company in 2014.
+The supplementary capital created from appropriations of profit is recognized within "Retained profits" on the balance sheet.
+26.3. Treasury shares
+The Company holds 2,672,349 treasury shares measured at cost of PLN 10,056 thousand, bought back in 20142015 pursuant to a resolution of the GMS adopted on 23 June 2014. In 2016-2017, no change in the number and status of held treasury shares occurred.
+On 28 June 2017, the GMS adopted a resolution on authorizing the Management Board of the Company to repurchase treasury shares, for the purpose of subsequent resale or redemption thereof, and to create a reserve for the buyback. Since the publication date hereof, the Company has not started the buyback of shares.
+
+26.4. Other reserve capitals
+Na dzie 1 stycznia 2017 Transakcje platnoci w formie akcji Zabezpieczenie przeplywów pieninych Na dzie 31 grudnia 2017
+
+Pozostale kapitaly rezerwowe
+(1 070) 12
+3 000 1 942
+
+Na dzie 1 stycznia 2016 Transakcje platnoci w formie akcji Zabezpieczenie przeplywów pieninych Na dzie 31 grudnia 2016
+
+61 (1 131) (1 070)
+
+26.5. Undistributed profit/uncovered loss and dividend limitations
+Under "Retained profits/Uncovered loss", the Company discloses profits and losses incurred in the previous years.
+In accordance with the Code of Commercial Companies, the Company has the obligation to create a supplementary capital to cover losses. This capital receives at least 8% of the profit for a given financial year, as reported in the financial statements of the Company, until it reaches at least one third of the share capital. The use of the supplementary capital and the reserve capital is decided upon by the General Meeting of Shareholders. However, a part of the supplementary capital representing one third of the share capital may be used only to cover a loss reported in the financial statements of the Company and cannot be allocated to other purposes.
+Under Article 347.4 of the Code of Commercial Companies, where development work is classified as assets, the Company may not distribute any profit being the equivalent of the cost of development work which has not been written down unless the sum of the supplementary and reserve capitals available for distribution and retained profit is at least equal to the amount of such costs. In the case of the Company, the cost of development work which has not been written down is lower than the amount of distributable capitals. Thus, there is no limitation on dividend payment in this regard.
+
+As at 31 December 2017, there were no other limitations on dividend payment.
+
+40
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+27. Interest-bearing bank loans and credit facilities
+
+i n thous a nd PLN Overdraft facility - Bank Polska Kasa Opieki S.A. Overdraft facility - Bank Polska Kasa Opieki S.A. Overdraft facility - Bank Polska Kasa Opieki S.A. Overdraft facility - Bank M illennium S.A. Overdraft facility - Bank M illennium S.A. Overdraft facility - Bank M illennium S.A. Overdraft facility - Bank ING Bank lski S.A. Overdraft facility - Bank ING Bank lski S.A. Overdraft facility - Bank ING Bank lski S.A. Overdraft facility - Bank Societe Generale Overdraft facility - Bank Societe Generale Overdraft facility - Bank Societe Generale Overdraft facility - Bank Societe Generale Overdraft facility -BG BNP Paribas Overdraft facility -BG BNP Paribas Overdraft facility -BG BNP Paribas Overdraft facility- Bank Handlowy w Warszawie S.A. mBank S.A. mBank S.A. Razem
+
+Currenc Interest y
+
+M aturity date
+
+PLN Wibor 1M +margin 15.12.2018
+
+Euribor EUR
+1M +margin
+
+15.12.2018
+
+USD Libor 1M +margin 15.12.2018
+
+31.12.2017 31.12.2016
+
+18 244
+
+4 433
+
+656
+
+414
+
+-
+
+638
+
+PLN EUR USD EUR USD
+
+Wibor 1M +margin 28.04.2018
+
+Euribor 1M +margin
+
+28.04.2018
+
+Libor 1M +margin 28.04.2018
+
+Euribor 1M +margin
+
+09.10.2025
+
+Libor 1M +margin 09.10.2025
+
+16 154 1 054 42
+21 377 -
+
+12 553 1 899 1 318 12 912 9 764
+
+CZK Pribor 1M +margin 09.10.2025
+
+49
+
+-
+
+PLN EUR USD
+
+Wibor 1M +margin n/d
+
+Euribor
+
+n/d
+
+1M +margin
+
+Libor 1M +margin n/d
+
+- 42 252
+
+-
+
+455
+
+-
+
+9 309
+
+HUF Bubor1M +margin n/d
+
+-
+
+3 322
+
+PLN EUR USD
+
+Wibor 1M +margin 01.12.2025
+
+Euribor 1M +margin
+
+01.12.2025
+
+Libor 1M +margin 01.12.2025
+
+6 730 11 237
+-
+
+6 583 14 426 1 682
+
+PLN PLN EUR
+
+Wibor 1M +margin n/d
+
+Wibor overnight
++margin Euribor overnight
++margin
+
+13.07.2018 13.07.2018
+
+42 165
+209 117 917
+
+16 027 -
+137 987
+
+Bank loan guarantees take form of a written statement on submission to enforcement under Art. 97 sections 1-2 of the Banking Act together with the authorization for banks to issue a bank enforcement title or statement of submission to enforcement filed in the form of a notarial deed under Art. 777 § 1(5) of the Code of Civil Procedure or a blank promissory note with promissory note agreement. Interest liabilities are usually settled monthly over the entire financial year.
+
+41
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+28. Provisions
+28.1. Change in provisions
+Amount as at 1 January 2017 Recognized Derecognized Amount as at 31 December 2017 Long-term portion Short-term portion
+Amount as at 1 January 2016 Recognized Derecognized Amount as at 31 December 2016 Long-term portion Short-term portion
+
+Guarantee costs
+
+Onerous contracts
+
+2 315 -
+(53) 2 262
+
+522 -
+(104) 418
+
+452
+
+-
+
+1 810
+
+418
+
+Guarantee costs
+
+Onerous contracts
+
+3 593
+
+380
+
+-
+
+142
+
+(1 278)
+
+-
+
+2 315
+
+522
+
+463
+
+-
+
+1 852
+
+522
+
+Total
+2 837 -
+(157) 2 680
+452 2 228
+Total
+3 973 142
+(1 278) 2 837
+463 2 374
+
+28.2. Provision for warranty repairs and returns
+The Company recognizes a provision for costs of complaints related to warranties and guarantees given for the goods sold. The provision is estimated based on the sales volume, duration of warranty periods, historical data regarding faulty goods and the associated losses as well as current operating costs of the service department. According to the estimations of the Company, the provision of PLN 1,810 thousand is going to be used up in 2018, while the remaining part will be used up in 2019.
+
+28.3. Onerous contracts
+The Company recognizes a provision related to goods purchase orders pending at the balance sheet date, which will be fulfilled by suppliers at prices higher than the realizable net selling price. The Company estimates the volume of the provision based on a detailed analysis of goods sales price trends after the balance sheet date. The creation and termination of the provision are recognized under other operating expenses/revenues. The Company expects that the total provision will be used up in 2018.
+
+42
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+29. Trade and other liabilities
+
+31.12.2017
+
+31.12.2016 (restated)
+
+Other long term liabilities Discount on rental agreements Total other long-term liabilities
+Trade liabilities to related entieties to unrelated entities
+Other liabilities short-term Liabilities due to VAT, customs duties and other benefits payable Accrued expenses Other liabilities (including discount on rental agreements)
+Total short-term liabilities
+
+8 749 8 749
+5 284 573 813 579 097
+16 711 13 947 3 472 34 130
+613 227
+
+11 075 11 075
+5 616 580 615 586 231
+13 376 25 284 3 790 53 525
+639 756
+
+Terms and conditions of payment of the above financial liabilities: The terms of related-party transactions have been presented in Note 30. Trade liabilities bear no interest, and they are usually settled within ca. 35 days. The difference between VAT liabilities and receivables is paid to the relevant tax authorities on a monthly basis.
+
+29.1. Liabilities due to employee benefits
+
+Accrued bonuses Liabilities due to unused vacation Personal income tax Social insurance liabilities Company's Social Benefits Fund Other
+29.2. Other financial liabilities
+
+31.12.2017
+7 453 2 424
+686 997
+19 11 579
+
+31.12.2016
+5 923 1 968
+750 987 283
+9 911
+
+Other lon-term Zobowizanie z tytulu leasingu
+Pozostale zobowizania finansowe krótkoterminowe FX contracts Liabilities due to cash pooling Zobowizanie z tytulu leasingu Accrued interst on factoring Total
+Note 30 contains information on cash pool liabilities.
+
+31.12.2017
+452
+22 146
+123 407 22 676
+
+31.12.2016
+-
+94 21 150
+689 21 933
+
+43
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+30. Contingent liabilities
+30.1. Guarantees and sureties issued for the subsidiaries' liabilities
+Under the multilateral loan agreement of 16 March 2015 including subsequent annexes concluded between ING Bank lski, ABC Data S.A., iSource S.A., S4E SA and ABC DATA Marketing Sp. z o.o., the borrowers are jointly and severally liable for the liabilities due to the bank.
+ABC Data S.A. and its subsidiaries: ABC Data Marketing Sp. z o.o., iSource S.A and SPV Sail Sp. z o. o. are parties to the agreement of 30 September 2015, together with subsequent annexes, concluded with ING Bank lski SA for the provision of cash pooling services as daily limits. Pursuant to the provisions of the agreement, each Participant undertakes to repay the debt arising from non-payment of the daily limit by any of the Participants.
+ABC Data S.A. issues guarantees and sureties for the liabilities of its subsidiaries to their suppliers and financial institutions. As at 31 December 2017, the contingent liabilities related to the above amounted to:
+· PLN 50,000 thousand and PLN 75,000 thousand for the liabilities of iSource S.A.; · USD 2,630 thousand , EUR 1,600 thousand and PLN 30,000 thousand for the liabilities of ABC Data
+Distributie SRL; · CZK 36,000 thousand for the liabilities of ABC Data s.r.o in Czechia; · EUR 2,500 thousand and PLN 54,000 thousand for the liabilities of ABC Data Kft.; · PLN 35,500 thousand for the liabilities of S4E S.A.
+30.2. Contingent liabilities for reprographic fees
+Pursuant to the Act on Copyright and the Related Rights of 4 February 1994, the Company, as an importer of copiers, scanners and other similar reprographic equipment enabling the copying of published works, as well as blank data carriers enabling the recording of works for personal use, pays fees to organizations dealing in collective management of copyrights or the related rights. Following an inspection carried out by an auditor appointed by these organizations, the latter have claimed significant additional amounts from the Company. According to the Company, the auditor's calculations include a number of errors, and the claims based thereon are groundless. Currently, a dispute of the Company with three of the organizations is pending. Due to doubts regarding the interpretation of legal regulations and discrepancies in previous court decisions, the Company has recognized a provision for the amount which, in its opinion, covers the risk related to the possibility of an unfavorable ruling. Currently, the actions for payment of PLN 27,068 thousand allegedly due for the Company's sale of equipment and blank data carriers are pending filed by the organizations dealing with collective management of copyrights. According to the Company and a third-party legal adviser, the calculation methodology used in the suit contains a number of errors, and the claims based thereon are groundless.
+30.3. Tax returns
+Corporate income tax for the fiscal year 2010 In 2011, inspection proceedings were instituted by the Director of the Tax Inspection Office in Warsaw against the Company with respect to corporate income tax for 2010. The proceedings were terminated by a decision issued on 5 June 2014, which determined the Company's corporate income tax liability for 2010. Despite the Company's appeal, the aforesaid decision was upheld by the Director of the Tax Chamber in Warsaw. The Company filed an appeal with the Regional Administrative Court in Warsaw opposing the decision of the Director of the Tax Chamber in Warsaw in its entirety. In its non-final judgment of 19 April 2016, the Regional Administrative Court in Warsaw repealed the decision that the Company appealed against. The Company agrees with the ruling of the first-instance court, whereby
+44
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+the decision was repealed. However, it opposes to the reasons for such ruling in a number of respects. Therefore, on 12 July 2016, it filed a last resort appeal with the Supreme Administrative Court. The decision is pending. Tax on goods for Q2 of 2014 In September 2014, inspection proceedings were instituted against the Company following the authorization of the Director of the Tax Inspection Office in Warsaw to examine the validity of the tax bases declared by the Company as well as correctness of calculation and payment of value added tax for the Q2 of 2014. The proceedings have not been closed by the date of these statements. Several years ago, the Company implemented strict quality and vendor control procedures aimed to minimize the risk of irregularities in its accounting. These procedures are regularly reviewed and developed based on information from the tax authorities. As the procedures are followed with due care, the Management Board finds that payments of public law liabilities are fulfilled as appropriate. Therefore, the probability of an unfavorable outcome of the inspections conducted is considered to be low, and it is not necessary to estimate any associated provision.
+30.4. Electrical and electronic waste
+On 21 October 2005, the major part of the provisions of the Act on electrical and electronic waste entered into force. Under the act, first marketers (manufacturers and importers) are obliged e.g. to organize and finance the collection of waste equipment as well as the processing, recovery, including recycling, and disposal of used equipment. Since 1 January 2008, first marketers of household appliances have been obliged to ensure collection of waste equipment. The Company has transferred respective statutory obligations, under a relevant contract, onto a specialized organization recycling electrical and electronic waste.
+30.5. Litigation
+Apart from the claims described in Note 30, no other litigation has been initiated against the Company that could have a material effect on its financial or economic position.
+45
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+31. Information on related parties
+The table below presents total amounts of related-party transactions made in the current and in the previous financial year:
+
+Related party
+MCI Capital S.A. Group companies MCI Capital S.A. MCI Capital TFI S.A Morele Net Sp. z o.o. MCI Management S.A. MCI Capital TFI S.A Morele Net Sp. z o.o.
+Related party
+Subsidiaries ABC Data Marketing Sp. z o.o. ABC Data s.r.o. - Czechy ABC Data s.r.o. - Slowacja UAB ABC Data Lietuva - Litwa ABC Data Hungary Kft. ABC Data Distributie SRL ABC Data GmbH - Niemcy iSource S.A. ABC Data Finanse Sp. z o.o. SPV Sail Sp. z o.o. S4E S.A. ABC Data Marketing Sp. z o.o. ABC Data s.r.o. - Czechy ABC Data s.r.o. - Slowacja UAB ABC Data Lietuva - Litwa ABC Data Hungary Kft. ABC Data Distributie SRL ABC Data GmbH - Niemcy iSource S.A. ABC Data Finanse Sp. z o.o. SPV Sail Sp. z o.o. S4E S.A.
+Related party
+Zarzd Spólki Andrzej Kuniak Julisz Niemotko Julisz Niemotko
+Cash pooling agreement
+
+Sales to related parties
+
+Purchases from related
+parties
+
+Receivables from Liabilities to related parties related parties
+
+2017
+
+8
+
+-
+
+-
+
+-
+
+2017
+
+-
+
+-
+
+-
+
+-
+
+2017
+
+114 001
+
+3 932
+
+20 962
+
+196
+
+2016
+
+1
+
+-
+
+-
+
+-
+
+2016
+
+-
+
+-
+
+-
+
+-
+
+2016
+
+88 179
+
+8 135
+
+15 039
+
+353
+
+Sales to related parties
+
+Purchases from related
+parties
+
+Receivables from Liabilities to related parties related parties
+
+2017 2017 2017 2017 2017 2017 2017 2017 2017 2017 2017 2016 2016 2016 2016 2016 2016 2016 2016 2016 2016 2016
+
+1 443 177 107 101 238 235 144 105 002 168 616
+(2) 482 33
+3 237 1977 213 566 118 376 224 012 131 533 169 797
+-4 559 21
+0 2 815
+
+24 555 7 225
+102 -
+401 261
+96
+98 24 563 13 616 903 936 162 7 6 -
+
+(195) 23 825 17 838 20 112 44 586 41 585 1 995
+55 19
+2 950 1 943 35 028 19 830 22 903 45 564 39 861 2 118
+74 -
+2 960
+
+3 854 1 125
+11 -
+123 76
+30
+65 3 381 1 683 28 449 145 -
+
+Sales to related parties
+
+Purchases from related
+parties
+
+Receivables from Liabilities to related parties related parties
+
+2017
+
+12
+
+-
+
+2017
+
+2
+
+-
+
+2016
+
+2
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+46
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+From 30 September 2015, the Company is a party to the cash pool agreement concluded with ING Bank lski S.A. (the Bank), and its subsidiaries: ABC Data Marketing Sp. z o.o. and iSource S.A. The purpose of the agreement is to optimize liquidity management within the capital group. Cash pooling consists in covering cash shortages of one company with surpluses generated by other companies of the capital group. In the abovementioned agreement, ABC Data S.A. acts as an Agent.
+At the end of each day, the Bank calculates the balance on the bank account of each Participant and sums these balances. Then, an automatic transfer of funds between the agent's auxiliary account and their main account is made; the amount of transfer corresponds to the total balance of the Participants' accounts. In the event that the sum of Participants' balances is negative, and there is not enough funds on the Agent's main account to cover it, the Bank grants them a loan on general terms amounting up to the agreed limit. However, if the sum is positive, the interest is accrued on the amount deposited on the Agent's main account. After the transfer of funds between the Agent's accounts is completed, the automatic transfers between the Agent's auxiliary account and the accounts of individual Participants are made. At the end of the day, after completing all operations, the account balances of individual Participants and the balance of auxiliary account shall set to zero. Due to subrogation, the Agent assumes the Bank's rights in respect of the Bank's claims against Participants reporting negative balance, or individual Participants reporting positive balance assume the Bank's rights in respect of the Bank's claims against the Agent. Each business day, automatic return transfers are made.
+The accounts of Participants whose funds were used to repay the debts of other Participants are credited with interest on mutual liabilities, and the indebted accounts which have been repaid with funds accumulated on other Participants' accounts are debited with interest on mutual liabilities.
+Account balances of subsidiaries as at the balance sheet date under the cash pool agreement and the amount of interest received and paid are presented in the table below:
+
+receivables
+
+liabilities interest received interest paid
+
+ABC Data Marketing Sp. z o.o. 2017
+
+iSource S.A.
+
+2017
+
+SPV Sail Sp. z o.o.
+
+ABC Data Marketing Sp. z o.o. 2016
+
+iSource S.A.
+
+2016
+
+-
+
+22 078
+
+-
+
+68
+
+2
+
+-
+
+-
+
+21 088
+
+-
+
+62
+
+-
+
+245
+
+-
+
+4
+
+-
+
+-
+
+-
+
+247
+
+21
+
+5
+
+Loan granted to SPV Sail Sp. z o.o.
+ABC Data S.A. has due receivable amounting to PLN 17,075 thousand levied for a loan granted to SPV Sail Sp. z o.o. for the purchase of shares of S4E S.A. The loan is interest-bearing at a fixed rate. SPV Sail is obliged to repay the loan with interest until 31 December 2018.
+
+31.1. Ultimate parent
+MCI Management S.A. is the ultimate parent, and it controls the Group through its subsidiary: MCI Venture Projects Spólka z ograniczon odpowiedzialnoci VI S.K.A.
+
+31.2. Terms of related-party transactions
+Transactions with related parties are made on arm's length terms. Receivables of ABC Data Germany GmbH, in the amount of EUR 472 thousand, under agreements concluded in 2015 had been subordinated to the receivables of other entities in the event that bankruptcy proceedings were instituted against ABC Data Germany. These receivables have been fully written off
+
+47
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+31.3. Loans granted to members of the Management Board
+In the financial year closed on 31 December 2016 and in the previous year, the Company did not grant any loans to its Management Board members.
+
+31.4. Other transactions with members of the Management Board
+Occasionally, Management Board members purchase goods offered by the Company at the same prices as those paid by other clients.
+
+31.5. Remuneration of the Company's management
+
+31.5.1 Remuneration paid or due to the Management and Supervisory Board members
+
+Year ended 31.12.2017
+
+Year ended 31.12.2016
+
+Management Board Short-term employee benefits
+
+3 800
+
+3 634
+
+Supervisory Board Short-term employee benefits
+
+352 4 152
+
+367 4 001
+
+31.5.2 Senior management (including Management and Supervisory Board members) participation in the employee stock ownership plan
+
+Members of the Management Board and the Supervisory Board participated in the incentive schemes for 2015 and 2016 (Note 21.1).
+
+32. Fees of the statutory auditor or the entity authorized to audit financial statements
+
+31.12.2017
+
+31.12.2016
+
+Statutory audit of annual financial statements Other services, incuding review of interim financial statements Total
+
+204
+
+155
+
+61
+
+46
+
+265
+
+201
+
+In 2017 and 2016, the aforesaid services were provided by Deloitte Polska Spólka z ograniczon odpowiedzialnoci Sp.k.
+
+48
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+33. Financial risk management objectives and policy
+The key financial instruments used by the Company include bank loans and credit facilities, cash pool liabilities and receivables, cash and short-term deposits. The major objective of the said financial instruments is to secure financing for the Company's operations. The Company also holds other financial instruments, such as trade receivables and liabilities, which result directly from its operations. The Company enters into FX transactions (mainly spot and forward), with a view to managing the currency risk related to its operations and inherent in the sources of funding it relies on. The Company is not trading and did not trade in financial instruments during the reporting period. Main risks resulting from the financial instruments held by the Company include the interest rate risk, the liquidity risk, the currency risk, the credit risk and the commodity price risk. The Management Board verifies and sets out the rules applicable to each risk type management. The rules have been presented briefly below.
+
+33.1. Interest rate risk
+The Company uses overdraft facilities in PLN, RON, CZK, EUR and HUF, and non-recourse factoring facilities in PLN, EUR and USD. All these facilities bear interest based on floating rates, namely WIBOR, ROBOR, PRIBOR, EURIBOR, BUBOR and LIBOR. At present, the Company does not pursue an active interest rate risk hedging strategy. Interest rate risk ­ sensitivity analysis
+The table below presents sensitivity of the net financial result to reasonably possible changes in interest rates with all other factors held constant (in relation to floating-rate liabilities). The effect on equity and on total comprehensive income of the Company has not been presented.
+
+Year ended 31 December 2017 Financial instruments with floating interest rate
+Year ended 31 December 2016 Financial instruments with floating interest rate
+
+Increase/decrease (percentage points)
++0,5% -0,5%
++0,5% -0,5%
+
+Impact on gross profit/loss
+(1 380) 1 380
+(1 464) 1 464
+
+33.2. Currency risk
+The Company is exposed to the currency risk inherent in the transactions it enters into. The risk arises from purchases and sales made by the Company as well as loans taken out in currencies other than the valuation currency. About 69% of costs due to purchases of goods and services are expressed in currencies other than PLN, while 38% of sales transactions made by the Company are expressed in currencies other than PLN. The Company enters into FX transactions hedging the currency risk (mainly spot and forward transactions) in such a way that they correspond to the conditions of the hedged item, and thus ensure maximum effectiveness of the hedge. In its calculations and hedging measures, the Company takes into account the tracking of assets and liabilities arising from its operations, broken down into individual currencies. Since 1 April 2010, the Company has been applying hedge accounting involving cash flow hedges. As a result, it has minimized the currency risk relating to goods and services purchased in foreign currencies and registered by the Company in the domestic currency at a historical rate where the sales prices of the said goods and services in
+49
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+the domestic currency are indexed to the spot exchange rate. In this case, receivables and liabilities in a given foreign currency and derivatives constitute elements of the hedge.
+The table below presents sensitivity of the net financial result (related to changes in the fair value of monetary assets and liabilities, and FX forwards) and total comprehensive income of the Company (additionally taking into account changes arising from the application of hedge accounting) to reasonably possible changes in foreign exchange rates with all other factors held constant.
+
+31.12.2017 USD EUR CZK RON HUF GBP
+
+Forex rate
+
+Imact on total
+
+increase/decre Impact on net comprehensive
+
+ase
+
+profit /loss
+
+income
+
++5%
+
+(1 696)
+
+(3 273)
+
+-5%
+
+1 696
+
+3 273
+
++5%
+
+(898)
+
+(3 363)
+
+-5%
+
+898
+
+3 363
+
++5%
+
+79
+
+79
+
+-5%
+
+(79)
+
+(79)
+
++5%
+
+299
+
+299
+
+-5%
+
+(299)
+
+(299)
+
++5%
+
+1
+
+1
+
+-5%
+
+(1)
+
+(1)
+
++5%
+
+11
+
+11
+
+-5%
+
+(11)
+
+(11)
+
+31.12.2016 USD EUR CZK RON HUF GBP
+
++5%
+
+(1 062)
+
+(3 442)
+
+-5%
+
+1 062
+
+3 442
+
++5%
+
+(814)
+
+(5 277)
+
+-5%
+
+814
+
+5 277
+
+-
+
+-
+
++5%
+
+(159)
+
+(159)
+
+-5%
+
+159
+
+159
+
++5%
+
+(125)
+
+(125)
+
+-5%
+
+125
+
+125
+
++5%
+
+(138)
+
+(138)
+
+-5%
+
+138
+
+138
+
++5%
+
+(192)
+
+(192)
+
+50
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+33.3. Commodity price risk
+Continuous reductions of product prices arising from their progressing technical obsolescence and the launch of new products are a characteristic of the IT market. Price protection clauses in most distribution contracts concluded by the Company protect it against that risk. They allow for obtaining a refund of a portion of the cost of unsold goods if the sales price to Company's clients decline. The company tries to mitigate the commodity price risk through constant price monitoring, fast-moving stock sales for products exposed to impairment and maintaining a high inventory turnover ratio.
+33.4. Credit risk
+The credit risk is a risk that the Company may incur a financial loss if a contracting party or other party to a transaction defaults on its contractual obligations consisting in payment for goods or services in the deferred payment period granted by the Company. The credit risk is related mainly to trade receivables and the use of deferred payment terms in sales transactions. The Company has developed and implemented procedures aimed at minimizing the risk and its continuous monitoring so as to avoid a significant credit risk concentration. A key credit risk mitigation factor is insurance, which covers over 90% of Company's receivables. Clients with a poor financial standing and those beginning their cooperation with the Company can buy for cash or upon advance payment only. Each client applying for a trade credit is assessed for creditworthiness based on submitted financial documents or market intelligence reports. The credit limit, determined individually based on an analysis of a client's financial standing, depends heavily on a decision regarding the amount of the client's trade credit that is insured. A credit in excess of the limit defined by the insurer requires approval in accordance with the internal credit procedures. Credit decisions are approved only by the unit in charge of the Company's credit risk management (Department of Treasury) or by the Management Board. The Company periodically reviews the credit limits of its clients based on their current insurance, payment history, scale of cooperation, financial data and collateral.
+If a client has overdue liabilities to the Company, sales to that client are suspended or limited until the debt is repaid. At the same time, depending on the debt repayment process, the credit limit granted may be reduced or cancelled. The Company recognizes impairment losses on non-insured receivables and amounts arising from their deductible relative to the insured receivables, based on a detailed analysis of amounts due. The credit risk related to other financial assets of the Company, such as cash and cash equivalents and some derivatives, results from the inability to make a payment by the other party to the contract, and the maximum exposure to such risk is equal to the carrying amount of the instruments.
+33.5. Liquidity risk
+The liquidity risk is defined as a risk that the Company will be unable to pay its financial liabilities at maturity. The Company monitors projected cash flows from operating activities on an ongoing basis, considering the maturity of its receivables and liabilities. Liquidity is maintained with the use of short-term bank loans and factoring facilities obtained by the Company The related demand is determined when preparing the budget for the subsequent year and modified depending on the current financial standing of the Company. As the Company manages its working capital and counterparty credit risk efficiently (insurance of receivables), in addition to maintaining a good financial standing, the liquidity risk is limited. Financial liabilities of the Company as at 31 December 2017 and 31 December 2016 by maturity, based on contractual undiscounted payments:
+51
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+31.12.2017
+Interst bearing credit facilities and loans Other financial liabilities Currency forwards Liabilities due to cash pooling Trade and other liabilities (excluding vat, customs duties and other state liabilities)
+31.12.2016
+Interst bearing credit facilities and loans Other financial liabilities Currency forwards Liabilities due to cash pooling Trade and other liabilities (excluding vat, customs duties and other state liabilities)
+
+Carrying Contractual below 3 amount cash flows months
+
+From 3 to 12 From 1 year Above 5
+
+months
+
+to 5 years years
+
+117 917 575 -
+22 146
+
+123 124 631 -
+22 146
+
+631 36 22 146
+
+79 606 109 -
+
+2 376 486 -
+
+40 511 -
+
+605 265 745 903
+
+605 265 751 166
+
+594 556 617 369
+
+1 960 81 675
+
+8 749 11 611
+
+40 511
+
+Carrying Contractual below 3 amount cash flows months
+
+From 3 to 12 From 1 year Above 5
+
+months
+
+to 5 years years
+
+137 987
+
+156 436
+
+702
+
+23 118
+
+26 193
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+94
+
+94
+
+94
+
+-
+
+-
+
+-
+
+21 150
+
+21 150
+
+21 150
+
+-
+
+-
+
+-
+
+626 380
+
+626 380
+
+626 380
+
+-
+
+-
+
+-
+
+785 611 804 060 648 326
+
+23 118
+
+26 193
+
+-
+
+52
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+34. Financial instruments
+34.1. Fair values of financial instruments by class
+
+The fair value of financial instruments held by the Company as at 31 December 2017 and 31 December 2016 did not differ considerably from the amounts presented in the financial statements for each year, because the effect of discounting on short-term instruments is immaterial.
+
+Financial assets Originated short-term loans Trade and other receivables (excluding VAT and prepayments ) Currency forwards Cash and cash equivalents
+
+Category in line with IAS 39
+
+Carrying amount 31.12.2017 31.12.2016
+
+L&R L&R FVTPL FVTPL
+
+17 075 550 757
+752 4 479
+
+17 075 490 354
+58 543
+
+Financial liabilities Currency forwards Interest-bearing loans and borrowings, including:
+overdraft facility Liabilities due to cash pooling Trade and other liabilities ( excluding vat, customs duty nad other state liabilities )
+
+Category in line with IAS 39
+FVTPL
+OFLMAC OFLMAC
+OFLMAC
+
+Carrying amount 31.12.2017 31.12.2016
+
+-
+
+94
+
+117 917 22 146
+
+137 987 21 150
+
+605 265
+
+626 380
+
+Applied abbreviations: WwWGpWF ­ financial assets/liabilities measured at fair value through profit or loss; PiN ­ loans and receivables; PZFwgZK ­ other financial liabilities measured at amortized cost.
+
+Financial instruments measured at fair value, held by the Company as at 31 December 2017 and 31 December 2016:
+
+Financial assets measured ar fair value through profit or loss FX contracts
+
+31.12.2016
+
+Level 1
+
+Level 2
+
+Level 3
+
+-
+
+752
+
+-
+
+Financial liabilities measured ar fair value through profit or loss FX contracts
+
+31.12.2016
+
+Level 1 -
+
+Level 2
+
+Level 3
+
+94
+
+-
+
+The fair value of FX forwards is based on discounted future cash flows resulting from transactions, calculated by reference to the difference between the forward price and the transaction price. The forward price is calculated by reference to the fixing rate of the National Bank of Poland and the implied yield curve from FX swap transactions. In the financial years closed on 31 December 2017 and 31 December 2016, there were no reclassifications between level 1 and level 2 in the fair value hierarchy, and no instrument was transferred from/to level 3 of the hierarchy.
+
+53
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+34.2. Revenue, expenses, profits and losses recognized in the profit and loss account by category of financial instruments
+The financial year closed on 31 December 2017
+
+31.12.2017 Financial asstes
+
+Category in Interest
+
+line with revenue/(expense Exchange
+
+IAS 39
+
+)
+
+gains/(losses)
+
+Released/ (recognized) impairment losses
+
+Measurement gains/(losses)
+
+Gains/(losses)on
+
+sales of financial
+
+instruments
+
+Other
+
+Razem
+
+Originated short-term loans Trade and other receivables Currency forwards Cash and cash equivalents
+
+L&R L&R FVTPL FVTPL
+
+-
+
+-
+
+-
+
+-
+
+(2 206)
+
+/*
+
+(6 089)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+112
+
+/*
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(541) (8 836)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+112
+
+Financial liabilities
+
+Interest-bearing credit facilities and
+
+loans, including:
+
+-
+
+long-term with floating interest rate OFLMAC
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+overdraft facility
+
+OFLMAC
+
+(2 681)
+
+/*
+
+-
+
+-
+
+-
+
+(242) (2 923)
+
+short-term loans
+
+OFLMAC
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Liabilities due to cash pooling
+
+OFLMAC
+
+(249)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(249)
+
+Liabilities due to financial leasing
+
+OFLMAC
+
+(6)
+
+Currency contracts
+
+FVTPL
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Trade and other liabilities
+
+OFLMAC
+
+(1 309)
+
+/*
+
+-
+
+-
+
+-
+
+(335) (1 644)
+
+The financial year closed on 31 December 2016
+
+54
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+31.12.2016 Financial asstes
+
+Category in Interest
+
+line with revenue/(expense Exchange
+
+IAS 39
+
+)
+
+gains/(losses)
+
+Released/ (recognized) impairment losses
+
+Measurement gains/(losses)
+
+Gains/(losses)on
+
+sales of financial
+
+instruments
+
+Other
+
+Razem
+
+Originated short-term loans Trade and other receivables Currency forwards Cash and cash equivalents
+
+L&R L&R FVTPL FVTPL
+
+-
+
+-
+
+-
+
+-
+
+(1 875)
+
+/*
+
+(283)
+
+-
+
+-
+
+(883)
+
+-
+
+-
+
+131
+
+/*
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(271) (2 429)
+
+-
+
+-
+
+(883)
+
+-
+
+-
+
+131
+
+Financial liabilities
+
+Interest-bearing credit facilities and
+
+loans, including:
+
+-
+
+long-term with floating interest rate OFLMAC
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+overdraft facility
+
+OFLMAC
+
+(3 350)
+
+/*
+
+-
+
+-
+
+-
+
+(250)
+
+short-term loans
+
+OFLMAC
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Liabilities due to cash pooling
+
+OFLMAC
+
+(231)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Currency contracts
+
+FVTPL
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Trade and other liabilities
+
+OFLMAC
+
+(1 820)
+
+/*
+
+-
+
+-
+
+-
+
+-
+
+/* In line with the accounting principles applicable to cash flows, as used by the Company, exchange differences on all monetary assets and liabilities regarded as effective hedges are recognized on an aggregate basis in other comprehensive income and then reclassified as an adjustment to sales revenue when the hedged sales are made.
+
+(3 600)
+-
+(231) -
+(1 820)
+
+55
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+34.3. Hedges
+34.3.1 Cash flow hedges
+The Company hedges the foreign currency risk associated with sales indexed to EUR and USD exchange rates and denominated in these currencies using foreign currency monetary items, i.e. trade liabilities less trade receivables and cash, and FX forwards and FX swaps relating to foreign currency sales/purchases plus/less the nominal value. The Company identifies designated foreign currency monetary items as hedging instruments in the cash flow hedge model and recognizes them in accordance with the hedge accounting principles.
+The tables below present the key parameters of foreign currency monetary items allocated for hedging instruments, including periods where cash flows will occur arising from the cash flow hedges and where they will affect the financial result, as well as their fair value in PLN thousand as at 31 December 2017.
+Hedging instruments ­ EUR
+
+Instrument type Trade liabilities Trade receivables Cash FX Forward EUR** Total monetary items
+
+Nominal amount 31.12.2017 31.12.2016
+(146 269) (245 430)
+
+85 889
+
+119 298
+
+(33 961) (29 948)
+
+(94 341)
+
+(156 080)
+
+Fair value*
+
+Expected maturity of hedged position
+
+31.12.2017 31.12.2016
+
+31.12.2017
+
+31.12.2016
+
+(146 269)
+
+(245 430) January/February January/February
+
+2018
+
+2017
+
+85 889
+
+119 298 January/February January/February
+
+2018
+
+2017
+
+(33 961)
+
+(29 948) January/February January/February
+
+2018
+
+2017
+
+-
+
+- January/February January/February
+
+2018
+
+2017
+
+(94 341) (156 080)
+
+Hedging instruments ­ USD
+
+Instrument type Trade liabilities Trade receivables Cash FX Forward USD** Total monetary items
+
+Nominal amount 31.12.2017 31.12.2016
+(147 016) (72 293)
+
+21 053
+
+16 545
+
+638
+
+(22 509)
+
+41 511 (83 814)
+
+4 179 (74 078)
+
+Fair value*
+
+Expected maturity of hedged position
+
+31.12.2017 31.12.2016
+
+31.12.2017
+
+31.12.2016
+
+(147 016)
+
+(72 293) January/February January/February
+
+2018
+
+2017
+
+21 053
+
+16 545 January/February January/February
+
+2018
+
+2017
+
+638
+
+(22 509) January/February January/February
+
+2018
+
+2017
+
+(481)
+
+(14) January/February January/February
+
+2018
+
+2017
+
+(125 806) (78 271)
+
+* For items other than FX forward transactions, the carrying amount has been presented. According to the Company, the carrying amount of these items does not differ considerably from their fair value.
+** Negative values represent forward transactions to sell foreign currencies. Positive values represent forward transactions to purchase foreign currencies.
+
+56
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+Changes in the fair value of cash flow hedges recognized in equity are presented below:
+
+Opening balance Effective portion of profit/loss on hedging instrument Amounts charged to profit or loss, including:
+- Adjustment of sales revenue - Adjustment arising from hedge ineffectiveness Closing balance
+
+31.12.2017 (1 467) 23 571 19 867 19 867 2 237
+
+31.12.2016 (71)
+(16 759) (15 363) (15 363)
+(1 467)
+
+35. Capital management
+The key objective of the Management Board is to maintain a capital structure that would enable the Company's growth, guarantee return on investment for the shareholders, and ensure that the lenders' opinion on the Company is positive. The Company monitors the capital structure on the basis of the net debt / EBITDA ratio. Net debt includes liabilities arising from loans and credit facilities, cash pool liabilities, less cash and cash equivalents. EBITDA is defined as the net financial result determined in accordance with IFRS-EU, plus depreciation and amortization, impairment losses on property, plant and equipment, and intangible assets, net financial expenses and income tax.
+
+As at 31 December 2017 and 31 December 2016 the ratio was as follows:
+Net debt EBITDA Net debt ratio
+
+31.12.2017
+136 159 28 846
+4.7
+
+31.12.2016
+100 594 14 041
+7.2
+
+The Company aims to maintain the ratio at the maximum level of 4, calculated based on the consolidated data. The growth strategy adopted by the ABC Data Capital Group assumes an amplification of regional operations while maintaining the leading position of the Company when dealing with the suppliers. This will allow the Company to maximize benefits from the existing vendor contracts to which ABC Data SA is part, boosted by local resources depending on the needs or the perceived potential of a particular offer. Such an approach results in an increased demand for working capital at the Company, which, combined with the contribution of regional operations, results in maintaining a low level of the ratio as calculated based on consolidated data in accordance with the growth strategy pursued by the Group. The Management Board pro-actively shapes the ratio by implementing and enforcing procedures aimed at optimizing the demand for working capital loan. Furthermore, the ratio is adjusted by means of changing the dividend level or issuing shares. Additionally, in accordance with the Code of Commercial Companies, the Company is obliged to create supplementary capital by appropriating at least 8% of profit for each financial year, until its balance corresponds to at least one third of the share capital.
+
+57
+
+ABC Data S.A. Consolidated Financial Statements for the financial year closed on 31 December 2017
+Accounting Principles (Policy) and Supplementary Explanatory Notes (PLN `000)
+
+36. Headcount structure
+
+Average headcount in the Company in the financial years closed on 31 December 2017 and 31 December 2016:
+
+Management Board* Administration Sales Logistics
+
+31.12.2017 2
+117 176 124
+
+31.12.2016 4
+135 178 121
+
+Total
+
+419
+
+438
+
+* The data covers all members of the Management Board regardless of the legal relation with the Company.
+
+37. Events after the balance sheet date
+
+No events that would have a material effect on this statement without being reflected herein occurred after the balance sheet date.
+
+Ilona Weiss President
+
+Andrzej Kuniak Vice-President
+
+Warsaw, 19 April 2018
+
+Arkadiusz Lew-Kiedrowski Vice-President
+
+Krystyna Cybulska Chief Accountant
+
+58
+
+

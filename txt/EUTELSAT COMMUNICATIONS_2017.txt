@@ -1,0 +1,3838 @@
+Eutelsat Communications Group
+"Société anonyme" with a capital of 232,774,635 euros Registered office: 70, rue Balard 75015 Paris 481 043 040 R.C.S. Paris
+CONSOLIDATED FINANCIAL STATEMENTS AS OF 30 June 2017
+Eutelsat Communications 1
+
+NOTE.1 NOTE.2 NOTE.3 NOTE.4 NOTE.5 NOTE.6 PROGRESS NOTE.7 NOTE.8 NOTE.9 NOTE.10 NOTE.11 NOTE.12 NOTE.13 NOTE.14 NOTE.15 NOTE.16 NOTE.17 NOTE.18 NOTE.19 NOTE.20 NOTE.21 NOTE.22 NOTE.23 NOTE.24 NOTE.25 NOTE.26 NOTE.27 NOTE.28 NOTE.29 NOTE.30 NOTE.31 NOTE.32 NOTE.33 NOTE.34
+
+KEY EVENTS DURING THE FINANCIAL PERIOD ..................................................... 9 GENERAL OVERVIEW .................................................................................................... 9 BASIS OF PREPARATION OF FINANCIAL INFORMATION ..................................... 9 SIGNIFICANT ACCOUNTING POLICIES.................................................................... 10 GOODWILL AND OTHER INTANGIBLES .................................................................. 18 SATELLITES, OTHER PROPERTY AND EQUIPMENT AND CONSTRUCTION IN 18 INVESTMENTS IN ASSOCIATES................................................................................. 20 ASSETS HELD FOR SALE ............................................................................................. 20 NON-CURRENT FINANCIAL ASSETS ........................................................................ 20 INVENTORIES ................................................................................................................ 20 ACCOUNTS RECEIVABLE ........................................................................................... 20 OTHER CURRENT ASSETS .......................................................................................... 22 CURRENT FINANCIAL ASSETS .................................................................................. 22 CASH AND CASH EQUIVALENTS .............................................................................. 22 FINANCIAL ASSETS...................................................................................................... 23 SHAREHOLDERS' EQUITY........................................................................................... 25 FINANCIAL DEBT .......................................................................................................... 28 OTHER FINANCIAL LIABILITIES ............................................................................... 29 FINANCIAL LIABILITIES ............................................................................................. 30 OPERATING AND FINANCE LEASES ........................................................................ 32 OTHER PAYABLES AND DEFERRED REVENUES................................................... 32 INCOME TAX .................................................................................................................. 33 PROVISIONS ................................................................................................................... 35 SEGMENT INFORMATION ........................................................................................... 39 FINANCIAL RESULT ..................................................................................................... 42 EARNINGS PER SHARE ................................................................................................ 42 FINANCIAL INSTRUMENTS ........................................................................................ 42 PURCHASE COMMITMENTS ....................................................................................... 46 LITIGATION AND CONTINGENT LIABILITIES........................................................ 47 RELATED-PARTY TRANSACTIONS........................................................................... 47 STAFF COSTS ................................................................................................................. 49 SCOPE OF CONSOLIDATION....................................................................................... 50 SUBSEQUENT EVENTS ................................................................................................ 51 STATUTORY AUDITORS' FEES .................................................................................. 51
+
+Eutelsat Communications 2
+
+CONSOLIDATED BALANCE SHEET
+(in millions of euros)
+ASSETS Non-current assets Goodwill Intangible assets Satellites and other property and equipment Construction in progress Investments in associates Non-current financial assets Deferred tax assets Total non-current assets Current assets Inventories Accounts receivable Other current assets Current tax receivable Current financial assets Cash and cash equivalents Total current assets Assets held for sale Total assets
+
+Note
+
+30 June 2016 30 June 2017
+
+5 5 6 6 7 9, 15 22
+10 11 12
+13, 15 14
+8
+
+1,166.3 751.9
+4,305.4 694.2 10.1 8.5
+6,936.3
+2.8 406.4 37.8 11.8 31.3 1,153.8 1,643.9 301.9 8,882.1
+
+1,150.8 702.5
+4,134.0 759.9 (0.4) 22.0 5.6
+6,774.4
+3.0 345.4 46.4
+4.5 29.2 408.0 836.3 300.7 7,911.3
+
+Eutelsat Communications 3
+
+(in millions of euros)
+LIABILITIES AND SHAREHOLDERS' EQUITY Shareholders' equity Share capital Additional paid-in capital Reserves and retained earnings Non-controlling interests Total shareholders' equity Non-current liabilities Non-current financial debt Other non-current financial liabilities Non-current asset payables Other non-current payables and deferred revenues Non-current provisions Deferred tax liabilities Total non-current liabilities Current liabilities Current financial debt Other current financial liabilities Accounts payable Current fixed assets payable Taxes payable Other current payables and deferred revenues Current provisions Total current liabilities Total liabilities and shareholders' equity
+
+Note
+
+30 June 2016 30 June 2017
+
+16
+17, 19 18, 19 21.1 23 22
+17, 19 18, 19 19
+21.2 23
+
+232.8 738.1 1,682.7 81.2 2,734.8
+3,302.4 1,053.9
+15.5 140.6 128.4 270.6 4,911.3
+927.3 49.0 66.7 35.8
+3.5 135.7 18.0 1,236.0 8,882.1
+
+232.8 738.1 1,792.1 202.9 2,966.0
+3,252.9 798.1 27.3 119.3 97.3 253.1
+4,547.9
+60.9 67.6 54.6 40.1 2.2 136.6 35.6 397.5 7,911.3
+
+Eutelsat Communications 4
+
+CONSOLIDATED INCOME STATEMENT
+(in millions of euros, except per share data)
+Revenues from operations Operating costs Selling, general and administrative expenses) Depreciation and amortisation Other operating income (1) Other operating expenses (2) Operating income Cost of debt Financial income Other financial items Financial result Income from associates Net income before tax Income tax expense Net income Attributable to the Group Attributable to non-controlling interests Earnings per share attributable to Eutelsat Communications' shareholders Basic and diluted earnings per share in euros (3)
+
+Note 24.2 5, 6
+25 7 22
+26
+
+30 June 2016 30 June 2017
+
+1,529.0
+
+1,477.9
+
+(106.3)
+
+(99.0)
+
+(258.1) (500.6)
+-
+
+(245.4) (532.9)
+31.1
+
+(2.0)
+
+(17.0)
+
+662.0
+
+614.8
+
+(115.1)
+
+(127.2)
+
+3.2
+
+1.5
+
+(11.2) (123.0)
+23.5 562.6 (199.8) 362.8 348.5
+14.3
+
+(5.2) (130.9)
+(0.4) 483.5 (120.1) 363.4 351.8
+11.6
+
+1.516
+
+1.512
+
+(1) The other operating income is mainly related to proceeds from the disposal of assets, as detailed in Note 3.7 ­ Changes in scope of consolidation. (2) Other operating expenses are mainly composed of scrapping of assets and provisions. (3) There are no dilutive instruments as of 30 June 2016 and 30 June 2017.
+
+Eutelsat Communications 5
+
+COMPREHENSIVE INCOME STATEMENT
+
+(in millions of euros)
+Net income Other recyclable items of gain or loss on comprehensive income Translation adjustment Tax effect Changes in fair value of hedging instruments (1) Tax effect Other non-recyclable items of gain or loss on comprehensive income Changes in post-employment benefits Tax effect Total of other items of gain or loss on comprehensive income Total comprehensive income Attributable to the Group Attributable to non-controlling interests (2)
+
+Note
+
+30 June 2016 30 June 2017
+
+362.8
+
+363.4
+
+16.5
+
+(22.4)
+
+(37.5)
+
+16.5
+
+7.1
+
+(4.9)
+
+16.4
+
+(57.1)
+
+46.9
+
+22.2
+
+19.7
+
+(16.1)
+
+(20.7)
+
+23.4
+
+22.2
+
+7.1
+
+(11.5)
+
+(66.2)
+
+0.1
+
+296.5
+
+363.5
+
+284.7
+
+351.9
+
+11.8
+
+11.6
+
+(1) Covers only cash-flow hedges. Net foreign investment hegdes are recorded as translation adjustments. (2) The portion attributable to non-controlling interests breaks down as follows:
+- Net result for 14.3 million euros as of 30 June 2016 and 11.6 million euros as of 30 June 2017; - Other recyclable items of gain or loss on comprehensive income for (2.0) million euros as of 30 June 2016 and (0.4) million euros as of 30 June 2017; - Other non-recyclable items of gain or loss on comprehensive income for (0.5) million euros as of 30 June 2016 and 0.4 million euros as of 30 June 2017.
+
+Eutelsat Communications 6
+
+CONSOLIDATED STATEMENT OF CASH FLOWS
+
+(in millions of euros) CASH FLOW FROM OPERATING ACTIVITIES Net income Income from equity investments Tax and interest expense, other operating items Depreciation, amortisation and provisions Deferred taxes Changes in accounts receivable Changes in other assets Changes in accounts payable Changes in other debt Taxes paid Net cash flows from operating activities CASH FLOWS FROM INVESTING ACTIVITIES Acquisitions of satellites, other property and equipment and intangible assets Acquisition of control Sale of entities
+Dividends received from associates and other items
+Net cash flows from investing activities CASH FLOWS FROM FINANCING ACTIVITIES Distributions Increase in borrowings Repayment of borrowings Repayment of finance lease liabilities (1) Loan set-up fees Interest and other fees paid Interest received Transactions relating to non-controlling interests (2) Other changes Net cash flows from financing activities
+Impact of exchange rate on cash and cash equivalents
+
+Note 7 22.1
+5, 6 7 17 17
+3.7
+
+30 June 2016
+362.8 (23.5) 283.0 513.5
+20.0 (115.5)
+(2.1) (2.2) 52.1 (192.4) 895.7
+(390.2) -
+4.6 1.5 (384.1)
+(109.6) 501.3 (19.4) (10.2) (2.1)
+(139.3) 5.3 -
+(1.4) 224.6
+(2.6)
+
+30 June 2017
+363.4 0.4
+270.0 548.4 (47.2) 52.8 (3.7) (3.0) (42.1) (156.1) 982.9
+(393.0) -
+36.7 4.5
+(351.8)
+(266.2) -
+(912.9) (186.2)
+(1.2) (160.7)
+151.0 (0.8) (1,377.0)
+-
+
+INCREASE/(DECREASE) IN CASH AND CASH EQUIVALENTS
+
+733.6
+
+(745.9)
+
+Cash and cash equivalents, beginning of period
+Cash and cash equivalents, end of period Cash reconciliation Cash Overdraft included under debt
+
+420.3 1,153.8
+
+14
+
+1.153.8
+
+17.1
+
+-
+
+1,153.8 408.0
+408.0 -
+
+Cash and cash equivalents per cash flow statement
+
+1,153.8
+
+408.0
+
+(1)
+
+Payments during FY 2016-2017 of sums due to RSCC with respect to the EUTELSAT 36C satellite, blocked during FY 2015-16 as a result of the procedure
+
+related to Yukos.
+
+(2)
+
+Transactions related to non-controlling interests as of 30 June 2017are explained by "equity contributions in cash":
+
+- investment by Viasat Inc in Eurobroadband Infrastructure for 132.5 million euros;
+
+- investment by Inframed in Broadband4Africa for 18.5 million euros.
+
+Eutelsat Communications 7
+
+CONSOLIDATED STATEMENT OF CHANGES IN SHAREHOLDERS' EQUITY
+
+(in millions of euros, except share data)
+
+Number
+
+Common stock Amount
+
+Additional paid in capital
+
+Reserves and retained
+earnings
+
+Shareholders' equity Groupshare
+
+Non-controlling interests
+
+As of 30 June 2015 Net income for the period Other items of gain or loss on comprehensive income Total comprehensive income Treasury stock Distributions Benefits for employees upon exercising options and free shares granted Transactions with non-controlling interests and others As of 30 June 2016 Net income for the period Other items of gain or loss on comprehensive income (1) Total comprehensive income Treasury stock Distributions Benefits for employees upon exercising options and free shares granted (2) Transactions with non-controlling interests and others As of 30 June 2017
+
+226,972,338 -
+5,802,297 -
+232,774,635 -
+232,774,635
+
+227.0 -
+5.8 -
+232.8 -
+232.8
+
+594.0 -
+144.0 -
+738.0 -
+738.0
+
+1,651.8 348.5 (63.8) 284.7 (3.6)
+(247.2) 0.1
+(3.2) 1,682.7
+351.8 0.1
+351.9 (0.1) (255.8)
+0.2 13.3 1,792.1
+
+2,472.8 348.5 (63.8) 284.7 (3.6) (97.4) 0.1 (3.2)
+2,653.5 351.8 0.1 351.9 (0.1)
+(255.8) 0.2
+13.3 2,763.0
+
+61.1 14.3 (2.5) 11.8
+(12.5)
+20.8 81.2 11.6
+11.6
+(10.5)
+120.7 202.9
+
+(1) Changes in other items of gain and loss on comprehensive income are detailed in Note 16.4 - Change in the revaluation surplus of financial instruments, and Note 16.5 - Translation reserve. (2) Transactions with non-controlling interests are mainly related to a 49% equity investment by Viasat Inc in Eurobroadband Infrastructure (see Note 3.7 - Changes in scope of consolidation).
+
+Total
+2,533.9 362.8 (66.2) 296.5 (3.6)
+(109.9) 0.1
+17.6 2,734.8
+363.4 0.1
+363.5 (0,1) (266.3)
+0.2 134.0 2,966.0
+
+Eutelsat Communications 8
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE.1
+
+KEY EVENTS DURING THE FINANCIAL PERIOD
+
+ On 12 July 2016, Eutelsat initiated the process of selling its equity interest in Hispasat by exercising the put option granted in 2008 by Abertis Group, Hispasat's majority shareholder. An agreement was reached on 18 May 2017. The closing of the transaction is expected during the financial period ending 30 June 2018 and is subject to approval by the Spanish Government and to certain usual prerequisites.
+
+ The Ka spot beams embarked on the E36C satellite have entered commercial service on 07 September 2016.
+
+ Following its successful launch on 15 June 2016, the EUTELSAT 117WB satellite went into operational service in January 2017.
+
+ The EUTELSAT 172B satellite was successfully launched on 02 June 2017 by an Ariane 5 rocket. It is due to enter service during the financial year 2017-2018.
+
+NOTE.2
+
+GENERAL OVERVIEW
+
+2.1 BUSINESS
+
+ The Eutelsat Communications Group (Eutelsat S.A. and its direct and indirect subsidiaries) is a private telecommunications satellite operator involved in the design, establishment, operation and maintenance of satellite telecommunications systems.
+ As of 30 June 2017, the Group operates via Eutelsat S.A. and its direct and indirect subsidiaries 39 satellites in geostationary orbit (including 5 satellites belonging to third parties or to related parties (see Note 30 ­ Related-party transactions) on which the Group uses additional capacity) to provide capacity (assignment and availability) to major international telecommunications operators and international broadcasting companies for television and radio broadcasting services (analogue and digital), for business telecommunications services, multimedia applications and messaging and positioning services.
+
+2.2 APPROVAL OF THE FINANCIAL STATEMENTS
+The consolidated financial statements at 30 June 2017 have been prepared under the responsibility of the Board of Directors, which adopted them at its meeting of 27 July 2017. They will be submitted for approval to the Ordinary General Meeting of Shareholders to be held on 08 November 2017.
+
+NOTE.3
+
+BASIS OF PREPARATION OF FINANCIAL INFORMATION
+
+3.1 COMPLIANCE WITH IFRSs
+
+The financial statements at 30 June 2017 have been prepared in accordance with the IFRSs as adopted by the European Union and effective as of that date.The relevant texts are available for consultation on the following website:
+http://ec.europa.eu/internal_market/accounting/ias/index_fr.htm
+The financial statements have been prepared on a historical cost basis except for certain items for which the standards require measurement at fair value.
+
+3.2 ACCOUNTING PRINCIPLES
+Since 01 July 2016, the Group has applied the following standards and interpretations which have been adopted by the European Union: - Amendment to IFRS 11: Accounting for Acquisitions of Interests in Joint Operations; - Amendment to IAS 1: Disclosure Initiative; - Amendments to IAS 16 and IAS 38: Clarifications of Acceptable Methods of Depreciation and Amortisation; - Improvements to IFRSs (2012-2014 cycle).
+Applying these standards, amendments and interpretations had no significant impact on the Group's financial statements. Furthermore, no standard, interpretation or amendment has been applied in advance by the Group. The Group is currently analysing the practical impact of these new texts and the effects of applying them in the financial statements. This concerns:
+- IFRS 9 "Financial instruments". The date of first-time adoption by the Group is 1st July 2018. - IFRS 15 "Revenue from Contracts with Customers". The date of first-time adoption by the Group is 1st July 2018. - IFRS 16 "Leases" (see Note 20 ­ Operating and finance leases). The date of first-time adoption by the Group is 1st July 2019.
+
+Eutelsat Communications · 9
+
+Eutelsat is currently assessing the potential impact on the income statement, the balance sheet, the comprehensive income statement, the statement of cash flows and on the notes to the consolidated financial statements resulting from the application of these standards.
+3.3 ACCOUNTING PROCEDURES APPLIED BY THE GROUP IN THE ABSENCE OF SPECIFIC ACCOUNTING STANDARDS
+The "Cotisation sur la Valeur Ajoutée des Entreprises" or CVAE (Business contribution on the added value) was considered by the Group as an operating expense that does not meet the criteria laid down in IAS 12 "Income taxes" and therefore does not give rise to deferred taxes.
+3.4 PRESENTATION OF THE INCOME STATEMENT
+Operating costs essentially comprise staff costs and other costs associated with controlling and operating the satellites in addition to satellite in-orbit insurance premiums. Selling, general and administrative expenses are mainly made up of costs for administrative and commercial staff, all marketing and advertising expenses and related overheads.
+3.5 SIGNIFICANT ACCOUNTING JUDGEMENTS AND ESTIMATES
+Preparation of the Group's consolidated financial statements requires Management to make estimates and judgements that are likely to affect the amounts of certain assets, liabilities, income and expenses appearing in these financial statements and their accompanying Notes. Eutelsat Communications constantly updates its estimates and assessments using past experience in addition to other relevant factors in relation to the economic environment. The close down of the transactions underpinning these estimates and assumptions could result in significant adjustments to the amounts that are recognised in a subsequent financial period because of the uncertainty that surrounds them.
+Judgements
+In preparing the financial statements for the period ended 30 June 2017, Management has exercised judgement, particularly with regard to the recoverable amounts of assets, contingent liabilities, provisions, customer risk assessment and the functional currency used by the consolidated entities.
+3.6 PERIODS PRESENTED AND COMPARATIVES
+The financial year of Eutelsat Communications runs for 12 months and ends on 30 June. The reference currency and the presentation currency used to issue financial statements is the euro.
+3.7 CHANGES IN SCOPE OF CONSOLIDATION
+Eurobroadband Infrastructure and Eurobroadband Retail
+In March 2017, Eutelsat Communications and ViaSat Inc. closed a partnership arrangement combining Eutelsat's established European fixed broadband business with ViaSat's broadband technology and Internet Service Provider (ISP) expertise. Eutelsat contributed its European broadband activity, including the KA-SAT satellite, to a newly established entity owned 49% by ViaSat for a total amount of 132.5 million euros contributed in cash. The transaction resulted in a 121.0 million euro increase in non-controlling interests within the Group's shareholders' equity. Eutelsat has acquired a 49% interest in Eurobroadband Retail, a newly established entity (see Note 7 - Investments in associates). The impact on the Group's financial statements as of 30 June 2017 is not significant.
+Wins/ DHI
+The Group sold Wins Ltd and its subsidiaries in August 2016. These entities were excluded from the Group's scope of consolidation at the date of loss of control. The corresponding gain or loss is recognised within "Other operating income".
+
+NOTE.4
+
+SIGNIFICANT ACCOUNTING POLICIES
+
+4.1 CONSOLIDATION METHOD
+
+As required under IFRS 10, companies in which the Group holds directly or indirectly more than 50% of voting rights at general meetings of shareholders, at meetings of boards of directors or in any equivalent governing bodies, giving it the power to direct their operational and financial policies, are generally deemed to be controlled and consolidated under the full consolidation method. To determine control, Eutelsat Communications carries out an in-depth analysis of the established governance arrangements and of the rights held by other shareholders. Where necessary, an analysis is performed in relation to instruments held by the Group or by third parties that, if exercised, could alter the type of influence exerted by each party.
+Eutelsat Communications · 10
+
+An analysis is performed if a specific event takes place that may affect the level of control exerted by the Group, (e.g. change in an entity's ownership structure or governance, exercise of a dilutive financial instrument, etc.).
+A subsidiary's income and expenses are included in the Group s consolidated financial statements from the date the Group gains control until the date the Group loses control of the subsidiary. The portion of equity ownership that is directly or indirectly attributable to the Group is recorded as non-controlling interests.
+Changes in the proportion of equity held in subsidiaries that do not result in change of control are accounted for as equity transactions, or transactions entered into with shareholders in their capacity as such.
+Gains or losses arising from these transactions are recognised, net of tax, within equity. Consequently, they have no impact on the Group's consolidated income statement.
+In accordance with IFRS 11, the Group's joint arrangements fall into two categories:
+- joint ventures: these are joint arrangements whereby the parties (called "joint venturers") that have joint control of the arrangement have rights to the net assets of the arrangement. Each joint venturer is required to recognise its right to the net asset of the arrangement using the equity method in accordance with IAS 28;
+- joint operations (if any): these are joint arrangements in which the parties (called "joint operators") that have joint control of the arrangement have rights to the assets, and obligations to the liabilities, relating to the arrangement. Each joint operator records 100% of the assets/liabilities, expenses/revenues relating to its interest in the joint operation, as well as the portion of assets held jointly.
+Associates are defined as entities over which the Group exerts significant influence. They are consolidated using the equity method, in accordance with IAS 28. Significant influence is presumed where more than 20% of the shares are held by the Group.
+The equity method is a method of accounting by which an investment in an associate or a joint venture is initially recorded at acquisition cost and subsequently adjusted to reflect the Group's share of income and other items of comprehensive income of the associate or the joint venturer. Net income from equity investments is included in the Group's consolidated income statement.
+4.2 ACCOUNTING TREATMENT FOR BUSINESS COMBINATIONS
+Business combinations are recognised using the purchase accounting method, in accordance with the revised IFRS 3. Under this method, the various components of an acquisition are recognised at their fair values with some exceptions. Accordingly,
+ the consideration transferred is measured at fair value. This includes contingent consideration that is also measured at fair value at the acquisition date, which takes into account probabilities of occurrence. Once classified as liabilities or as equity on the basis of their definition, obligations are entered as debts and subsequently remeasured at fair value, with their changes recorded under income;
+ costs directly attributable to the acquisition are expensed in the year during which they are incurred;
+ in the event of partial disposal, minority interests (known henceforth as "non-controlling interests") are measured on the option determined for each combination, either at fair value, or as their proportionate share of the assets acquired and liabilities assumed;
+ in a business combination achieved in stages (step acquisition), the previously held ownership interest is remeasured at its acquisition-date fair value. The difference between the fair value and the carrying amount of the ownership interest is recognised directly in income for the reporting period;
+ the identifiable assets, liabilities and contingent liabilities of the entity are recognised at their fair values at the acquisition date, with the exception of non-current assets classified as assets held for sale, which are measured at fair value less costs to sell, tax items and employee benefits which are recognised under IAS 12 and IAS 19 respectively.
+Goodwill represents the excess of consideration transferred and the value of non-controlling interests, if any, over the fair value of the acquiree's identifiable net assets and liabilities Depending on the option retained for the valuation of equity interest in an acquisition, the recognised goodwill represents either the only portion acquired by the Group (partial goodwill) or the aggregate of the Group's portion and the non-controlling interests' portion (full goodwill).
+Provisional fair values assigned at the date of acquisition to identifiable assets and liabilities may require adjustment as additional evidence becomes available to assist with the estimation (expert assessments still in progress at the acquisition date or additional analyses). When such adjustments are made prior to the end of a twelve-month period commencing on the date of acquisition, goodwill or negative goodwill is adjusted to the amount that would have been determined if the adjusted fair values had been available at the date of acquisition. When the carrying amounts are adjusted after the end of the twelve-month period, income or expense is recognised rather than an adjustment to goodwill or negative goodwill, except where these adjustments correspond to corrections of errors.
+4.3 OPERATIONS IN FOREIGN CURRENCIES
+ Transactions in foreign currencies
+Transactions denominated in foreign currencies are translated into the functional currency of the entity at the rate prevailing on the date of the transaction.
+Monetary assets and liabilities (including payables and receivables) in foreign currency are translated into the functional currency at end of period using the balance sheet rate. Resulting foreign-exchange gains and losses are recorded in the income statement for the period.
+Conversely, foreign exchange gains and losses arising from the translation of capitalisable advances made to foreign subsidiaries and forming part of the net investment in the consolidated subsidiary are recognised directly as "Translation adjustment" within shareholders' equity.
+The main foreign currency used is the U.S. dollar. The closing exchange rate used is 1.141 U.S. dollar for 1 euro and the average exchange rate for the period is 1.089 U.S. dollar for 1 euro.
+Eutelsat Communications · 11
+
+ Translation of foreign subsidiaries' financial statements
+Each subsidiary outside the euro zone maintains its accounting records in the currency that is most representative of its economic environment. Their financial statements are translated into euros using the closing-rate method. All assets and liabilities, including goodwill, are translated into euros using the exchange rate prevailing at the balance sheet date. Income and expenses are translated using an-average exchange rate for the period, unless the use of such rate becomes inappropriate due to major erratic changes over the period. The resulting translation difference is recorded as a separate item of shareholders' equity under "Translation adjustments".
+4.4 INTANGIBLE FIXED ASSETS
+ Intangible assets purchased separately or acquired in the context of a business combination
+Intangible assets purchased separately are recorded at their acquisition cost and those purchased in a business combination are recorded at fair value on the acquisition date when allocating the acquisition cost of the entity. The fair value is set by referring to the generally accepted methods such as those based on revenues or market value. Intangible assets consist of certain licences, the "Eutelsat" brand and the "Customer Contracts and Relationships" assets. Because their lifetimes are indefinite, the "Eutelsat" brand and the licences are not amortised but are systematically tested for impairment on a yearly basis. The "Customer Contracts and Relationships" assets are amortised on a straight-line basis over their economic life. This useful life was estimated on the basis of the average length of the contractual relationships existing at the date of acquisition of Eutelsat and taking into account anticipated contract renewal rates (see Note 4.7 - Impairment of non-current assets).
+ Research and development costs
+Development costs are recorded as intangible assets if the capitalisation criteria defined under IAS 38 "Intangible Assets" are met. Otherwise, they are expensed in the period in which they are incurred. Research costs are recorded as an item of expenditure. The Group spent 12.2 million euros on research and development during the financial period ended 30 June 2017, including development costs amounting to 7.4 million euros recorded as intangible assets. Research costs are recorded in the income statement under "Selling, general and administrative expenses".
+4.5 GOODWILL
+Goodwill is valued in the functional currency of the acquired entity at the date of the business combination as the difference between the aggregate of the fair value of consideration transferred and the amount of non-controlling interests, and the fair value of identifiable assets acquired and liabilities assumed. Goodwill arising on the acquisition of a subsidiary is separately identified in the consolidated balance sheet, under "Goodwill." Goodwill arising on the acquisition of an associated company is included within the book value of the investment within the line item "Investments in associates." After initial recognition at cost, goodwill is measured at cost, less any cumulative impairment losses. Goodwill is tested for impairment at least annually or whenever events or circumstances indicate that the carrying amount may be impaired. Such events or circumstances arise when there are significant adverse developments that call into question the recoverable amount of goodwill.
+4.6 SATELLITE AND OTHER PROPERTY AND EQUIPMENT
+Satellites and other property and equipment acquired separately ("Tangible fixed assets") are recognised at their acquisition cost, which includes all costs directly attributable to making the asset ready for use, less accumulated depreciation and any impairment. Borrowing costs incurred for the financing of tangible assets are capitalised with respect to the portion incurred during the period of construction. In the absence of a loan specifically related to the asset under construction, the capitalised interest is calculated on the basis of a capitalisation rate, which is equal to the weighted average of the borrowing costs of the Company during the period after taking into account the financing structure of the Group. Satellites ­ Satellite costs include all expenses incurred in bringing individual satellites into operational use, in particular manufacturing, launch and launch insurance costs, capitalised interest, satellite performance incentives, and costs directly associated with the monitoring of the satellite programme (studies, staff and consultancy costs). Ground equipment ­ This item comprises the monitoring and control equipment at various European locations and equipment at Group headquarters, including technical installations, office furniture and computer equipment. Depreciation and amortisation ­ Amortisation is calculated on a straight-line basis over the estimated useful lives of assets, which are determined on the basis of the expected use of the assets. Depreciation takes into account, as appropriate, the residual value of each asset or group of assets, starting from the date each asset enters into operational use.
+Eutelsat Communications · 12
+
+The useful lives of the main categories of fixed assets are as follows: Satellites Traffic monitoring equipment Computer equipment Leasehold arrangements and improvements
+
+12 ­ 22 years 5 ­ 10 years 2 ­ 5 years 3 ­ 10 years
+
+The Group conducts an annual review of the remaining useful lives of its in-orbit satellites on the basis of both their forecast utilisation and the technical assessment of their useful lives. When the useful life is reduced significantly, a depreciation test is performed and depreciation is calculated for the remaining years by taking into account the asset's new remaining useful life. Construction in progress ­ "Construction in progress" primarily consists of percentage completion payments for the construction of future satellites and advances paid in respect of launch vehicles and related launch insurance costs. Studies, staff and consultancy costs, interest and other costs incurred directly in connection with satellite acquisition are also capitalised. Assets under finance leases ­ Agreements whereby the Group uses specific capacity on all or part of a satellite's transponders are recognised as an asset with its corresponding liability in accordance with IAS 17 "Leases", when the terms and conditions of the contracts are such that they are considered as finance leases in that they transfer substantially to the Group all risks and rewards incidental to ownership for most of the lifetime of the asset. Assets are depreciated over the shorter of their useful lives and the corresponding lease terms.
+4.7 IMPAIRMENT OF NON-CURRENT ASSETS
+Goodwill and other intangible assets with an indefinite useful life, such as the brand, are systematically tested annually for impairment in December, or more frequently when an event or circumstance occurs indicating a potential loss in value. For tangible fixed assets and intangible assets with finite useful lives, such as the "Customer Contracts & Relationships" asset, an impairment test is performed when there is an external or internal indication that their recoverable values may be lower than their carrying amounts (for example, the loss of a major customer or a technical incident affecting a satellite). An impairment test consists of appraising the recoverable amount of an asset, which is the higher of its fair value net of disposal costs and its value in use. If it is not possible to estimate the recoverable value of a particular asset, the Group determines the recoverable amount of the cash generating unit (CGU) with which it is associated. A cash-generating unit is the smallest identifiable group of assets that generates cash inflows largely independent of the cash inflows from other assets or groups of assets. In order to define its CGUs, the Group takes into account the conditions of use of its fleet, and in particular the capacity of certain satellites to be used as back-up for other satellites. It is not always necessary to estimate both the fair value of an asset net of disposal costs and its value in use. If either of these amounts is higher than the book value of the asset, its value has not been impaired and there is no need to estimate the other amount. The Group estimates value in use on the basis of estimated future cash flows. These are generated by the asset or the CGU during its useful life and are discounted using the Group's WACC defined for the impairment testing, based on the medium-term plan approved by Management and reviewed by the Board of Directors. Revenues in the medium-term plan are based upon the order backlog for each satellite, market studies, and the deployment plan for existing and future satellites. Costs given in the plan that are used for the impairment test consist mainly of in-orbit insurance costs, satellite operation and control costs directly attributable to the satellites tested, as well as tax expenses. Beyond a maximum five-year period, cash flows are estimated on the basis of constant rates of growth or decline. The fair value net of selling costs is equal to the amount that could be received from the sale of the asset (or of one CGU) in the course of an arm's length transaction between knowledgeable, willing parties, less the costs relating to the transaction. Impairment losses and their reversals are recognised in the income statement under "Other operating income" and "Other operating expenses" respectively. An impairment of goodwill cannot be reversed. As of 30 June 2017, each satellite and "Customer Contracts and Relationships", grouped by orbital position (after taking into account the technical and economic interdependencies of their cash flows), were identified as CGUs.
+4.8 INVENTORIES
+Inventories are measured at the lower of acquisition cost and net realisable value. The calculation is at cost. The cost is calculated on a weighted average basis. Net realisable value is the estimated selling price in the ordinary course of business, less the estimated costs of completion and the estimated selling costs.
+4.9 FINANCIAL INSTRUMENTS
+Financial assets in respect of which changes in fair value are recorded in the income statement, including trading financial assets and derivatives, are initially recorded at fair value. Other financial assets and liabilities are recorded at cost, which is their fair value plus costs directly attributable to
+Eutelsat Communications · 13
+
+the transaction.
+In accordance with IAS 39 "Financial Instruments: Recognition and Measurement", IAS 32 "Financial Instruments: Presentation", and IFRS 7 "Financial Instruments: Disclosures", the Group has adopted the following classification for financial assets and liabilities, which is based on the objectives determined by Management at acquisition date. The designation and classification of these instruments are determined at initial recognition.
+4.9.1. Financial Assets
+Financial assets are classified, reported and measured as follows:
+ Financial assets measured at fair value through the income statement
+Financial assets measured at fair value through the income statement include financial instruments designated as being measured at fair value through the income statement at initial recognition. This category includes derivatives unless they are designated as hedges, and UCITS (managed on the basis of their fair values) measured by applying the fair value option through the income statement.
+These financial assets are recognised at fair value. Realised or unrealised gains and losses arising from changes in the fair value of these assets are recorded as financial income or expense.
+ Loans and receivables
+Loans and receivables are mainly composed of employee loans, guarantee deposits and accounts receivable, which generally have a maturity of less than 12 months.
+Accounts receivable are recorded initially at their nominal value, on account of the insignificant impact of discounting. Accounts receivable are subsequently recognised at cost less provisions for bad debts, as appropriate, booked as a result of the irrecoverable nature of the amounts in question.
+Other loans and receivables are measured at amortised cost, using the effective interest rate method.
+ Assets held for sale
+Held-for-sale financial assets are financial assets, other than derivatives, which have been designated as available for sale by Management or which have not been classified in the "Financial assets measured at fair value through the income statement", "Assets held to maturity" or "Loans and receivables" categories. Held-for-sale financial assets include investments other than investments in companies recognised and consolidated as equity investments, which Management intends to hold for an indefinite period of time. These investments are classified as financial assets under "Non-current financial assets."
+They are subsequently revalued at fair value, with gains and losses resulting from changes in fair value being recognised under shareholders' equity. When they are sold or when an impairment loss is recognised, the cumulative gains and losses previously entered under shareholders' equity are recorded in the financial result.
+Available-for-sale investments in equity instruments that do not have a quoted market price in an active market and whose fair value cannot be reliably measured are measured at their acquisition cost.
+4.9.2. Financial Liabilities
+Financial liabilities comprise bank loan and other debt instruments. They are initially recognised at the fair value of the consideration received, less directly attributable transaction costs. They are subsequently measured at amortised cost, using the effective interest rate method. Any differences between initial capital amounts (net of transaction costs) and repayable amounts are recorded as financial expense over the duration of the loans, using the effective interest rate method.
+4.9.3. Derivatives
+Derivatives that are not designated as hedging instruments are recognised at fair value, and any subsequent changes in fair value are posted to the financial result.
+Where a derivative instrument can be qualified as a hedging instrument, it is valued and recorded in accordance with the hedge accounting rules in IAS 39 "Financial Instruments: Recognition and Measurement" (see Note 4.10.5 - Hedging transactions).
+4.9.4. Impairment
+At each balance sheet date, the Group applies impairment tests to all financial assets in order to determine whether there is an indication of impairment. Impairment is recognised in the income statement when there is objective evidence that the asset is impaired.. Examples of target impairment indicators include defaulting on contractual payment terms, significant financial hardship of the lender or borrower, a likelihood of bankruptcy or an extended or significant decline in the price of the listed shares.
+Impairment losses, other than those related to accounts receivable and other debit operator balances, are recorded as financial expenses.
+The Group's customers mainly comprise international telecommunications operators, broadcasters and other users of commercial satellite communications. Management regularly monitors its exposure to credit risk and recognises allowances for bad customer debt and doubtful payments of other receivables, based on expected cash-flows, under the heading "selling, general and administrative expenses". The method of recognising allowances for bad debt is based on experience and is periodically applied to determine a recoverable percentage based on how long the receivables have been on our books.
+Impairment of investments in equity securities that do not have a quoted market price in an active market and are valued at cost, and of investments in equity instruments classified as held-for-sale financial assets measured at fair value, cannot be reversed.
+4.9.5. Hedging transactions
+Hedging transactions are carried out using derivatives. Changes in the fair value of the derivative instrument are used to offset the exposure of the hedged item to changes in fair value.
+Eutelsat Communications · 14
+
+Derivative instruments are designated as hedging instruments and recorded according to hedge accounting rules when the following conditions are met by the Group: (a) at the inception of the hedge, there is a formal designation and documentation of the hedging relationship and of Management's risk management objective and strategy for undertaking the hedge; (b) Management expects the hedge to be highly effective in offsetting risk; (c) for hedges of forecast transactions, the forecast transaction must be highly probable and must present an exposure to variations in cash flows that could ultimately affect reported income; (d) the effectiveness of the hedge should be capable of reliable measurement; and (e) the effectiveness of the hedge is assessed on an ongoing basis and determined to be highly effective throughout the period for which the hedge was designated. These criteria are applied where the Group uses derivatives designated as cash flow hedging instruments. Cash flow hedging involves a hedge of the exposure to variability in cash flows attributable to a particular risk associated with a recognised asset or liability or a highly probable anticipated future transaction that might affect reported income. Hedging of a net investment in a foreign operation involves a hedge of the foreign currency risk arising from nets assets held in a foreign operation which might affect Group net position. For these two types of hedges, changes in the fair value of a hedging instrument relating to the effective portion of the hedge are recognised in shareholders' equity, whereas changes in the fair value relating to the ineffective portion of the hedge are recognised in the income statement under financial result. The cumulative changes in the fair value of a hedging instrument previously recognised in shareholders' equity are reclassified in the income statement when the hedged transaction affects profit or loss. Reclassified gains and losses are recorded under profit and loss, at the level of the hedged item. Where the anticipated transaction leads to the recognition of a non-financial asset or liability, the cumulative changes in the fair value of the hedging instrument previously recognised in shareholders' equity are incorporated into the initial measurement of the asset or liability concerned.
+4.9.6 Fair value of financial instruments
+Fair value is the amount for which a financial asset could be exchanged, or a liability extinguished, between knowledgeable, willing parties in an arm's length transaction. The fair value of financial assets and liabilities traded on active markets (this is the case of certain equity interests and certain marketable securities and certain derivative instruments) is determined on the basis of the listed price or at the market value at the balance sheet date. The fair value of other financial instruments, assets or liabilities that are not listed on an active market is determined by the Group using appropriate valuation methods and assumptions reflecting market conditions at balance sheet date. The fair value of derivative instruments includes counterparty risk.
+4.9.7 Firm or conditional commitments to purchase non-controlling interests
+Under the IFRS 10 "Consolidated Financial Statements", and IAS 32 "Financial Instruments: Presentation", the Group recognises the fair value of firm or conditional commitments to purchase non-controlling interests as financial debt, offset by a reduction in non-controlling interests. Any change in the fair value of the obligation subsequent to its initial recognition is treated as an adjustment affecting the income statement.
+4.10 CASH AND CASH EQUIVALENTS
+Cash and cash equivalents mainly consist of cash on hand and at bank, as well as short term deposits or investment certificates with original maturities of three months or less, and also mutual fund investments that are easily convertible into a known amount of cash, the liquid value of which is determined and published daily and for which the risk of a change in value is insignificant.
+4.11 SHAREHOLDERS' EQUITY
+o Treasury stock
+Treasury stock is recognised by reducing shareholders' equity on the basis of the acquisition cost. When the shares are sold, any gains and losses are recognised directly in consolidated reserves net of tax and are not included under income for the year.
+o Costs for capital increases
+External costs directly related to increases in capital, reduction of capital and treasury stock buy-backs are allocated to additional paid-in capital, net of taxes when an income tax saving is generated.
+o Grant of stock options
+Rewards granted to employees under stock-option plans are measured on the date the options are granted and represent additional employee compensation. This is recognised under personnel expenses over the vesting period of the rights representing the reward granted to the employee and is offset by increases in equity (equity settled plans) or by recognition of a debt (for plans deemed to be cash-settled plans). Similarly, in accordance with IFRS 2 "Share-based Payment", awards granted to employees in the form of public issues or other capital transactions are measured at grant date. They constitute additional compensation, which is recorded during the financial year as an expense recognised over the vesting period.
+Eutelsat Communications · 15
+
+4.12 REVENUE RECOGNITION
+The Group's revenues are mainly attributable to the allotment of space segment capacity on the basis of terms and conditions set out in the lease contracts. These contracts usually cover periods ranging from several months to several years. Contracts usually provide for the right to free-of-charge time in cases of service interruptions caused by under-performing transponders. Some contracts also provide for early termination. Revenues are recognised over the contractual period during which services are performed, provided that a contract exists and the price is fixed or determinable, and provided that, as of the date it is reported in the accounts, it is probable that the debt will be recovered. Deferred revenues include unearned balances of amounts received in advance from customers. Such amounts are recorded as revenue over the corresponding duration of the relevant transponder contracts or of the services provided.
+4.13 OTHER OPERATING INCOME AND EXPENSES
+The other operating income and expenses include:  Significant and infrequent factors such as impairment of tangible and intangible assets, launch failures and their related insurance
+reimbursements, national and international non-commercial litigations, less the legal costs incurred, as well as restructuring costs;  The impacts of changes in scope (such as business combination costs and sales of tangible assets); see Note 3.7 - Changes in scope of
+consolidation.
+4.14 DEFERRED INCOME TAX
+Deferred taxes are the result of temporary differences arising between the tax base of an asset or liability and its book value. Deferred taxes are recognised for each fiscal entity in respect of all temporary differences, with some exceptions, using the balance sheet liability method. Accordingly, deferred tax liabilities are recognised for all taxable temporary differences except:  where the deferred tax liability arises from goodwill for which amortisation is not deductible for tax purposes or from the initial recognition of an
+asset or liability other than in a business combination which, at the time of the transaction, does not affect the accounting or the taxable profit, or the tax loss; and  when the deferred tax liability arises from investments in subsidiaries, associated companies or joint ventures unless the Group is able to control the reversal of the difference and it is probable that the temporary difference will not be reversed in the foreseeable future. Deferred tax assets are recognised for all deductible temporary differences, unused tax losses and unused tax credits to the extent that it is probable that taxable income will be available against which the deductible temporary differences can be charged. However, a deferred tax asset is not recognised if it arises from a deductible temporary difference generated by the initial recognition of an asset or liability other than in a business combination which, at the time of the transaction, does not affect the accounting or the taxable profit, or the tax loss. The book value of deferred tax assets is reviewed at each balance sheet date and reduced to the extent that it is no longer probable that sufficient taxable income will be available to allow the benefit of part or all of the deferred tax assets. Deferred tax assets and liabilities are measured at the tax rates that are expected to apply to the period when the asset is realised or the liability is settled, based on tax rates (and tax laws) that have been enacted or substantively enacted at balance sheet date. Deferred taxes are not discounted and are recorded as non-current assets and liabilities.
+4.15 EARNINGS PER SHARE
+EPS (earnings per share) are calculated by dividing the net income for the period attributable to ordinary shareholders of the entity by the weighted average number of common shares outstanding during the period.
+4.16 POST-EMPLOYMENT BENEFITS
+The Group's retirement schemes and other post-employment benefits consist of defined contribution plans and defined benefit plans. Defined benefit plans are plans for which the Group, or any of its entities, has contractually agreed to provide a specific amount or level of benefits following retirement. The cost of this defined benefit obligation, including lump sum retirement indemnities and other post-employment benefits is entered as a liability on the basis of an actuarial valuation of the obligations to employees at year-end, using the projected unit credit method. This method accrues the employee's pension benefit by periods of service according to the formula for entitlement to benefits under the plan. The value of expected future payments is determined on the basis of demographic and financial assumptions such as mortality, staff turnover, salary growth, and age at retirement. The rate used to discount estimated cash flows is determined by reference to an underlying pool of AA-rated corporate bonds with maturities in line with those of the schemes being valued. A complete assessment of the discounted present value of the benefit is outsourced each year and reviewed at interim periods to identify any significant changes. The pension cost for the period, consisting of service cost, is posted to operating income, whereas actuarial gains and losses are recognised in equity. Management of the defined contribution plans is performed by an independent entity to which the Group has the obligation to make regular
+Eutelsat Communications · 16
+
+contributions. All payments made by the Group with respect to these plans are recognised in operating costs for the period.
+4.17 FINANCIAL GUARANTEE GRANTED TO A PENSION FUND
+Following the acquisition of Eutelsat S.A. in April 2005, the Group granted a financial guarantee to the pension fund for the obligations that had been assigned to a trust prior to the contribution transactions that led to the creation of Eutelsat. This defined-benefit pension scheme was closed and the vested pension rights were frozen prior to the transfer. The risk resulting from this financial guarantee has been analysed, assessed and reported in the same way as defined benefit plan obligations described in Note 4.17 - Post-employment benefits, despite the fact that the Group has not directly assumed the legal commitments entered into by the Intergovernmental Organisation ("IGO") in respect of the pension fund.
+4.18 PROVISIONS
+A provision is made when, at the balance sheet date, (i) the Group has a present legal or constructive obligation as a result of a past event, (ii) it is probable that an outflow of resources will be required to settle the obligation, and (iii) a reliable estimate of the amount involved can be made. The amount recognised as a provision represents the best estimate of the expenditure required to settle the present obligation at the balance sheet date. If the effect of the time value of money is material, the amount of the provision will be equal to the discounted value of anticipated expenditure needed to settle the obligation. The discounted value is calculated using a pre-tax discount rate that reflects the current market assessments of the time value of money and the risks specific to the liability. Increases in provisions recorded to reflect the passage of time and the effect of discounting are recognised as financial expenses in the income statement.
+Eutelsat Communications · 17
+
+NOTE.5
+
+GOODWILL AND OTHER INTANGIBLES
+
+"Goodwill and Other Intangibles" breaks down as follows:
+Changes in gross assets, depreciation and amortisation
+
+(in millions of euros)
+Gross assets Gross value as of 30 June 2015 Acquisitions Transfers Foreign-exchange variation Disposals and scrapping of assets Gross value as of 30 June 2016 Acquisitions Transfers Foreign-exchange variation Disposals and change in scope of consolidation Gross value as of 30 June 2017 Depreciation and amortisation Accumulated depreciation as of 30 June 2015 Depreciation and amortisation Reversals (disposals) Foreign-exchange variation Transfers Accumulated depreciation as of 30 June 2016 Depreciation and amortisation Reversals (disposals and change in scope of consolidation) Impairment Foreign-exchange variation Accumulated depreciation as of 30 June 2017 Net value as of 30 June 2015 Net value as of 30 June 2016 Net value as of 30 June 2017
+
+Goodwill
+
+Customer contracts and relationships
+
+Eutelsat brand
+
+Other intangibles
+
+Total
+
+1,165.0 -
+1.2 -
+1,166.3 -
+(9.0) (6.5) 1,150.8
+
+1,109.4 -
+0.8 (3.3) 1,107.0
+(6.0) (6.0) 1,095.0
+
+40.8 -
+40.8 -
+40.8
+
+220.1 11.0 6.8 4.0 -
+242.1 33.4 11.9 (2.0) (1.9) 283.5
+
+2,535.3 11.0 6.8 6.5 (3.3)
+2,556.2 33.4 11.9
+(16.9) (14.6) 2,570.0
+
+-
+
+(480.6)
+
+-
+
+(57.4)
+
+-
+
+3.3
+
+-
+
+-
+
+-
+
+(80.2)
+
+(560.8)
+
+-
+
+(23.1)
+
+(80.5)
+
+-
+
+-
+
+3.3
+
+-
+
+-
+
+-
+
+-
+1,165.0 1,166.3 1,150.8
+
+(534.7) (57.0)
+2.4 -
+1.5 (588.1)
+628.8 572.0 506.8
+
+-
+
+(103.3)
+
+(638.0)
+
+-
+
+(27.8)
+
+(84.8)
+
+-
+
+1.9
+
+4.3
+
+-
+
+-
+
+-
+
+-
+
+0.2
+
+1.7
+
+-
+
+(128.7)
+
+(716.8)
+
+40.8
+
+139.9
+
+1,974.5
+
+40.8
+
+139.1
+
+1,918.2
+
+40.8
+
+154.8
+
+1,853.2
+
+The economic conditions prevailing as of 30 June 2017 did not lead Management to review the annual impairment test of the goodwill, carried out at 31 December 2016.
+At that date, the recoverable value as measured by analysing the implicit market value (fair value) of Eutelsat S.A. based on the stock-exchange value of Eutelsat Communications S.A. (and taking into account this company s debt) did not lead to reconsider the amount shown on the balance sheet.
+A drop in the share price on the stock-exchange of at least 43% would be necessary for the fair value to fall below the carrying amount. Should such an event occur, a test would be carried out based on the value in use.
+
+NOTE.6
+
+SATELLITES, OTHER PROPERTY AND EQUIPMENT AND CONSTRUCTION IN PROGRESS
+
+"Satellites and other property and equipment" is broken down as follows (including assets acquired under finance leases):
+
+Eutelsat Communications · 18
+
+Changes in gross values, depreciations and amortisation
+
+(in millions of euros)
+Gross assets Gross value as of 30 June 2015 Acquisitions Disposals Scrapping of assets Foreign-exchange variation Transfers Gross value as of 30 June 2016 Acquisitions Disposals and change in scope of consolidation Scrapping of assets Foreign-exchange variation Transfers Gross value as of 30 June 2017 Depreciation and amortisation Accumulated depreciation as of 30 June 2015 Depreciation and amortisation Reversals (disposals) Reversals (scrapping of assets) Reclassification Foreign-exchange variation Accumulated depreciation as of 30 June 2016 Depreciation and amortisation Reversals (disposals and change in scope of consolidation) Reversals (scrapping of assets) Reclassification Foreign-exchange variation Accumulated depreciation as of 30 June 2017 Net value as of 30 June 2015 Net value as of 30 June 2016 Net value as of 30 June 2017 [1] Including satellites under finance leases: (in millions of euros) Gross value Net value as of 30 June 2017
+
+Satellites (1)
+
+Other tangibles
+
+Construction in progress
+
+Total
+
+5,227.7 460.0 -
+(100.7) 12.1
+759.0 6,358.1
+15.0 -
+(327.6) (47.4) 278.4
+6,276.5
+(1,902.1) (375.1) 100.2 2.3 (0.4)
+(2,175.1) (414.6) 327.6 9.1
+(2,253.0) 3,325.6 4,183.0 4,023.5
+
+369.9 25.9 (3.0) (3.9) 10.1
+399.0 11.0
+(14.8) (7.2) (0.8) 18.4 405.5
+(236.8) (45.3) 0.2 3.9 1.1 -
+(276.6) (33.1) 10.2 3.1 1.0 0.3
+(295.1) 133.1 122.4 110.4
+
+1,104.0 380.7 (0.2) (11.3)
+(779.1) 694.2 407.3 (0.2) 1.4
+(342.9) 759.9
+1,104.0 694.2 759.9
+
+6,701.7 866.6 (3.2)
+(104.6) 0.8 -10
+7,451.3 433.3 (15.0)
+(334.8) (46.8) (46.0)
+7,441.9
+(2,138.9) (420.4) 0.2 104.1 3.4 (0.4)
+(2,451.7) (447.7) 10.2 330.7 1.0 9.4
+(2,548.0) 4,562.7 4,999.6 4,893.9
+
+870.3 751.2
+
+Eutelsat Communications · 19
+
+This item refers to five satellites for which capacity is leased, with the relevant agreements being considered as finance leases and recognised accordingly as assets:
+
+(in millions of euros) Express AT1 Express AT2
+
+Gross value 211.3 93.5
+
+18 transponders 8 transponders
+
+Agreement covering the satellite's remaining useful life, starting May 2014 and amended in 2015
+Agreement covering the satellite's remaining useful life, starting July 2014
+
+Express AM6 EUTELSAT 36C Astra 2G
+
+57.7 411.5 96.3
+
+5 transponders
+
+Agreement dated April 2015 covering the satellite's remaining useful life
+
+53 Ku transponders / Agreement covering the satellite's remaining useful life, starting February 18 Ka transponders 2016
+
+8 transponders
+
+Agreement dated January 2014 covering the satellite's remaining useful life
+
+Satellite-related transfers at 30 June 2016 correspond to the entry into operational service of the EUTELSAT 8WB, EUTELSAT 9B and EUTELSAT 65WA satellites launched during the financial year and the EUTELSAT 115WB launched during the year 2014-2015.
+The EUTELSAT 33B and EUTELSAT 115WA satellites were fully depreciated and de-orbited during the financial year ended 30 June 2016. The Telstar 12 satellite leased under a finance lease agreement left the Group's fleet.
+Satellite-related transfers as of 30 June 2017 correspond to the entry into operational service of the EUTELSAT 117WB satellite and the Ka spotbeams onboard the EUTELSAT 36C satellite which were launched during the financial year ended 30 June 2016. During the financial year ended 30 June 2017, the Group deorbited the EUTELSAT 70D and the EUTELSAT 48A satellites.
+
+SATELLITES UNDER CONSTRUCTION
+The satellites listed as below are under construction at balance sheet date and should be brought into service during the financial years as indicated:
+
+Projects EUTELSAT 172B EUTELSAT 7C and EUTELSAT 5WB BROADBAND4AFRICA and QUANTUM
+
+Year 2017-2018 2018-2019 Calendar year 2019
+
+NOTE.7
+
+INVESTMENTS IN ASSOCIATES
+
+As of 30 June 2017, investments in associates consist in equity investments in Eurobroadband Retail, and income from equity investments in the consolidated income statement corresponds to the Group's share of income from Eurobroadband Retail.
+
+NOTE.8
+
+ASSETS HELD FOR SALE
+
+As of 30 June 2017, as a result of the sale of Eutelsat's interest in Hispasat initiated by Eutelsat in July 2016, the amount of the Hispasat portion was shown as assets held for sale.
+
+NOTE.9
+
+NON-CURRENT FINANCIAL ASSETS
+
+Non-current financial assets are primarily made up of long-term loans, investments and advances.
+
+NOTE.10 INVENTORIES
+Gross and net inventories amounted to 3.6 million euros and 2.8 million euros as of 30 June 2016, and 4.4 million euros and 3.0 million euros as of 30 June 2017. They mainly comprise receive antennas and modems.
+NOTE.11 ACCOUNTS RECEIVABLE
+Credit risk is the risk that a debtor of the Group will not pay when the debt matures. This is a risk that mainly affects the "accounts receivable" category and is followed up for each entity under the supervision of the financial personnel responsible. In the most important cases, the relevant financial personnel are assisted by a credit manager, acting in accordance with the instructions of the Group's debt recovery service. This follow-up
+Eutelsat Communications · 20
+
+activity is based mainly on an analysis of the amounts due and can be accompanied by a more detailed study of the creditworthiness of a number of debtors. Depending on the assessment conducted by the financial staff, the entities concerned may, after validation by the Group, be asked to hedge the credit risk by taking out credit insurance or obtaining guarantees compatible with the evaluation of the risk. Customers are mainly international telecommunications operators, broadcasters and other users of commercial satellite communications. As of 30 June 2016, the net value of these receivables was 406.4 million euros. The corresponding impairment charge stood at 71.3 million euros. As of 30 June 2017, the net value of these receivables was 345.4 million euros. The corresponding impairment charge stood at 60.4 million euros. Not-yet-due accounts receivable as of 30 June 2016 and 30 June 2017 are for short-term amounts and bear no interest. The Group considers that it is not subject to concentration risk, owing to the diversity of its customer portfolio at 30 June 2017 and the fact that no legal entity billed by the Group accounts individually for more than 10 % of its revenues. Credit risk is managed primarily through bank guarantees with leading financial institutions, by deposits and credit insurance. During the financial year 2016-2017, the Group further experienced the effects of the current economic crisis in some of the areas in which it operates. Consequently, particular vigilance is called for with regard to clients in geographical areas with the potentially highest exposure to the financial crisis. The amount of bad debt represents 16.4 million euros and 8.4 million euros as of 30 June 2016 and 2017 respectively.
+11.1 CHANGE IN IMPAIRMENT OF RECEIVABLE
+
+(in millions of euros) Value as of 30 June 2015 Allowance Reversals (used) Reversals (unused) Value at 30 June 2016 Allowance Reversals (used) Reversals (unused) Value as of 30 June 2017
+11.2 ANALYSIS OF ACCOUNTS RECEIVABLE (MATURED AND UNMATURED)
+
+Total 60.1 54.3 (16.4) (26.7) 71.3 26.5 (8.4) (29.0) 60.4
+
+(in millions of euros) Unmatured receivables Matured receivables Between 0 and 30 days Between 30 and 90 days More than 90 days Impairment Total
+
+30 June 2016 179.6 298.0 146.7 30.0 121.3 (71.3) 406.4
+
+30 June 2017 196.6 209.1 36.5 44.4 128.3 (60.4) 345.4
+
+Eutelsat Communications · 21
+
+11.3 GUARANTEES AND COMMITMENTS RECEIVED, WHICH MITIGATE CREDIT RISK
+
+(in millions of euros) Guarantee deposits Bank guarantees Guarantees from the parent company Total
+
+30 June 2016
+
+Value of accounts receivable
+
+Value of guarantee
+
+80.1
+
+31.9
+
+86.7
+
+61.4
+
+15.9
+
+15.9
+
+182.8
+
+109.2
+
+30 June 2017
+
+Value of accounts receivable
+
+Value of guarantee
+
+73.1
+
+26.8
+
+67.4
+
+55.7
+
+17.6
+
+17.6
+
+158.2
+
+100.1
+
+Guarantee deposits are posted to "Other liabilities" (see Note 18 - Other Financial Liabilities). Bank guarantees and guarantees from parent companies are not shown on the balance sheet.
+
+NOTE.12 OTHER CURRENT ASSETS
+Other current assets are as follows:
+(in millions of euros) Prepaid expenses Tax and employee-related receivable Total
+
+30 June 2016 23.0 14.8 37.8
+
+30 June 2017 20.4 26.1 46.4
+
+NOTE.13 CURRENT FINANCIAL ASSETS
+(in millions of euros) Hedging instruments (1) Other receivables Total (1) See Note 27 - Financial instruments.
+
+30 June 2016 -
+31.3 31.3
+
+30 June 2017 2.0
+27.1 29.2
+
+NOTE.14 CASH AND CASH EQUIVALENTS
+Cash and cash equivalents are detailed as follows:
+(in millions of euros) Cash Cash equivalents Total
+
+30 June 2016 316.4 837.3
+1,153.8
+
+30 June 2017 323.1 84.9 408.0
+
+Cash equivalents are mainly composed of mutual fund investments qualifying as "cash equivalents" (50.0 million euros as of 30 June 2017) and deposit certificates, which mature less than three months from the date of acquisition (see Note 4.11 - Cash and cash equivalents). The Group's cash and cash equivalents are mainly held by subsidiaries located in France, in the rest of Europe and in America.
+
+Eutelsat Communications · 22
+
+NOTE.15 FINANCIAL ASSETS
+The following tables give a breakdown of each balance sheet item representing financial instruments by category, and indicate its fair value, whether or not the instrument was recognised at fair value when the balance sheet was prepared.
+
+(in millions of euros)
+Assets Non-current financial assets Long-term loans and advances Current financial assets Accounts receivable Other receivables Financial instruments (1) Qualified as cash-flow hedges No hedging Cash and cash equivalents Cash Cash equivalent (2) Other cash equivalents
+
+Category of financial instruments
+
+Total
+
+Net carrying amount as of 30 June 2016
+
+Instruments measured at
+amortised cost
+
+Derivative instruments qualified as
+cash-flow hedges
+
+Instruments measured at
+fair value through the
+income statement
+
+Fair value as of
+30 June 2016
+
+Receivables
+
+10.1
+
+Receivables Receivables
+
+406.4 31.3
+
+N/A
+
+-
+
+Held for trading purposes
+
+-
+
+N/A Fair value Receivables
+
+316.4 837.4
+-
+
+10.1
+406.4 31.3
+-
+316.4 -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+837.4
+
+-
+
+-
+
+10.1
+406.4 31.3
+-
+316.4 837.4
+-
+
+(1) Fair value hierarchy: level 2 (observable inputs other than quoted prices in active markets). (2) Fair value hierarchy: level 1 (reflecting quoted prices).
+
+Eutelsat Communications · 23
+
+(in millions of euros)
+Assets Non-current financial assets Long-term loans and advances Current financial assets Accounts receivable Other receivables Financial instruments (1) Qualified as cash-flow hedges No hedging Cash and cash equivalents Cash Cash equivalent (2) Other cash equivalents
+
+Category of financial instruments
+
+Total
+
+Net carrying amount as of 30 June 2017
+
+Instruments measured at
+amortised cost
+
+Derivative instruments qualified as
+cash-flow hedges
+
+Instruments measured at
+fair value through the
+income statement
+
+Fair value as of
+30 June 2017
+
+Receivables
+
+21.5
+
+21.5
+
+-
+
+Receivables Receivables
+
+345.3 27.1
+
+345.3
+
+-
+
+27.1
+
+-
+
+N/A
+
+2.5
+
+Held for trading purposes
+
+-
+
+2.5
+
+-
+
+-
+
+-
+
+N/A
+
+323.1
+
+323.1
+
+-
+
+Fair value
+
+84.9
+
+84.9
+
+-
+
+Receivables
+
+-
+
+-
+
+-
+
+-
+
+21.5
+
+-
+
+345.3
+
+-
+
+27.1
+
+-
+
+2.5
+
+-
+
+-
+
+-
+
+323.1
+
+-
+
+84.9
+
+-
+
+-
+
+(1) Fair value hierarchy: level 2 (observable inputs other than quoted prices in active markets). (2) Fair value hierarchy: level 1 (reflecting quoted prices).
+
+With the exception of financial instruments, the book value of financial assets represents a reasonable approximation of their fair value.
+
+Eutelsat Communications · 24
+
+NOTE.16 SHAREHOLDERS' EQUITY 16.1 SHAREHOLDERS' EQUITY
+As of 30 June 2017, the share capital of Eutelsat Communications S.A. comprised 232,774,635 ordinary shares with a par value of 1 euro per share. As of the same date, in terms of treasury stock, the Group holds 232,500 treasury shares amounting to 5.2 million euros under a liquidity agreement. As of 30 June 2016, the Group was holding 211,560 such shares for an aggregate amount of 3.6 million euros. Furthermore, under the free share allocation plans (see below), the Group holds 106,022 equity shares amounting to 2.3 million euros. The aggregate amount of treasury stock is deducted from shareholders' equity.
+16.2 DIVIDENDS
+On 04 November 2016, the Ordinary and Extraordinary General Meeting of Shareholders decided to distribute a gross amount of 1.10 euro per share, i.e. a total of 255.8 million euros, taken from net income for the financial year 2015-2016. The amount of the distribution for the financial year ended 30 June 2017, which is being proposed to the General Meeting of 08 November 2017, is 281.7 million euros, i.e. 1.21 euro per share.
+16.3 SHARE-BASED COMPENSATION
+During the financial year ended 30 June 2017, the Group has managed four plans set up in November 2012, February 2015, February 2016 and April 2017 respectively. Under these four plans, the expense (excluding employer's contributions) recognised for the financial period ended 30 June 2017 was 3.6 million euros, compared to 1.5 million euros for the financial period ended 30 June 2016 (five plans). These plans concern employees, managers and corporate officers with different performance-related objectives as presented in the table below:
+Eutelsat Communications · 25
+
+Conditions
+
+2012 Plan
+
+2015 Plan
+
+2016 Plan
+
+2017 Plan
+
+Vesting Period
+Settled in Lock-up period Total number of attributable shares at inception Number of recipients Features of "Employees" Plan: Number of shares per recipient Performance-related targets observed during the vesting period
+Features of "Managers" Plan at inception: Total number of shares Performance-related targets observed during the vesting period
+Features of "Corporate Officers" Plan at inception: Total number of shares Performance-related targets observed during the vesting period
+
+November 2012 ­ November 2015 (1)
+
+February 2015June 2017
+
+February 2016 ­ February 2019 (2)
+
+Shares November 2015 November 2017 (3)
+347,530
+
+Cash Not applicable
+436,639
+
+Shares and cash February 2019 ­ February 2021 (3)
+482,211
+
+712
+
+759 805
+
+July 2016 ­ June 2019
+Cash Not applicable
+323,454 259
+
+200
+Cumulative EBITDA for 50 % Average ROCE for 50 %
+
+300
+Cumulative EBITDA for 50 % Average ROCE for 50 %
+
+300
+Cumulative EBITDA for 50 % Average ROCE for 50 %
+
+Not applicable Not applicable
+
+171,730
+Cumulative EBITDA for 25 % Average ROCE for 25 % Cumulative EPS for 25 % Relative TSR(5) for 25 %
+
+174,337
+Cumulative EBITDA for 1/3 Average ROCE for 1/3 Relative TSR(5) for 1/3
+
+198,542
+Cumulative EBITDA for 1/3 Average ROCE for 1/3 Relative TSR(5) for 1/3
+
+260,129
+Revenues for 1/3 Discretionary FreeCash-Flow for 1/3 Cost savings plan for 1/3
+
+33,800
+
+34,602
+
+43,039
+
+63,325
+
+Cumulative EBITDA for 25 % Average ROCE for 25 % Cumulative EPS for 25 % Relative TSR(5) for 1/3for 25 %
+
+Cumulative EBITDA for 1/3 Average ROCE for 1/3 Relative TSR(5) for 1/3
+
+Cumulative EBITDA for 1/3 Average ROCE for 1/3 Relative TSR(5) for 1/3
+
+Revenues for 1/4 Discretionary FreeCash-Flow for 1/4 Cost savings plan for 1/4 Relative TSR(5) for 1/4
+
+Share price used as taxation basis for calculating social contributions and employer's charges - "Employees" and "Managers" Plan (excluding Relative TSR(5) for 1/3) - "Managers" Plan (Relative TSR(5) for 1/3)
+Expense/(income) over the period (in millions of euros) (4)
+Aggregate valuation of plan as of 30/06/2017 (in millions of euros) (4)
+
+19.73 6.88 0.0 0.0
+
+21.14 7.82 0.9 2.1
+
+20.01 - 22.13 17.28 - 19.02
+0.4 1.2
+
+22.14 17.73
+2.3 6.9
+
+(1) For foreign subsidiaries, the grant period covers November 2012 to November 2016. (2) For foreign subsidiaries, the grant period covers February 2016 to February 2020. (3) There is no lock-up period for foreign subsidiaries. (4) Excluding employer's contribution (5) Relative TSR (Total Shareholder Return) is the rate of return on a share against another metric or index over a given period, including dividends received and capital gain earned (i.e. variation in the share price)
+
+In accordance with IAS 32 "Financial Instruments: Presentation", the acquisition cost of shares bought back by the Group under the free share allocation plans will be recorded as a reduction to the Group's share of shareholders' equity.
+
+Eutelsat Communications · 26
+
+16.4 CHANGE IN THE REVALUATION SURPLUS OF FINANCIAL INSTRUMENTS
+All financial instruments that have an impact on the revaluation reserve are hedges for their effective portion.
+
+(in millions of euros) Balance at 30 June 2016 Changes in fair value within equity that can be reclassified to income Transfer to income statement (1) Balance at 30 June 2017
+
+Total (32.3)
+47.1 -
+14.8
+
+(1) This amount corresponds to coupons due and matured on the interest rate hedging instruments (see Note 25 ­ Financial result).
+
+16.5 TRANSLATION RESERVE
+
+(in millions of euros) Balance at 30 June 2016 Net change over the period Balance at 30 June 2017
+
+Total 212.4 (42.4) 170.0
+
+The revaluation reserve includes the value of the Cross Currency Swap used to hedge currency exposure of a net investment in a foreign operation (see Note 27.1 ­ Foreign-exchange risk). The main currency generating translation differences is the US dollar.
+
+Eutelsat Communications · 27
+
+NOTE.17 FINANCIAL DEBT
+As of 30 June 2016 and 30 June 2017, the aggregate amount of bank debt is denominated in euros, with the exception of the export credit facility which is denominated in US dollars.
+
+17.1 FINANCIAL INFORMATION AS OF 30 JUNE 2016 AND 30 JUNE 2017
+
+(in millions of euros) Term loan 2022 Bond 2019 (1) Bond 2020 (1) Bond 2021 (1) Bond 2022 (1) US EXIM export credit ONDD-guaranteed export credit Other Sub-total of debt (non-current portion) Loan set-up fees and premiums Total of debt (non-current portion) Bond 2017 (1)
+
+Rate Variable 5.000 % 2.625 % 1.125 % 3.125% 1.710 % Variable Variable
+4.125%
+
+30 June 2016 30 June 2017
+
+600.0 800.0 930.0 500.0 300.0
+31.8 166.0
+0.9 3,328.7
+(26.5) 3,302.4
+
+600.0 800.0 930.0 500.0 300.0
+142.3
+3,272.3
+(19.5) 3,252.9
+
+850.0
+
+-
+
+US EXIM export credit & ONDD
+
+30.8
+
+23.7
+
+Bank overdrafts
+
+-
+
+-
+
+Accrued interest not yet due Total debt (current portion)
+
+46.7
+
+37.2
+
+927.5
+
+60.9
+
+(1) Fair values (level 1) are detailed below:
+
+Maturity 31 March 2022 14 January 2019 13 January 2020
+23 June 2021 10 October 2022
+17 May 2024
+
+(in millions of euros) Bond 2017 Bond 2019 Bond 2020 Bond 2021 Bond 2022
+
+30 June 2016 875.1 891.7 989.0 499.5 337.8
+
+30 June 2017 -
+859.2 979.5 508.9 333.7
+
+The book values of the term loan and the export credit facilities are reasonably close to their fair values. Furthermore, the Group has 650 million euros available under its various active lines of undrawn revolving credit as of 30 June 2017.
+17.2 CHANGE IN STRUCTURE
+In March 2017, Eutelsat S.A. reimbursed the bonds issued on 26 March 2010 with a coupon of 4.125% for a nominal amount of 850 million euros. Furthermore, Eutelsat S.A. renegotiated a revolving credit facility of 450 million euros with a maturity of five years (with two possible extension facilities of one year each subject to lender agreement), replacing the previous facility of the same amount, expiring in September 2018.
+
+Eutelsat Communications · 28
+
+17.3 DEBT MATURITY ANALYSIS
+As of 30 June 2017, the debt maturity analysis is as follows:
+
+(in millions of euros) Term loan ONDD-guaranteed export credit Bond 2019 Bond 2020 Bond 2021 Bond 2022 Total
+
+Amount 600.0 166.0 800.0 930.0 500.0 300.0
+3,296.0
+
+Maturity within 1 year 23.7 23.7
+
+Maturity between 1 and 5 years
+
+Maturity exceeding 5 years
+
+600.0
+
+-
+
+94.9
+
+47.4
+
+800.0
+
+-
+
+930.0
+
+-
+
+500.0 -
+2,924.9
+
+300.0 347.4
+
+17.4 COMPLIANCE WITH BANKING COVENANTS
+The term loan is linked to the same type of financial covenant as those existing on other agreements (revolvers and export credits), i.e. the total net debt to EBITDA ratio must remain less than or equal to 4.0 to 1. Under the term loan covenants, each lender may request early repayment of all sums due in case of unregulated downgrading of Eutelsat or bonds issued by Eutelsat respectively, as a result of a change of control of Eutelsat or a change of control of Eutelsat Communications. The banking covenants on other financing facilities (ONDD export credit) in place as of 30 June 2017, which require a total net debt to EBITDA ratio below or equal to 3.75 to 1, have not changed since their inception. As of 30 June 2017, the Group was in compliance with all banking covenants under its credit facilities.
+17.5 RISK MANAGEMENT
+Information on interest rate risk and liquidity risk is available in Note 18 - Other Financial Liabilities and Note 27 - Financial Instruments.
+
+NOTE.18 OTHER FINANCIAL LIABILITIES
+Other financial liabilities break down as follows:
+
+(in millions of euros) Derivative instruments (1) Finance leases Other liabilities Total Incl. current portion Incl. non-current portion (1) See Note 27 - Financial instruments.
+
+30 June 2016 174.3 831.1 97.5
+1,102.9 49.0
+1,053.9
+
+30 June 2017 105.1 652.6 107.9 865.6 67.6 798.1
+
+The financial instruments are measured at fair value (Level 2), and the other financial liabilities at amortised cost. For information, the amortised cost of financial liabilities represents a reasonable approximation of fair value. The fair value of derivative instruments is provided by the banks. Amounts shown for finance leases include accrued interest totalling 8.1 million euros as of 30 June 2016 and 2.0 million euros as of 30 June 2017. "Other liabilities" mainly comprise advance payments and deposits from clients, and debts over non-controlling interests.
+
+Eutelsat Communications · 29
+
+NOTE.19 FINANCIAL LIABILITIES
+
+(in millions of euros)
+
+Net carrying amount as of 30 June 2016
+
+Category of financial instruments
+
+Total
+
+Instruments measured at amor-
+tised cost
+
+Derivative instruments qualified as
+hedges
+
+Instruments measured at fair value through the income statement
+
+Fair value as of
+30 June 2016
+
+LIABILITIES Financial debt Floating rate loans Bond Fixed rate loans Bank overdrafts Other financial liabilities Non-current Current Derivative instruments (1) Qualified as hedges No hedging
+Accounts payable
+Fixed assets payable
+
+At amortised cost At amortised cost At amortised cost N/A
+At amortised cost At amortised cost
+At amortised cost At amortised cost
+
+781.6 3,363.8
+37.6 -
+880.5 48.0
+173.3 1.0
+66.7 51.3
+
+781.6 3,363.8
+37.6 -
+880.5 48.0
+66.7 51.3
+
+(1) Fair value hierarchy: level 2 (observable inputs other than quoted prices in active markets).
+
+173.3
+
+781.6 3,593.1
+37.6 -
+
+880.5 48.0
+
+173.3
+
+1.0
+
+1.0
+
+66.7
+
+51.3
+
+Eutelsat Communications · 30
+
+(in millions of euros)
+
+Net carrying amount as of 30 June 2017
+
+Category of financial instruments
+
+Total
+
+Instruments measured at amor-
+tised cost
+
+Derivative instruments qualified as
+hedges
+
+Instruments measured at fair value through the income statement
+
+Fair value as of
+30 June 2017
+
+LIABILITIES Financial debt Floating rate loans Bond Fixed rate loans Bank overdrafts Other financial liabilities Non-current Current Derivative instruments (1) Qualified as hedges No hedging
+Accounts payable
+Fixed assets payable
+
+At amortised cost At amortised cost At amortised cost N/A
+At amortised cost At amortised cost
+At amortised cost At amortised cost
+
+758.1 2,518.4
+-
+650.1 110.4
+105.1 -
+54.6 67.4
+
+758.1 2,518.4
+-
+650.1 110.4
+54.6 67.4
+
+105.1 -
+
+758.1 2,681.3
+-
+650.1 110.4
+105.1 -
+54.6 67.4
+
+(1) Fair value hierarchy: level 2 (observable inputs other than quoted prices in active markets).
+With the exception of financial instruments and bonds, the book value of financial liabilities represents a reasonable approximation of their fair value.
+
+Eutelsat Communications · 31
+
+NOTE.20 OPERATING AND FINANCE LEASES
+20.1 OPERATING LEASES
+Eutelsat S.A. pays rent for use of its registered office located in Paris. The operating lease was renewed in advance in June 2014 for a fixed-term nine-year period starting 1 July 2014. The rent expense amounted to 4.0 million euros for the financial years ended 30 June 2016 and 30 June 2017. Future payments with respect to the lease agreement are detailed in the following table:
+
+(in millions of euros) Future payments for operating leases
+
+Less than 1
+
+Total
+
+year
+
+24.1
+
+4.0
+
+From 1 to 5 More than 5
+
+years
+
+years
+
+16.4
+
+3.7
+
+20.2 FINANCE LEASES
+
+The Group operates five satellites under finance leases. None of the finance leases contains a purchase option at the expiry of the lease term. The last finance lease contract will expire in 2031. Financial expenses for satellites operated under finance leases amounted to 13.6 million euros at 30 June 2016 and 17.5 million euros at 30 June 2017. Finance lease contracts mature as follows:
+
+(in millions of euros)
+
+Maturity within
+
+Amount
+
+1 year
+
+Maturity between 1 and 5 years
+
+Maturity exceeding 5 years
+
+Finance leases
+
+764.4
+
+54.6
+
+286.0
+
+423.8
+
+Total
+
+764.4
+
+54.6
+
+286.0
+
+423.8
+
+NOTE.21 OTHER PAYABLES AND DEFERRED REVENUES 21.1 NON-CURRENT PORTION
+Other non-current debts only include deferred revenue.
+21.2 CURRENT PORTION
+Other current payables and deferred revenues were as follows as of 30 June 2016 and 30 June 2017:
+
+(in millions of euros)
+
+30 June 2016
+
+30 June 2017
+
+Deferred revenues
+
+80.0
+
+67.4
+
+Tax liabilities Liabilities for social contributions (1)
+
+10.2
+
+19.0
+
+45.5
+
+50.1
+
+Total
+
+135.7
+
+136.6
+
+(1) Including the liability related to the liquidity offer of 2.3 million at 30 June 2016 and 3.1 million at 30 June 2017.
+
+Deferred revenues mainly include prepayments made by clients for the provision of telecommunication and frequency coordination services.
+
+Eutelsat Communications · 32
+
+NOTE.22 INCOME TAX 22.1 INCOME-STATEMENT TAX BALANCES
+The "Income tax" expense comprises current and deferred tax expenses of consolidated entities. The Group's income tax expense is as follows: (in millions of euros) Current tax expense Deferred tax income (expense) Total income tax expense
+
+30 June 2016 (179.8) (20.0) (199.8)
+
+30 June 2017 (167.3) 47.2 (120.1)
+
+The theoretical income tax expense, based on application to the pre-tax result (excluding the share of net income from equity investments) of the standard French corporate tax rate, can be reconciled to the actual expense as follows:
+
+(in millions of euros) Income before tax and income from equity investments Standard French corporate tax rate Theoretical income-tax expense Differences in corporate tax rates (1) Use of tax losses Deferred tax generated during the previous period and recognised for the period Other permanent differences (2) Corporate tax expense in the income statement Actual corporate tax rate
+
+30 June 2016 539.1 38.0%
+(204.8) 22.1 6.4 5.6
+(29.1) (199.8) 37.1%
+
+30 June 2017 483.5 34.4%
+(166.5) 56.1 13.5
+(23.2) (120.1) 24.8%
+
+(1) Differences in income tax rates include the effects (amounting to 38.8 million) of the French 2017 Finance Act ("Loi de finances 2017"), which provides for a decrease to 28.92% of the standard corporate income tax for financial years beginning on or after 1 January 2020.
+(2) Other permanent differences are mainly composed of a 3% additional contribution on dividends, and the effects of the French 2013 Finance Act ("Loi de finances 2013") which caps the deductibility of financial expenses at 75%.
+
+Eutelsat Communications · 33
+
+22.2 BALANCE-SHEET TAX BALANCES
+Deferred tax assets and liabilities correspond to the aggregate net financial positions of the consolidated entities. Changes in the deferred tax balances between 30 June 2016 and 30 June 2017 were as follows:
+
+(in millions of euros)
+Deferred tax assets Financial Instruments Loss carry-forwards Bad-debt provisions Financial guarantee granted to the pension fund Provisions for risks and expenses Accrued liabilities Pension provision Finance leases Sub-total (a) Deferred tax liabilities Intangible assets Tangible assets Capitalised interest Performance incentives and capitalised salaries Other Sub-total (b) Total = (a) + (b) Reflected as follows in the financial statements: Deferred tax assets Deferred tax liabilities Total
+
+Foreign exchange
+
+30 June 2016
+
+impact and
+
+reclassification
+
+Net income for Recognised in
+
+the period
+
+equity
+
+30 June 2017
+
+58.1 20.6 24.4 34.8
+3.9 8.8 6.2 0.3 157.1
+
+(2.4)
+(0.5) (2.9)
+
+(3.4) 10.6 (5.5) (11.3)
+4.6 (2.2) (0.5)
+0.4 (7.3)
+
+(21.0) -
+(10.0) -
+(1.5) -
+(32.5)
+
+33.7 28.8 18.9 13.5
+8.0 6.6 4.2 0.7 114.4
+
+(141.1) (273.5)
+(2.2) (1.7) (0.7) (419.2) (262.1)
+
+0.5 4.2 0.1
+(2.0)
+2.8 (0.1)
+
+37.8 17.4 (0.6)
+0.8 (0.9) 54.5 47.2
+
+(32.5)
+
+(102.8) (251.9)
+(2.7) (0.9) (3.6) (361.9) (247.5)
+
+8.5 (270.6) (262.1)
+
+5.6 253.1 (247.5)
+
+Deferred tax liabilities relate mainly to the taxable temporary difference generated by:
+ the accounting treatment at fair value of "Customer contracts and relationships" and other intangible assets in the context of the acquisition of Eutelsat S.A. and Satmex;
+ the accelerated depreciation of satellites.
+
+22.3 TAX LOSSES
+The timeline for recovery of deferred tax assets on carry-forward losses is presented in the table below:
+
+(in millions of euros)
+Timelines of activated tax loss carryforwards Total
+
+Amount
+
+Maturity within 1 year
+
+Maturity between 1 and 5 years
+
+Maturity exceeding 5 years
+
+Undefined
+
+169.5
+
+-
+
+-
+
+-
+
+169.5
+
+169.5
+
+169.5
+
+Eutelsat Communications · 34
+
+Furthermore, the Group has a stock of unrecognised tax loss carryforwards amounting to 83.7 million euros as of 30 June 2017, with the following maturity dates:
+
+(in millions of euros)
+Maturities of unrecognised tax loss carryforwards Total
+
+Amount
+
+Maturity within 1 year
+
+Maturity between 1 and 5 years
+
+Maturity exceeding 5 years
+
+Undefined
+
+83.7
+
+0.1
+
+0.3
+
+83.7
+
+0.1
+
+0.3
+
+-
+
+83.3
+
+-
+
+83.3
+
+NOTE.23 PROVISIONS
+
+(in millions of euros)
+
+30 June 2016 Allowance
+
+Reversal
+
+Used
+
+Unused
+
+Recognised in equity
+
+30 June 2017
+
+Financial guarantee granted to a pension fund Retirement indemnities
+Post-employment benefits (1)
+
+101.9 17.9 8.6
+
+1.7
+
+(12.8)
+
+1.4
+
+(0.5)
+
+6.0
+
+(0.3)
+
+-
+
+(19.2)
+
+71.6
+
+-
+
+(4.0)
+
+14.8
+
+-
+
+-
+
+14.3
+
+Total post-employment benefits
+
+128.4
+
+9.1
+
+(13.6)
+
+-
+
+Litigation (2) Other Total provisions Incl. non-current portion Incl. current portion
+
+11.1 6.9
+146.4 128.4
+18.0
+
+16.8
+
+(1.4)
+
+4.7
+
+(5.1)
+
+30.6
+
+(20.1)
+
+(0.8) -
+(0.8)
+
+(1) The other post-employment benefits mainly relate to end-of-contract indemnity payments in various subsidiaries. (2) Litigation recorded at end of period covers commercial, employee-related and tax litigation.
+
+(23.2) -
+(23.2)
+
+100.7
+25.7 6.5
+132.9 97.3 35.6
+
+23.1 FINANCIAL GUARANTEE GRANTED TO A PENSION FUND
+As a result of the transfer by the IGO of its operational business as of 2 July 2001, Eutelsat S.A. granted its financial guarantee to the Trust managing the pension plan established by the IGO. Before this date, the pension fund was closed and the accrued rights frozen.
+This guarantee can be called under certain conditions to compensate for future under-funding of the plan.
+During the period ended 30 June 2017, the financial guarantee was called on for 35.9 million euros. This amount was measured on the basis of the Trust's projections of future market developments. In March 2017, an agreement was reached with the Trust over nine annual instalments of 4.0 million euros to be paid between 30 June 2017 and 30 June 2025. It should be noted that these payments may be adjusted according to possible changes in the future financial position which will be assessed on an annual basis.
+As of 30 June 2017, the first 4.0 million-euro payment under the March 2017 agreements was made.
+
+Eutelsat Communications · 35
+
+The actuarial valuation performed as of 30 June 2016 and 30 June 2017 was based on the following assumptions:
+
+Discount rate Expected rate of return on assets Rate for pension increases Inflation rate Overall expenses (as a % of assets) Mortality table Pensionable age
+
+30 June 2016 1.75% 1.75% 2.25% 1.75% 0.58%
+TGH2005-TGF2005 62 years
+
+30 June 2017 1.85% 1.85% 1.75% 1.25% 0.58%
+TGH2005-TGF2005 62 years
+
+A 50 base point decrease in discount rates would result in an increase in commitments totalling 20.6 million euros. A 50 base point decrease in prospective yield rates would result in a decline in assets and in the expected fund yield by 0.7 million euros. As of 30 June 2016 and 30 June 2017, the position was as follows:
+Comparative summary
+
+(in millions of euros) Present value of obligations wholly or partly funded Fair values of plan assets Net financing requirement Net debt reported on balance sheet Net (asset)/liability recognised in the balance sheet
+
+2013 225.3 (159.9)
+65.4 -
+65.4
+
+30 June
+
+2014
+
+2015
+
+217.4
+
+231.8
+
+(154.1)
+
+(153.6)
+
+63.3
+
+78.2
+
+-
+
+-
+
+63.3
+
+78.2
+
+2016 241.2 (139.3) 101.9
+101.9
+
+2017 216.5 (136.9)
+79.6 (8.0) 71.6
+
+Reconciliation between the present value of obligations at beginning and end of period:
+
+(in millions of euros) Present value of the obligations at beginning of period Financial cost Actuarial differences related to financial assumptions: (gains)/losses (1) Benefits paid Present value of the obligations at end of period
+
+30 June 2016 231.8 5.8 9.8 (6.2) 241.2
+
+30 June 2017 241.2 4.1 (21.7) (7.1) 216.5
+
+(1) Differences resulting mainly from changes in the expected rates of return on assets, discount rates and inflation rates.
+
+Eutelsat Communications · 36
+
+Reconciliation between the fair value of plan assets at beginning and end of period:
+
+(in millions of euros) Fair value of plan assets at beginning of period Expected return on plan assets Actuarial differences: gains/(losses) Contributions paid Benefits paid Fair value of plan assets at end of period
+
+30 June 2016 30 June 2017
+
+153.6
+
+139.3
+
+3.8
+
+2.4
+
+(11.9)
+
+(2.5)
+
+-
+
+4.8
+
+(6.2)
+
+(7.1)
+
+139.3
+
+136.9
+
+The fair value of plan assets includes no amount relating to any financial instruments issued by Eutelsat S.A. nor any property occupied by, or other assets used by, Eutelsat S.A. The actual return on the plan's assets was (8.1) million euros and (0.1) million euros as of 30 June 2016 and 30 June 2017 respectively.
+
+Net expense (net gains) recognised in the income statement
+
+(in millions of euros) Service cost for the period Financial cost Expected return on plan assets Net expense (net gains) recognised in the income statement
+
+30 June 2016
+
+30 June 2017
+
+-
+
+-
+
+5.8
+
+4.1
+
+(3.8)
+
+(2.4)
+
+2.0
+
+1.7
+
+The absence of service costs is explained by the fact that rights were frozen and that the IGO pension fund was closed prior to the transfer of business on 2 July 2001.
+
+Reconciliation of assets and obligations recognised in the balance sheet
+
+(in millions of euros) Provision at beginning of period Net expense (net gains) recognised in the income statement Actuarial differences: (gains)/losses Contributions paid Current and non-current debt Provisions at end of period
+
+30 June 2016
+
+30 June 2017
+
+78.2
+
+101.9
+
+2.0
+
+1.7
+
+21.7
+
+(19.2)
+
+-
+
+(4.8)
+
+-
+
+(8.0)
+
+101.9
+
+71.6
+
+23.2 POST-EMPLOYMENT BENEFITS
+a) Retirement indemnities
+French law requires payment of a lump sum retirement indemnity, where appropriate. This indemnity is paid to employees based upon years of service and compensation at retirement. Benefits only vest when an employee retires from the Company. This scheme is not funded.
+
+Eutelsat Communications · 37
+
+The actuarial valuations performed at 30 June 2016 and 30 June 2017 were based on the following assumptions: 30 June 2016
+
+30 June 2017
+
+Discount rate
+
+1.45%
+
+1.45%
+
+Salary growth rate
+
+2.50%
+
+2.00%
+
+Mortality table
+
+TH/TF00-02
+
+TH/TF00-02
+
+Retirement age
+
+65 years
+
+65 years
+
+Type of retirement
+
+Voluntary retirement Voluntary retirement
+
+Rate of employer's contributions
+
+52%
+
+52%
+
+Staff turnover per age bracket is based on the history of experience within EUTELSAT S.A. The last valuation was performed during the financial year 2015-2016.
+
+Age (years)
+
+2016 Turnover 2017 Turnover
+
+25
+
+11.52
+
+11.52
+
+30
+
+8.09
+
+8.09
+
+35
+
+5.50
+
+5.50
+
+40
+
+3.55
+
+3.55
+
+45
+
+2.09
+
+2.09
+
+50
+
+0.98
+
+0.98
+
+55
+
+0.14
+
+0.14
+
+60
+
+0.00
+
+0.00
+
+As of 30 June 2016 and 30 June 2017, the position was as follows:
+Comparative summary
+
+(in millions of euros)
+Present value of obligations not financed Past-service cost (amortised) Actuarial differences: gains/(losses) Liability recognised on balance sheet
+
+2013 12.4
+12.4
+
+2014 15.1
+15.1
+
+30 June 2015 18.0
+18.0
+
+2016 18.0 (0.1)
+17.9
+
+2017 14.8
+14.8
+
+Reconciliation between the present value of obligations at beginning and end of period:
+
+(in millions of euros) Present value of the obligations at beginning of period Service cost for the period Financial cost Actuarial differences related to financial assumptions: (gains)/losses Actuarial differences related to demographic assumptions: (gains)/losses Termination indemnities paid Present value of the obligations at end of period
+
+30 June 2016 30 June 2017
+
+18.0
+
+17.9
+
+1.2
+
+1.2
+
+0.4
+
+0.2
+
+(0.6)
+
+(1.0)
+
+(0.4)
+
+(3.0)
+
+(0.7)
+
+(0.5)
+
+17.9
+
+14.8
+
+Eutelsat Communications · 38
+
+Net expense recognised in the income statement
+(in millions of euros) Service cost for the period Financial cost Net expense recognised in the income statement
+History of experience and changes in assumptions
+(in millions of euros) History of experience regarding the value of obligations: (gains)/losses Impact of changes in assumptions History of experience and changes in assumptions
+
+30 June 2016
+
+30 June 2017
+
+1.2
+
+1.2
+
+0.4
+
+0.2
+
+1.6
+
+1.4
+
+30 June 2017 (1.0) (3.0)
+(4.0)
+
+b) Mandatory schemes
+In accordance with French law, the Group meets its obligations to finance pensions for employees in France by paying contributions based on salaries to the relevant entities that manage mandatory pension schemes. There are no other commitments in relation to these contributions. The employer's contributions paid under these schemes were 8.3 million euros and 8.4 million euros at 30 June 2016 and 30 June 2017 respectively.
+c) Supplementary schemes
+The Group also has a supplementary defined-contribution funded plan for its employees working in France (excluding directors and corporate officers who are employees), financed by employees' and employer's contributions of 6% of gross annual salary, limited to eight times the French Social Security threshold. There are no other commitments in relation to these contributions. Employer's contributions paid under the plan stood at 1.9 million euros and 2.1 million euros at 30 June 2016 and 30 June 2017 respectively.
+NOTE.24 SEGMENT INFORMATION
+Having performed an analysis and with respect to IFRS 8, the Group considers that it only operates in a single industry segment, basing that view on an assessment of services rendered and the nature of the associated risks, rather than on their purpose. This is the provision of satellite-based video, business and broadband networks, and mobile services mainly to international telecommunications operators and broadcasters, corporate network integrators and companies for their own needs. The information presented below is intended for the Chief Executive Officer, the Deputy Chief Executive Officers and the Chief Financial Officer who together make up the Group's main operational decision-making body. Management data is presented according to IFRS principles applied by the Group for its consolidated financial statements as described in the Notes to the financial statements. The performance indicators that are monitored by the decision making body include turnover, EBITDA (EBITDA is defined as the operating result before amortisation and depreciation, impairment of assets and other operating income and expense), financial expense, cash flow for investment in tangibles and equity interests and net consolidated Group debt (net debt includes all bank debt and all liabilities from long-term lease agreements, less cash and cash equivalents (net of bank credit balances). Internal reporting is a presentation of the Group's consolidated income statement according to a different breakdown of items than the one used in the consolidated financial statements in order to highlight performance indicators for which the main aggregates are identical to those included in the Group's consolidated accounts, such as the operating result, net result, the share attributable to non-controlling interests and the share attributable to the Group.
+
+Eutelsat Communications · 39
+
+24.1 SEGMENT REPORTING
+(in millions of euros) Total revenues Total operating costs EBITDA Depreciation and amortisation: Other operating income (expenses), net Operating income Total interest Income tax Other financial income (expenses) Net income before revenue from equity investments and non-controlling interests Income from equity investments Net income Non-controlling interests Net income attributable to the Group Tangible investments (cash flow) Net debt (including finance leases)
+Net debt breaks down as follows: (in millions of euros) Term loan Bonds Other loans Export credit "Change" portion of the cross-currency swap Finance leases Cash and cash equivalents Total
+
+30 June 2016 30 June 2017
+
+1,529.0
+
+1,477.9
+
+(364.4)
+
+(344.4)
+
+1,164.6
+
+1,133.6
+
+(500.6)
+
+(532.9)
+
+(2.0)
+
+14.1
+
+662.0
+
+614.8
+
+(115.1)
+
+(127,2)
+
+(199.8)
+
+(120.1)
+
+(7.9)
+
+(3.7)
+
+339.2
+
+363.7
+
+23.5
+
+(0.4)
+
+362.7
+
+363.4
+
+(14.3)
+
+(11.6)
+
+348.5
+
+351.8
+
+390.2
+
+393.0
+
+4,006.8
+
+3,640.7
+
+30 June 2016 600.0
+3,380.0 0.9
+228.7 128.0 823.0 (1,153.8) 4,006.8
+
+30 June 2017 600.0
+2,530.0 -
+166.0 102.0 650.5 (408.0) 3,640.7
+
+Eutelsat Communications · 40
+
+24.2 INFORMATION PER GEOGRAPHICAL ZONE
+
+Group revenues by geographical zone, based on invoice addresses, for the twelve-month periods ended 30 June 2016 and 30 June 2017 were as follows:
+
+(in millions of euros and as a percentage)
+
+30 June 2016
+
+30 June 2017
+
+Regions
+
+Amount
+
+%
+
+Amount
+
+%
+
+France
+
+147.7
+
+9.7
+
+111.8
+
+7.6
+
+Italy
+
+187.3
+
+12.2
+
+163.6
+
+11.1
+
+United Kingdom
+
+108.7
+
+7.1
+
+98.2
+
+6.6
+
+Europe (other)
+
+414.9
+
+27.1
+
+398.6
+
+27.0
+
+Americas
+
+330.3
+
+21.6
+
+330.1
+
+22.3
+
+Middle-East
+
+203.4
+
+13.3
+
+233.1
+
+15.8
+
+Africa
+
+96.2
+
+6.3
+
+106.0
+
+7.2
+
+Asia
+
+39.4
+
+2.6
+
+36.4
+
+2.5
+
+Other
+
+1.1
+
+0.1
+
+0.1
+
+0.0
+
+Total
+
+1,529.0
+
+100.0
+
+1,477.9
+
+100.0
+
+Most of the Group's assets are satellites in orbit. The remaining assets are mainly located in France, Italy and Mexico.
+
+Eutelsat Communications · 41
+
+NOTE.25 FINANCIAL RESULT
+The financial result is made up as follows: (in millions of euros) Interest expense after hedging (1) Loan set-up fees and commissions (2) Capitalised interest (3) Cost of gross debt Financial income Cost of net debt Changes in financial instruments (4) Foreign-exchange impact
+
+30 June 2016 (134.0) (8.8) 27.7 (115.1) 3.2 (111.9) (1.2) (9.5)
+
+30 June 2017 (130.9) (11.3) 15.0 (127.2) 1.5 (125.7) (0.3) (2.1)
+
+Other
+
+(0.4)
+
+(2.7)
+
+Financial result
+
+(123.0)
+
+(130.9)
+
+(1) The interest expense was not impacted by instruments qualified as interest-rate hedges during the financial period ended 30 June 2017. It was impacted by such instruments for 2.8 million euros during the financial period ended 30 June 2016.
+(2) Issuing costs include amortisation of all loan issuing costs and premiums. (3) The amount of capitalised interest mainly depends on the state of progress and number of satellite construction programmes recorded during the
+financial year concerned. The capitalisation rates used to determine the amount of interest expense eligible for capitalisation were 3.46 % at 30 June 2016 and 3.09% at 30 June 2017. (4) Changes in fair value of financial instruments mainly include: - changes in fair value of derivatives not qualified as hedges; - the ineffective portion of qualifying derivatives in a hedging relationship; - de-qualifications/sales of hedging instruments (see Note 27 - Financial Instruments).
+
+NOTE.26 EARNINGS PER SHARE
+The following table shows the reconciliation between net income and net earnings attributable to shareholders (basic and diluted) used to compute earnings per share (basic and diluted): There were no dilutive instruments as of 30 June 2016 and 30 June 2017.
+
+(in millions of euros) Net income Income from subsidiaries attributable to non-controlling interests Net earnings used to compute earnings per share Average number of shares
+
+30 June 2016 362.8 (14.3) 348.5
+229,856,366
+
+30 June 2017 363.4 (11.6) 351.8
+232,609,232
+
+NOTE.27 FINANCIAL INSTRUMENTS
+The Group is exposed to market risks, principally in terms of currency and interest-rates. Exposure to such risks are actively managed by Management. and for this purpose the Group employs a certain number of derivatives, the objective of which is to limit, where appropriate, the fluctuation of revenues and cash-flows due to variations in interest rates and foreign-exchange rates. The Group's policy is to use derivatives to hedge such exposure and comply with its financial covenants. The Group does not engage in financial transactions whose associated risk cannot be quantified at maturity, i.e. the Group never sells assets it does not possess, or about which it is uncertain whether it will subsequently possess them.
+
+Eutelsat Communications · 42
+
+27.1 FOREIGN-EXCHANGE RISK
+Through the sale of its satellite capacity, the Group is a net receiver of currencies, mainly the US dollar. Consequently, the Group is primarily exposed to the US dollar/euro foreign exchange risk. Due to the geographic diversification of its activities, the Group is exposed to conversion risk, which means that its balance sheet and income statement are impacted by fluctuations in exchange parities upon consolidation of the financial statements of its foreign subsidiaries outside the euro zone (translation risk). For investments in currencies not included in the euro zone, the Group's translational risk hedging policy consists of creating liabilities denominated in the same currency as the cash flows generated by these assets. Hedging instruments used by the Group include currency derivatives (cross-currency swaps) documented as net foreign investment hedges. Given its exposure to foreign currency risk, the Group believes that a 15% increase in the US dollar/euro exchange rate would generate (excluding foreign exchange derivatives) a decline in Group income of 70 million euros and a decrease in operational/commercial/administrative costs of 7 million euros, and would result in a negative change of 242 million euros in the Group translation reserve and a change of 80 million euros in the Group translation reserve in relation with the cross currency swap.
+
+27.2 INTEREST-RATE RISK
+Interest rate risk management
+During the financial year ended 30 June 2017, the Group executed an anticipatory hedging transaction (forward swap) amounting to 500 million euros to hedge the market rate of a bond issuance planned between 14 April 2019 and 13 January 2020 with a view to refinancing the 930 million euro bond maturing on 13 January 2020. The transaction was designated as a future cash flow hedge
+Sensitivity to interest-rate risk
+Considering the full range of financial instruments available to the Group as of 30 June 2017, an increase of ten base points (+ 0.10%) over the EURIBOR interest rate would have an insignificant effect on the interest expense and the revaluation of financial instruments in the income statement. It would involve a positive change of 0.3 million euros in equity related to the effective portion of the change in the fair value of hedging instruments qualified as cash flow hedges.
+
+27.3 FINANCIAL INFORMATION AS OF 30 JUNE 2016 AND 30 JUNE 2017
+
+The following tables analyse the contractual or notional amounts and fair value of the Group's derivatives by type of contract as of 30 June 2016 and 30 June 2017. The instruments are valued by an independent expert and this valuation is verified/validated in valuations provided by the Group's banking counterparts.
+
+(in millions of euros)
+Synthetic forward transaction with knock-in option (Eutelsat S.A.) Cross currency swap NDF Total forex derivatives Pre-hedging swap Total interest rate derivatives
+
+Notional
+
+Fair value
+
+30 June 2016 30 June 2017 30 June 2016 30 June 2017
+
+Change in fair value over the period
+
+Impact on income (excl. coupons)
+
+-
+
+87.8
+
+-
+
+2,5
+
+2.5
+
+(1.3)
+
+500.0 8.9
+508.9 800.0 800.0
+
+500.0 -
+587.8 1,300.0 1,300.0
+
+(115.2) (1.0)
+(116.2) (58.1) (58.1)
+
+(90,1)
+
+25.1
+
+-
+
+1.0
+
+(87,6)
+
+28.6
+
+(15,0)
+
+43.1
+
+(15,0)
+
+43.1
+
+1.0 (0.3)
+-
+
+Impact on equity (excl.
+coupons)
+3.7
+25.1 -
+28.8 43.1 43.1
+
+Total derivatives
+
+(174.3)
+
+(102,6)
+
+71.7
+
+(0.3)
+
+71.9
+
+At 30 June 2017, the cumulative fair value of financial instruments was positive at 2.5 million euros and negative at 105.1 million euros (see Note 9 Non-current financial assets and Note 18 - Other financial liabilities).
+Impact on income statement and equity
+The impact on the income statement and equity of changes in fair value of derivatives qualified as hedges is as follows:  The coupons on swaps that qualify as cash flow hedges are directly recognised under income. Changes recognised in equity with respect to
+these instruments correspond to changes in fair value excluding coupons ("clean fair value").  The coupons on the cross currency swap that qualifies as net investment hedge, as well as its fair value excluding coupons ("clean fair
+value") are recognised directly in equity.
+
+27.4 FINANCIAL-COUNTERPARTY RISK
+Counterparty risk includes issuer risk, execution risk in connection with derivatives or monetary instruments, and credit risk related to liquidity and forward investments. The Group minimises its exposure to issuer, execution and credit risk by acquiring financial products from first-rate financial institutions and banks. Exposure to these risks is closely monitored. The Group does not foresee any loss resulting from a failure by its counterparts to respect their commitments under the agreements it has
+Eutelsat Communications · 43
+
+concluded. As of 30 June 2017, counterparty risk associated with these operations is not considered as significant (see Note 11 on credit risk on accounts receivables).
+27.5 LIQUIDITY RISK
+The Group manages liquidity risk by using a tool that enables it to monitor and manage its recurring requirements and liquidity needs. This tool takes into account the maturity of financial investments, financial assets and estimated future cash flows from operating activities. The Group's objective is to maintain a balance between continuity of its funding needs and their flexibility through the use of overdraft facilities, term loans, revolving lines of credit from banks, bond loans and satellite lease agreements. The Group's debt maturity is reflected in the table below.
+Eutelsat Communications · 44
+
+Breakdown of net financial liabilities by maturity (in millions of euros):
+
+As of 30 June 2016
+
+Balancesheet value
+
+Total contractual cash flows
+
+06/2017
+
+06/2018
+
+06/2019
+
+06/2020
+
+More than 06/2021 5 years
+
+Eutelsat Com. Term loan
+
+(597.4)
+
+(625.7)
+
+(5.4)
+
+(5.4)
+
+(5.4)
+
+(5.4)
+
+(604.1)
+
+-
+
+Eutelsat S.A. bond
+
+(3,363.8)
+
+(3,726.5) (964.5)
+
+(79.4) (879.4) (969.4)
+
+(515.0)
+
+(318.8)
+
+US EXIM export credit
+
+(37.6)
+
+(40.9)
+
+(7.7)
+
+(7.6)
+
+(7.5)
+
+(7.3)
+
+(7.2)
+
+(3.6)
+
+ONDD-guaranteed export credit
+
+(183.3)
+
+(201.1)
+
+(26.3)
+
+(26.0)
+
+(25.6)
+
+(25.3)
+
+(25.0)
+
+(72.9)
+
+Finance leases Qualified interest rate derivatives (1)
+
+(823.0) (173.3)
+
+(944.7) (173.3)
+
+(162.0) -
+
+(79.7) -
+
+(81.4) (58.2)
+
+(80.9) (115.1)
+
+(67.4) -
+
+(473.3) -
+
+Unqualified derivatives
+
+(1.0)
+
+(1.0)
+
+(1.0)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Total financial debt
+
+(5,179.3)
+
+(5,713.2) (1,166.9)
+
+(198.1) (1,057.5) (1,203.5) (1,218.7) (868.5)
+
+Other financial liabilities
+
+(105.6)
+
+(105.6)
+
+(83.4)
+
+(22.2)
+
+-
+
+-
+
+-
+
+-
+
+Total financial liabilities
+
+(5,284.9)
+
+(5,818.8) (1,250.3)
+
+(220.3) (1,057.5) (1,203.5) (1,218.7) (868.5)
+
+Foreign exchange derivatives (1)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Financial Assets
+
+41.4
+
+41.4
+
+31.3
+
+1.2
+
+-
+
+-
+
+-
+
+8.9
+
+Cash
+
+316.4
+
+316.4
+
+316.4
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Cash equivalents
+
+837.3
+
+837.3
+
+837.3
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Other cash equivalents
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Total financial assets
+
+1,195.1
+
+1,195.1 1,185.0
+
+1.2
+
+-
+
+-
+
+-
+
+8.9
+
+Net position
+
+(4,089.8)
+
+(4,623.7)
+
+(65.3)
+
+(219.1) (1,057.5) (1,203.5) (1,218.7) (859.6)
+
+(1) Amounts broken down under derivative instruments are recognised at fair value (not as contractual cash flows).
+
+As of 30 June 2017
+
+Balancesheet value
+
+Total contractual cash flows
+
+06/2018
+
+06/2019 06/2020 06/2021
+
+More than 06/2022 5 years
+
+Eutelsat Com. Term loan
+
+(597.8)
+
+(625.7)
+
+(5.4)
+
+(5.4)
+
+(5.4)
+
+(5.4)
+
+(604.1)
+
+-
+
+Eutelsat S.A. bond
+
+(2,518.4)
+
+(2,762.0)
+
+(79.4)
+
+(879.4) (969.4) (515.0)
+
+(9.4) (309.4)
+
+ONDD-guaranteed export credit
+
+(160.4)
+
+(174.1)
+
+(25.8)
+
+(25.5)
+
+(25.2)
+
+(24.9)
+
+(24.6)
+
+(48.2)
+
+Finance leases Qualified interest rate derivatives (1)
+
+(650.6) (105.1)
+
+(764.4) (105.1)
+
+(54.6) -
+
+(82.7) (16.5)
+
+(82.0) (88.6)
+
+(67.4) -
+
+(53.9) -
+
+(423.8) -
+
+Total financial debt
+
+(4,032.3)
+
+(4,431.3) (165.2) (1,009.5) (1,170.6) (612.7)
+
+(691.9)
+
+(781.4)
+
+Other financial liabilities
+
+(109.9)
+
+(109.9)
+
+(28.5)
+
+(81.4)
+
+-
+
+-
+
+-
+
+-
+
+Total financial liabilities
+
+(4,142.2)
+
+(4,541.2) (193.7) (1,090.9) (1,170.6) (612.7)
+
+(691.9)
+
+(781.4)
+
+Foreign exchange derivatives (1)
+
+2.4
+
+2.4
+
+2.0
+
+0.4
+
+-
+
+-
+
+-
+
+-
+
+Financial Assets
+
+48.8
+
+48.8
+
+26.8
+
+22.0
+
+-
+
+-
+
+-
+
+-
+
+Cash
+
+323.1
+
+323.1
+
+323.1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Cash equivalents
+
+84.9
+
+84.9
+
+84.9
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Total financial assets
+
+459.2
+
+459.2
+
+436.8
+
+22.4
+
+-
+
+-
+
+-
+
+-
+
+Net position
+
+(3,683.0)
+
+(4,082.0)
+
+243.1 (1,068.5) (1,170.6) (612.7)
+
+(*) The amounts broken down under derivative instruments are recognised at fair value (not as contractual cash flows).
+
+(691.9)
+
+(781.4)
+
+Eutelsat Communications · 45
+
+Cash-flow hedges ­ Fair value recognised in equity, to be reclassified to income
+
+(in millions of euros)
+
+Total
+
+Fair value recognised in equity and to be reclassified to income
+
+1 year at most
+
+1 to 2 years 2 to 3 years 3 to 4 years 4 to 5 years
+
+More than 5 years
+
+Foreign exchange risk hedges
+
+(87.6)
+
+2.0
+
+0.4
+
+(90.1)
+
+-
+
+-
+
+-
+
+Interest rate risk hedges Net total at 30 June 2017
+
+(15.0)
+
+-
+
+(16.5)
+
+1.5
+
+-
+
+-
+
+-
+
+(102.6)
+
+2.0
+
+(16.1)
+
+(88.6)
+
+-
+
+-
+
+-
+
+Furthermore, the amendment to IFRS 7 on the offsetting of assets and liabilities has no impact: there was no offsetting agreement which could have an impact for Eutelsat as of 30 June 2017 (neither on the balance sheet under IAS 32, nor on net exposure).
+
+NOTE.28 PURCHASE COMMITMENTS
+As of 30 June 2017, Management considers that, to the best of its knowledge, no commitments exist that may have an impact on the Group's present or future financial standing with the exception of the following items:
+
+28.1 PURCHASE COMMITMENTS
+The Group has entered into commitments with suppliers for the acquisition of assets (satellites and other assets) and the provision of services for 1,080 million euros as of 30 June 2016 and 751 million euros as of 30 June 2017.
+
+The following table lists future payments for these services and acquisitions as of 30 June 2016 and 30 June 2017:
+
+(in millions of euros)
+
+As of 30 June 2016
+
+2016
+
+304
+
+2017
+
+344
+
+2018
+
+303
+
+2019
+
+64
+
+2020 and beyond(1)
+
+64
+
+2021 and beyond
+
+-
+
+Total
+
+1,080
+
+(1) For the period reported in respect of the financial year ended 30 June 2016.
+
+As of 30 June 2017 -
+196 200
+87 52 216 751
+
+As of 30 June 2017, the above total includes 0.2 million euros for purchase commitments entered into with related parties. The Group may receive penalty payments related to incidents affecting the performance of its operational satellites.
+28.2 COMMITMENTS RECEIVED
+The Group holds a put option by Abertis on its investment in Hispasat, with no limited validity, exercisable twice a year with respect to its equity interest in Hispasat. The Group exercised the put option in July 2016 (see Note 8 ­ Assets held for sale).
+
+Eutelsat Communications · 46
+
+NOTE.29 LITIGATION AND CONTINGENT LIABILITIES
+In the course of its business activities, the Group has been involved in legal actions and commercial disputes. Consequently, the Group has exercised its judgement to assess the risks incurred on a case-by-case basis and a provision was recorded to cover an expected outflow of resources. In cases viewed as unsubstantiated or insufficiently argued, no provision was recognised. The main ongoing legal actions and business disputes are described as follows:
+Viasat Brasil: Following a significant breach by ViaSat Brasil of its legal obligations, the Group cancelled the agreement signed with this company for the use of the Ka-band payload on the EUTELSAT 3B satellite. ViaSat Brasil claimed compensation from Eutelsat before the Rio de Janeiro commercial court, which declined jurisdiction in August 2016. The claimant filed an appeal against the court's decision, but the court of appeal confirmed the judgement delivered by the court of first instance.
+Tax dispute in France: Eutelsat S.A. which is included in the tax consolidation group headed by Eutelsat Communications S.A. underwent an accounting audit in respect of the financial years ended 30 June 2012, 2013 and 2014. In addition to the tax adjustment notified in December 2015, the French tax authorities issued new tax reassessments on 27 December 2016 in respect of the financial years ended 2013 and 2014. In its response to the tax authorities on 24 February 2017, Eutelsat S.A. rebutted all the adjustments contained in this last notification, believing that it has strong defences. At balance sheet date, Eutelsat had not booked any provision for risks in respect of the tax reassessment, considering it as a contingent liability.
+HorizonSat: During the financial year ended 30 June 2015, Eutelsat SA was summoned by HorizonSat before the Commercial Court of Paris for unilateral termination without compensation of a commercial bid. In April 2017, Eutelsat was convicted by the Court but the plaintiff appealed against the court's decision.
+LC2 International: Eutelsat S.A. was summoned by LC2 International before the Commercial Court of Paris for suspension of satellite broadcasting services. As of 30 June 2017, no judgement was delivered by the court.
+Frequency right: Discussions are underway between Eutelsat and the Italian Ministry of Telecommunications on the use of landing rights.
+
+NOTE.30 RELATED-PARTY TRANSACTIONS
+Related parties consist of:  direct and indirect shareholders, and their subsidiaries, who have exclusive control or significant influence, which is presumed where more
+than 20% of the shares are held or where the investor is a member of the Board of Directors of an entity of the Group;  minority shareholders of entities which the Group consolidates under the full consolidation method;  companies in which the Group has an equity interest that it consolidates under the equity method, and members of the key management
+personnel. The Group considers that the concept of "key management personnel" as applied to Eutelsat's governance includes members of the administrative and management bodies, namely the CEO, the Deputy CEOs and the other members of the Board of Directors. Excluding key management personnel, Eutelsat Group considers as related parties only those relationships having an interest in associates as defined under IFRS 12 (non-controlling interests). The other relationships are not considered as significant. Amounts concerning related party transactions are shown in the tables below:
+
+30.1 RELATED PARTIES THAT ARE NOT MEMBERS OF THE "KEY MANAGEMENT PERSONNEL"
+
+Amounts due by or owed to related parties and included on the balance sheet within current assets and liabilities as of 30 June 2016 and 30 June 2017 are as follows:
+
+(in millions of euros)
+
+30 June 2016 30 June 2017
+
+Gross receivables (including unbilled revenues) (1)
+
+5.9
+
+1.0
+
+Debt (including deferred payments)
+
+732.6
+
+569.6
+
+As of 30 June 2016 and 30 June 2017, debt (exclusively to entities having non-controlling interests) included finance lease agreements entered into in respect of the EXPRESS AT1, EXPRESS AT2, EXPRESS AM6 and EUTELSAT 36C satellites.
+
+Eutelsat Communications · 47
+
+Related-party transactions included in the income statements for the periods ended 30 June 2016 and 30 June 2017 are as follows:
+
+(in millions of euros) Revenues (1) Operating costs, selling, general and administrative expenses Financial result
+
+30 June 2016 37.4 11.6
+
+30 June 2017 27.5 15.5
+
+For the year ended 30 June 2017, no related-party transaction accounts individually for more than 10 % of revenues. Furthermore, the Group has entered into transactions with certain shareholders for the provision of services related to the monitoring and control of its satellites.
+
+30.2 COMPENSATION PAID TO MEMBERS OF THE "KEY MANAGEMENT PERSONNEL"
+
+(in millions of euros) Compensation excluding employer's charges Short-term benefits: employer's charges Total short-term benefits Post-employment benefits Other long-term benefits (indemnity payment for unintended termination of activity) Share-based payment
+
+30 June 2016 30 June 2017
+
+2.1
+
+1.9
+
+0.7
+
+0.6
+
+2.8
+
+2.5
+
+See below
+
+See below
+
+Not applicable Not applicable
+
+See below
+
+See below
+
+Post-employment benefits
+In case of termination of office of the CEO, a non-compete clause provides for payment of 50% of the CEO's fixed compensation over an 18-month period. Under such clause, the CEO is required to refrain from working directly or indirectly for any satellite operator.
+Share-based payment
+At its meetings of 08 November 2012, 11 February 2015, 16 February 2016 and 25 April 2017 (see Note 16.3 ­ Share-based compensation), the Board of Directors approved free share allocation plans for the benefit of members of the Group's administrative and management bodies subject to conditions set out in the plan and to set 50% holding rate for all fully vested shares during the terms of office of the Company's directors and corporate officers ("mandataires sociaux"). The value of the benefit granted is spread over a three-year vesting period. The expense recognised for the periods ended 30 June 2016 and 30 June 2017 was (0.2) million euros and (0.7) million euros.
+
+Eutelsat Communications · 48
+
+NOTE.31 STAFF COSTS
+
+Staff costs (including mandatory employee profit-sharing and employee-related fiscal charges) are as follows: (in millions of euros)
+
+30 June 2016
+
+30 June 2017
+
+Operating costs
+
+50.5
+
+52.9
+
+Selling, general and administrative expenses
+
+81.3
+
+100.6
+
+Total (1)
+
+131.8
+
+153.5
+
+(1) Including (1.5) million euros and (3.6) million euros at 30 June 2016 and 30 June 2017 respectively for expenses related to share-based payments.
+
+The average number of employees (in full time equivalents) is as follows:
+Operations Selling, general and administrative Total
+
+30 June 2016 426 573 999
+
+30 June 2017 455 534 990
+
+As of 30 June 2017, the Group has 958 employees in full time equivalents, against 1,010 as of 30 June 2016.
+Compensation (including employer's contributions) paid to Eutelsat Communications' directors and corporate officers ("mandataires sociaux") employed by the Group amounted to 2.5 million euros for the financial period ended 30 June 2017. During the financial year ended 30 June 2016, attendance fees paid to the members of the Board of Directors amounted to 0.6 million euros.
+The Group has a corporate savings plan ("plan d'épargne d'entreprise" or "PEE") reserved for Eutelsat S.A. employees with more than three months of service, funded through voluntary contributions by employees. Via its Eutelsat S.A subsidiary, the Group has an employee incentive scheme ("accord d'intéressement"), which was set up for a three-year period. The incentive scheme is based on objectives renewable each year.
+
+Eutelsat Communications · 49
+
+NOTE.32 SCOPE OF CONSOLIDATION
+
+As of 30 June 2017, the list of companies included in the scope of consolidation is as follows:
+
+Company
+
+Country
+
+Consolidation method
+
+Eutelsat Communications S.A.
+
+France
+
+FC
+
+Eutelsat S.A.
+
+France
+
+FC
+
+Eutelsat S.A. Sub-Group
+
+Eutelsat Broadband Services
+
+France
+
+FC
+
+Fransat S.A. Eutelsat do Brasil S.A. (1) Eutelsat Participaoes (1)
+
+France
+
+FC
+
+Brazil
+
+FC
+
+Brazil
+
+FC
+
+Satmex Holding BV Satelites Mexicanos SMVS (1) EAS Delaware Corp. (1)
+
+Netherlands
+
+FC
+
+Mexico
+
+FC
+
+USA
+
+FC
+
+Satelites Mexicanos Administracion SMVS
+
+Mexico
+
+FC
+
+Satelites Mexicanos Tecnicios SMVS
+
+Mexico
+
+FC
+
+Satmex US LLC (1)
+
+USA
+
+FC
+
+Satmex do Brasil (1)
+
+Brazil
+
+FC
+
+Eutelsat Serivicos de Telecom. do Brasil Ltd (1)
+
+Brazil
+
+FC
+
+(1) Eutelsat Latam Corp.
+
+USA
+
+FC
+
+Eutelsat Italia S.r.l.
+
+Italy
+
+FC
+
+Skylogic S.p.A
+
+Italy
+
+FC
+
+Eutelsat Latin America Eutelsat Russia(1)
+
+Panama
+
+FC
+
+Russia
+
+FC
+
+Eutelsat Services und Beteiligungen GmbH
+
+Germany
+
+FC
+
+Eutelsat Inc.
+
+USA
+
+FC
+
+Eutelsat America Corp.
+
+USA
+
+FC
+
+Eutelsat UK Ltd
+
+United Kingdom
+
+FC
+
+Eutelsat Polska spZoo
+
+Poland
+
+FC
+
+Skylogic Finland Oy
+
+Finland
+
+FC
+
+Skylogic France SAS
+
+France
+
+FC
+
+Skylogic Germany GmbH
+
+Germany
+
+FC
+
+Skylogic Mediterraneo S.r.l
+
+Italy
+
+FC
+
+Irish Space Gateways
+
+Ireland
+
+FC
+
+CSG Cyprus Space Gateways
+
+Cyprus
+
+FC
+
+Skylogic Eurasia
+
+Turkey
+
+FC
+
+Skylogic Greece
+
+Greece
+
+FC
+
+Skylogic Espana S.A.U.
+
+Spain
+
+FC
+
+Skylogic Croatia d.o.o.
+
+Croatia
+
+FC
+
+Eutelsat Madeira Unipessoal Lda
+
+Madeira
+
+FC
+
+Eutelsat Asia
+
+Singapore
+
+FC
+
+ES172 LLC
+
+USA
+
+FC
+
+EA172 UK
+
+United Kingdom
+
+FC
+
+Eutelsat Australia PTY Ltd
+
+Australia
+
+FC
+
+Eutelsat Middle-East
+
+Dubai
+
+FC
+
+Eutelsat International
+
+Cyprus
+
+FC
+
+Eutelsat Network
+
+Russia
+
+FC
+
+Taurus Satellite Holding
+
+United Kingdom
+
+FC
+
+Broadband4Africa Limited
+
+United Kingdom
+
+FC
+
+Broadband4Africa France SAS
+
+France
+
+FC
+
+Broadband4Africa Italy Srl
+
+Italy
+
+FC
+
+Broadband4Africa Israel Ltd
+
+Israel
+
+FC
+
+% control at 30 June 2017
+100.00%
+100.00%
+
+% interest as of 30 June 2017 100.00%
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+51.00%
+
+49.15%
+
+51.00%
+
+49.15%
+
+51.00%
+
+49.15%
+
+100.00%
+
+96.37%
+
+51.00%
+
+49.15%
+
+51.00%
+
+49.15%
+
+51.00%
+
+49.15%
+
+51.00%
+
+49.15%
+
+51.00%
+
+49.15%
+
+51.00%
+
+49.15%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+100.00%
+
+96.37%
+
+51.00%
+
+49.15%
+
+51.00%
+
+49.15%
+
+100.00%
+
+96.37%
+
+78.95%
+
+76.08%
+
+78.95%
+
+76.08%
+
+78.95%
+
+76.08%
+
+78.95%
+
+76.08%
+
+Eutelsat Communications · 50
+
+Broadband4Africa Côte d'Ivoire SARL Broadband4Africa South Africa Ltd Eurobroadband Infrastructure SARL Eurobroadband Services Eurobroadband Retail Hispasat S.A. (1)
+
+Côte d'Ivoire South Africa Switzerland Italy Switzerland Spain
+
+FC IIG FC FC EM Asset held for sale
+
+78.95% 78.95% 51.00% 51.00% 49.00% 33.69%
+
+FC: Full consolidation method. EM: Equity method. (1) Companies with financial years ending on 31 December.
+NB: The other companies' financial year ends on 30 June.
+
+These subsidiaries were consolidated under the full consolidation method using financial statements prepared as of 30 June 2017.
+
+76.08% 76.08% 49.15% 49.15% 47.22% 32.47%
+
+NOTE.33 SUBSEQUENT EVENTS
+On 14 July 2017, Eutelsat bought back the minority stake held by Inframed in BroadBand4Africa.
+
+NOTE.34 STATUTORY AUDITORS' FEES
+
+(in thousands of euros)
+AUDIT
+Statutory audit, certification, review of separate and consolidated financial statements
+Eutelsat Communications Other subsidiaries Sub-total
+
+Ernst & Young
+
+Amount
+
+Amount
+
+N
+
+%
+
+"N-1"
+
+211
+
+21%
+
+154
+
+699
+
+68%
+
+772
+
+910
+
+89%
+
+926
+
+%
+14% 70% 84%
+
+Services other than certification of financial statements
+Eutelsat Communications
+Other subsidiaries
+Sub-total
+Total
+
+111 111 1,011
+
+11% 11% 100%
+
+175 175 1,100
+
+16% 16% 100%
+
+Mazars
+
+Amount
+
+Amount
+
+N
+
+%
+
+"N-1"
+
+%
+
+211
+
+48%
+
+230
+
+52%
+
+440
+
+100%
+
+133
+
+27%
+
+310
+
+64%
+
+443
+
+91%
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+440
+
+100%
+
+-
+
+-
+
+46
+
+9%
+
+46
+
+9%
+
+488
+
+100%
+
+Eutelsat Communications · 51
+
+

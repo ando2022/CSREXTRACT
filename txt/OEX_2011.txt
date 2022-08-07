@@ -1,0 +1,1083 @@
+REPORT OF THE MANAGEMENT BOARD ON THE ACTIVITIES OF THE TELL S.A. FOR 2011
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+TABLE OF CONTENTS
+1 LEGAL STATUS OF THE PARENT COMPANY TELL S.A. ................................. 5
+1.1 Basic information about the Parent Company............................................................................................. 5
+1.2 Composition of the governing bodies of the Parent Company as at 31 December 2011 ............................ 5
+1.3 Chartered auditors ....................................................................................................................................... 6
+1.4 Quotations at the regulated market.............................................................................................................. 6
+1.5 Share capital of the Parent Company as at 31 December 2011 ................................................................... 6
+2 RELATED PARTIES............................................................................................. 6
+2.1 Information on organisational or capital links of the issuer with other entities. Description of the Group organisation, description of changes and their underlying reasons. ........................................................................ 6
+3 FINANCIAL POSITION OF THE GROUP............................................................. 7
+3.1 Information about basic products, goods or services, with a breakdown into volumes and value as well as the shares of particular products, goods and services (if they are material) or their groups in total sale of the Group, changes in this respect during the year. ...................................................................................................... 7
+3.1.1 Postpaid activations............................................................................................................................. 7 3.1.2 Wide-band Internet access services..................................................................................................... 8 3.1.3 Prepaid activations .............................................................................................................................. 8 3.1.4 Prepaid account refilling ..................................................................................................................... 8 3.1.5 Sale of mobile phone accessories ........................................................................................................ 8 3.1.6 Sale of postpaid mobile phones........................................................................................................... 8
+3.2 Information on markets, with a breakdown into domestic and foreign markets, information about sources of materials for production, goods and services, with an indication of dependence on one or more supplier or client, and in case the share of one supplir or client reaches at least 10 % of total sale revenue - name of supplier or client, his share in sale or supply as well as formal links with the issuer. .......................................................... 9
+3.2.1 Situation on the mobile phone market................................................................................................. 9 3.2.2 Group's sale network. .......................................................................................................................... 9 3.2.3 Dependence on suppliers................................................................................................................... 10
+3.3 Discussion of basic economic and financial data disclosed in the financial statements, in particular a description of non-typical factors and events that may have a significant influence on the Group's activities and its profits or losses of the financial year................................................................................................................ 10
+3.3.1 Discussion of the main income statement items................................................................................ 10 3.3.2 Discussion of the main items of the consolidated balance sheet ....................................................... 11 3.3.3 Discussion of the cash flow statement .............................................................................................. 12
+3.4 Ratio analysis ............................................................................................................................................ 14
+3.5 Factors and non-typical events influencing the result of the financial year, specifying the degree of influence of such factors or non-typical events on the result achieved by the Tell S.A. Group............................ 16
+3.6 Description of risk and threat factors, with a specification to what extent the Tell Group is exposed to them. 17
+Risk related to the macroeconomic situation of Poland .................................................................................... 17 Dependence on mobile phone operators of particular Group companies .......................................................... 17 Change of sale strategy by mobile phone operators .......................................................................................... 17 Growth in importance of other service sale channels among mobile phone operators (call centres, Internet).. 17 Possibilities to terminate agency contracts by operators ................................................................................... 17
+2
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+Loss of competitive position for operators in the context of results of particular Group companies ................ 17
+3.7 Indication of court, arbitration or public administration proceedings. ...................................................... 17
+4 EXPLANATORY NOTES.................................................................................... 17
+4.1 Information on contracts significant for the business of the Tell Group companies, including contracts between shareholders known to the issuer, insurance contracts and cooperation contracts .................................. 17
+4.1.1 Agency Contract of 01/06/2011 ........................................................................................................ 17 4.1.2 Agency Contract of 01 April 2001 .................................................................................................... 17 4.1.3 Network Partner Cooperation Contract (Partnership Contract) of 30/06/2010. ................................ 17
+4.2 Information about main domestic and foreign investment directions (securities, financial instruments, intangible assets and real estates), including equity investments made outside the group of related entities as well as description of their financing. ........................................................................................................................... 17
+4.3 Information on loans and credit contracts, loan maturities, sureties and guaranties granted. ................... 18
+4.4 Information on loans granted, including maturity dates, as well as sureties and guarantees, in particular loans, guarantees and sureties granted to related parties. ...................................................................................... 20
+4.4.1 Loans granted .................................................................................................................................... 20 4.4.2 Securities granted .............................................................................................................................. 20
+4.5 Description of mail capital investment or deposits made within the Tell Group during the financial year20
+4.6 Description of the use of issue proceeds by the Issuer .............................................................................. 20
+4.7 Explanation of differences between the financial results disclosed in the annual statement and result forecasts published earlier for the given year........................................................................................................ 20
+4.8 Assessment of financial resources management and its grounds, in particular the ability to discharge liabilities incurred, determination of possible threats and measures undertaken or to planned by the issuer to counteract such threats. ......................................................................................................................................... 20
+4.9 Description of the possibilities of investment plans, including equity investments, when compared to the funds held, taking into account possible changes in the financing structure. ........................................................ 21
+4.10 Characteristics of external and internal factors significant for the development of the issuer's business and description of the issuer's activity development perspective at least until the end of the financial year following the financial year for which the financial statements were made, including elements of the issuer;s market strategy. ................................................................................................................................................................. 21
+4.11 Most important achievements in research and development. .................................................................... 21
+4.12 Changes in basic business management principles concerning the issuer and the group......................... 21
+4.13 Changes in the composition of bodies managing or supervising the issuer during the last financial year, principles governing the appointment and recalling of the management bodies as well as their competencies, in particular the right to take a decision on the issue or redemption of shares. ......................................................... 21
+4.14 Contracts made between the issuer and the managing persons providing for compensation in case of resignation or dismissal from the position without a goof reason or when the recalling or dismissal takes place due to the combination of the issuer by merger. ................................................................................................... 22
+4.15 The value of remuneration, bonuses or benefits, including incentive or bonus schemes based on the issuer's capital aid or due to the members of the management board or supervisory board as well as information on remuneration for functions in the governing bodies of subsidiaries................................................................. 22
+3
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011 4.16 Number and nominal value of shares in the issuer and shares in issuer's related parties that are held by the persons in management and supervisory bodies (separately for each such person) as at 31/12/2011................... 23 4.17 Shareholders holding, directly or indirectly through subsidiary entities, at least 5% of total votes at the general meeting of shareholders of the issuer, indication of the number of shares held, their percentage of share capital, number of votes resulting and percentage of total votes at the general meeting of shareholders as at 31/12/2011. ........................................................................................................................................................... 23 4.18 Information about contracts known to the issuer (including also contracts concluded after the balance sheet date) in result of which they may be in the future any changes in the proportion of shares held by present shareholders. ......................................................................................................................................................... 24 4.19 Holders of any securities that give special control rights with regard to the issuer, description of such rights. 24 4.20 Information about the employee shareholding plan control system. ......................................................... 24 4.21 Indication of any restrictions concerning the transfer of title to securities of the issuer and restrictions concerning the exercise of the right of vote appertaining to the issuer's shares. ................................................... 24 4.22 Information on the Issuer's agreement with an entity authorised to audit financial statements................. 24
+4
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+
+1 LEGAL STATUS OF THE PARENT COMPANY TELL S.A.
+
+1.1 Basic information about the Parent Company
+
+Name:
+
+Tell
+
+Legal form:
+
+Spólka Akcyjna (Polish joint-stock company)
+
+Seat:
+
+61-362 Pozna, ul. Forteczna 19a
+
+Country of incorporation:
+
+Poland
+
+Basic objects of business:
+
+-
+
+other telecommunications activities,
+
+-
+
+retail sale of telecommunications equipment in specialised stores,
+
+-
+
+retail sale of computers, peripheral equipment and software in specialised stores,
+
+-
+
+wholesale of electronic and telecommunications equipment and parts,
+
+-
+
+wholesale of computers, peripheral equipment and software,
+
+-
+
+other retail sale not in stores, stalls or markets,
+
+-
+
+computer facilities management activities,
+
+-
+
+other business and management consultancy activities.
+
+Registration authority:
+
+District Court Pozna- Nowe Miasto i Wilda, 8th Commercial Division of the National Court Register
+
+Statistical number (REGON):
+
+630822208
+
+1.2 Composition of the governing bodies of the Parent Company as at 31 December 2011
+
+Management Board: Rafal Stempniewicz
+
+- President of the Management Board
+
+Stanislaw Górski
+
+- Member of the Management Board
+
+Robert Krasowski
+
+- Member of the Management Board
+
+Changes in the Management Board of the Company:
+
+In the financial year, the composition of the Management Board did not change.
+
+Supervisory Board: Pawel Turno
+
+- Chairman of the Supervisory Board
+
+Tomasz Grabiak Piotr Karmelita
+
+- Member of the Supervisory Board until 29/04/2011 - Member of the Supervisory Board
+
+Mariola Wickowska Tomasz Buczak
+
+- Member of the Supervisory Board - Member of the Supervisory Board until 12/12/2011
+
+Marek Pitkowski Adam Wojacki Lukasz Krski
+
+- Member of the Supervisory Board from 30/04/2011 to 12/12/2011 - Member of the Supervisory Board from 12/12/2011 - Member of the Supervisory Board from 12/12/2011
+
+5
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+Changes in the Supervisory Board: In the financial year, the composition of the Supervisory Board changed. Mr Tomasz Grabiak resigned from running for the next term of office. Mr Marek Pitkowski was appointed the Supervisory Board member. The Extraordinary General Meeting of Shareholders recalled Mr Marek Pitkowski from the Supervisory Board on 12 December 2011 and at the same time appointed two new members of the Supervisory Board: Adam Wojacki and Lukasz Krski. Mr Tomasz Buczak resigned from his function as a Supervisory Board member effective as of 12 December 2011.
+
+1.3 Chartered auditors
+Grant Thornton Frckowiak Sp. z o.o., Sp.k. ul. Abpa A. Baraniaka 88E 61-131 Pozna
+
+1.4 Quotations at the regulated market
+
+1. General:
+Stock Exchange:
+Symbol at the WSE: Sector at the WSE:
+
+The Warsaw Stock Exchange ul. Ksica 4 00-498 Warszawa
+TEL
+retail sale
+
+2. Depository-settlement system:
+
+The National Depository for Securities (KDPW) ul. Ksica 4 00-498 Warszawa
+
+3. Contact with investors:
+
+Tell S.A. ul. Forteczna 19a 61-362 Pozna
+
+1.5 Share capital of the Parent Company as at 31 December 2011
+
+As at the balance sheet date, the value of share capital of Tell S.A. amounts to PLN 1,261,924.60. The capital is
+
+divided into 6,309,623 shares of the nominal value of PLN 0.20 each, including:
+
+·
+
+1.755. 375 series A registered preferential shares (one share entitles to two votes)
+
+·
+
+4.554. 248 ordinary bearer shares.
+
+2 Related parties
+2.1 Information on organisational or capital links of the issuer with other entities. Description of the Group organisation, description of changes and their underlying reasons.
+
+Tell S.A. Group comprises Tell S.A. and its related companies.
+Euro-Phone Sp. z o.o. - Seat of the Company: ul. Pulawska 40a, 05-500 Piaseczno, - Basic object of business: Agents specialised in the sale of other particular products (Polish Classification of Economic Activities of 2007 - 4618Z),
+
+6
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+- Company's legal basis: The Company was established on 19 March 1998 (Notarised deed No. A 2699/98). The registration authority is the District Court for the Capital City of Warsaw in Warsaw, 13th
+Commercial Division of the National Court Register, KRS 0000010796. Incorporation date: 25 May 2001, - The Company's share capital is PLN 2,550,000. In Euro-Phone Sp. z o.o., Tell S.A, holds 100% of shares.
+
+PTI Sp. z o.o. - Seat of the Company: ul. Glogera 5, 31-222 Kraków, - Basic objects of business: (Polish Classification of Economic Activities of 2007) 4618Z Agents specialised in the sale of other particular products, - Company's legal basis: The Company was established on 12 July 2007 (Notarised deed No. A
+5675/2007. The registration authority is the District Court for Krakow - ródmiecie in Krakow, 11th Commercial Division of the National Court Register, KRS 0000286046. Incorporation date: 13 August 2007, - The Company's share capital is PLN 1.900.000. In PTI Sp. z o.o., Tell S.A, holds 100%
+shares.
+
+Toys4Boys Pl. Sp. z o.o. - Seat of the Company: ul. Nowy wiat 11B, 80-299 Gdask, - Basic object of business: Retail sale via mail order houses or via Internet (Polish Classification of Economic Activities of 2007 ­ 4791Z), - Company's legal basis: The Company was established on 16 February 2007 (Notarised deed No. 5029/2007). Registration authority: District Court for Gdask-Pólnoc in Gdansk, 7th Commercial Division of the National Court Register, KRS 0000276286. Incorporation date: 12 March 2007, - The share capital of the Company is PLN 142,900. In Toys4Boys. Pl Sp. z o.o. Tell S.A. holds 30% of shares.
+
+Connex Sp. z o.o.
+
+- Seat of the Company: ul. Forteczna 19A, 61-362 Pozna,
+
+- Basic object of business: Other wholesale ­ Polish Classification of Economic Activities of 2007: 5190Z
+
+- Company's legal basis: The Company was established on 06 July 2000 (Notarised deed No. A
+
+4298/2000. Registration authority: District Court for Pozna ­ Nowe Miasto i Wilda in Pozna,
+
+8th
+
+Commercial Division of the National Court Register, KRS 0000024020,
+
+- The Company's share capital is PLN 200000. In Connex Sp. z o.o., Tell S.A, holds 100% of shares.
+
+3 FINANCIAL POSITION OF THE GROUP
+3.1 Information about basic products, goods or services, with a breakdown into volumes and value as well as the shares of particular products, goods and services (if they are material) or their groups in total sale of the Group, changes in this respect during the year.
+
+All Group companies operate on the mobile phone service distribution market. In 2011, the Group operated on the basis of agency contracts with 3 biggest mobile phone operators. Business models of all Group companies are very similar.
+
+3.1.1 Postpaid activations There are two basic types of services on the mobile phone market: postpaid and prepaid. The activation of the postpaid type (the service is paid in arrears) is characterised by a long-term contract signed by the client with the operator (usually for 2 years) and a necessity to pay a monthly subscription fee. As part of postpaid services, the
+
+7
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+ever growing share is taken by data transmission services, allowing a mobile Internet access based on a separate SIM card installed in laptops. For the client acquisition in the postpaid system and for the extension of the client's past contract, the Group companies receive a commission from mobile phone operators. The commission is the most important source of margin for Group companies.
+
+3.1.2 Wide-band Internet access services For the acquisition of clients and for clients extending their previous contracts with the operator, the Group companies receive a commission in accordance with the same rules as in case of postpaid activations.
+
+3.1.3 Prepaid activations The prepaid activation (service paid up front) does not require the client to conclude a contract with the operator and pay a monthly subscription fee. The remuneration for including a client in the given operator's network is a trade margin realised on the sale of the so-called starting sets (SIM card plus a phone number) and the so-called phone sets.
+
+3.1.4 Prepaid account refilling Another source of revenue for the Group are the calling cards (scratchcards or electronic refilling), which allow the client to top up his prepaid account with a definite amount to be then used to make calls, send text messages and use other services. The remuneration for the sale to the client of such time is based on a trade margin. At present, the Group companies operate almost exclusively the electronic refill services.
+
+3.1.5 Sale of mobile phone accessories The sale of mobile phone accessories is a source of the Group's revenues that is independent from the mobile phone operators.
+
+3.1.6 Sale of postpaid mobile phones Mobile phones offered jointly with the postpaid activation are not a source of margin for the Group companies (their sale is margin neutral). They are sold to clients at promotional prices, much lower than the market pries, and the difference between the market price and the price for the client is covered by the operators (each operator does it differently). This phenomenon is a form of subsidising the mobile phones by operators in order to lower the network entry barrier for the client. The subvention is a form of the operator's investment in the client and is repaid to the operator by the client on the basis of invoices for services over the subscription period. The tables below present the sale as broken down into ranges offered by Group companies and sale volumes in the main revenue lines.
+
+Revenue from the sale of products and goods (in kPLN)
+Revenue from the sale of telecommunication services Sets and pre-paid refillments Postpaid contract phones Other revenue
+Total
+
+2011
+128,621 28,028
+119,359 11,659
+287,668
+
+2010
+130,825 30,580
+133,937 12,029
+307,371
+
+Change 2011/2010
+98.32% 91.65% 89.12% 96.92% 93.59%
+
+Service sale volume Postpaid activations
+
+2011 653,187
+
+2010 720,403
+
+Change 2011/2010
+90.67%
+
+8
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+
+Prepaid activations
+
+Total
+
+161,020 814,207
+
+190,130 910,533
+
+84.69% 89.42%
+
+3.2 Information on markets, with a breakdown into domestic and foreign markets, information about sources of materials for production, goods and services, with an indication of dependence on one or more supplier or client, and in case the share of one supplier or client reaches at least 10 % of total sale revenue - name of supplier or client, his share in sale or supply as well as formal links with the issuer.
+3.2.1 Situation on the mobile phone market
+The basic market for the business of Tell S.A. is the mobile phone market and, owing to the cooperation with TP SA, on an ever growing basis, the market of wide band Internet access and paid television. In 2011, the Company revenues based, similarly as in previous years, on the transaction model. i.e. the remuneration received from the Operator for the new client acquisition or for the extension of the old client's contract for telecommunications services. A supplementary source of income of the Company are bonuses related to the after-sale service and maintenance of sale standards. When it comes to new client acquisition, particular attention must be paid to the fact that these are not only clients who have not had a mobile phone so far but also those migrating from the pre-paid to the post-paid segment as well as clients migrating between mobile phone operators in the post-paid service segment. Therefore, what must be taken into consideration is the fact that the most frequently published data concerning the SIM card market saturation reflect only partially the Company's revenue potential,
+The number of mobile phone users in Poland rose in 2011 by 7%, to the level of 50.7 million. This means that the market saturation ratio amounted to 132.7%, as compared to 124.3% at the end of 2010. At the same time, the share of three leading mobile phone operators shrank from 87.8% at the end of 2010 to 84.3% at the end of 2011. The beneficiaries of this phenomenon are operators: PLAY and MVNO.
+As regards the market of mobile phone operators' service distribution, the three key rules of distributors were not changed:
+a) exclusivity regarding the offer of one single operator in one single store; b) exclusive competence of operators as regards the number and location of shops offering their services; c) standardisation of the offer, visualisation and sale standards within the entire sale network (there are
+slight variances in this regard).
+In view of these circumstances, the competition between various distributors of services of the same operator is limited and concerns such areas as acquisition of new shop locations (this factor lost its significance in view of the market maturity), quality of sale force and operating efficiency of logistic and settlement processes. The competition between distributors of services of particular operators is, in turn, a reflection of the strategy and marketing policy of the operators themselves.
+3.2.2 Group's sale network.
+TELL S.A. As at 31/12/2011, the sale was conducted in a network of 209 sale outlets (channel dedicated to individual clients) and 64 Business Client Consultants (channel dedicated to business clients). The average number of sale outlets in 2011 was 221, which was a fall by 5.2% when compared to 2010, however the
+
+9
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+number of Business Client Consultants in 2011 was 68.7, which was a fall by 4.4% when compared to the average number in 2010. Considering the scale of the PTK Centertel network downsizing, the Company estimates that its share in the operator's sale network at the end of 2011 was approx. 20% of all stores and approx. 12% of all business client consultants. Consequently, the Company maintained its position of PTK Centertel's biggest agent.
+
+EURO-PHONE Sp. z o.o. As at 31/12/2011, the sale was conducted in a network of 105 sale outlets (channel dedicated to individual clients) and 85 Business Client Consultants (channel dedicated to business clients). The average number of sale outlets in 2011 was 106, which was a fall by 3.63% when compared to 2010, however the number of Business Client Consultants in 2011 was 92, which was a fall by 17.85% when compared to 2010.
+
+PTI Sp. z o.o. As at 31/12/2011, the sale was conducted in a network of 94 sale outlets (channel dedicated to individual clients) and 23 Plus Business Advisors (channel dedicated to business clients). The average number of sale outlets in 2011 was 96, which was a rise by 30 % when compared to 2010, however the number of Plus Business Advisors in 2011 was 23, which was a fall by 4% when compared to 2010.
+
+3.2.3 Dependence on suppliers The Group's largest contractor is still PTK Centertel Sp. z o.o. with registered office in Warsaw. Assuming revenue from the sale of telecommunications services as the basis, this operator's share in Group's revenue amounted to 58%. In 2010, the share was at the level of 60%. The fall was caused by a growth of revenues from sale in subsidiaries. None of the Group companies has any capital or personal links with PTK Centertel Sp. z o.o. or any other mobile phone operators.
+
+3.3 Discussion of basic economic and financial data disclosed in the financial statements, in particular a description of non-typical factors and events that may have a significant influence on the Group's activities and its profits or losses of the financial year.
+
+3.3.1 Discussion of the main income statement items
+The Group's revenues amounted to kPLN 287.668, which constitutes a decrease by 6% when compared to 2010, whereby the commission revenue - the Group's main revenue line - fell by 1.7%. The Group's operating profit reached kPLN 12.636, which constituted a rise by 2% when compared to 2010.
+
+The balance of the Group's financial income and costs was negative, similarly as in 2010, whereby its negative impact on the Group's results was higher in 2010 (kPLN -718 in 2011 when compared to kPLN -2.105 in 2010). The Group's gross profit reached kPLN 11.917, which constituted a rise by approx. 23% when compared to 2010. The Group's net profit was kPLN 9.426 and was higher by 32% than in 2010. Both the operating profit achieved in 2011 and the net profit are the highest achieved by the Group in its history.
+
+Consolidated income statement in kPLN
+Net revenues from sale Net revenues from the sale of products
+
+2011 287,668 173,645
+
+2010 307,371 179,901
+
+Change 2011/2010
+94%
+97%
+
+10
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+
+Net revenues from the sale of goods Sale costs
+Costs of products sold Value of goods sold Gross profit on sale Sale costs Administration costs Profit on sale Other operating income Other operating expense Profit on operating activities Financial income Financial costs Gross profit Income Tax Net profit
+
+114,023 221,523 109,857 111,666
+66,145 41,289 11,721 13,135
+1,055 1,554 12,636
+238 956 11,917 2,492 9,426
+
+127,469 234,451 108,639 125,812
+72,919 45,883 12,437 14,599
+766 3,028 12,336
+223 2,328 9,684 2,566 7,117
+
+89% 94% 101% 89% 91% 90% 94% 90% 138% 51% 102% 107% 41% 123% 97% 132%
+
+EBITDA Amortisation and depreciation EBITDA rate Gross profit on sales Profit on sales Return on operating activities Gross profit Net profit
+
+14,724 2,088 5.1% 23.0% 4.6% 4.4% 4.1% 3.3%
+
+14,835 2,498 4.8% 23.7% 4.7% 4.0% 3.2% 2.3%
+
+99% 84% 106% 97% 96% 109% 131% 142%
+
+3.3.2 Discussion of the main items of the consolidated balance sheet
+In 2011, the balance sheet total went slightly down by 2.30% when compared to the previous year. The fixed assets constitute 46.15% of total assets. In subsequent years, their value grew slightly. Of particular notice is the item ­ investments in related parties ­ the growth in this item is related to the purchase by Tell S.A of 30% of shares in Toys4BoysPl. The structure of assets is stable. The current assets constitute 53.85% of total assets. Their value went down by 4.47% when compared to the previous year. A significant item is the item "Short-term receivables: which constitute 36.54% of the balance sheet total. Its value decreased by 14% when compared to the previous year. The highest growth is related to cash, whose value went up by 188.94% when compared to the previous year. The share of cash in assets is 8.27%. The equity constitutes 41.27% of total equity & liabilities, a growth by 7.91% when compared to the previous year. Liabilities constitute 58.73% of total equity & liabilities, and their value fell by 8.38% when compared to the previous year. The Group's loan liabilities amount to kPLN 5.695, whereby kPLN 1.417 is the outstanding part of an investment loan sanctioned to Euro-Phone Sp. z o.o. by Bank DnB NORD Polska S.A., and kPLN 4.279 is an outstanding part of investment loans granted to Tell S.A. by Alior Bank S.A.
+
+11
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+
+Consolidated balance sheet in kPLN
+Assets Fixed assets
+Intangible fixed assets Goodwill Tangible Fixed Assets Investments in related parties Long-term receivables Deferred income tax assets Long-term prepayments
+
+2011 as at
+31/12/2011
+
+value
+
+structure %
+
+66,788 484
+57,581 5,059 1,287 1,184 888 304
+
+46.15% 0.33% 39.78% 3.50% 0.89% 0.82% 0.61% 0.21%
+
+2010 as at
+31/12/2010
+
+value
+
+structure %
+
+Dynamics 2011/2010
+
+66,541 632
+57,481 5,908 1,258 874 387
+
+44.92% 0.43% 38.80% 3.99% 0.00% 0.85% 0.59% 0.26%
+
+100.37% 76.61% 100.17% 85.63% 100.00% 94.09% 101.56% 78.55%
+
+Current assets Inventories Trade receivables and other receivables Accruals Financial assets Cash and Cash Equivalents
+
+77,943 12,744 52,882
+321 22
+11,975
+
+53.85% 8.81% 36.54% 0.22% 0.02% 8.27%
+
+81,592 15,461 61,489
+274 224 4,145
+
+55.08% 10.44% 41.51% 0.19% 0.15% 2.80%
+
+95.53% 82.43% 86.00% 117.11% 9.84% 288.94%
+
+Total assets
+
+144,731 100.00%
+
+148,133 100.00%
+
+97.70%
+
+Equity &Liabilities Shareholder's equity
+Share capital Supplementary capital Reserve capital Retained profit (loss) Net profit
+
+59,732 1,262
+36,999 9,902 2,144 9,426
+
+41.27% 0.87% 25.56% 6.84% 1.48% 6.51%
+
+55,354 1,262
+36,396 9,902 677 7,117
+
+37.37% 0.85% 24.57% 6.68% 0.46% 4.80%
+
+107.91% 100.00% 101.66% 100.00% 316.49% 132.44%
+
+Liabilities and provisions for liabilities
+Deferred income tax liabilities Provision for retirement benefits and similar benefits Other provisions
+Long-term liabilities
+Short-term liabilities
+
+84,999 5,837 41 1,172 3,840
+74,109
+
+58.73% 4.03% 0.03% 0.81% 2.65% 51.20%
+
+92,778 4,251 39 1,126 6,051
+81,313
+
+62.63% 2.87% 0.03% 0.76% 4.08% 54.89%
+
+91.62% 137.32% 106.39% 104.09% 63.46% 91.14%
+
+Total equity &liabilities
+
+144,731 100.00%
+
+148,133 100.00%
+
+97.70%
+
+3.3.3 Discussion of the cash flow statement
+Cash flows of the Group ­ are characterised by a positive flow from operating activities and a negative flow from the investing activities and financial activities.
+
+12
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+
+As regards the cash flow statement, noteworthy is the balance of flows from operating activities, that reached the level of kPLN 18,237 in 2011 and is higher by kPLN 1.999 than in 2010. The analysis of the flows from operating activities indicates that the Group noted a fall in inventories of goods by kPLN 2,717 and a fall in receivables by
+
+kPLN 8,681. The level of liabilities decreased by kPLN 6,970.
+
+In flows from investing activities, there was a repayment of loans in an amount of kPLN 2.415. And the amount of loans granted amounted to kPLN 2.236. The Group companies spent kPLN 1.845 to purchase tangible and intangible assets.
+
+In the flows from financing activities, the significant items are the dividend paid by Tell S.A. in an amount of kPLN
+
+5.048 and repayment of loans in an amount of kPLN 2.066.
+
+Consolidated cash flow statement in kPLN
+A. Cash flow from operating activity I. Gross profit (loss) II. Total adjustments
+1. Depreciation and amortisation, including: 2. Exchange differences 3. Interest 4. Loss on investment activities 5. Change in provisions 6. Change in inventories 7. Change in receivables 8. Change in short-term liabilities 9. Change in prepayments and accruals 10. Paid income tax 11. Other adjustments III. Net cash flows provided by operating activities B. Cash flow from investing activities I. Inflows
+
+2011
+11,917 6,320 2,088 7 661 350 48 2,717 8,681 -6,970 136 -1,397 -1
+18,237
+2,786
+
+2010
+9,684 6,555 2,498
+764 49
+261 4,046 -1,839
+152 244 -729 1,108 16,238
+1,023
+
+1. Disposal of intangible and tangible fixed assets
+
+304
+
+547
+
+2. Interest income 3. Repayment of loans II. Outflows
+
+68 2,415 -5,367
+
+39 437 -10,757
+
+1. Acquisition of intangible and tangible fixed assets
+
+-1,845
+
+-9,385
+
+2. Financial assets in subsidiaries 3. Settlement of loss of control 4. Loans granted III. Net cash flows provided / (used) by investing activities C. Cash flow from financial activity I. Inflows 1. Loans II. Outflows 1. Dividends to shareholders of Tell S.A. 2. Repayment of loans 3. Interest 4. Exchange differences
+
+-1,287
+-2,236 -2,581
+-7,825 -5,048 -2,066
+-705 -7
+
+-1,000 -339 -33
+-9,734
+405 405 -8,945 -6,310 -1,833 -802
+
+13
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+
+III. Net cash flows provided / (used) by financing activities D. Total net cash flows E. Balance sheet change in cash, including F. Cash at the period beginning G. Cash at period end
+
+-7,825 7,830 7,830 4,145 11,975
+
+-8,540 -2,036 -2,036 6,181 4,145
+
+3.4
+
+Ratio analysis
+
+For the correct interpretation of ratios characterising the efficiency of management of the Group's current assets and the profitability ratios based on revenues, it is necessary to explain the way of reflecting in the Group companies' books the mechanisms by which mobile phone operators subsidise the postpaid activation phones. This is even more important in the presentation of 2010 results, because due to the increase of the scale of operations of subsidiary PTI Sp. z o.o. cooperating with Polkomtel S.A. (PLUS), there were significant changes as regards these ratios. The changes are not so much a result of real changes in relations in economic values significant for the Group results, but from of a different way of settling the postpaid phone subsidies than in case of remaining operators. Irrespective, however, of a different way of mobile phone sale settlement by particular operators, the result on such operations is neutral for Group companies' results.
+
+ORANGE network operator - PTK Centertel Sp. z o.o. Tell S.A. acquires phones from the Operator at market prices. After the purchase, the Company incurs a liability in an amount equal to the market price of the phone. At the same time, the Company recognised in its assets an inventory stock valued at the phones' market prices. The Company sells such phones in two variants: - a sale of the phone directly to the client in a sale outlet In this case, the sale is made at the promotional price (allowing for a subsidy at the level agreed with the Operator). Thus, the Company makes a temporary loss on this particular transaction. However, immediately after the promotional sale, in accordance with the procedures agreed with the Operator in the contract , the Operator issues corrective invoices decreasing the original phone purchase price for the Company to the promotional price (allowing for the subsidy level). Thus, in effect, the transaction has a neutral effect on the Company's financial result, - sale of the phone to a sub-agent, who then sells it to a client in a sale outlet In this case, the sale is made at the original Operator's purchase price and then the process is analogous as above, whereby it is the Company that issues a corrective invoice to the sub-agent, adjusting the original selling price.
+
+T-Mobile network operator - Polska Telefonia Cyfrowa Sp. z o.o. Until the end of June 2011, the revenue and costs related to the sale of mobile phones were registered in promotional prices. Since 1 July 2011, in relation with the amended contract with the operator, the Company has maintained a system identical to the system of settlements between Tell S.A. and PTK Centertel.
+
+PLUS network operator ­ Polkomtel S.A. PTI Sp. z o.o. acquires phones from the Operator at market prices. After the purchase, the company incurs a liability in an amount equal to the market price of the phone. At the same time, the company recognised in its assets an inventory stock valued at the phones' market prices. The Company sells such phones in two variants:
+
+14
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+- a sale of the phone directly to the client in a sale outlet In this case, the sale is made at the promotional price (allowing for a subsidy at the level agreed with the Operator). Thus, the Company makes a loss on this particular transaction. However, immediately after the promotional sale, as agreed with the Operator in the contract, the Operator grants the company a commission in an amount equal to the value of loss incurred at the given transaction. In effect, the transaction has a neutral effect on the Company's financial result, however, it shows a much higher revenue and costs from a similar transaction than other Group companies. - sale of the phone to a sub-agent, who then sells it to a client in a sale outlet In this case the sale is made at the original price of purchase from the Operator, but then the process is similar as the one described above, whereby it is the company that sets off the sub-agent's loss on the mobile phone sale transaction to a client by paying an appropriate commission (received earlier from the Operator). In consequence of such recognition, the phone sale results in relatively high revenue from the sale and high costs of sale when compared to other Group companies.
+
+If all Group companies settled the value of subsidised phones in the same way as Tell S.A, the Group's revenue would amount to in 2011 and 2010, respectively, kPLN 229,673 and kPLN 241,057. The costs of sale in 2011 and 2010 would be, respectively, kPLN 163,528 and kPLN 168,137. There is no possibility at present to simulate the values of the Group's revenues and costs with the application of the settlement model in force between PTI Sp. z o.o. and Polkomtel SA because until June 2011 Euro-Phone registered the revenues and costs of mobile phone sales only in promotional prizes (no data about their market values). The change of the settlement system between Euro-Phone and PTC that took place in July 2011 will allow, with time, to prepare a presentation of simulated revenues of the Group both in accordance with the model applied by Tell SA and Euro-Phone Sp. z o.o. as well as the model applied by PTI Sp. z o.o.
+
+In the table below, we draw attention to the inventory and receivable turnover ratios, where there were changes resulting from the above-described settlement mechanisms.
+
+No.
+
+Name of ratio
+
+1 Efficiency ratio
+
+1.1 Cost level ratio
+
+1.2 Asset turnover ratio
+
+1.3 Fixed asset turnover ratio
+
+1.4 Current asset turnover ratio
+
+1.5 Inventory turnover ratio
+
+Formula
+tax deductible cost sale revenue sale revenue total assets sale revenue fixed assets sale revenue current assets sale revenue inventories
+
+Measure 2011 2010 0.95 0.95 1.99 2.07 4.31 4.62 3.69 3.77 22.57 19.88
+
+1.6 Inventory cycle indicator 1.7 Receivables turnover ratio
+
+inventories x number of days in the period sale revenue sale revenue
+
+days
+
+16.17 18.36 5.44 5.00
+
+15
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+
+1.8 Receivables cycle indicator
+2 Effectiveness ratios 2.1 ROS
+2.2 NPM
+2.3 Rate of return
+2.4 ROE
+3 Financial liquidity ratios 3.1 Liquidity I
+3.2 Liquidity II
+3.3 Liquidity III
+4 Capital structure,ratios 4.1 Debt ratio
+4.2 Equity to debt ratio
+4.3 Asset financing structure ratio equity
+4.4. Asset financing structure ratio bank loan
+4.5. Asset financing structure ratio liabilities
+
+trade receivables receivables x number of days in the period
+sale revenue
+
+days
+
+67.10 73.02
+
+operating profit x 100 sale revenue net profit x 100 sale revenue net profit x 100
+total assets at period end net profit x 100 average equity
+
+%
+
+4.14% 3.15%
+
+%
+
+3.28% 2.32%
+
+%
+
+6.51% 4.80%
+
+% 13.68% 12.95%
+
+total current assets current liabilities
+current assets - inventories-prepayments&accurals current liabilities cash current liabilities
+
+1.05 1.00 0.87 0.80 0.16 0.05
+
+total debt equity equity
+total debt equity
+total capital bank loans total capital liabilities to suppliers total capital
+
+1.42 1.68 0.70 0.60 0.41 0.37 0.04 0.05 0.47 0.50
+
+3.5 Factors and non-typical events influencing the result of the financial year, specifying the degree of influence of such factors or non-typical events on the result achieved by the Tell S.A. Group.
+During the financial year there were no non-typical events that might have any influence on the results achieved by the Group.
+
+16
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+3.6 Description of risk and threat factors, with a specification to what extent the Tell Group is exposed to them.
+Main risk factors are: Risk related to the macroeconomic situation of Poland Dependence on mobile phone operators of particular Group companies Change of sale strategy by mobile phone operators Growth in importance of other service sale channels among mobile phone operators (call centres, Internet) Possibilities to terminate agency contracts by operators Loss of competitive position for operators in the context of results of particular Group companies
+3.7 Indication of court, arbitration or public administration proceedings.
+Both the Company and the subsidiaries are parties to legal proceedings in courts of law, however none of such proceedings concerns liabilities or receivables whose value constitutes at least 10 % of the equity of the issuer. Similarly, the total value of, respectively, liabilities and receivables litigated in court does not constitute at least 10 % of the equity of the issuer.
+There are no proceedings with the participation of the Company or its subsidiaries before any arbitration court.
+4 EXPLANATORY NOTES
+4.1 Information on contracts significant for the business of the Tell Group companies, including contracts between shareholders known to the issuer, insurance contracts and cooperation contracts
+4.1.1 Agency Contract of 01/06/2011 The key contract for Tell S.A. is the Agency Contract of 01 February 2011 (superseding previous contracts) on the basis of which Tell S.A. provides mobile phone system agency services for PTK Centertel Sp. z o.o. Additionally, the Company and PTK Centertel have concluded the Business Client Consultant Agency Contract.
+4.1.2 Agency Contract of 01 April 2001 The key contract for Euro-Phone Sp. z o.o. is the Agency Contract of 01/04/2001 on the basis of which EuroPhone Sp. z o.o. provides mobile phone system agency services for PTC Sp. z o.o. Additionally, the Company and PTC Sp. z o.o. concluded the Franchise Contract and Distribution Contract of 01/07/2001.
+4.1.3 Network Partner Cooperation Contract (Partnership Contract) of 30/06/2010. The key contract for PTI Sp. z o.o. is the Agency Contract of 30/06/2010 (superseding previous contracts) on the basis of which PTI Sp. z o.o. provides mobile phone system agency services for Polkomtel S.A. Additionally, the Company and Polkomtel have concluded the G300 Partner Cooperation Contract and Goods Distribution Contract.
+4.2 Information about main domestic and foreign investment directions (securities, financial instruments, intangible assets and real estates), including equity investments made outside the group of related entities as well as description of their financing.
+17
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011 The Company and its subsidiaries have not been parties to any currency contracts (options, futures, forward), and did not hedge against currency risk in any manner.
+4.3 Information on loans and credit contracts, loan maturities, sureties and guaranties granted.
+
+LONG-TERM LOAN LIABILITIES Tell S.A.
+
+Name of company
+
+Seat
+
+Loan amount per
+contract
+
+Loan amount outstan
+ding as at 31/12/2011
+
+Interest terms
+
+Repayment date
+
+ALIOR BANK S.A.
+
+Warszawa
+
+6,000
+
+3,000 WIBOR 1M +bank margin
+
+30/05/2014
+
+Loan security: · power of attorney to debit the borrower's accounts, · registered pledge on shares in PTI Sp. z o.o. · power of attorney to debit accounts of PTI Sp. z o.o. · registered pledge on inventories · assignment of rights under insurance policy concerning the inventories for a sum not lower than 120% of the credit exposure.
+
+LONG-TERM LOAN LIABILITIES Tell S.A.
+
+Name of company
+
+Seat
+
+Loan amount
+per contract
+
+Loan amount outstan
+ding as at 31/12/2011
+
+Interest terms
+
+Repayment date
+
+ALIOR BANK S.A.
+
+Warszawa
+
+2,000
+
+1,277 WIBOR 1M +bank margin
+
+Loan security: · power of attorney to debit the borrower's accounts, · power of attorney to debit accounts of PTI Sp. z o.o. · registered pledge on shares in PTI Sp. z o.o. · registered pledge on inventories of PTI Sp. z o.o. · assignment of rights under the insurance policy concerning inventories.
+LONG-TERM LOAN LIABILITIES Euro-Phone Sp. z o.o.
+
+Name of company
+
+Seat
+
+Loan amount per
+contract
+
+Loan amount outs
+tanding as at 31/12/2011
+
+Interest terms
+
+30/05/2014 Repayment date
+
+BANK DnB NORD POLSKA S.A.
+
+Warszawa
+
+5,000
+
+1,417 WIBOR 1M +bank margin
+
+Security for the loan from BANK DnB NORD POLSKA S.A.: · corporate guarantee from Tell S.A. · subordination of receivables of Tell S.A. · registered pledge on shares in Euro-Phone Sp. z o.o.
+
+30/09/2013
+
+18
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+
+SHORT-TERM LOAN LIABILITIES Tell S.A.
+
+Name of company
+
+Seat
+
+Loan amount
+per contract
+
+Loan amount outstan
+ding as at 31/12/2011
+
+Interest terms
+
+Repayment date
+
+BANK DnB NORD POLSKA S.A. Warszawa 5,000
+
+0 WIBOR 1M +bank margin
+
+30/05/2012
+
+ALIOR BANK S.A.
+
+Warszawa 2,000
+
+3 WIBOR 1M + bank margin
+
+04/04/2012
+
+Loan security: BANK DnB NORD POLSKA S.A.:
+· power of attorney to debit the borrower's accounts, · registered pledge on the borrower's inventories with a book value not lower than 180% of the debt limit, · assignment of rights under insurance policy.
+
+Alior Bank S.A.: · power of attorney to debit the borrower's accounts, · registered pledge on shares in PTI Sp. z o.o., · power of attorney to debit accounts of PTI Sp. z o.o. · registered pledge on inventories of PTI Sp. z o.o.
+
+SHORT-TERM LOAN LIABILITIES PTI Sp. z o.o.
+
+Name of company
+
+Seat
+
+Loan amount
+per contract
+
+Loan amount outstan
+ding as at 31/12/2011
+
+Interest terms
+
+Repayment date
+
+ALIOR BANK S.A.
+
+Warszawa
+
+2,000
+
+0 WIBOR 1M +bank margin
+
+19/12/2012
+
+Loan security: · power of attorney to debit the borrower's accounts, · registered pledge on movable property for the amount of kPLN 18.413 · assignment of receivables from the movable property insurance policy for a sum of kPLN 1,500 minimum · civil law guarantee by Tell S.A. · power of attorney to the current bank account and other bank accounts of Tell S.A.
+
+BANK GUARANTEES The Group takes advantage of guarantee lines as:
+- performance guarantees - commercial premises lease payment guarantees The bank guarantee issuers are Bank DnB NORD Polska S.A. up to kPLN 2,800 and Alior Bank Polska SA up to kPLN 1,500. The beneficiaries are commercial networks such as Tesco, Carrefour, Real, Kaufland and other, where the Group companies lease commercial premises in commercial centres. The beneficiary of the guarantee issued by Alior Bank S.A. is Polkomtel S.A.
+
+19
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+
+4.4 Information on loans granted, including maturity dates, as well as sureties and guarantees, in particular loans, guarantees and sureties granted to related parties.
+
+4.4.1 Loans granted As at 31/12/2011, the value of loans granted amounted to kPLN 9.782. Of this, respectively, to PTI Sp. z o.o.kPLN -4,000 and to Euro-Phone Sp z o.o. kPLN -5,782. The loans mature on 30 June 2012. The loans are granted at variable interest rates calculated as the sum of the following components: interest rate determined as above plus a margin of 2% to 4%. The interest rate changes with each first day of a calendar month of the contract validity pro rata to the reference rate calculated and rounded up/down to the second digit on the basis of the arithmetical average of 1M WIBOR for deposits over the last 10 working days of the previous calendar month.
+
+4.4.2 Securities granted Entity/Bank
+
+Type of liability
+
+Value as at in kPLN
+31/12/2011
+
+Security
+
+PTC Sp. z o.o. Bank DnD Nord Polska S.A. Bank DnD Nord Polska S.A. Alior Bank S.A.
+
+merchant's loan guarantee line facility loan loan
+
+6,300 guarantee for Euro-Phone Sp. z o.o 3,000 guarantee for Euro-Phone Sp. z o.o. 3,750 guarantee for Euro-Phone Sp. z o.o. 3,000 guarantee for PTI Sp. z o.o.
+
+4.5 Description of mail capital investment or deposits made within the Tell Group during the financial year
+The surplus of cash of the Tell Group was invested in 2011 exclusively in safe financial instruments, i.e. shortterm bank deposits.
+4.6 Description of the use of issue proceeds by the Issuer
+In 2011, the Group companies did not issue any shares.
+4.7 Explanation of differences between the financial results disclosed in the annual statement and result forecasts published earlier for the given year.
+No forecasts were published.
+4.8 Assessment of financial resources management and its grounds, in particular the ability to discharge liabilities incurred, determination of possible threats and measures undertaken or to planned by the issuer to counteract such threats.
+In 2011, the Tell Group conducted a rational financial management. Particular Group companies timely discharged their liabilities. The Group conducted a restrictive credit policy towards its clients and monitored the receivables very closely. The Company and its subsidiaries have not been parties to any currency contracts (options, futures, forward), and did not hedge against currency risk in any manner.
+
+20
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+4.9 Description of the possibilities of investment plans, including equity investments, when compared to the funds held, taking into account possible changes in the financing structure.
+The investment intentions will be pursued with the utilisation of funds from the current activities and, possibly, bank loans. When such instruments prove insufficient, a new share issue will be considered.
+4.10 Characteristics of external and internal factors significant for the development of the issuer's business and description of the issuer's activity development perspective at least until the end of the financial year following the financial year for which the financial statements were made, including elements of the issuer;s market strategy.
+The Group's strategy assumes the maximisation of the size and effectiveness of the sale network by investment in opening new sale outlets and the take-over of existing outlets from other entities. The objective of the above strategy is to achieve competitive advantage for the Group with regard to other entities operating on the mobile phone distribution market by maximisation of EBITDA and diversification of activities among all important mobile phone operators in Poland. The Group assumes a diversification of revenue owing to investments in other economic entities operating on the market using a similar business model. The most important factors influencing the Group's financial results in 2012 include:
+a) situation on the mobile phone market, including: · the growth of the market saturation, · growth in the number of contracts prolonged with clients acquired in previous years, · level of client migration between operators, · rise in the sale of services of fixed and mobile access to the Internet and data transmission services, · average revenue from a client, · an outflow of clients to the PLAY network (at present, the Group does not cooperate with this operator and, consequently, cannot achieve any revenue from the acquisition of clients by this operator),
+b) sale policy of mobile phone operators, in particular with regard to the tendency to decrease the sale network by approx. 10%;
+c) entrance on the market of possible new operators, including MVNO and cable televisions;
+4.11 Most important achievements in research and development.
+The Group did not carry out research and development projects in 2011.
+4.12 Changes in basic business management principles concerning the issuer and the group.
+The issuer did not change the company's and the group's business management principles.
+4.13 Changes in the composition of bodies managing or supervising the issuer during the last financial year, principles governing the appointment and recalling of the management bodies as well as their competencies, in particular the right to take a decision on the issue or redemption of shares.
+21
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+
+Management Board: Rafal Stempniewicz Stanislaw Górski Robert Krasowski
+
+- President of the Management Board - Member of the Management Board - Member of the Management Board
+
+Changes in the Management Board of the Company: In the financial year, the composition of the Management Board did not change.
+
+Supervisory Board: Pawel Turno Tomasz Grabiak Piotr Karmelita Mariola Wickowska Tomasz Buczak Marek Pitkowski Adam Wojacki Lukasz Krski
+
+- Chairman of the Supervisory Board - Member of the Supervisory Board until 29/04/2011 - Member of the Supervisory Board - Member of the Supervisory Board - Member of the Supervisory Board until 12/12/2011 - Member of the Supervisory Board from 30/04/2011 to 12/12/2011 - Member of the Supervisory Board from 12/12/2011 - Member of the Supervisory Board from 12/12/2011
+
+Changes in the Supervisory Board: In the financial year, the composition of the Supervisory Board changed. Mr Tomasz Grabiak resigned from running for the next term of office. Mr Marek Pitkowski was appointed the Supervisory Board member. The Extraordinary General Meeting of Shareholders recalled Mr Marek Pitkowski from the Supervisory Board on 12 December 2011 and at the same time appointed two new members of the Supervisory Board: Adam Wojacki and Lukasz Krski. Mr Tomasz Buczak resigned from his function as a Supervisory Board member effective as of 12 December 2011.
+
+Members of the Management Board are appointed by the Supervisory Board for a joint 5-year term of office. Also the recalling of the Members of the Management Board is the competence of the Supervisory Board. The principles of operation of the Management Board are governed by the Code of Commercial Companies, the Articles of Association and the Management Board By-Laws. The Management Board manages the Company and represents it externally. The scope of competence of the Management Board includes all issues related to the management of the Company not reserved by the law or the Articles of Association to the exclusive competence of the Meeting of Shareholders or the Supervisory Board. The power to make declarations on behalf of the Company rests with the President of the Management Board acting autonomously, two Members of the Management Board acting jointly or one Member of the Management Board acting jointly with a commercial proxy.
+
+4.14 Contracts made between the issuer and the managing persons providing for compensation in case of resignation or dismissal from the position without a goof reason or when the recalling or dismissal takes place due to the combination of the issuer by merger.
+The Group did not enter into any compensation contracts with the management personnel in case of their resignation or dismissal.
+4.15 The value of remuneration, bonuses or benefits, including incentive or bonus schemes based on the issuer's capital aid or due to the members of the management board or supervisory board as well as information on remuneration for functions in the governing bodies of subsidiaries.
+During the reporting period the Parent Company did not pay any remuneration, bonuses or benefits under any incentive or bonus schemes. There were no due or potential remunerations, bonuses or benefits on this account.
+
+22
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+
+The Company did not grant any remuneration or benefits for functions performed in the governing bodies of
+
+subsidiaries either. The Parent Company's Management Board members received remuneration based on work
+
+contracts in their reporting period. The Parent Company's Supervisory Board members received remuneration for
+
+their functions performed in the supervisory body. The remuneration of management board and supervisory board
+
+members of the Parent Company is presented in kPLN in the table below.
+
+Members of the Management Board
+
+2011
+
+2010
+
+Rafal Stempniewicz
+
+621
+
+605
+
+Stanislaw Górski
+
+320
+
+351
+
+Robert Krasowski
+
+403
+
+432
+
+1,344
+
+1,388
+
+Members of the Supervisory Board
+
+Tomasz Buczak
+
+12
+
+14
+
+Tomasz Grabiak
+
+5
+
+14
+
+Piotr Karmelita
+
+13
+
+14
+
+Lukasz Krski Marek Pitkowski
+
+1
+
+0
+
+7
+
+0
+
+Pawel Turno
+
+16
+
+18
+
+Mariola Wickowska
+
+13
+
+14
+
+Adam Wojacki
+
+1
+
+0
+
+67
+
+76
+
+total
+
+1,411
+
+1,464
+
+4.16 Number and nominal value of shares in the issuer and shares in issuer's related parties that are held by the persons in management and supervisory bodies (separately for each such person) as at 31/12/2011.
+Shares in Tell S.A. held by persons in the Management Board: Rafal Maciej Stempniewicz ­ President of the Management Board ­ 287.280 shares of the nominal value of PLN 57.456,00, Robert Tomasz Krasowski ­ Member of the Management Board ­ 15.000 shares of the nominal value of PLN 3.000,00, Stanislaw Jerzy Górski ­ Member of the Management Board ­ 2.748 shares of the nominal value of PLN 549.60.
+Shares in Tell S.A. held by persons in the Supervisory Board: Pawel Stanislaw Turno ­ Chairman of the Supervisory Board ­ 170,625 shares of the nominal value of PLN 34,125.00.
+The persons in the management and supervisory bodies of the Company do not have any shares in subsidiaries.
+4.17 Shareholders holding, directly or indirectly through subsidiary entities, at least 5% of total votes at the general meeting of shareholders of the issuer, indication of the number of shares held, their percentage of share capital, number of votes resulting and percentage of total votes at the general meeting of shareholders as at 31/12/2011.
+
+23
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+
+Shareholder
+
+Number of
+registered shares
+
+Number of bearer shares
+
+Total shares
+
+Number of votes per registered
+shares
+
+BBI Capital NFI S.A.
+Havo Sp. z o.o.
+Rafal Stempniewicz AVIVA Investors FIO AVIVA Investors SFIO Quercus Parasolowy SFIO
+
+1,429,750 175,000
+1,604,750
+
+675,000 112,280
+
+1,429,750 675,000 287,280
+
+657,672 657,672
+
+888,235 888,235 2,333,187 3,937,937
+
+2,859,500 350,000
+3,209,500
+
+Number of votes per
+bearer shares
+0 675,000 112,280
+
+Total votes
+2,859,500 675,000 462,280
+
+% of share capital
+22.66% 10.70% 4.55%
+
+657,672
+
+657,672
+
+10.42%
+
+888,235 2,333,187
+
+888,235 5,542,687
+
+14.08% 62.41%
+
+% of votes
+35.46% 8.37% 5.73% 8.15%
+11.01% 68.73%
+
+4.18 Information about contracts known to the issuer (including also contracts concluded after the balance sheet date) in result of which they may be in the future any changes in the proportion of shares held by present shareholders.
+The Group companies do not have information about any such contracts.
+4.19 Holders of any securities that give special control rights with regard to the issuer, description of such rights.
+The Company did not issue any securities granting any special control rights.
+4.20 Information about the employee shareholding plan control system.
+There are no employee shareholding plans in Group companies.
+4.21 Indication of any restrictions concerning the transfer of title to securities of the issuer and restrictions concerning the exercise of the right of vote appertaining to the issuer's shares.
+The shares of the Parent Company are not burdened with any statutory restrictions concerning the transfer of shares nor the exercise of the right of vote.
+4.22 Information on the Issuer's agreement with an entity authorised to audit financial statements.
+
+Remuneration paid or due to in kPLN
+- for the audit of the separate and consolidated financial statements - for other attestation services, including the review of the separate and consolidated financial statements - for tax advisory services
+- for other services
+Total
+
+2011 38 29 11
+78
+
+2010 40 41
+81
+
+On 28 June 2011, the Management Board of Tell S.A. signed an agreement with Grant Thornton Frckowiak Sp. z o.o. s.k. with registered office in Pozna, entered into the list of the Polish Board of Chartered Auditors under number 3654, concerning the audit of the separate and consolidated statements of Tell S.A. prepared in accordance with IFRS standards as at 31 December 2011 and the audit of the mid-year separate and consolidated financial statement of Tell S.A. prepared in accordance with IFRS standards for the period from 1 January to 30 June 2011.
+
+24
+
+Tell S.A. Group Report of the Management Board on the activities of the Company in 2011
+The total value of consideration under the agreement with the auditor due or paid for the audit of the separate and consolidated financial statements for 2011 and for the mid-year audit amounted to PLN 66,900 net.
+On 20 November 2010, the Management Board of Tell S.A. signed an agreement with PKF Audyt Sp. z o.o. with registered office in Warsaw, entered into the list of the Polish Board of Chartered Auditors under number 548, concerning the audit of the separate and consolidated statements of Tell S.A. prepared in accordance with IFRS standards as at 31 December 2010. The total value of consideration under the agreement with the auditor due or paid for the audit of the separate and consolidated financial statements for 2010 amounted to PLN 40,000 net. On 20 June 2010, the Management Board of Tell S.A. signed an agreement with PKF Audyt Sp. z o.o. with registered office in Warsaw, entered into the list of the Polish Board of Chartered Auditors under number 548, concerning the review of the separate and consolidated statements of Tell S.A. prepared in accordance with IFRS standards as at 30 June 2010. The total value of consideration under the agreement with the auditor due or paid for the review of the separate and consolidated financial statements for the first half of 2010 amounted to PLN 41.200 net.
+
+Pozna, 15 March 2012. Rafal Stempniewicz
+
+Stanislaw Górski
+
+---------------------------
+
+-----------------------
+
+President of the Management Board Member of the Management Board
+
+Robert Krasowski
+-----------------------Member of the Management Board
+
+25
+
+

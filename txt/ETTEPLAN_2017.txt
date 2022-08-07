@@ -1,0 +1,1572 @@
+Etteplan Today
+Engineering with a
+difference
+Annual Review 2017
+
+Engineering with a difference
+Etteplan offers engineering with a difference, combining diverse engineering design competence, unique service solutions, extensive partnerships, and digitalization expertise.
+We believe that solving future challenges requires a sharper approach, people who have a passion for technology, efficient networks, fresh ideas, and the ability and courage to question the traditional ways of doing things. The solutions created by our experts lead the
+way and play a connecting role in development that changes the world.
+
+Contents
+Global Etteplan....................................................... 2 Expertise and services.............................................. 4
+Year 2017
+Case: Additive Manufacturing................................ 6 Key events of the year............................................. 8 CEO's review......................................................... 10
+Operating environment and strategy
+Case: Digital Twin ................................................. 12 Digitalization is transforming engineering ............ 14 Etteplan's growth strategy .................................... 16 Strategic and financial targets .............................. 18 Continuous development of service solutions................................................ 19 Case: Preventive Maintenance.............................. 20
+Responsibility and personnel
+Responsibility and personnel................................. 22 Reporting principles & GRI index........................... 33 Case: Future City Challenge.................................. 36
+From Management Group.................................... 38 Etteplan as an investment..................................... 39 Investor information.............................................. 40
+
+Engineering with a difference
+Financial Review 2017
+Etteplan's Annual Report 2017 consists of two parts. Financial Review 2017 is available at www.etteplan.com.
+
+ETTEPLAN ANNUAL REVIEW 2017 / 1
+
+» The results of our innovative engineering can be
+seen in numerous industrial solutions and everyday
+products.
+
+Global Etteplan
+Etteplan operates in seven different countries on three continents. The international impact of our operations is even broader, as the results of our work are reflected in the operations of our global corporate customers. We are the market leader in Finland and one of the leading operators in the field in Sweden. We seek to grow especially in Central Europe and Asia. Etteplan's operating models make it easy to relocate engineering and technical documentation work to China and Poland, which creates a significant competitive advantage. We also take advantage of the rapidly growing local markets in both countries.
+2 / ETTEPLAN ANNUAL REVIEW 2017
+
+Revenue by geographical area 2017 (2016) Finland 68% (68%) Sweden 21% (23%) China 3% (2%) Central Europe 8% (7%)
+Revenue by service area 2017 (2016) Engineering services 56% (61%) Embedded systems and IoT 25% (19%) Technical documentation 19% (20%)
+Employees by geographical area 2017 (2016) Finland 65% (1,814) Sweden 16% (459) China 11% (305) Central Europe 8% (224)
+
+214.8
+REVENUE, EUR MILLION (growth 16.8%)
+15.5
+OPERATING PROFIT, EUR MILLION (growth 52.8%)
+>50
+OFFICES IN SEVEN COUNTRIES
+2,802
+NUMBER OF PERSONNEL (in 2016: 2,545)
+
+Our strengths
+
+1.
+
+CUSTOMER-ORIENTED OPERATING CULTURE
+Our long-term global customer relationships have their foundations in our expertise. We are able to react quickly to our customers' changing needs and wishes. We know the specific aspects of our customers' industries.
+
+2.
+
+ADVANCED AND UNIQUE SERVICE OFFERING
+Our service offering supports the renewal and competitiveness of our customers' business. We have the ability to combine engineering and digital solutions throughout the life cycle of the machine or equipment.
+
+3.
+
+STRONG MARKET POSITION CLOSE TO THE CUSTOMER
+We are among the leading engineering providers in all of our market areas.
+
+ETTEPLAN ANNUAL REVIEW 2017 / 3
+
+Expertise and services
+Revenue by customer segment 2017
+
+cusRtoemRveeervesnenguumeeebnbyty2017 customer segment 2017
+
+Forest and paper 13% Energy and power transmission 13% Industrial machinery and components 12% Lifting and hoisting equipment 11%
+
+Etteplan Oyj is a rapidly growing and developing expert company that specializes in engineering services, documentation, and digitalization. We are a leading operator in the engineering industry. Our customers are global ma-
+
+Forest and paper 13%
+Energy and power transmission 13%
+Industrial machinery and components 12%
+Lifting and hoisting equipment 11%
+ForesMtinainngd11p%aper 13%
+
+Mining 11% ICT 7% Transportation and vehicle 6% Aerospace and defense 4% Medical technology 4% Metal 4% Consumer products 2% Others 13%
+
+chine and equipment manufacturers. Our most important task is to anticipate the needs of our customers and to improve their competitiveness. We stand out by the high-level competence and service orientation of our experts. Etteplan was founded in Finland in 1983. The Company's shares have been listed on Nasdaq Helsinki Ltd since 2000.
+
+EnerIgCTy7a%nd power transmission 13%
+Transportation and vehicle 6%
+InduAsterroiasplamce aancdhdinefeenrsye 4% and Mcoedmicapl otenchennoltosgy142%%
+
+LiftinMgetaaln4d%hoisting equipment 11%
+Consumer products 2%
+MiniOnEtghneg1rsi1n13%e%ering Services
+ICT 7%
+
+Embedded systems and IoT
+
+Technical Documentation
+
+140 Transportation and vehicle 6% 14
+
+60
+
+120 Aerospace and defens1e204.%9 12
+
+50
+
+100 Medical technology 4%
+
+10
+
+80 Metal 4%
+
+8.1%
+
+40
+
+8
+
+60 Consumer products 2%
+
+6
+
+30
+
+40 Others 13%
+
+20 4
+
+20
+
+2
+
+10
+
+2015
+
+2016
+
+2017
+
+0
+
+0
+
+0
+
+52.0 8.4%
+
+2016
+
+2017
+
+12
+
+50
+
+10
+
+40
+
+8 30
+6
+20 4
+
+15 41.8
+12 9.1%
+9
+6
+
+2
+
+10
+
+3
+
+2015
+
+2016
+
+2017
+
+0
+
+0
+
+0
+
+Revenue, EUR million EBIT from business operations, %
+
+Revenue, EUR million EBIT from business operations, %
+
+Revenue, EUR million EBIT from business operations, %
+
+4 / ETTEPLAN ANNUAL REVIEW 2017
+
+» Internet of Things, IoT, means
+networked devices which can be controlled remotely over the network and which generate information for business development purposes.
+
+ENGINEERING SERVICES
+
+The content of our services
+
+Engineering Services refer to the innovation, engineering and calculations of the technical attributes of machinery or equipment for the purpose of product development and manufacturing.
+
+Our customers' needs
+Examples of our services
+
+Assignments are typically product development and Engineering-to-Order for a new product, involving the customization of the product in accordance with end customer requirements and the legislation of the market area in question.
+· Product development projects · Engineer-to-Order projects · Plant engineering · Engineering analysis · Project management · Product safety · Product cost analyses
+
+EMBEDDED SYSTEMS AND IOT
+
+TECHNICAL DOCUMENTATION
+
+Embedded systems and IoT refer to all product development services and technology solutions that enable the digital connectivity of machinery or equipment as part of the Internet of Things (IoT).
+
+Technical Documentation refers to the documentation of a product's technical attributes, such as manuals and service instructions for the users of a product, as well as related content creation and distribution in print or digital form.
+
+A common challenge faced by our customer is the need to develop a service based on a new business model that takes advantage of the opportunities presented by digitalization.
+
+For an industrial customer, technical documentation is typically a non-core operation that has a significant impact on the efficiency of the end customer's maintenance service operations.
+
+· Product and software engineering and consulting
+· Testing services and production testing systems
+· Services for comprehensive IoT solutions, such as business systems, mobile applications and various integrations
+
+· Technical writing and illustrations · Animations and simulations · Digital systems for distributing
+technical documentation to service and maintenance personnel · Software and methods for producing high-quality technical content
+
+Revenue
+Share of revenue represented by Managed Services
+
+56% 53%
+
+25% 53%
+
+19% 77%
+
+ETTEPLAN ANNUAL REVIEW 2017 / 5
+
+CASE
+Additive Manufacturing
+Additive manufacturing, AM for short or 3D printing, are umbrella terms for technology by which items are manufactured layer by layer using materials such as plastic, metal or concrete. Additive manufacturing has become increasingly attractive as it helps customers achieve cost savings and greater flexibility in production.
+The roots of additive manufacturing can be traced all the way back to the 1980s. In recent years, it has drawn a lot of attention in the media due to the development and spread of 3D printers and related manufacturing methods. Demand has also been boosted by digitalization and the Internet of Things (IoT).
+The advantages of this manufacturing method have also been recognized in industry: 3D printing technology makes it possible to manufacture a single unit of a product designed according to customer needs, if necessary, instead of traditional mass production.
+Engineering on the environment's terms
+"In traditional manufacturing methods, manufacturing starts by subtracting material from a larger piece to create the desired product. Additive manufacturing uses the reverse approach, with material only being added where it is needed. This minimizes the amount of wasted material", tells Etteplan's Additive Manufacturing Specialist Iikka Rytkönen.
+As the additive manufacturing model becomes more widely used, production chains will change. A product can be engineered in one location and sent to be printed where it is needed, even on the other side of the world. Reduced logistics and warehousing costs may result in a major leap in eco-friendliness.
+Engineering will take on an increasingly significant role as the need for product variants increases. The engineering of new products is no longer hampered by the restrictions typical in old production methods. This revolutionary manufacturing method also makes it possible to combine multiple components into a larger whole, or even to seek design inspiration from shapes seen in nature.
+Etteplan uses the term Additive Manufacturing and Optimization, AMO, as design and topology for objects typically need to be optimized. According to Etteplan's Additive Manufacturing Specialist Johannes Karjalainen, customers who turn to Etteplan with their additive manufacturing needs will enjoy a clear advantage: "Etteplan can provide diverse multidisciplinary engineering and consulting for Additive Manufacturing and Optimization throughout the production process as well as strong contacts with manufacturers."
+READ THE FULL STORY
+6 / ETTEPLAN ANNUAL REVIEW 2017
+
+ETTEPLAN ANNUAL REVIEW 2017 / 7
+
+Key events of the year
+Etteplan had a successful year in 2017. We developed our operations and continued to invest in growth and improving competence. We implemented three acquisitions as well as several internal development projects that will
+help us make progress toward our goals in the coming years.
+
+FEBRUARY: Etteplan takes into use a new ticker in the Nasdaq Helsinki trading system. The new ticker is ETTE.
+
+MAY: Ettepan opens two new offices in China: to Beijing and Xi'an.
+
+JUNE: Etteplan acquires Swedish Sorona Innovation AB, which specializes in technical documentation solutions.
+
+APRIL: Etteplan opens a new office in Pozna, Poland and extends its service offering in Poland to technical documentation.
+
+JUNE: Etteplan acquires SDS Aura Oy, a Finnish company specializing in shipbuilding strength calculations and steel structure engineering.
+
+8 / ETTEPLAN ANNUAL REVIEW 2017
+
+YEAR 2017
+
+» The implementation
+of our strategy generated record profits and enabled us to grow and become stronger as a company.
+
+AUGUST: Etteplan strengthens its position in China and acquires full ownership of Etteplan Vataple Technology Centre, Ltd, which previously operated as a joint venture.
+
+OCTOBER: Etteplan and Mevea begin strategic cooperation in digital twin solutions.
+
+JULY: Etteplan adds service design into its service offering.
+YEAR 2017
+
+SEPTEMBER: Etteplan introduces a new website at www.etteplan.com.
+
+NOVEMBER: Future City Challenge, an innovation competition organized together by IBM, Digita and Etteplan begins.
+
+ETTEPLAN ANNUAL REVIEW 2017 / 9
+
+A year of strong growth
+Etteplan had a successful year in 2017. The implementation of our strategy generated record profits. We developed our operations and continued to
+invest in growth and improving our service offering.
+
+E
+
+Etteplan had a very good year in 2017. The work we have done in recent years to implement our strategy produced
+
+results in the improved market
+
+situation. We were able to surpass our
+
+previous achievements as revenue, oper-
+
+ating profit and cash flow reached new
+
+record highs. We exceeded our 15 per cent
+
+growth target and our organic growth
+
+was at an excellent level. The number of
+
+personnel increased throughout the year
+
+and Etteplan employed more than 2,800
+
+experts in seven countries.
+
+The market situation in Etteplan's market
+
+areas was good and developed favorably
+
+throughout the year. The Finnish market
+
+was somewhat slow at the start of the
+
+year, but improved rapidly in the first
+
+quarter and demand remained at a good
+
+level for the rest of the year. In Sweden
+
+and Central Europe, the market situation
+
+was good throughout the year. In China,
+
+the engineering services continued to
+
+open up and we were able to acquire new
+
+customers and increase our working hours
+
+in the Chinese market by 50 per cent. The number of our personnel in China exceeded 300 experts during the year and we opened new offices in Xi'an and Beijing. We will continue to invest in the Chinese market.
+In the Engineering Services and Technical Documentation service areas, development was strong throughout the year. The growth of technical documentation, in particular, was at an excellent level. Successful sales of outsourcing solutions contributed to the positive development of both service areas. We also continued to develop our service solutions and we invested in incorporating new technologies into our service offering.
+The Embedded systems and IoT service area saw positive development early in the year and the service area's demand situation is generally good, but growth is affected by the reduced availability of competent professionals, particularly in the software business. The challenges that began in the project business in the second and third quarters of the year continued
+
+» In 2017, we also
+implemented several internal development projects that will help us make progress toward our goals in the coming years.
+
+10 / ETTEPLAN ANNUAL REVIEW 2017
+
+YEAR 2017
+
+214.8
+REVENUE, EUR MILLION (growth 16.8%)
+15.5
+OPERATING PROFIT, EUR MILLION (growth 52.8%)
+
+in the final quarter. In addition, a sudden decline in the demand situation of certain customers affected the development of the Embedded Systems and IoT business, and the service area's profitability fell short of our expectations. We have continued to implement measures to improve the efficiency of the project business and we expect the service area's profitability to improve in the coming quarters.
+During the year, we carried out three acquisitions that strengthen our position and expertise. In Sweden, we acquired Sorona Innovation AB, a company that specializes in technical documentation. In Finland, we acquired SDS Aura Oy, whose core strengths lie in steel structure engineering especially for shipbuilding industry. In addition, we acquired full ownership of
+
+Etteplan Vataple Technology Centre, Ltd in China. The company previously operated as a joint venture.
+In 2017, we also implemented several internal development projects that will help us progress toward our goals in the coming years. We renewed and enhanced our reporting and control systems. We continued our management coaching program, with team leaders from various countries. We carried out a renewal of our recruitment system to enhance recruitment and make the process more convenient for applicants. We also developed our sustainability reporting and started reporting according to the Global Reporting Initiative, GRI reporting framework. In marketing and communications, we invested in the deployment of a new digital platform
+
+as well as the renewal of the Etteplan website.
+I want to thank our customers for their trust in Etteplan and for positive and constructive cooperation. I also want to thank our shareholders for the opportunity to develop the company and implement our strategy. Finally, I want to express my gratitude to our personnel for their hard work and determination during the year. We enter 2018 boosted by strong growth, in a good market situation. We will continue to invest in growth and we expect to pass the milestone of employing 3,000 experts in 2018.
+Juha Näkki CEO
+
+YEAR 2017
+
+ETTEPLAN ANNUAL REVIEW 2017 / 11
+
+CASE
+Digital Twin
+The opportunities created by digital twin technology are widely recognized in industry. Virtual models, which can be created for any machine, device or process, are utilized in the development of both new and existing products.
+"One good example of a digital twin is a model of a production line that is currently in development, featuring all the same functional and physical attributes that would be built into the physical production line. The twin enables the digital development and testing of the production line to ensure that it works and meets the functional requirements set for it, without having to manufacture the physical product," says Iiro Aalto, Business Unit Director at Etteplan.
+There are many advantages to creating a digital twin. Modeling a product that is in development saves a lot of money by making it possible to build the physical product only after thorough engineering and testing has been carried out on a digital model. Savings are created by being able to identify and fix defects at an early stage with the help of the twin. When a product is deployed using a virtual model, the amount of actual work in the field is reduced and there are no major surprises in the deployment phase.
+The twin can also be used as a communication tool
+At Etteplan, the use of digital twins started a few years ago. According to Iiro Aalto, the experiences have thus far been very positive, and a model is now created in the majority of production projects.
+"The digital twin gives our customers a unique perspective on what the product under development looks like at any given time. It also provides a great tool for communication between us and the customer."
+"Etteplan provides services from concept development to engineering and all the way to life cycle maintenance. The digital twin can be utilized at all of these stages. We are very exited about the possibilities digital twin can offer," Aalto concludes.
+READ THE FULL STORY
+12 / ETTEPLAN ANNUAL REVIEW 2017
+
+ETTEPLAN ANNUAL REVIEW 2017 / 13
+
+Digitalization is transforming engineering
+The Internet of Things (IoT), other digital technologies and 3D printing are expected to revolutionize production processes and products in the manufacturing industries. There is a need for new competencies and the demand for engineering is growing as the number of product variations increases.
+
+Intelligent and connected
+
+I
+
+production processes increase efficiency and enable new business and revenue models for
+
+traditional industrial companies.
+
+In practice, this is a new area of engineer-
+
+ing that combines in-depth equipment
+
+know-how and technology expertise. The
+
+courage to invest and take advantage of
+
+the opportunities of IoT varies by industry.
+
+Machinery and equipment manufacturers
+
+may find new paths to growth in ser-
+
+vice-based business based on analyzing
+
+and utilizing data accumulated from ma-
+
+chinery and equipment. Digitalization can,
+
+for example, lead to a better understand-
+
+ing of how machines are used, increase
+
+their capacity and change their technical
+
+attributes.
+
+Technological development challenges competence areas
+The engineering and consulting industry is growing throughout the world. This leads to increasing demand for competent
+
+professionals. The Federation of Finnish Technology Industries has estimated that, in Finland alone, there will be a shortage of approximately 9,000 competent engineering professionals by 2020. According to various sources, Germany will have a shortage of 250,000 engineers at the same time. There is also extremely intense competition for highly competent experts in engineering and digitalization in Sweden.
+As technology develops, employees are required to have a broader understanding of areas outside their speciality as well as ability to engage in more effective cooperation between different areas of technology. The workforce is becoming more international and engineering companies are increasingly looking for experts also outside their home markets.
+
+The engineering industry is consolidating
+The competitive landscape in engineering consists of a large number of players of different sizes. The industry is currently seeing a trend of consolidation, with the large players looking to outgrow the market organically and through acquisitions. Customers are outsourcing non-core business functions, reducing the number of partners they work with and engaging in closer cooperation with their selected partners.
+» The competitive
+landscape in engineering
+consists of a large
+number of players of
+different sizes.
+
+14 / ETTEPLAN ANNUAL REVIEW 2017
+
+OPERATING ENVIRONMENT AND STRATEGY
+
+» Read examples on how digitalization
+transforms engineering and the operating models of industries from pages 6, 12 and 20.
+
+Accelerated technological development
+Digitalization
+Structural changes in the global economy
+
+GLOBAL TRENDS
+· New technologies · 3D printing increases product variations · Shortened product life cycles · Improved manufacturability · Technology transfer, reverse innovation · Solutions that support sustainable development · Increased demand for engineering · Increased need to develop new competencies
+· The Internet of Things (IoT) · Renewal of business models · Increased intelligence of machinery and equipment · Increased demand for engineering · Increased need to develop new competencies · Challenges the existing areas of
+technological competence
+· Economic shift toward emerging markets · Population growth, urbanization and
+the aging of the population · Increased need to establish a stronger
+presence in new growth markets
+
+Outsourcing Industry consolidation
+
+· Focus on core business · Tighter competition · Cost-efficiency · Quality requirements · Creates organic growth opportunities for
+companies in the engineering industry
+· Many companies of different sizes in the industry · Large players outgrow the market organically and
+through acquisitions · Customers reduce the number of partners they use · Closer cooperation with key partners · Creates the opportunity for growth
+through acquisitions
+
+ETTEPLAN'S STRENGTHS
+· Diverse technological expertise · Broad expertise spanning different industries · Life cycle services · Technology expertise in the development of
+new energy sources and materials
+· Broad expertise spanning different industries · A service offering that promotes the renewal of
+the customer's business · Ability to combine equipment and plant
+engineering with digital solutions
+· Strong market position close to the customer · Growing presence in China · International network · Long-term global customer relationships · Service solutions
+· Superior outsourcing process · Strong market position close to the customer · Service solutions · Customer references
+· Continuous development of own service offering
+· Long-term global customer relationships based on expertise
+· Service solutions · Strong market position close to the customer · Strengthening expertise and presence
+through successful acquisitions
+
+OPERATING ENVIRONMENT AND STRATEGY
+
+ETTEPLAN ANNUAL REVIEW 2017 / 15
+
+Etteplan's growth strategy
+Etteplan is a profitable and international growth company. Our revenue growth target is approximately 15 per cent per year, achieved organically
+and through acquisitions. The continuous development of our service solutions and international growth are our key focus areas.
+
+Our organic growth is based
+
+O
+
+on our good service offering and strong market position. We accelerate our growth by
+
+concentrating on the focus
+
+areas of our strategy (see the chart on
+
+page 17). In 2017, our growth was primarily
+
+organic.
+
+In acquisitions, our focus is on increasing
+
+our competence capital as well as
+
+strengthening our presence and service
+
+offering in our current markets. We aim to
+
+make it possible for the customer to obtain
+
+all equipment and plant engineering,
+
+technical documentation and related
+
+digitalization services from the same
+
+provider.
+
+We made three acquisitions in 2017. We
+
+acquired SDS Aura Oy, a Finland-based
+
+company that specializes in shipbuilding
+
+strength calculations and steel structure
+
+engineering. In Sweden, we expanded our
+
+operations by acquiring Sorona Innovation
+
+AB, which specializes in technical
+
+documentation solutions. In China,
+
+we acquired full ownership of Etteplan
+
+Vataple Technology Centre, Ltd, which
+
+had previously operated as a joint venture.
+
+The name of the company is now Etteplan Technology Center Ltd.
+Our growth was also affected by the Espotel Oy and Soikea Solutions Oy acquisitions carried out in 2016. These acquisitions saw us expand our business operations in Embedded systems and into the Internet of Things (IoT).
+We continued to implement our strategy and develop our operations in 2017 in accordance with our objectives based on the cornerstones of our strategy (see the chart on page 17).
+International growth
+Etteplan operates in seven different countries on three continents. The international impact of our operations is even broader, as the results of our work are reflected in the operations of our global customer companies.
+We utilize our international network particularly in customer projects implemented in Finland and Sweden. Etteplan's operating models make it easy to relocate work to China and Poland, which creates a significant competitive advantage for both Etteplan and our customers. The local
+
+» Our growth
+rate in 2017 was 16.8 per cent.
+engineering market in China is opening up, which creates significant opportunities for us.
+Our aim is to strengthen our operations and grow particularly in China and Central Europe. Our primary goal is to make our entire service offering available to our customers in all of our operating countries.
+In 2017, we strengthened our local operations in China and Poland. In China, we opened new offices in Beijing and Xi'an. We now have more than 300 employees and 200 customer companies in China. In Poland, we opened a new office in Poznan and began offering technical documentation services to the growing Polish market. In addition, Etteplan's subsidiary Soikea, specializing in IoT solutions, opened a new office in Helsinki.
+
+16 / ETTEPLAN ANNUAL REVIEW 2017
+
+OPERATING ENVIRONMENT AND STRATEGY
+
+OUR VALUES:
+Customer-oriented Proactive Attractive
+
+OUR VISION:
+Our customers get the best service solutions anywhere
+at any time
+
+Customer focus
+
+From strategy to action
+
+Service solutions
+
+One Etteplan
+
+Engineering methods
+
+Cornerstones of strategy
+Engineering with a difference
+Focus areas in business operations
+
+1
+Growth in key accounts
+
+2
+Increasing share of Managed Services
+
+3
+Growth in sales of technical
+documentation service solutions
+
+4
+Growth in business operations in China
+
+5
+Digitalization
+
++19.2%
+
+57%
+SHARE OF REVENUE REPRESENTED BY
+MANAGED SERVICES
+
+2017
++17%
+
++50%
+THE NUMBER OF WORKING HOURS SOLD TO THE CHINESE
+MARKET
+
+DIGITALIZATION CREATES NEW BUSINESS
+OPPORTUNITIES
+
+OPERATING ENVIRONMENT AND STRATEGY
+
+ETTEPLAN ANNUAL REVIEW 2017 / 17
+
+Strategic and financial targets
+
+We updated our strategic and financial targets in December 2016. We develop our operations and monitor our progress primarily in accordance with these targets. In 2017,
+we achieved our targets for revenue, EBIT and the equity ratio. The share of revenue represented by Managed Services grew to 57 per cent.
+
+Growth
+Profitability
+Managed Services Balance sheet
+
+TARGET
+15%
+Average annual revenue growth.
+Includes both organic growth and potential acquisitions.
+
+MEANS
+· Growth in key customers · Organic growth through
+service solutions · Acquisitions that support
+growth
+
+10%
+EBIT from business operations
+of revenue.
+
+· Shifting the business model towards Managed Services
+· Market leadership
+
+65%
+The share of revenue represented by Managed Services (Managed Services Index, MSI) by 2019.
+
+· Service models · Technology solutions · Project business
+
+> 30%
+Equity ratio.
+
+· Corresponding financial arrangements
+· Improving cash flow
+
+DEVELOPMENT 2015-2017
+
+Revenue and revenue growth, % 183.9 214.8
+
+141.1 30.3 16.8
+7.0
+
+Revenue, EUR million Revenue growth, % Target
+
+15 16 17
+
+Revenue and EBIT from business operations, %
+
+214.8 183.9 141.1
+
+6.8
+
+6.6
+
+8.0
+
+Revenue, EUR million
+EBIT from business operations, %
+Target
+
+15 16 17
+
+Revenue and Managed Services, %
+
+214.8 183.9 141.1
+
+57
+
+47
+
+53
+
+Revenue, EUR million Managed services, % Target
+
+15 16 17 Equity ratio, %
+37.8 40.0 40.7
+
+Target
+
+15 16 17
+
+18 / ETTEPLAN ANNUAL REVIEW 2017
+
+OPERATING ENVIRONMENT AND STRATEGY
+
+Continuous development of service solutions creates a competitive advantage
+Our key strategic goal is to utilize the competitive advantage derived from Managed Services and increase their share of our total revenue. We continuously develop our service offering and incorporate new technologies into our service solutions. This increases the added value for customers and supports the achievement of our strategic goal. The utilization of digital technologies plays a key role in the continued development of service solutions.
+
+In accordance with its strategy, Etteplan focuses on Managed Services. The customer purchases the service model, such as a project or outsourcing solution, and pays for the results instead of the resources. Etteplan assumes full responsibility for the solution produced for the customer. The service models consist of Etteplan's highly skilled professionals, service management and production models as well as software solutions. We take advantage of our strong customer-specific industry expertise.
+We ensure that the service is produced cost-efficiently and that results are measurable. Managed Services free up the customer's resources while improving their cost competitiveness and the quality
+
+of operations. Managed Services also enhance Etteplan's own capacity management and increase the profitability of our operations.
+Digital technologies as part of our service solutions
+We want to be a forerunner in engineering expertise and digitalization and, through our operations, support the renewal of our customers' business. Etteplan's expertise brings together intelligent devices, documentation and IoT applications to create a unique service concept in the engineering industry.
+Our extensive and constantly developing expertise allows us to receive increasingly large engineering assign-
+
+ments from our customers and ensure that the technological solutions for the customer's product satisfy future needs. Incorporating technology solutions into our service solutions increases the added value for the customer. The utilization of digital technologies plays a key role in the continued development of our service solutions. Internet of Things, 3D printing and digital twin are examples of revolutionary industrial technologies that can be integrated into our service soutions. Realizing the benefits of digitalization requires a comprehensive understanding of equipment as well as the optimal technology solutions for them. This is the area of Etteplan's in-depth expertise.
+
+OPERATING ENVIRONMENT AND STRATEGY
+
+ETTEPLAN ANNUAL REVIEW 2017 / 19
+
+CASE
+Preventive Maintenance
+When a maintenance engineer is called in to repair a broken equipment, for instance an elevator, the engineer might be facing a surprisingly complicated task. It will be necessary to find out what kind of maintenance the elevator has previously gone through and what parts are needed for repair. The maintenance engineer may spend a lot of valuable time trying to find various pieces of information, which is time away from the actual maintenance tasks. A solution to this challenge can be offered with the help of digitalization and IoT.
+"Already now, it is possible to anticipate and optimize the operations of equipment, such as an elevator. Data collected from the equipment could for instance indicate when a malfunction in an elevator could happen. As a result, the elevator's operation can be serviced accordingly so that the elevator remains functional until its next maintenance visit. This also makes it possible to order the parts needed for maintenance well in advance," describes Etteplan's Technology Director Berry Braster.
+Along with this development, the industry is moving from selling devices to putting more emphasis on maintaining their life cycle. At the same time, many companies are frantically analyzing how the data collected from devices and equipment can be utilized to create new revenue streams and to improve customer relations.
+Maintenance engineer's best friend
+Etteplan has invested heavily in increasing its competence and, consequently, it has an excellent capability to help its customers in product engineering, maintenance and IoT linking.
+One example of solutions created by Etteplan is an integration platform, which integrates different sources of information: the information that IoT (Internet of Things) provides about the devices and equipment, technical instructions as well as the usage and maintenance history. In other words, it can provide the service engineer with information about the device's usage and maintenance history, where the device is located and what is wrong with it.
+"We are one of the few companies that is capable of not only building intelligence into various devices and equipment but also combining different technologies," says Braster, describing the company's strengths.
+READ THE FULL STORY
+20 / ETTEPLAN ANNUAL REVIEW 2017
+
+ETTEPLAN ANNUAL REVIEW 2017 / 21
+
+Responsibility and personnel
+We are committed to the continuous development of our corporate responsibility and, this year, we are reporting on our responsibility for the first time using the framework of the Global Reporting Initiative. At Etteplan, corporate responsibility is part of our day-to-day work as we engineer hundreds of sustainable solutions for the world's leading machinery and equipment manufacturers every year. We offer diverse career and development opportunities and long employment relationships to our personnel.
+
+Highlights and development areas in 2017
+
+Highlights
+· Strong financial result ­ increase in revenue and operating profit
+· More than 100 team leaders participated in the EtteCoach coaching program, which received positive feedback
+· We hired 723 new employees · For the first time, we are reporting on our responsibility
+based on the Global Reporting Initiative (GRI), the world's most widely used framework for reporting on corporate responsibility
+
+Development areas
+· Actions supporting the achievement of strategic and financial targets
+· The development of employee experience through various development programs
+· The development of internal labor market and career opportunities
+· Developing eco-efficient solutions in customer projects
+
+22 / ETTEPLAN ANNUAL REVIEW 2017
+
+RESPONSIBILITY AND PERSONNEL
+
+FINANCIAL RESPONSIBILITY
+Strong financial result
+Profitability is a basic precondition for responsible business. Etteplan's revenue and operating profit continued to grow in 2017. Revenue grew by 16.8 per cent to EUR 214.8 (183.9) million. Our operating profit was EUR 15.5 (10.1) million. We pay taxes on our profits in all of the countries we operate in.
+Etteplan's operations have significant economic impacts on many different stakeholders arising from the taxes, wages, dividends and financial expenses that we pay.
+
+EUR 1,000 Direct taxes Wages and salaries Dividends Financial expenses
+*) The Board of Directors' dividend proposal, maximum
+
+2017 3,200 144,965 5,697* 1,277
+
+2016 2,266 129,172 3,930 1,245
+
+2015 1,824 101,452 3,046 1,251
+
+RESPONSIBILITY AND PERSONNEL
+
+ETTEPLAN ANNUAL REVIEW 2017 / 23
+
+RESPONSIBILITY FOR PERSONNEL
+Personnel and leadership development, providing career opportunities and treating employees equally are at the core of Etteplan's human resource management. Etteplan's Code of Conduct is the foundation of the company's human resource management.
+Number of personnel continued to grow
+The number of Etteplan employees continued to grow in 2017 due to both organic growth and acquisitions, reaching 2,802 at year's end (2016: 2,545). The recent years have been busy in terms of acquisitions and, the implementation of human resource process integrations in the companies acquired in 2016 was nearly completed in 2017. In 2017, we also invested in further developing
+
+our recruitment tools and processes and providing recruitment training to managers.
+Personnel and leadership development
+Etteplan's business operations, growth and success are based on the expertise of our personnel. We develop our competence capital based on our customers' needs and we recognize that it is equally important to develop technical competencies and leadership skills. Ongoing learning on the job plays a key role in ensuring our employees' continuously improving ability to solve our customers' problems, offer new and innovative solutions and find new ways to resolve technical challenges.
+Providing internal career opportunities to our personnel is one of the guiding principles of our operations. The large
+
+scale of Etteplan's operations provides good opportunities for working in various project teams that serve the world's leading machinery and equipment manufacturers.
+The career path model is at the core of monitoring the professional development of the company's employees. The aim of the model is to make career possibilities and their requirements visible to the personnel. For supervisors, the model offers a tool for career planning, systematic personnel development, planning of personnel structure, and specification of recruitment needs.
+Our expertise management system comprises 700 different expertise areas, with four career paths: Technology Leadership, Business and People Leadership, Project Leadership and Technical Communicator.
+
+Age distribution 2017
+20­29, 19% 30­39, 33% 40­49, 24% 50­59, 18% 60­, 6%
+24 / ETTEPLAN ANNUAL REVIEW 2017
+
+Number of employees by gender 2017
+
+100 82%
+80
+
+73%
+
+82%
+
+54%
+
+60
+
+40
+
+46%
+
+20 18%
+0 Permanent
+
+27%
+Fixedterm
+
+Women, % Men, %
+
+18%
+Full- Part-time time
+
+Number of employees by region 2017
+
+100 3% 97%
+80
+60
+
+3% 97%
+
+100%
+
+19% 81%
+
+40
+
+20
+
+0 Finland
+
+Central Europe
+
+China
+
+Permanent, % Fixed-term, %
+
+Sweden
+
+RESPONSIBILITY AND PERSONNEL
+
+CASE
+EtteCoach: the future of leadership is people-centered
+Improving the employee experience has been defined as a key development area for the expert organization Etteplan. A coaching program for team leaders is part of
+this development program.
+
+Highly competent leadership has a direct impact on the employee experience. This, in turn, directly affects the customer experience and the success of the entire company.
+Etteplan organized a coaching program globally for team leaders, giving the participants the opportunity to learn more about general leadership skills and self-leadership. The focus was also on how Etteplan's brand promise and values are reflected in dayto-day leadership. The participants also familiarized themselves with various tools that enable leaders to take advantage of the diverse strengths of employees in an optimal manner.
+Etteplan wants to invest in leadership
+It is no longer enough for a unit to be led by an authoritative expert. An effective team leader must also be an empathic judge of human nature.
+
+Paul Liebens from the Netherlands took part in the coaching program: "The program was really valuable to me. I know myself better now and I also know how to act with different personality types in my team. Reflecting what Etteplan brand promise and values mean in our everyday life was very useful too.
+According to Outi-Maria Liedes, Senior Vice President, HR and Operational Development at Etteplan, the company will continue to invest in the development of leadership and interaction skills in the future.
+"Improving the employee experience has been defined as a multi-year development program. Accordingly, we have organized leadership coaching at all managerial levels of the organization and the results are measured on a supervisor-specific basis based on employee feedback," Liedes explains.
+
+RESPONSIBILITY AND PERSONNEL
+
+ETTEPLAN ANNUAL REVIEW 2017 / 25
+
+Each career path contains 5­7 different levels of tasks, which are divided into local-, country-, and Group-level tasks.
+The task of each and every Etteplan employee is contained in the career path model. Each employee's position in the career path model and the related career opportunities are assessed annually as part of the employee development discussion. In 2017, some 94 per cent of Etteplan's personnel participated in development discussions.
+Launched in 2015, the EtteCoach training program for supervisors continued in 2017. The program's focus was on the brand promise and values, particularly among team leaders. The development of employees in managerial roles is measured annually based on feedback from the employees.
+
+In 2017, Etteplan launched a threeyear Employee Experience development program. The program aims to ensure employee well-being, which serves as the foundation for the customer experience, and to have every employee understand the significance of their work in the context of Etteplan's brand promise: Engineering with a difference.
+Managing and measuring well-being
+At Etteplan, we are committed to treating our employees equally and promoting non-discrimination. Our remuneration policy is based on fair wages, benefits and incentives.
+Etteplan provides general practitioner level occupational health care services for its personnel in Finland. In addition,
+
+Accidents, Finland and Sweden
+Number of accidents that caused at least one day of absence Total days of absence Lost workday injury frequency (per million hours worked)
+Educational background 2017
+
+2017 5
+174 1.39
+
+2016 8
+87 2.5
+
+2015 1
+31 0.38
+
+Etteplan's personnel in Finland belongs to an employee benefit fund, which largely covers the use of specialist doctors and medicine. The early intervention model applied in Finland is aimed at earlier identification of the potential loss of work ability as well as planning and implementing individualized measures to support work ability in cooperation with the employee, supervisors, the occupational health care provider and other experts, as necessary.
+Etteplan monitors workplace accidents, commuting accidents and days of sick leave. The number of days lost to sick leave is low.
+Job satisfaction is measured by an annual personnel survey. The results of the 2017 survey showed an overall improvement compared to the previous year. Some 69% of the employees completed the survey (2016: 72%). Based on the survey, country-specific plans were drafted for the development of operations.
+Etteplan has an anonymous hotline for employees and external stakeholders
+Geographical distribution and average number of personnel 2017
+
+Educational background 2017
+
+Upper secondary education 7% College 8% Lower university degree 59% Higher university degree 25% Doctoral degree 1%
+
+Upper secondary education 7% College 8% Lower university degree 59% Higher university degree 25% Doctoral degree 1% 26 / ETTEPLAN ANNUAL REVIEW 2017
+
+Geographical distribution and average number of personnel 2017
+Finland 65% Sweden 16% China 10% Central Europe 8%
+
+Finland 65% Sweden 16% China 10% Central Europe 8%
+
+RESPONSIBILITY AND PERSONNEL
+
+to report suspected ethical violations. In 2017, the company was not informed of any incidents of discriminatory treatment of personnel via the reporting hotline or via other channels or sources.
+Personnel management resources and risks
+Human resource management at Etteplan is led by the Senior Vice President of HR and Operational Development, assisted by an HR team with nine members in different countries. Etteplan has works councils in all of its operating countries to deal with personnel-related matters locally.
+As the use of local agreements increases, the works councils play a central and active role. In the expert service business, personnel risks include the availability of labor and the required competencies,
+
+as well as attrition. Personnel risks are discussed in more detail on pages 80­83 of Etteplan's Financial Review 2017.
+Supporting charitable causes
+In 2017, Etteplan supported Team Rynkeby, a charity cycling team that raises funds for children with cancer. Nearly 200 amateur cyclists representing Team Rynkeby ride to Paris each summer.
+ENVIRONMENTAL RESPONSIBILITY
+The day-to-day work of environmental management at all of Etteplan's Finnish offices is based on the requirements specified in the ISO 14001 environmental standard. Half of Etteplan's Swedish offices and two offices in Poland are also ISO 14001-certified.
+
+New employee hires by age group and gender
+
+Age / Gender
+
+%
+
+20­29
+
+40
+
+30­39
+
+30
+
+40­49
+
+16
+
+50­59
+
+11
+
+60­
+
+3
+
+Women
+
+20
+
+Men
+
+80
+
+New employee hires by region
+
+Area
+
+%
+
+Finland
+
+56
+
+Sweden
+
+19
+
+China
+
+18
+
+Central Europe
+
+7
+
+Age and gender distribution by employee category
+
+Age / Gender 20­29 30­39 40­49 50­59 60­ Women Men
+
+Manager 2%
+23% 38% 30%
+7% 17% 83%
+
+Employee 20% 34% 23% 17% 6% 19% 81%
+
+The composition of Etteplan's Board of Directors and Management Group can be found in Financial Review 2017's page 79.
+
+The goals of the activities under Etteplan's environmental policy include minimizing the environmental impacts of the company's operations, training personnel to recognize the environmental impacts of their work and helping partners observe responsibility in environmental matters. The environmental responsibility of the entire Etteplan Group is guided by the company's ethical operating principles.
+In Finland, Etteplan's environmental efforts are also guided by the Energy Efficiency Act and the energy reviews stipulated by it. Based on the energy reviews, suitable energy conservation measures are determined for each site. In 2017, an energy review was conducted at the Vantaa office. Measures to improve the energy efficiency of the entire property where the Vantaa office is located were initiated by the owner of the property in 2017.
+As an expert organization, the direct environmental impacts of Etteplan's own operations are moderate. In addition to the electricity consumption of Etteplan's offices, the environmental impacts arise primarily from travel, which has been significantly reduced thanks to electronic meeting technology. The CO2 emissions of air travel are monitored based on information supplied by an external service provider.
+» Our engineering is
+firmly based on the
+principles of sustainable
+development.
+
+RESPONSIBILITY AND PERSONNEL
+
+ETTEPLAN ANNUAL REVIEW 2017 / 27
+
+Targets and results for 2017
+Etteplan sets targets for its environmental efforts in accordance with the ISO 14001 standard. The targets and results for 2017 are presented in the table below. In 2017, Etteplan also passed an external audit conducted in accordance with the updated ISO 14001:2015 standard.
+
+TARGET 2017
+Increasing environmental awareness
+
+COUNTRIES
+Finland, Poland and Sweden
+
+Reducing electricity/energy consumption at offices by -3% compared to 2016
+
+Finland, Sweden and China
+
+Reducing the CO2 level (g/km) of company leasing cars by -3% compared to 2016
+Conducting an energy review at the Vantaa office
+
+Finland and Sweden
+Finland
+
+MEASURES TAKEN AND RESULTS IN 2017
+Environmental training organized in Finland, Poland and Sweden, training materials updated. Etteplan develops environmentally friendly technologies and cleantech products, and contributes to the energy efficiency of customers' equipment, machinery and production facilities.
+Electricity consumption is monitored at the Group's 11 largest operating locations in Europe and China. In 2017, electricity consumption decreased by approximately 5 per cent compared to the previous year. The consumption figures are partly based on estimates due to factors such as office expansions and relocations.
+Sweden -10 per cent; Finland -3 per cent.
+Etteplan's energy experts conducted an energy review at the Vantaa office. The review surveyed the electricity, heating and water consumption of the property.
+
+Certifications of Etteplan offices by country
+
+COUNTRY
+Finland Sweden Poland Germany
+
+OFFICES
+31 13 3 2
+
+ISO 9001 AND ISO 14001 CERTIFIED OFFICES
+28 6 2 2*)
+
+All Etteplan offices in all countries operate in accordance with the harmonized management system defined by the Group. *) The offices in Germany are ISO 9001 certified.
+
+28 / ETTEPLAN ANNUAL REVIEW 2017
+
+RESPONSIBILITY AND PERSONNEL
+
+CORPORATE RESPONSIBILITY IN WORK WITH CUSTOMERS
+Responsibility is a prominent aspect of Etteplan's business. The solutions we engineer help customers create environmentally friendly solutions that affect the product's entire life cycle.
+Sustainable development in engineering
+Etteplan's business has a strong foundation in the principles of sustainable development. Each year, we engineer hundreds of solutions for the world's leading machinery and equipment suppliers. They help our customers create solutions that
+
+are eco-efficient with respect to their manufacturability, usability and recyclability. We develop environmentally friendly technologies and cleantech products, and contribute to the energy efficiency of customers' equipment, machinery and production facilities.
+Engineering affects the product's full life cycle: from raw materials to production, product use, recycling or disposal. For example, Etteplan's technical documentation solutions are environmentally friendly and reduce the need for printed materials, as manuals and instructions can be distributed to maintenance and service personnel digitally.
+
+Product safety through engineering
+We help our customers overcome engineering challenges related to operational safety and safety-critical products, equipment and software engineering and the engineering of safe working methods, assembly and installation stages. Etteplan's expertise covers all stages of the product, machine or system life cycle, from specifications and engineering to manufacturing, installation, operation, servicing, maintenance, modernization and decommissioning.
+
+Engineering affects the whole life cycle of a product
+DESIGN ENGINEERING
+High-quality engineering takes into account the use requirements
+and the entire product life cycle
+
+RECYCLING
+Material recycling and waste recovery
+
+MATERIAL CHOICES
+Eco-efficient and recyclable material choices
+
+USE AND MAINTENANCE
+Eco-efficiency, safety and reliability of products
+
+PRODUCTION
+Optimization and cost-efficiency of raw materials and production processes
+
+RESPONSIBILITY AND PERSONNEL
+
+ETTEPLAN ANNUAL REVIEW 2017 / 29
+
+Importance to stakeholders
+
+MANAGING ENVIRONMENTAL RESPONSIBILITY
+Responsibility topics
+Etteplan determined the material topics of its corporate responsibility in 2015 by interviewing key external stakeholders and the company's own personnel. The management validated the results of the interviews to create the company's materiality matrix for responsibility, with the key topics being financial growth as well as personnel development and commitment.
+Etteplan's corporate responsibility is led by the Senior Vice President of HR and Operational Development, who is also a member of the Management Group.
+
+Materiality matrix
+
+Big
+
+Sustainable financial growth
+Employee development
+
+Employee engagement
+
+Compliance and anti-corruption
+
+Innovations
+
+Environmentally friendly products and services
+
+Occupational health and safety
+
+Diversity and equal opportunities
+Corporate citizenship Management systems and policies
+
+Supply chain Energy effiency
+
+Big Importance to business
+30 / ETTEPLAN ANNUAL REVIEW 2017
+
+READ ETTEPLAN'S STATEMENT OF NONFINANCIAL INFORMATION 2017
+RESPONSIBILITY AND PERSONNEL
+
+Stakeholder engagement
+In our operations, Etteplan strives for open dialogue with all stakeholders. Etteplan takes stakeholders' views and expectations into consideration and aims to respond to them in the best possible manner.
+
+STAKEHOLDER
+Employees
+
+HIGHLIGHTED ISSUES
+· The employment relationship and terms of employment
+· Competence development
+
+Customers
+
+· Service offering and expertise · Service availability and cost-efficiency · Service quality
+
+Partners
+Shareholders and investors
+
+· Issues related to cooperation and the terms of cooperation
+· Equal treatment of partners
+· Financial performance · Responsible operations
+
+Media Students
+
+· Active provision of information · Responding to inquiries quickly and
+truthfully
+· Trainee opportunities · Future jobs
+
+Universities and universities of applied sciences
+
+· Cooperation · Sharing knowledge
+
+Industry organizations
+
+· Active participation · Sharing knowledge
+
+ETTEPLAN'S RESPONSE
+· Compliance with laws, regulations, ethical principles, policies, principles and instructions
+· Continuous development of human resource management
+· Development discussions and personnel surveys · Training and internal communication · Continuous development of the service offering · Quality assurance internally
+and by external auditing · Customer surveys · Communication · Adherence to agreements · Communication
+· Adherence to stated objectives and strategy · Code of Conduct · Investor relations
+· Website · Social media · Other communication
+· Cooperation with universities and universities of applied sciences
+· Providing trainee positions · Communication · Joint projects and trainee positions · Reports · Lectures · Communication · Etteplan's representation in
+various working groups · Communication
+
+COMMUNICATION CHANNELS
+· Managerial communication · Meetings and events · Intranet and social media · Other communication
+· Meetings and events · Website · Social media · Media · Other communication
+· Meetings and negotiations · Audits · Website
+· Board meetings · General Meeting and
+other meetings · Website · Reports and other communication
+· Website · Social media · E-mail · Other communication
+· Events · Website · Social media · Other communication
+· Joint projects and working groups · Website · E-mail
+· Working groups · Other communication · Website
+
+The authorities and other parties that guide operations
+Decision-makers
+Non-governmental organizations
+
+· Compliance with laws, regulations, guidelines and ethical guidelines
+· Adherence to quality systems and reporting systems
+· Communication
+· Obtaining information · Opportunities to exercise influence
+· Responsibility throughout the supply chain
+· Transparency · Sharing knowledge
+
+· Compliance with laws, regulations, guidelines and ethical guidelines
+· Communication
+· Website · Other communication · Code of Conduct · Audits · Responding to inquiries · Other communication
+
+· Meetings · Website
+· Meetings · Website · Meetings · Website
+
+RESPONSIBILITY AND PERSONNEL
+
+ETTEPLAN ANNUAL REVIEW 2017 / 31
+
+OUR VALUES REFLECT HOW WE OPERATE AND HOW WE SERVE OUR CUSTOMERS.
+» Customer oriented - Our customers' success is our success
+» Proactive - We are the kind of people who are leaning forward
+» Attractive - Being attractive is something we need to earn
+
+VALUES AND CODE OF CONDUCT
+Etteplan's business operations are guided by the Company's Code of Conduct. The Code of Conduct presents the Company's values and business principles to all stakeholders and serve as instructions to our employees in day-to-day business. The Code of Conduct applies to all Etteplan companies, and all employees are obligated to comply with it. Etteplan also encourages the suppliers and other partners within its sphere of influence to
+
+adopt the principles documented in the Code of Conduct. The Code of Conduct includes instructions related to ethics and law, quality and the environment, the working environment as well as equality and diversity.
+Etteplan has an anonymous hotline for employees and external stakeholders to report suspected ethical violations. More information on the Company's Code of Conduct can be found on our website under About us Corporate responsibility.
+
+32 / ETTEPLAN ANNUAL REVIEW 2017
+
+RESPONSIBILITY AND PERSONNEL
+
+REPORTING PRINCIPLES & GRI INDEX
+Etteplan reports for the first time on its corporate responsibility using the Global Reporting Initiative (GRI) reporting framework. The report contains basic information on the GRI Standards. The reporting period is January 1­December 31, 2017. Etteplan will report on its corporate responsibility annually in accordance with the GRI Standards. The company's reporting is based on a materiality analysis on responsibility conducted in 2015. For more information on Etteplan's responsibility, please contact: SVP, HR and Operational Development, Outi-Maria Liedes.
+
+GRI CONTENT INDEX
+
+GRI STANDARDS
+CODE
+
+CONTENTS
+
+GRI 102: General Disclosures
+
+Organizational profile
+
+102-1
+
+Name of the organization
+
+102-2
+
+Activities, brands, products, and services
+
+102-3
+
+Location of headquarters
+
+102-4
+
+Location of operations
+
+102-5 102-6 102-7
+
+Ownership and legal form Markets served Scale of the organization Information on employees and other workers
+
+102-8
+
+102-9
+102-10 102-11 102-12
+102-13
+
+Supply chain
+Significant changes to the organization and its supply chain Precautionary principle or approach External initiatives Membership of associations
+
+Strategy
+
+102-14
+
+Statement from senior decision-maker
+
+102-15
+
+Key impacts, risks, and opportunities
+
+Ethics and integrity
+
+102-16
+
+Values, principles, standards, and norms of behavior
+
+102-17
+
+Mechanisms for advice and concerns about ethics
+
+LOCATION
+FSR= Financial statement release FR= Financial review
+CGS= Corporate governance statement
+p. 2 p. 4 - 5 Back cover p. 2 - 3 p. 4; FSR, p. 30 p. 2 - 5 p. 2 - 3; FSR, p. 17 p. 24 - 26
+GRI content index
+p. 8 - 9 FR, p. 80 - 83 p. 28 GRI content index
+p. 10 - 11 p. 23 - 30, FR, p. 80 - 83
+p. 32 p. 32
+
+COMMENTS
+Finland, Sweden, Netherlands, Germany, Poland, China and United States.
+Employment contracts and types presented as percentages. No significant portion of the organization's activities is performed by workers who are not employees. No significant seasonal variations in employee numbers. Information derived from HR system Sympa. Reported partly. Etteplan is an expert organization, which acts as a supplier to industry. Etteplan's own material purchases are minimal. No signifciant changes in the share capital structure or supply chain.
+Member in the Federation of Finnish Technology Industries and the Swedish Federation of Consulting Engineers and Architect.
+http://www.etteplan.com/fi/contact/hotline_feedback_channel.
+
+RESPONSIBILITY AND PERSONNEL
+
+ETTEPLAN ANNUAL REVIEW 2017 / 33
+
+GRI STANDARDS
+CODE
+
+CONTENTS
+
+Governance
+
+102-18 102-20
+102-22 102-23 102-24
+102-26
+102-28 102-30 102-31
+102-32 102-33 102-35 102-36 102-37
+
+Governance structure Executive-level responsibility for economic, environmental, and social topics Composition of the highest governance body and its committees Chair of the highest governance body Nominating and selecting the highest governance body Role of highest governance body in setting purpose, values, and strategy Evaluating the highest governance body's performance Effectiveness of risk management processes Review of economic, environmental, and social topics Highest governance body's role in sustainability reporting Communicating critical concerns Remuneration policies Process for determining remuneration Stakeholders' involvement in remuneration
+
+Stakeholder engagement
+
+102-40 102-41
+
+List of stakeholder groups Collective bargaining agreements
+
+102-42
+
+Identifying and selecting stakeholders
+
+102-43 102-44
+
+Approach to stakeholder engagement Key topics and concerns raised
+
+Reporting practice
+
+102-45
+102-46 102-47 102-48 102-49 102-50 102-51 102-52 102-53
+102-54
+102-55 102-56
+
+Entities included in the consolidated financial statements Defining report content and topic Boundaries List of material topics Restatements of information Changes in reporting Reporting period Date of most recent report Reporting cycle Contact point for questions regarding the report Claims of reporting in accordance with the GRI standards GRI content index External assurance
+
+LOCATION
+FSR= Financial statement release FR= Financial review
+CGS= Corporate governance statement
+CGS, p. 2, 5 p. 30
+CGS, p. 3 - 5
+CGS, p. 4 CGS, p. 5
+CGS, p. 3
+CGS, p. 4
+CGS, p. 8 - 9 CGS, p. 8 - 9
+GRI content index
+CGS, p. 8 - 9 CGS, p. 7 - 8 CGS, p. 7 - 8 CGS, p. 7
+p. 31 GRI content index
+GRI content index
+p. 31 p. 31
+FR p. 41
+p. 30 p. 30 GRI content index GRI content index p. 32 GRI content index p. 33 p. 33 p. 33
+p. 32 - 33 GRI content index
+
+COMMENTS
+Reported partly. Reported partly.
+CEO approves the responsibility section.
+Finland and Sweden 100%. China, the Netherlands Poland and Germany 0%. Etteplan's stakeholders are groups on which Etteplan's operations have impact and who have an impact on Etteplan.
+This is Etteplan's first GRI report. This is Etteplan's first GRI report. This is Etteplan's first GRI report.
+The report has not been externally assured.
+
+34 / ETTEPLAN ANNUAL REVIEW 2017
+
+RESPONSIBILITY AND PERSONNEL
+
+GRI STANDARDS
+CODE
+
+CONTENTS
+
+GRI 103: Management approach
+
+103-1
+
+Explanation of the material topic and its boundary
+
+103-2 103-3
+
+The management approach and its components Evaluation of the management approach
+
+Economic Standards
+
+GRI 201: Economic performance
+
+Direct economic value generated and distributed
+
+LOCATION
+FSR= Financial statement release FR= Financial review
+CGS= Corporate governance statement
+GRI content index
+p. 24 - 30 p. 24 - 30
+p. 3, 23; FSR, p. 16
+
+201-1
+
+GRI 205: Anti-corruption
+
+205-3
+
+Confirmed incidents of corruption and actions taken
+
+Environmental Standards
+
+GRI 302: Energy
+
+302-4
+
+Reduction of energy consumption
+
+GRI 307: Environmental compliance
+
+307-1
+
+Non-compliance with environmental laws and regulations
+
+Social Standards
+
+GRI 401: Employment
+
+401-1
+
+New employee hires and employee turnover
+
+GRI 403: Occupational health and safety
+
+403-2
+
+Types of injury and rates of injury, occupational diseases, lost days, and absenteeism, and number of work-related fatalities
+
+GRI content index p. 27 GRI content index p. 27 p. 26
+
+GRI 404: Training and education
+
+404-2 404-3
+
+Programs for upgrading employee skills and transition assistance programs
+Percentage of employees receiving regular performance and career development reviews
+
+GRI 405: Diversity and equal opportunity.
+
+Diversity of governance bodies and employees
+
+405-1
+
+GRI 406: Non-discrimination
+
+406-1
+
+Incidents of discrimination and corrective actions taken
+
+GRI 419: Socioeconomic compliance
+
+419-1
+
+Non-compliance with laws and regulations in the social and economic area
+
+p. 24 - 25 p. 24 - 25
+p. 26 - 27; http://www. etteplan.com/fi/tietoa-meista/ hallitus-ja-johto p. 26 ­ 27
+GRI content index
+
+COMMENTS
+Etteplan's all operating countries, unless otherwise stated.
+i.Value created, revenue EUR 214.8 million; ii. Value distributed: material and services EUR 20,429 million; other operating expenses EUR 29,029 million; staff expenses EUR 144,965 million; financial expenses EUR 1,277 million; direct taxes EUR 3,200 million. No cases in 2017.
+Estimated energy consumption reduction reported. Reported partly. No cases in 2017.
+Employee turnover not reported. Reported partly. Injury rate and number of injuries reported for Finland and Sweden. No occupational diseases, no fatalities. Number of sickness absences is low. Reported partly. Programs for upgrading employee skills reported. Reported partly.
+No cases in 2017.
+No cases in 2017.
+
+RESPONSIBILITY AND PERSONNEL
+
+ETTEPLAN ANNUAL REVIEW 2017 / 35
+
+CASE
+Future City Challenge
+How can we make day-to-day mobility smoother and safer? And where to find meaningful activities for both the youth and the aging?
+These were some of the questions that Future City Challenge, a competition created jointly by Etteplan, Digita and IBM, sought answers to in October­February 2017­2018. The nationwide competition in Finland invited companies, startups and students to come up with ideas for new solutions based on IoT technology to resolve challenges faced by six Finnish cities. Etteplan's Technology Director Jaakko Ala-Paavola, whose enthusiasm was evident, was closely involved in the project.
+"The competition generated impressive solutions. One of the best ideas to me was a solution where air quality meters were assembled on city bikes. The solution also included game-like elements ­ the more a person cycles the more points he/she earns".
+Etteplan participated in solving the cities' challenges
+A total of 80 teams signed up for the Future City Challenge. The teams were given access to not only the cities' open data, but also Digita's IoT network and IBM's Watson AI application. The participants were also invited to open coaching sessions in different cities, where Etteplan's specialists helped the teams for instance with technical challenges.
+The winner of the Future City Challenge was the Heads'n Tails team with an invention aimed at improving the indoor air quality of schools in Espoo.
+In what other ways can Etteplan promote the common good now and in the future?
+"We are already teaching the use of technologies in schools. In addition we take part in Vekotinverstas project, a joint project with Helsinki City and Forum Virium offering the citizens an easy way to familiarize themselves with technology" Ala-Paavola says, and continues: "I believe that a company such as Etteplan can participate in resolving the challenges faced by cities in various ways. Technology can genuinely improve the quality of life."
+
+36 / ETTEPLAN ANNUAL REVIEW 2017
+
+READ THE FULL STORY
+
+ETTEPLAN ANNUAL REVIEW 2017 / 37
+
+From Management Group
+
+From right to left: Juha Näkki, Petri Ikonen, Mikael Vatn, Outi Torniainen, Per-Anders Gådin, Kari Liuska, Outi-Maria Liedes, Riku Riikonen and Veikko Lamminen.
+
+Juha Näkki President and CEO: "In accordance with our strategy, we incorporate technology solutions into our service offering and create new added value for our customers."
+
+Veikko Lamminen Senior Vice President, Operations Finland: "The Finnish market situation improved during the year and there were new plant investments after a few quieter years."
+
+Riku Riikonen Senior Vice President, Engineering services: "3D printing and digital technologies are revolutionizing engineering and manufacturing methods."
+
+Per-Anders Gådin, CFO: "Just like everything else, financial administration is becoming increasingly digital. In addition to being specialists in financial reporting and monitoring, we must be experts in the various systems used by the company."
+Petri Ikonen Senior Vice President, Technical documentation: "Our digital solutions in the area of technical documentation enhance our customers' operations and save costs."
+
+Outi-Maria Liedes Senior Vice President, HR and Operational Development: "Digitalization creates new competence areas that combine elements of many different fields. This presents interesting opportunities for new learning and operating models."
+Kari Liuska Senior Vice President, Embedded systems and IoT: "Smart and networked products and production processes increase efficiency and create opportunities for new types of business models."
+
+Outi Torniainen Senior Vice President, Communications and Marketing: "Digital communications and marketing provides us with new opportunities and ways to tell our story and keep in touch with our stakeholders."
+Mikael Vatn Senior Vice President, Operations Central and Western Europe: "Etteplan invests in its employer image, particularly in Sweden, where the competition for experts remains intense."
+
+38 / ETTEPLAN ANNUAL REVIEW 2017
+
+Etteplan as an investment
+
+1.
+
+Changes in our operating environment and technological advances are increasing the need for engineering and creating growth and development opportunities for companies in the engineering industry. Read more on pages 14­15.
+
+2.
+
+Etteplan is a growth company with a target of 15 per cent annual average growth. This figure includes both organic growth and potential acquisitions. Etteplan's revenue growth was 16.8 per cent in 2017 and 30.3 per cent in 2016. Read more on pages 16­18.
+
+3.
+
+In accordance with its strategy, Etteplan focuses on Managed Services. They free up the customer's resources, improve their cost competitiveness and the quality of operations, enhance Etteplan's capacity management and improve business profitability. Read more on page 19.
+
+4.
+
+Etteplan's aim is to increase shareholder value and to be a stable dividend payer. The dividend has been approximately 50 per cent of earnings per share. The Board of Directors proposes that a dividend of EUR 0.23 per share, or 49 per cent of the earnings per share, be paid for the financial year 2017. Read more in the Financial Review.
+
+ETTEPLAN ANNUAL REVIEW 2017 / 39
+
+Investor information
+
+Important dates
+
+Financial Statements Release
+February 8, 2018
+
+Annual Report week 11
+
+Annual General Meeting
+April 5, 2018
+
+Interim Report 1­3/2018
+May 3, 2018
+
+Half Year Financial Report 1­6/2018 August 14, 2018
+
+Interim Report 1­9/2018
+October 30, 2018
+
+Investor relations contacts
+Juha Näkki President and CEO, tel.: +358 10 307 2077 Outi Torniainen SVP, Communications and Marketing, tel.: +358 10 307 3302 Per-Anders Gådin CFO, tel.: +46 70 399 7929
+You can find the up-to-date résumés of our Board of Directors and Management Group at www.etteplan.com. Etteplan's Financial Review 2017 is available at www.etteplan.com. There, you can also find other up-to-date financial information, such as interim reports, half-year financial reports, notifications, and webcasts regarding published profits.
+
+Earnings per share and Dividend
+
+0.6
+
+0.5
+
+0.47
+
+0.4
+
+0.3
+0.23* 0.2
+
+0.1
+
+0 2013 2014 2015 2016 2017
+
+Issue adjusted earnings per share
+Dividend
+*) Board's dividend proposal Rights issue factor 1.050
+
+40 / ETTEPLAN ANNUAL REVIEW 2017
+
+Share price development 2013-2017
+8 7.40
+6
+4
+2
+0 2013 2014 2015 2016 2017
+Volume-weighted average price
+
+Etteplan Oyj
+P.O. Box 216 (Ensimmäinen savu) FI-01511 Vantaa, Finland Tel. +358 10 3070 www.etteplan.com
+Concept and design: Miltton Oy. Photography: Hanna Kinnunen, Juuso Koivisto, Vesa Laitinen, Riitta Supperi, Getty Images. Illustrations: Open Communications AB.
+
+

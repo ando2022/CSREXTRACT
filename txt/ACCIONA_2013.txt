@@ -1,0 +1,2754 @@
+INTEGRATED REPORT 2013
+
+2 ABOUT THIS REPORT
+Paving the way to the
+integrated reporting
+
+ACCIONA 2013 Integrated Report 3
+
+About this Report
+
+For the second year running, ACCIONA has prepared this report in accordance with the guidelines of the International Integrated Reporting Council (the IIRC, www.theiirc.org), the final version of which was published in December 2013.
+Following the principles set out in these guidelines, this Report describes the Company and its prospects using transparent, comprehensive and relevant information, addressing the internal and external elements that enable ACCIONA to create and distribute value in the short, medium and long term.
+The Report is organized to enable the reader to examine key aspects of ACCIONA's business, drilling down from a global overview to the details of each unit. In addition to describing the Company, we also discuss the future trends, challenges and risks it faces. ACCIONA is implementing a new strategy to achieve fresh growth that, together with its traditional value creation model, is essential for the Company's future, which is therefore also described in this report.
+
+ACCIONA's businesses are the key to its success, and we therefore examine their background and performance in detail, employing a comprehensive approach consistent with the integrated vision we are seeking to achieve. Finally, we also discuss the most significant aspects of ACCIONA's corporate governance model, which guarantee its strategy and value creation.
+The content set out herein can be enhanced by referring to the corporate reports used in preparing the 2013 Integrated Report, namely the 2013 Annual Report, the 2013 Financial Statements (audited by Deloitte), the 2013 Corporate Governance Report and the 2013 Sustainability Report (under the GRI G4 standard, and verified by KPMG). The relevance of the issues addressed in this report was identified and assessed as part of the preparation of the 2013 Sustainability Report.
+Please send any comments or suggestions relating to this Report to: responsabilidadcorporativa@acciona.es
+
+Contents
+
+6.
+LETTER FROM THE CHAIRMAN
+42.
+SUSTAINABLE VALUE CREATION
+84.
+CORPORATE GOVERNANCE
+
+8.
+ACCIONA AND ITS CONTEXT
+10. ACCIONA is commitment 14. 2013 in figures 23. A strategy for the future 23. Anticipating the future 32. Management in turbulent conditions 34. A strategy adapted to new challenges 40. Global presence
+50.
+BUSINESS MODEL
+52. ACCIONA Infrastructure, Agua and Services 66. ACCIONA Energy 78. Other businesses
+
+ACCIONA's 2013 Integrated Report is available online. Access it by scanning the QR code using any of various devices.
+
+JOSÉ MANUEL ENTRECANALES Chairman of ACCIONA
+
+Letter from the Chairman
+I am happy to offer you this Report, which has been prepared in accordance with the principles of the new integrated reporting framework. We believe this guide is a step forward in terms of corporate transparency and provides a useful business communication tool that brings together information that was previously scattered across various reports. This will help us to explain how ACCIONA creates and distributes value.
+
+ACCIONA 2013 Integrated Report 7
+We are reinventing ACCIONA and have rearranged our internal
+structure. This has resulted in the creation
+of an Infrastructure division, comprising our construction, water and
+services businesses
+
+One of our main challenges in 2013 was the reform of Spain's electricity market and its impact on ACCIONA. Taken as a whole, the various regulatory changes wiped around 257 million euros from our 2013 EBITDA, and around 370 million euros of recurrent earnings from a standard year. This has led us to review the value of our renewable energy assets and their related goodwill. Excluding this regulatory impact, our EBITDA would have increased by 4% and ordinary pre-tax profit by 17%.
+
+already committed. We have accelerated the rotation of certain assets and implemented cost-cutting plans for development and procurement, which are already bearing fruit.
+As part of the strengthening of our balance sheet, we have issued our first convertible bonds. This milestone has diversified our funding sources, enabling us to extend the maturity profile of our debt and enhance our short-term liquidity.
+
+Repositioning and reinventing ACCIONA for new growth In the short term, we are focusing on strengthening our balance sheet. We need to reduce our credit risk and strengthen our liquidity; this has come at a heavy price in terms of dividends, investment and asset valuations.
+We are applying tight investment policies, except for projects that are already underway. Planned investment for 2014 totals 450 million euros, particularly in energy and focusing on completing projects to which we are
+
+Opportunities in our international markets remain strong The market consensus, with optimistic growth forecasts for infrastructure and renewable energy capacity, reinforces our commitment to developing more sustainable societies.
+We are firmly committed to projects that improve the lives of people. Our future growth will be based on our technical capabilities and our skills in leading our growth markets, such as Mexico where we have grown to become the largest producer of wind power, in just a few
+
+years. In order to ensure we achieve our objectives, we have beefed up our Sustainability Master Plan with more ambitious targets, focusing on shrinking our environmental footprint and optimizing the social impact of our projects.
+We are clearly focused on managing our social impact. We have made significant progress over recent years in increasing our positive social impact on local communities from the start of operations; this includes specific analysis of the risks involved in these impacts from the earliest stages of project tenders. Widening the scope of our approach has brought us competitive advantages in more demanding and higher added-value projects, as our clients increasingly value working with a responsible and reliable company as a key to the success and profitability of their projects.
+New, more tightly integrated, structure We are reinventing ACCIONA and have rearranged our internal structure. This reorganization includes the creation of
+
+an Infrastructure division, comprising our construction, water and services businesses. This combination of businesses will give us a more integrated international structure, with a comprehensive product offering that enhances our development and efficiency, opening up new synergies at the Group level.
+As a result, ACCIONA's strategic businesses are now divided into two large divisions: ACCIONA Energy and ACCIONA Infrastructure, both of which are global leaders in their area and well positioned in markets with significant growth potential. This new structure enables the Group to focus on our core businesses, while we continue rationalizing our other activities.
+ACCIONA is facing one of the greatest challenges of its almost 100-year history, however we can assure you that we are not only able to overcome this, but also in a position to offer our employees, clients, shareholders and partners a promising and bright future.
+
+ACCIONA AND ITS CONTEXT
+
+SUB CHAP
+
+ACCIONA and its context
+
+1. ACCIONA is commitment 2. 2013 in figures 3. A strategy for the future  a. Anticipating the future  b.Management in turbulent conditions  cA strategy adapted to new challenges  d.Global presence
+
+Growing means surpassing yourself. ACCIONA believes in economic growth, social commitment and respect for the environment, because the Company is concerned about the world today, and the people who will live here
+in the future
+
+ACCIONA 2013 Integrated Report 11
+
+ACCIONA is commitment
+ACCIONA is one of the leading Spanish companies, a global leader in the development and management of renewable energies, infrastructures, water and services.
+
+The Company is included in the select Ibex 35 stock market index, and is a benchmark reference in the market.
+With a history stretching back over 100 years, ACCIONA currently has over 30,000 employees and is active in more than 30 countries on five continents. The Company's strong presence in domestic and international markets enables it to develop projects that generate value but are rooted in the future: international expansion, promotion of comprehensive solutions and an integrated service offering, all based on a sustainable approach.
+ACCIONA is committed to economic growth, environmental balance and social progress as the cornerstones of its business model, as it seeks to expand its portfolio, improve operating efficiency and ensure that its business is robust and profitable in the long term.
+
+Together with its commitment to profitability, ACCIONA is aiming to reduce gradually its climate footprint and lead the transition to a low-carbon economy. The Company is involved in environmentally and socially responsible projects: it is involved in 100% renewable energy projects and assets on five continents; it is developing its water business to counter the scarcity of this resource, serving millions of people; and it is constructing efficient infrastructure, always using the latest technology.
+ACCIONA is convinced that innovation is the main driver of development, and this is one of the other keys to its growth. ACCIONA's business model is based on reinforcing the competitive advantages of its strategic divisions.
+
+12 ACCIONA AND ITS CONTEXT
+Vision, mission and values...
+
+ACCIONA IS COMMITMENT
+
+VISION
+To meet the challenge of achieving sustainable development in all our business areas, so that the generations of today and the future will have a better life.
+
+MISSION
+ACCIONA's mission is to be a leader in the creation, development and management of infrastructure, energy, water and services; actively contributing to social wellbeing, sustainable development and the creation of value for our stakeholder groups.
+
+VALUES
+· Honesty · Leadership · Excellence · Concern for the
+environment · Social
+responsibility · Long-term
+approach · Financial strength · C ustomer focus · Innovation · Caring for people
+
+... values that are a reality
+
+HONESTY
+LEADERSHIP
+EXCELLENCE CONCERN FOR THE ENVIRONMENT
+SOCIAL RESPONSIBILITY
+LONG-TERM APPROACH FINANCIAL STRENGTH
+CUSTOMER FOCUS INNOVATION
+CARING FOR PEOPLE
+
+The 2nd best company for the transparency of its information, according to the Reporta 2013 report on the Madrid Stock Exchange index produced by the DEVA consultancy.
+Flagship projects: Legacy Way (Australia), Copiapó desalination plant (Chile), Mundaring DWTP (Australia), Atotonilco water treatment plant (Mexico), Adelaide desalination plant (Australia) and Fouka desalination plant (Algeria); Historic Parks of Madrid (Spain), Frankfurt Airport (Germany); Oaxacas wind farm (Mexico); Amareleja photovoltaic plant (Portugal), and the Renewable Energy Control Center, Spain.
+ACCIONA is the only Spanish company on the annual list of the Global 100 Most Sustainable Corporations in the World 2014.
+518.5 million euros of environmental expenditure and investment.
+Recognized yet again in the main sustainability indexes: Dow Jones Sustainability World Index, FTSE4Good, CDP Climate Performance Leaders and CDP Climate Disclosure Leaders, CDP Supplier Climate Performance Leadership Index, MSCI World ESG Index, MSCI Europe ESG and STOXX ESG Leaders indexes.
+The remaining average lifespan of ACCIONA's international renewable energy portfolio is over 20 years. Its concessions currently have an average duration of 31 years.
+Stock market capitalization of 2,391 million euros (as of 31 December 2013).
+86.4% customer satisfaction index in 2013.
+R&D and innovation in 2013: 173.2 million euros, 14.1% of EBITDA.
+Accidents: zero fatal accidents among our employees in 2013.
+
+ACCIONA 2013 Integrated Report 13
+
+Renewable energies
+ACCIONA is a global renewable energies operator with a unique presence throughout the entire value chain. It is involved in wind, solar, hydro and biomass energy projects, focusing on wind technology. It is one of the largest developers and operators in the world, also designing wind turbines using its own technology. (http:// www.acciona-energia.com)
+
+Infrastructure
+ACCIONA is involved in all aspects of construction and provides its customers with its experience in design, engineering and execution of all manner of projects and their management and subsequent maintenance. (http://www.accionainfrastructure.com)
+
+...made real in our activities
+
+Water
+ACCIONA is the leader in the water treatment sector with the ability to design, construct and operate drinking water treatment plants, residual water purification plants, tertiary treatment plants for re-use and reverse-osmosis desalination plants. ACCIONA also offers management of drinking water supply (capture, drinking water treatment, distribution and subscriber management) and sewage services. (http://www. acciona-agua.com)
+
+Services
+ACCIONA is a flagship service provider, offering comprehensive personalized services to public and private customers, designing, managing and operating a wide range of services. (http:// www.acciona-service.com)
+
+Logistics and transport
+ACCIONA owns the largest Spanish passenger and freight shipping line, ACCIONA Trasmediterranea, and is the only logistics operator to provide an integrated loading, refrigeration and storage service, through ACCIONA Logistics. (http://www. trasmediterranea.es/en)
+
+Real estate
+ACCIONA Real Estate is at the forefront of residential housing construction, working in two main business areas: residential real estate and properties.
+(http://www.accionainmobiliaria.com)
+
+Financial
+ACCIONA provides financial services, such as asset management using mutual funds, pension funds and SICAVs via Bestinver. In addition, it also offers stock market brokerage services. (http://www.bestinver.com/)
+
+Wine
+ACCIONA is also involved in wine production, owning one of Spain's traditional wineries, Hijos de Antonio Barceló, which is active in five of the most prestigious wine-growing areas of Spain. (http://www.habarcelo.com)
+
+2013 was a difficult year, with relentless
+efforts that, on occasions, did not produce the expected results. Nevertheless, ACCIONA remains
+convinced of the future of its sustainable vision
+because of its business model
+
+ACCIONA 2013 Integrated Report 15
+
+2013 in figures
+
+Financial capital
+381 million euros of ordinary net investment. 6,607 million euros in sales. 198% financial leverage. 1,228 million euros in EBITDA. -2,174 million euros* in pre-tax profit. -1,972 million euros* in net profit.
+
+Intellectual capital
+2 3.6% of the workforce is highly qualified. A total of 111 patents awarded or applied for. Innovation figure 4.2% up on the previous year.
+
+2,391
+MILLION EUROS IN STOCK MARKET CAPITALIZATION
+
+173.2 MILLION EUROS FOR INNOVATION
+
+* E xcluding regulatory impact, the Group's EBITDA would have grown by 4% with ordinary pre-tax profit up 17%.
+
+16 ACCIONA AND ITS CONTEXT
+
+2013 IN FIGURES
+
+ACCIONA 2013 Integrated Report 17
+
+Manufactured capital
+T hree technology centers in Madrid, Pamplona and Barcelona for innovation in the infrastructure, renewable energy and water sectors.
+3 14 MW of solar thermal technology with six operating plants.
+4 9 MWp in photovoltaic plants 9 12 MW installed capacity at 80 hydro plants. 5 7 MW installed capacity at three biomass plants.
+A CCIONA Windpower has three nacelle assembly plants in Spain and the USA, a blade manufacturing plant in Spain and a manufacturing plant for other components in Brazil.
+9 0 earth-moving machines. 1 4 tunnel boring machines of various diameters working on international road, civil engineering and subway projects.
+M ore than 20 water treatment plants.
+More than 220 water purifiers.
+M ore than 25 desalination plants.
+
+Human capital
+1 8.03% of women in management posts. 100% of the workforce in Spain covered by equality plans. A verage 13.16 hours of training per employee. A ccident frequency index of 4.2. 3 .65% employee rotation. 0 fatal accidents involving employees.
+
+7,139
+MW INSTALLED CAPACITY AT 232 WIND FARMS
+
+34,108 AVERAGE WORKFORCE
+
+Social and relational capital
+9 82 suppliers registered for ACCIONA's four training initiatives. A udits and verification of the CR and sustainability questionnaire for more than 300 suppliers of all divisions.
+99.57% of orders include a Global Compact clause. 5 47 volunteers in corporate volunteering initiatives. 1 ,700 home photovoltaic systems installed in Peru by the ACCIONA Microenergy Foundation. 1 80 small home photovoltaic systems supplied in Mexico by the ACCIONA Microenergy Foundation.
+More than 16,000 direct client surveys.
+
+Natural capital
+2 1% reduction in CO2 emissions compared to 2012. 1 5% reduction in energy consumption compared to 2012. W ater footprint: Net positive contribution of 562 hm3. 3 0% of total water consumption is reused and recycled water. 8 7% of activity certified under ISO 14001.
+
+18
+MILLION EUROS IN SOCIAL CONTRIBUTIONS
+
+15.1
+MILLION TONNES OF CO2 AVOIDED, 8% MORE THAN
+THE PREVIOUS YEAR
+
+18 ACCIONA AND ITS CONTEXT
+
+2013 IN FIGURES
+
+2013 results in detail
+
+REVENUE Revenue on sales resulting from our activities
+The change in turnover was due to lower revenue in the Infrastructure division due to contraction in this business in Spain and internationally.
+The revenue of the Water division increased by 15.6%, driven by design and construction activities and operations and maintenance.
+Other revenue
+Inventories
+TOTAL VALUE OF PRODUCTION
+OPERATING COSTS · Procurements · Personnel expenses · Other expenses
+EBITDA
+Regulatory changes in Spain reduced the EBITDA of the Energy division by 13%.
+The decrease in the Infrastructure division was due to lower activity and losses on contracts in Canada and Poland.
+
+2012
+
+7,016
+
+Changes in turnover 2012/13 (M)
+
+79 13 -593
+
+49
+
+10 33
+
+IENNFERRAGSYTRUCTURE
+
+WATER
+
+SERVICES OTHER
+
+ACTCIOVINTSIEAOSDLJIUDSATTMIOENNTS
+
+500 -7
+7,509
+
+6,078
+
+1,431
+
+C hange in EBITDA contribution 2012/13 (M)
+
+-146 -81 13
+
+2
+
+7
+
+3
+
+IENNFERRAGSYTRUCTURE
+
+WATER
+
+SERVICES OTHER
+
+ACTCIOVINTSIEAOSDLJIUDSATTMIOENNTS
+
+EBITDA Volume of production - Operating costs
+(million euros)
+
+2013
+
+12/13
+
+6,607
+Turnover by activity 2013
+
+-5.8%
+
+ENERGY 
+
+32%
+
+INFRASTRUCTURE 
+
+41%
+
+WATER 
+
+9%
+
+SERVICES 
+
+10%
+
+OTHER ACTIVITIES
+
+10%
+
+CONSOLIDATION ADJUSTMENTS -2%
+
+365 4
+
+6,976
+
+5,747
+
+1,228
+C ost reductions (M)
+-124 9 -216
+
+-27.2%
+n.a.
+-7.1%
+-5.4%
+-14.1%
+
+PROPCEURRSEOMNENNETLSEXPOENTHSEERS EXPENSES
+
+TOTAL VALUE OF PRODUCTION
+EBITDA
+Amortization and depreciation provision Income from property, plant and equipment Other profit or loss
+Provisions Asset impairment
+OPERATING PROFIT
+The gains relate to sales of a wind farm company in South Korea and the Royal Jubilee hospital concession in Canada. The negative effects were mainly due to the Energy division, resulting from regulatory changes in Spain.
+Finance income
+Finance costs Exchange gains/losses
+Change in provisions for financial investments Holdings Changes in financial instruments
+PRE-TAX PROFIT
+Corporate income tax
+Minority interests
+ATTRIBUTABLE NET PROFIT
+
+2012
+7,509 1,431
+-716 11 2 -25 -56
+646
+
+GAINS
+
+19
+
+GOODWILL
+
+IMPAIRMENT
+
+-870
+
+ASSET IMPAIRMENT
+
+-563
+
+75 -517 29 15
+1 -3
+246
+-61 5
+189
+
+ACCIONA 2013 Integrated Report 19
+
+NET PROFIT ATTRIBUTABLE TO THE YEAR (million euros)
+
+2013
+6,976 1,228
+-764 2 -6
+-389 -1,843
+-1,771
+
+12/13
+-7.1%
+-14.1%
+6.7% -77.5%
+n.a. 1.438% 3.168%
+n.a.
+
+73 -473 -19
+-2 12 5
+-2,174
+146 56
+-1,972
+
+-1.7% -8.4%
+n.a. n.a. 1.422% n.a.
+n.a.
+n.a. 974.3%
+n.a.
+
+20 ACCIONA AND ITS CONTEXT
+
+2013 IN FIGURES
+
+ACCIONA 2013 Integrated Report 21
+
+2013 milestones
+ACCIONA's year in summary
+
+21/01
+ACCIONA enters the United Arab Emirates
+with a desalination project worth over 200 million dollars.
+
+23/01
+Our first wind farm in Croatia
+ACCIONA Energy continues to expand with the commissioning of this project.
+
+01/03
+Launch of our Action Plan
+for the new market situation.
+
+11/03
+ACCIONA Windpower's first plant in Brazil
+The plant is located in Bahia and involved in the assembly of wind turbine hubs, with production capacity of 135 units per year.
+
+29/04
+Creation of ACCIONA Service
+ACCIONA enhances its services offering with the creation of ACCIONA Service.
+
+JANUARY
+
+FEBRUARY
+
+MARCH
+
+APRIL
+
+MAY
+
+23/01
+World Economic Forum
+ACCIONA among the 100 most sustainable companies in the world.
+
+11/02
+Award of a contract for 25 km highway stretch in Brazil
+ACCIONA will build 25 kilometers of one of São Paolo's largest highways. The project is worth 1,407 million Brazilian reais, almost 700 million dollars.
+
+25/03
+Bond issue
+ACCIONA wins an award for its bond issue to fund two wind farms in Mexico. Project Finance Magazine recognized this innovative transaction as its Deal of the Year.
+
+10/05
+ACCIONA Service awarded the handling contract for Frankfurt Airport
+The Economics and Transport Ministry of the German state of Hessen has awarded ACCIONA Service the license to provide handling services at Frankfurt airport for seven years, until 2020.
+
+06/06
+Modification of the Regulations of the Board of Directors
+The Board of Directors of ACCIONA, S.A. resolved to redraft article 19.4 of the Regulations of the Board of Directors in order to expressly include the position of Lead Independent Director.
+
+26/09
+Changes to senior management
+ACCIONA, S.A. announces the composition of its Executive Committee following the latest changes to the Group's senior management.
+
+14/11
+ACCIONA wins the contract for the largest water treatment plant in Africa
+This is the Gabal Al Asfar WWTP in Cairo (Egypt), with a budget of over 120 million euros.
+
+31/12
+Almost 1,000 MW contracted in 2013 for the AW 3000 wind turbine
+ACCIONA Windpower entered into supply contracts for its AW 3000 wind turbines totaling 945 MW in 2013, with a further 615 MW pending final agreement in 2014.
+
+JUNE
+
+SEPTEMBER
+
+OCTOBER
+
+NOVEMBER
+
+DECEMBER
+
+26/06
+ACCIONA Energy installs its first wind farm in Chile
+The 45 MW Punta Palmeras wind farm comprises 15 AW 116/3000 wind turbines with ACCIONA Windpower technology. It will become operational in December 2014.
+
+15/10
+ACCIONA is awarded a contract for the Fortaleza subway system in Brazil
+The project budget is around 800 million euros.
+
+11/11
+ACCIONA Energy formally agrees to the sale of wind farm assets in South Korea
+The sale of the 61.5 MW Yeong Yang I wind farm is part of ACCIONA's divestment strategy for its non-strategic assets.
+
+13/12
+Announcement that no dividend will be distributed
+The Board of Directors of ACCIONA, S.A. resolves not to distribute any dividend against 2013 earnings. This measure is part of the plan to minimize the impact of regulatory changes affecting renewable energies.
+
+22 ACCIONA AND ITS CONTEXT
+
+2013 IN FIGURES
+
+ACCIONA 2013 Integrated Report 23
+
+Internationally recognized
+
+CORPORATE RECOGNITION
+
+A CCIONA in the 100 Most Sustainable Corporations in the World 2013.
+A CCIONA in the FTSE4Good sustainability index.
+A CCIONA included in the STOXX Global ESG Leaders index.
+A CCIONA in the Dow Jones Sustainability Index (DJSI World) for the Electric Utilities sector.
+
+ACCIONA in the global top 25 of the SMI-Wizness Social Media Sustainability Index.
+A CCIONA recognized by the CDP for its performance in the Iberia 125 Climate Performance Leadership index.
+A CCIONA in second place in the global ranking of most sustainable utilities, produced by the publishing group Corporate Knights.
+A CCIONA has the best reputation of any infrastructure company in
+
+Spain, according to the Merco ranking.
+A CCIONA is the second best Spanish company in terms of quality of accountability information, according to the Reporta 2013 report.
+A CCIONA had the largest increase in R&D and innovation of any Spanish company, and is the 3rd largest Spanish investor in R&D, according to The Global Innovation 1000 index prepared by the Booz&Company consultancy.
+
+A CCIONA receives an award for its commitment to sustainability from the magazine Capital.
+A CCIONA receives ESR® 2013 recognition in Mexico for the third consecutive year for its voluntary public commitment to socially responsible management.
+
+RECOGNITION FOR OUR BUSINESS LINES
+
+A CCIONA Energy receives the Deal of the Year award from Project Finance Magazine for its bond issue to fund two wind farms in Mexico.
+A CCIONA Agua was ranked as the best water company of the year worldwide, according to Global Water Intelligence.
+T wo events designed by ACCIONA Producciones y Diseño receive Eventoplus awards.
+W orld Finance magazine 2013 award of the year for the Atotonilco waste water treatment plant.
+
+A CCIONA receives the Safety and the Environment award from Arval Maroc for the Ouarzazate project in Morocco.
+A CCIONA receives an award from the Vancouver Regional Construction Association (VRCA) for the Fort St. John Hospital.
+T unneling Project of the Year, International Tunneling Awards 2013.
+
+A CCIONA Producciones y Diseño receives the Golden Elephant award for the best sustainable event in the European Best Event Awards, for design and management of the Day of Music Festival.
+V arious awards for the Adelaide desalination plant: the Water Industry Alliance Smart Water Awards, the Australian Project of the Year, Awards for Excellence ­ Technological Innovation, the IMPA Project Excellence Award and the 2013 GPM Global Sustainability Project of the Year award.
+
+A CCIONA Infrastructure receives the Infrastructure and distinction award from Association Québécoise du Transport (AQTR) in collaboration with the Société de l'Assurance Automobile du Québec (SAAQ).
+
+A strategy for the future
+
+The company always has its eye on
+tomorrow, which conditions
+everything that it does today
+
+Anticipating the future
+
+A robust business responsive to long-term trends.
+
+ACCIONA has been anticipating global trends for years, developing solutions to help society transition to sustainable development. Based on its extensive experience and global presence, the Company has created a business model that has enabled it to position itself as a pioneer in the sectors in which it operates.
+
+Its long-term vision has put ACCIONA in a position to respond to the challenges that arise, with robust assets, innovation, talent and the most suitable solutions for key areas such as energy, infrastructure, water and services.
+
+24 ACCIONA AND ITS CONTEXT
+
+A STRATEGY FOR THE FUTURE
+
+Changing the economic balance
+towards emerging economies: the
+infrastructure gap
+
+The world's population is set to continue growing until the mid-21st century, particularly in developing countries. Global economic growth will lead to an increase in the purchasing power and standard of living of the populations of emerging economies. And as economic growth continues, urbanization will also continue apace.
+Today, 1,600 million people have no electricity; 884 million do not have safe drinking water; and 2,500 million lack adequate sanitation. Infrastructure construction and supply currently accounts for 3.8% of global GDP, worth 2.7 trillion dollars. And infrastructure demand has been calculated at 3.7 trillion dollars per year, 5.2% of global GDP, according to Strategic Infrastructure. Steps to Prepare and Accelerate Public-Private Partnerships, World Economic Forum, 2013.
+The OECD has stated that over 50 trillion dollars of infrastructure investment is required to 2030, including investment in water, telecommunications, roads and electricity.
+
+Infrastructure demand
+accounts for 5.2% of global GDP
+
+ACCIONA 2013 Integrated Report 25
+
+ACCIONA's response today
+
+ACCIONA Energy
+New installed capacity MW
+800 700 600 500 400 300 200 100
+0 2011 2012 2013 2014 2015 N EW CAPACITY INSTALLED IN NON-EMERGING COUNTRIES N EW CAPACITY INSTALLED IN EMERGING COUNTRIES
+
+52% of the new installed capacity of ACCIONA Energy from 2011 to 2015 will be in emerging countries. Furthermore, based on projected growth in demand in these countries, 100% of the Company's projects under development that will come on stream in 2014-2015 are in emerging countries, where we are opening up new markets.
+We are building 232 MW in South Africa, with 94 MWp at the Sishen photovoltaic plant and 138 MW at the Gouda wind farm. In Chile, work has started on construction of the 45 MW Palmeras wind farm, which will become operational in late 2014; in Costa Rica the 49.5 MW Chiripa wind farm will also come on stream in 2014.
+ACCIONA Windpower is also increasing its activity in Brazil, Mexico, South Africa, Turkey and Chile, with 543 MW contracted in 2013 and 615 MW pending formal agreement in 2014.
+
+ACCIONA Infrastructure, Agua and Services
+Construction of roads and rail lines, etc. in mature vs. emerging markets (km)
+1,713.34
+
+359.45 36.5
+2012
+
+88 2013
+
+MATURE MARKETS EMERGING MARKETS
+
+Drinking water production (desalinated) (hm3)
+
+78.7
+
+55.8
+
+58.2
+
+18
+
+20
+
+7.9
+
+2011
+
+2012
+
+2013
+
+MATURE MARKETS EMERGING MARKETS
+
+26 ACCIONA AND ITS CONTEXT
+
+A STRATEGY FOR THE FUTURE
+
+Climate change
+
+The scientific consensus is that climate change is one of the major challenges facing humanity. Mitigating this threat requires, among other things, a new energy model that is less reliant on fossil fuels, and the development of technologies that can reduce CO2 emissions.
+According to the United Nations Environment Program (UNEP), a green economy offers the best chance of improving human welfare and social equality, while significantly reducing environmental risks and ecological scarcity. UNEP estimates that the sustainable transformation of the global economy will require 2% of global GDP over the next 40 years. In the medium to longer term, the green economy could overtake the traditional economy in terms of jobs and growth, producing significantly more environmental and social benefits, and reducing the risks of global climate change through trade in environmental goods and services.
+
+The green economy generates
+economic and social wellbeing,
+and reduces environmental risks
+
+ACCIONA 2013 Integrated Report 27
+
+ACCIONA's response today
+E missions avoided (million tonnes of CO2)
+
+11.70
+
+13.97
+
+15.10
+
+Emissions generated scope 1 and 2 (million tonnes of CO2)
+
+0.86
+
+0.81
+
+0.64
+
+2011
+
+2012
+
+2013
+
+2011
+
+2012
+
+2013
+
+The fight against climate change is a strategic priority for ACCIONA; its business model is based on developing activities that are less carbon intensive, and promoting energy efficiency. In developing its improvement systems and plans in relation to cutting greenhouse gas emissions and optimizing energy efficiency, the Company carries out detailed monitoring of the various sources of emissions in its business activities.
+
+In 2013, ACCIONA avoided the atmospheric emission of 15.1 million tonnes of CO2, mainly as a result of its renewable energy activities. The Company's other businesses in turn indirectly contribute to avoiding emissions. This is the case for wind turbines manufactured for third parties, biofuels, ecoefficient buildings and employees commutes to work.
+In 2013, ACCIONA avoided 24 times the CO2 that it generates in its production activities.
+
+28 ACCIONA AND ITS CONTEXT
+
+A STRATEGY FOR THE FUTURE
+
+ACCIONA 2013 Integrated Report 29
+
+Increasing energy demand and
+water and resource shortages
+
+Projections for the coming decades point to rising pressure on water resources in a large part of the world, with the attendant impact on economic and industrial activities. This offers opportunities to companies that market innovative approaches for managing the water cycle and are committed to innovation in water efficiency.
+Meanwhile, increased production and consumption will also increase pressure on the planet's resources. Efficient solutions, recycling and reuse will be key factors in the sustainability of many industries.
+Finally, forecasts of economic and population growth also point to increased energy demand globally, which must be met by considering: economic growth and development, environmental sustainability and security of supply.
+
+ACCIONA's response today
+ACCIONA Energy Installed renewable energy capacity and total production (GWh)
+
+Installed capacity (MW)
+
+8211
+
+8437
+
+8480
+
+Renewable production (GWh)
+
+17749
+
+20379
+
+22404
+
+2011
+
+2012
+
+2013
+
+2011
+
+2012
+
+2013
+
+ACCIONA Infrastructure, Agua and Services
+
+Infrastructure
+
+Water footprint
+72% 67%
+
+28%
+
+33%
+
+% of consumption of FSC wood compared to total wood
+22.63% 63%
+37% 13.93%
+
+2011
+
+2012
+
+NEUTRAL WATER NON-NEUTRAL WATER
+
+2013
+
+7.75%
+
+2011
+
+2012
+
+2013
+
+Consumption of recycled aggregates compared to consumption of natural aggregates
+13.25%
+
+3.01%
+
+2.31%
+
+2011
+
+2012
+
+2013
+
+In assessing the water footprint of ACCIONA Infrastructure, it is important to focus on the increased use of neutral water (water from tertiary treatment plants, recycled and reused water, and collected rainwater) rather than non-neutral water (municipal, underground and surface water).
+There has been a positive trend in consumption of wood with Forest Stewardship Council certification (wood from sustainably managed sources) as a proportion of total wood consumption. ACCIONA Infrastructure proposes the use
+
+of such wood in its tender bids, with the contractor being responsible for the ultimate choice of this type of material.
+The increased use of recycled aggregates rather than natural aggregates in ACCIONA Infrastructure projects in 2013 is also worth noting.
+
+Water Volume of water managed (hm3)
+431 396 376
+
+121 98
+
+35
+
+51
+
+2011
+
+2012
+
+DESALINATED WATER DRINKING WATER TREATED WASTEWATER
+
+133 99 2013
+
+Services Waste managed (tonnes)
+13.65
+10.61
+
+10.85
+
+1.32
+
+2.11
+
+2011
+
+2012
+
+WASTE SENT TO LANDFILLS WASTE SENT FOR RECYCLING
+
+2.13 2013
+
+30 ACCIONA AND ITS CONTEXT
+
+A STRATEGY FOR THE FUTURE
+
+New forms of funding
+
+Whilst global infrastructure requirements are enormous, government budgets are becoming ever tighter as a result of the 2008 world financial crisis.
+Public sector infrastructure development has also often been slow and inefficient. As a result, Public-Private Partnerships (PPPs) have become an important form of infrastructure development, as they can speed up the process using private sector funding and skills in delivering infrastructure efficiently.
+
+ACCIONA 2013 Integrated Report 31
+
+Innovation in a globalized
+world
+
+Connectivity is continuing to increase, creating an ever more globalized world, making it more difficult to keep ahead. Today, it is easy to keep up to date with the latest technological advances, making it difficult to maintain leadership for any length of time.
+Companies in all sectors have to continuously increase their investment in innovation and knowledge management to ensure they stand out in this ever more interconnected and informed world.
+
+ACCIONA's response today
+
+Diversification of its sources of funding is one of the keys to the ACCIONA Group's financial policy. This diversification strategy includes:
+(i) prioritizing local sources of bank and non-bank funding in countries where ACCIONA undertakes investment projects. This has resulted in ACCIONA's main sources of funding in many of its strategic markets, such as Canada, Australia, Poland, Chile, Peru, Brazil and South Africa, being mostly or completely local;
+(ii) prioritizing funding from capital markets, whenever this is competitive. Projects have been funded through bond issues in Canada and Mexico over
+
+recent years. Continuing this strategy, the focus in 2014 is on corporate funding from the capital markets; and (iii) actively seeking the involvement of bilateral and multilateral entities in funding our projects. Over recent years, we have financed projects in coordination with multilateral entities such as the IFC (World Bank), the IDB; the EIB, CAF and the EBRD; local development banks, such as Banobras, NAFIN, Bancomext and BNDES; and bilateral entities such as the ICO, DEG, Proparco and KfW.
+
+ACCIONA's response today
+
+Total innovation (M) 93.6 166.2 173.2
+
+Total R&D/EBITDA (%)
+
+7.1
+
+11.6 14.1
+
+2011 2012 2013
+
+Total R&D/Sales (%)
+
+1.41
+
+2.37
+
+2.62
+
+2011 2012 2013
+
+T otal number of patents granted or applied for
+
+78
+
+94
+
+111
+
+2011 2012 2013
+
+2011 2012 2013
+
+32 ACCIONA AND ITS CONTEXT
+
+A STRATEGY FOR THE FUTURE
+
+We recognize that we are facing
+major challenges, but we are ready to
+tackle them
+
+Management in turbulent conditions
+
+Our main risks
+Regulatory risk
+The businesses in which ACCIONA is involved are all strategic for human development and progress, meaning they are always subject to regulation. Moreover, geographic diversification means we need to be prepared for differing regulations in the markets in which we operate. This is particularly critical in the case of energy, as investing in renewable sources requires a stable framework. Recent and planned regulatory changes in Spain put a brake on renewable energy strategies, increasing investor uncertainty.
+
+Financing risk
+The availability of funding may be a limiting factor on achieving growth objectives in the sectors in which ACCIONA is involved.
+At a time of contracting publicsector budgets and funding through the banking system, the search for appropriate financing mechanisms, combining public and private capital, is particularly important.
+
+Competition risk and stagnation of traditional markets
+The maturity of our traditional markets could lead to shrinking opportunities in ACCIONA's strategic businesses. The economic slowdowns in these economies could lead to stagnation. This could also be the case because demand for energy, infrastructure and water is already covered in developed countries, and populations are not increasing at a rate requiring increased supply. This obliges us to seek new value-added solutions.
+
+ACCIONA 2013 Integrated Report 33
+
+RISK MANAGEMENT IN ACCIONA ACCIONA has put in place a comprehensive Risk Management System. Each business line identifies, assesses and mitigates the risks it faces, and these are then coordinated by a single team that sets out the acceptable level of risk tolerance, in accordance with our corporate culture, strategy and structure. All activities are coordinated so as to remain in-line with the Group's comprehensive risk policy, facilitating on-going monitoring of our risk exposure.
+ACCIONA is active in various businesses and markets, all of which have their own social, political and regulatory realities, resulting in the risks we face being very diverse. For this reason, in 2013 we developed an individualized risk mitigation system for the most significant risks in each area. We have prepared independent risk maps for our main divisions and a consolidated map for the ACCIONA Group, analyzing and assessing risks at the country level for areas representing a significant level of turnover.
+
+The Finance and Risks area is responsible for identifying, assessing and dealing with the risks faced by the divisions. The Internal Audit Department is responsible for planning and carrying out audit activity for the risks identified, and assesses the effectiveness of internal control systems. The Audit Committee supports the Board of Directors in all matters relating to risk management, regularly reviewing the systems in place and monitoring their effectiveness. The Board of Directors is ultimately responsible for approving the risk management and control policy.
+
+Risk categorization
+
+ECONOMICFINANCIAL
+Directly impacts the Company's income
+statement
+
+STRATEGIC
+Resulting in failure to achieve the Company's objectives and stunted
+growth
+
+OPERATIONAL
+Related to processes, people, products and regulatory and contractual compliance, the supply chain, information systems and loss of key personnel
+
+UNFORESEEABLE
+Damage to the Company's assets and people that affects its
+performance
+
+34 ACCIONA AND ITS CONTEXT
+
+A STRATEGY FOR THSEUBFUCTHUAREP
+
+The Company is seeking to grow and take on ever greater challenges
+
+A strategy adapted to new challenges
+Recent significant changes in the global situation pose new challenges for ACCIONA.
+
+The foresight, responsibility and leadership that the Company has built up over more than a century of activity mean that it is ready and has the capabilities needed to adapt and continue generating value over the long term.
+As can be seen from global trends, emerging markets have significant needs for the infrastructure and services that ACCIONA offers. Over the last year, the liquidity and investment capacity of investment, infrastructure and pension funds has increased compared to previous years. Lower interest rates and risk premiums for Spain have also contributed to a positive change in investor interest in the country.
+As with opportunities, major challenges -- regulatory changes and the need for a new funding model-- require a decisive response and a robust strategy. ACCIONA has put
+
+in place a strategic plan that will keep the Company one step ahead of the future.
+MITIGATING THE IMPACT OF THE REGULATORY REFORM IN SPAIN ACCIONA has reflected deeply on the scenarios likely to arise as a result of regulatory changes in the energy sector, applying a criteria of business responsibility.
+This has resulted in the Company implementing various measures to deal with the new market situation and to offset the loss of profit resulting from the energy reform in Spain, seeking to reestablish its profitability and credit profile. The implementation of the Plan began in 2013 and continues in 2014, with measures including:
+R eduction of short-term investment. The Company will only undertake the
+
+ACCIONA 2013 Integrated Report 35
+
+ordinary net investment it is already committed to. Investment in 2013 was down by 55% compared to 2012, at 381 million euros.
+C ancellation of the 2013 dividend. This decision is unprecedented in the Company's recent history and reflects its financial prudence.
+O ther efficiency measures. ACCIONA has implemented significant measures to cut costs in its Energy, Infrastructure and Trasmediterranea activities.
+REDUCING DEBT AND SEEKING NEW SOURCES OF FUNDING ACCIONA is undertaking a deleveraging and asset-rotation exercise, aiming to achieve between 500 and 1,000 million euros in 2013 and 2014. The Company sold assets worth 370 million euros in 2013, including:
+G ermany: renewable assets worth 157 million euros (150 MW).
+
+S outh Korea: renewable assets worth 114 million euros (62 MW).
+C anada: sale of the Royal Jubilee Hospital concession (although ACCIONA Service will be responsible for its services).
+S pain: sale of real-estate leasing assets.
+The Company reduced its total net debt by 10% in 2013 through divestments, from 7,482 million euros to 6,715 million euros.
+In addition, in 2014 ACCIONA issued bonds convertible into shares with a value of 342 million euros.
+This issue is part of the search for new sources of capital. ACCIONA is seeking to incorporate new financial partners into its key businesses to accelerate its growth. ACCIONA has remained faithful to its conservative profile, always seeking to maintain value through the measures that it takes, making its assets attractive to investors in today's global situation.
+
+36 ACCIONA AND ITS CONTEXT
+
+A STRATEGY FOR THE FUTURE
+
+TRANSFORMING THE GROWTH MODEL ACCIONA's growth model was traditionally based on its own balance sheet. The Company's new strategy involves modifying this model to facilitate the entry of new partners and increase penetration of capital markets, thereby reducing excessive dependence on the banking system, which, as a result of the global financial crisis, has changed its own financing strategy narrowing the margins for company debt.
+
+ACCIONA is continuing to respond to the challenges it faces by constantly seeking opportunities in major emerging markets, without overlooking the possibilities in mature markets, based on efficiency, sustainability and innovation. As a result, it continuously assesses which markets offer the best growth and profitability opportunities for the future: the Company's comprehensive, integrated business model gives it significant capacity to adapt.
+
+WITH A NEW STRUCTURE FOR GROWTH...
+
+Infrastructure, Water
+and Services
+
+Energy
+
+Other businesses
+
+ACCIONA 2013 Integrated Report 37
+
+ACCIONA is working on an integration process enabling synergies between businesses
+
+As part of its transformation, ACCIONA is carrying out an integration process to enable greater synergies among its businesses, increasing efficiency, benefiting growth and facilitating cost savings and better risk control. The Infrastructure, Water and Service divisions have therefore been combined into a single business line under common management.
+
+The new structure is expected to result in significant benefits in terms of revenue, cost efficiency and improved margins, through our differentiation in the market based on the following characteristics of our new business model:
+A shared and integrated international structure supporting business development.
+
+The public sector is the main stakeholder in the infrastructure, water and services businesses, as most such projects are awarded as concessions or depend on public funding. This means that they also share the main risks, in terms of project funding and development, delays in project implementation, poor asset assignment and inaccurate cost estimates.
+Therefore, this integration enables us to unify the tender process through a common framework or procedure, ensuring greater internal consistency, facilitating more efficient cost control and enabling integrated management of associated risks.
+This also enables us to exploit ACCIONA's advantages in key areas, such as specialization, technology and international development, taking on a global leadership that exploits our credentials in these three areas while extending the scope of our offering and facilitating our management of the Company's best talent.
+
+G lobal scope and consistent offer of products and services.
+N ew opportunities resulting from the synergies created.
+A more efficient international organizational structure.
+F ocusing on establishing clear responsibilities and strict risk control.
+This unification process will be challenging and will require significant reflection in each unit to guide the steps required. But the result will help us send a clear and confident message about our business development strategy, which will then be based on two robust pillars: ACCIONA Energy and ACCIONA Infrastructure, Agua and Services.
+
+38 ACCIONA AND ITS CONTEXT
+
+A STRATEGY FOR THE FUTURE
+
+CLEAR COMMITMENT TO SUSTAINABILITY The Company is developing its sustainability strategy through its 2015 Sustainability Master Plan (SMP 2015), which combines all initiatives related to sustainability, setting objectives for innovation, the environment, society, people, our value circle, good governance, stakeholder engagement, dissemination and leadership, and accountability.
+
+ACCIONA places great importance on incorporating sustainability into its business strategies, as sustainable development is a significant source of opportunities in the sectors where the Company is active.
+The 2015 Sustainability Master Plan sets out specific objectives for various areas.
+The Board of Directors' Sustainability Committee has the main responsibility of
+
+Good governance
+Our commitment to good governance, ethics, integrity and transparency seeks to set a benchmark for integrated and
+responsible behavior
+
+STAKEHOLDERS Establish a commitment to continuous engagement
+with stakeholders
+
+Innovation
+Our competitiveness is underpinned by technological, operational and design innovation
+in our projects
+
+Value Circle
+Sustainability as a fundamental factor for our suppliers, contractors and partners
+
+DISSEMINATION AND LEADERSHIP Publicizing and
+disseminating a business model based on sustainable development opportunities
+
+ACCOUNTABILITY Transparency includes accountability for all of
+our actions
+
+Environment
+Integration of environmental issues into our decision-making and business operations to reduce
+our environmental footprint
+
+People
+Commitment to employees in a healthy and discrimination-free environment in order to attract and retain talent with a long-term vision
+
+Society
+Responsibility for the social progress of the communities in
+which we operate
+
+ACCIONA 2013 Integrated Report 39
+
+approving, supervising and achieving the objectives set out in the SMP 2015. Through its divisional sustainability committees, ACCIONA builds this intangible element into its businesses, driving and monitoring specific initiatives within the SMP 2015 framework.
+
+ACCIONA'S 2013 SUSTAINABILITY MILESTONES
+
+T he Board of Directors' Sustainability Committee has approved the Policy Book, which updated the existing policies and added new policies reflecting our economic, social and environmental principles.
+W ith regard to employees, ACCIONA has extended its variable remuneration program, linking pay to achieving sustainability objectives.
+
+A CCIONA avoids 24 times the CO2 generated in its production activities.
+T hrough ACCIONA Infrastructure, ACCIONA is the first company in the world to achieve EPD (Environmental Product Declaration) certification for a civil engineering project. This project involved a railway viaduct on the Madrid-Galicia AVE route in Spain.
+
+T he Company has reinforced its commitment to assessing and managing the social impact of its projects, initiating implementation of the methodology in various projects of its main divisions in Brazil, Chile, Costa Rica, Morocco, Mexico and South Africa.
+A CCIONA has further developed its ACCIONA Microenergy Foundation project to facilitate basic access to sustainable electricity in isolated rural areas of Peru and Mexico.
+In terms of its supply chain, the Company is continuing its commitment to training its suppliers and contractors, encouraging responsible procurement by identifying and including new sustainable products and services in its catalogue.
+
+A CCIONA has conducted consultations on relevant sustainability topics with the Company's internal stakeholders (through the Sustainability Committees of its businesses) and external ones (representatives of international organizations, analysts and investors, the academic world, NGOs, etc.).
+A CCIONA is actively involved in various Spanish and international forums promoting sustainable development, including the Global Compact, WBCSD and EUCLG.
+F or the second year in a row, ACCIONA submitted its Sustainability Report for review and approval to the General Shareholders' Meeting, receiving a favorable vote from 99.97% of the capital represented at the 2013 Meeting.
+
+40 ACCIONA AND ITS CONTEXT
+
+A STRATEGY FOR THE FUTURE
+
+ACCIONA 2013 Integrated Report 41
+
+ACCIONA in the world, a global presence
+ACCIONA adapts its offering to growth rates in the markets where it is active, seeking the best returns.
+
+ACCIONA's activity abroad accounted for 41% of
+total turnover in 2013. The adverse conditions in Spain demonstrate that international
+expansion was the most appropriate strategy
+
+Energy Water Infrastructure Real estate Service
+Including countries with turnover in excess of three million euros.
+
+CANADA USA
+
+MEXICO
+
+COSTA RICA PANAMA
+ECUADOR PERU
+CHILE
+
+DOMINICAN REPUBLIC
+COLOMBIA
+BRAZIL
+
+GERMANY UNITED KINGDOM
+
+SWEDEN 
+
+SPAIN PORTUGAL 
+
+ITALY
+
+POLAND CROATIA
+GREECE
+
+ALGERIA MOROCCO 
+GABON
+
+UAE SAUDI ARABIA
+
+INDIA
+
+SOUTH AFRICA 
+
+AUSTRALIA
+
+Sustainable value creation
+
+ACCIONA 2013 Integrated Report 43
+
+ACCIONA's business model and competitive advantages generate a double dividend: economic profitability and social development
+
+ACCIONA creates value through its capacity for integration. Most of its projects are greenfield ones --developed from zero-- which entail significant risks. ACCIONA's competitive advantages include its experience, technological capabilities, leadership in engineering and talent, enabling it to handle these risks and generate high returns.
+Following initial development and construction, the asset begins to mature. Once projects are operating, their risk profile decreases considerably, as their economic model is well developed, proven and profitable. At this stage, ACCIONA invites others to invest in the project, as the project now has a proven operating history, even though the returns are lower than those in the initial stages of development. The robustness of these assets and their growth potential make them an attractive option for investors seeking flagship companies with conservative profiles.
+
+This is how ACCIONA generates value in all three of its strategic sectors: Energy, Infrastructure and Water. And once the Company opens up a project to other investors, it can then start the process again with a new greenfield project.
+Furthermore, our projects generate shared value, as the facilities designed, built and managed by ACCIONA contribute to the development and well-being of the societies where they are built, as well as generating profits for the Company and its shareholders and investors.
+This gives ACCIONA a pivotal role between the needs of government bodies and local communities, which can enjoy the basic infrastructure needed for its development --Energy, Infrastructure and Water-- and investors looking for long-term investments with reasonable returns.
+
+44 SUSTAINABLE VALUE CREATION
+Business model
+We seek out locations for profitable and sustainable infrastructure.
+
+ACCIONA 2013 Integrated Report 45
+
+PROFITABILITY ACHIEVED
+
+`Greenfield' project
+Stage 1 DESIGN AND DEVELOPMENT A `greenfield' project is developed from zero, with ACCIONA applying all of its competitive advantages: human, technological and economic capital.
+
+Stage 2
+CONSTRUCTION
+ACCIONA builds the infrastructure required for the project.
+
+Key aspects
+
+· H igh profitability · Low investment · L ow to medium risk of social and
+environmental impact · Excellent working conditions and safety · Specialization. Medium to high
+difficulty/innovation
+
+205
+million euros invested in Energy 2012: 440 million euros
+
+198
+million euros invested in Infrastructure 2012: 343 million euros
+
+30
+million euros invested in Water 2012: 83 million euros
+
+10
+million euros invested in Services 2012: -10 million euros
+
+ACCIONA's role
+
+Development of integrated risk management ­economic, environmental and social­ across all divisions
+
+Stage 3 PRODUCTION We bring our energy, infrastructure and water projects on stream, with high performance and customer satisfaction.
+Entry of new investors
+
+Stage 4
+MANAGEMENT AND MAINTENANCE
+Once operational, the robustness of these projects and their growth potential make them an attractive option for investors seeking flagship companies with conservative profiles. And once the Company opens up a project to other investors, it can then start the process again with a new greenfield project.
+
+ACCIONA exits the project
+
+Search for new greenfield projects
+
+· A verage profitability · H igh efficiency per unit of service · H igh value for our customers and the community · T horough environmental management to offset
+potential impact · O bjective: zero accidents · E ngagement and development for the local
+community
+
+· Asset rotation/Selective divestment Time for the asset to mature
+
+Sustainability Master Plan reduction and compliance objectives included in variable
+remuneration
+
+Transformation of the growth model,
+deleveraging of the Group and expanding access to new long-term sources of capital by incorporating partners
+
+RISK
+
+46 SUSTAINABLE VALUE CREATION
+
+ACCIONA stakeholders
+
+ACCIONA maintains an ongoing dialogue with its stakeholders, listening and responding to their expectations
+
+CORPORATE LEVEL
+BUSINESS UNIT LEVEL
+COUNTRY LEVEL
+
+S hareholders and investors
+E mployees
+
+C ustomers Suppliers Partners Regulators
+
+Public administration Local communities Third sector Media
+
+ACCIONA plans its business activity to generate shared value. Identifying all of stakeholders becomes essential for designing appropriate action plans and contributing to shared value.
+
+The ACCIONA 2015 Sustainability Master Plan sets out general management objectives for stakeholders, including regular consultation to review and update material issues.
+
+The economic, social and environmental impact of ACCIONA's projects on the communities where it is active involves managing different expectations and interests, which are not always compatible. The Company manages expectations based on criteria of fairness and equality for all concerned parties.
+
+We carried out a range of initiatives with some of our priority stakeholders in 2013, including analysts and investors, employees, suppliers and local communities. These activities helped us achieve our objective of increasing our engagement with these groups, meeting their expectations and bringing them into line with the culture and values of ACCIONA.
+
+ACCIONA 2013 Integrated Report 47
+
+In 2013, ACCIONA maintained ongoing and open communications with analysts and investors in order to keep them up-to-date with the Group's results and strategy and to answer their questions, always with a view to providing the information needed for decisions on investing in the Company.
+1 1 road shows.
+9 conferences.
+5 reverse road shows.
+V isits to leading financial centers: London, Paris, Milan, Frankfurt, Zurich, Geneva, Brussels, Amsterdam, Rotterdam, The Hague, New York, Chicago, Minneapolis, Toronto and Montreal, and Madrid, Barcelona and Zaragoza.
+M eetings and conference calls.
+Issues of interest to investors in 2013 included ACCIONA's estimates of the impact of the regulatory changes in the electricity sector on the Company's results, financial structure and the value of its assets, and plans to mitigate this impact.
+
+reductions, cutbacks in investment, asset sales, cancellation of interim dividends, diversification of sources of financing (issue of first convertible bond) and an internal reorganization accompanied by changes in senior management.
+ACCIONA's leverage at a time of budget cuts raised questions about ACCIONA's strategy to reduce this, its expected leverage objectives and the schedule for achieving these targets. The Company's investment plans were also a recurring theme.
+In 2013, ACCIONA's Investor Relations team launched a group on the Unience. com social network for investors to make communications with the market more open and direct. This is an open group through which investors can monitor the share price and interact with each other and the Company. This platform provides information that may be of interest to the investment community and analysts (significant events, presentations, results, press releases, etc.).
+
+This led to the presentation of a detailed Action Plan including actions such as: cost
+
+In 2013, the Company launched an open group for investors on Unience.com social network
+
+48 SUSTAINABLE VALUE CREATION
+
+ACCIONA 2013 Integrated Report 49
+
+STAKEHOLDERS
+
+2013 PROGRESS
+Fostering health and safety · Reduction of accident frequency indices for both own employees (from 4.7 in 2012 to 4.2 in 2013) and those of contractors (from 3.1 in 2012 to 2.4 in 2013).
+
+EMPLOYEES
+
+Commitment to diversity
+· ACCIONA contracted 206 people from groups at risk of exclusion in 2013, 43% more than in 2012.
+· 3 .08% of Spain workforce consisted of differently-abled people (equivalent).
+· ACCIONA Infrastructure contracted 31 people with disabilities, following an agreement with Brazil's Ministry of Employment. The Company also signed an agreement with the Down's Syndrome Foundation to promote inclusive employment.
+
+SUPPLIERS
+
+Development of human capital · 88% coverage of workforce subject to performance evaluation. · The ACCIONA Bonus has been extended to employees in Brazil, Australia, Mexico, Chile, Gabon, Sweden, South Africa and the USA (launched in Spain in 2012). · T raining and development programs, including sustainability issues, launched in Australia, Brazil, Canada, Chile, Italy and Mexico.
+· ACCIONA focused on mass communication of its Ethical Principles to suppliers, contractors and collaborators, with more than 130,000 communications to suppliers through orders, contracts, bidding terms and conditions and newsletters.
+· A udits and verification of corporate responsibility and sustainability questionnaires were carried out for more than 300 suppliers across all divisions.
+· ACCIONA carried out four training initiatives for those suppliers who participated in the selfassessment questionnaire.
+
+· W e have consolidated the distribution of best practices through delivery of our quarterly Occupational Health and Safety Newsletter for suppliers of all divisions, in Spanish and English.
+
+STAKEHOLDERS
+
+2013 PROGRESS
+
+· A CCIONA has developed its own methodology based on international standards for managing the social impact of its projects. This is standard to all businesses and geographic areas.
+
+An internal procedure has been developed for implementing the methodology, which begins with an assessment of social risks when identifying business opportunities and submitting offers.
+
+Once a project has been awarded, a detailed study of the region and local populations is carried out, addresssing socioeconomic indicators such as ethnic diversity, economic activities, access to basic services, poverty indices, employment ratios, education, etc. Once this information has been collected, the impact of the project on these communities is assessed and measured in terms of severity and duration.
+
+Meetings are also held with stakeholders to find out first-hand about their needs and opinions, and their assessments of the impact and proposals for offsetting measures.
+
+LOCAL COMMUNITIES
+
+Based on this information, the Company designs a plan of social measures to minimize adverse effects and maximize the positive impacts of its activity.
+In parallel to this procedure, the Company has developed a range of tools and guidelines to enhance understanding of the management process; these are aimed at different internal and external stakeholders, such as customers, employees and partners.
+
+This methodology is subject to continuous improvement and has been in use in various ACCIONA Infrastructure, ACCIONA Agua and ACCIONA Energy projects since 2012:
+
+Brazil: ring road and marina. Chile: construction of a desalination plant. Costa Rica: wind farm. Morocco: construction of a solar thermal plant. Mexico: electricity production equipment for a dam. South Africa: photovoltaic plant and wind farm.
+
+As part of its 2015 Sustainability Master Plan, ACCIONA has set itself the objective of identifying, measuring and managing the social impact of 100% of the projects of its main divisions that meet the required criteria.
+
+Business model
+
+1. ACCIONA Infrastructure, Agua and Services 2. ACCIONA Energy 3. Other businesses
+
+ACCIONA Infrastructure, ACCIONA Agua and ACCIONA Service have combined to take advantage of opportunities relating to human
+wellbeing
+
+ACCIONA Infrastructure, Agua and Services, a new structure
+
+The unification of ACCIONA's Infrastructure, Water and Service units will enable the company to grow by exploiting synergies and identifying the best opportunities. This
+
+new structure will promote specialization, technology and international development, resulting in ACCIONA being strongly supported by two robust pillars.
+
+ACCIONA 2013 Integrated Report 53
+
+Business context
+
+A business based on major trends...
+
+Population growth
+
+Increased urban concentration
+
+Water and resource
+shortages
+
+Increasing public-private partnerships
+
+... that faces some risks
+
+BOTTLENECKS IN TRADITIONAL
+MARKETS
+
+TECHNOLOGY RISK
+
+SPEED OF OUTSOURCING OF PUBLIC SERVICES
+
+MARGIN RISK
+
+ACCIONA Infrastructure, Agua and Services responds...
+
+... from its business model
+
+A SPECIALIST BUSINESS
+
+PRESENT THROUGHOUT THE VALUE CHAIN
+
+WITH A MAJOR INTERNATIONAL
+PRESENCE
+
+... with the credentials of ACCIONA
+
+Efficient and sustainable processes
+
+Leaders in innovation
+
+International experience
+
+Comprehensive offering
+
+Extensive experience and
+knowhow
+
+RESTRUCTURING BASED ON FOUR CORNERSTONES
+
+... and a strategy that keeps us ahead of changes
+
+MAXIMUM SPECIALIZATION
+
+CONTROL OF RISKS AND
+RETURNS
+
+TECHNICAL EXCELLENCE
+AND CONSISTENT PERFORMANCE
+
+COLLABORATION AND SYNERGIES
+
+... setting credible
+medium and longterm objectives
+
+Consolidation of our international presence through a robust and recurrent business portfolio.
+
+Integrated solution for the needs of the population
+related to the overall management of
+the water cycle, the social and transport infrastructures and
+their operation and maintenance, as well as services
+related to them.
+
+Lower ecological impact through efficient integration of the three areas and effective application of the Division's R&D and innovation.
+
+54 BUSINESS MODEL
+
+ACCIONA INFRASTRUCTURE, AGUA AND SERVICES
+
+A business based on major trends...
+
+Population growth
+Population growth, particularly in emerging economies, continues to be the main driver of demand for the infrastructure and services provided by ACCIONA.
+The OECD estimates that the global population will swell to 8.4 billion people in 2030.
+
+Increased urban concentration
+A significant part of the rural population has migrated to urban areas over the last 50 years, a trend which is expected to continue to 2030.
+This rapid increase calls for major investment in services to improve urban living conditions.
+The United Nations estimates that the global urban population will reach 4.9 billion in 2030.
+
+Water and resource shortages
+Scarcity of resources will become the main driver of innovation in the infrastructure and water sectors. Meeting demand while respecting resources will become an over-arching global need.
+The OECD estimates that investment of 72 billion dollars per year is required to achieve the Millennium Development Goal for the water sector in developing countries (halving the proportion of the population without access to drinking water and basic sanitation by 2015).
+
+Increasing public-private partnerships
+The importance of public-private partnerships is expected to continue increasing as the main form of financing the infrastructure, water and services sectors over the medium and long term. This will require the private sector to be ready to work with the public sector and to anticipate its needs and adapt. These partnerships can contribute to efficient development of infrastructure projects, exploiting the private sector's integrated management, design, construction and operations skills. Public-private partnerships also encourage productive use of infrastructure assets through innovations to optimize the capacity and use of such assets, thereby increasing revenue.
+While the volume of public-private partnerships has remained constant in many developed countries over the last decade, they have increased substantially in developing countries over the last two decades. (Source: World Economic Forum).
+
+ACCIONA 2013 Integrated Report 55
+
+...that faces some risks
+
+Bottlenecks in traditional markets
+
+The combination of supply exceeding demand and the effects of the economic crisis afflicting certain mature economies is a major risk to the funding and contracting of new projects.
+The growth of infrastructure and services in these markets will require greater creativity for differentiation in technology, efficiency and added value.
+
+Technology risk
+
+The risk related to the speed of adopting new technology is particularly keen in the infrastructure sector, and is directly related to competition risk. Offering technological innovations is the traditional way to compete for large projects in the infrastructure sector without prejudicing prices; this requires on-going investment in research and technology.
+Engineering projects are particularly vulnerable to this risk due to the critical importance of identifying and applying the appropriate technology. The innovative technologies and materials often used in the sector are not always sufficiently mature, which sometimes means that the results expected are not achieved.
+
+Speed of outsourcing of public services
+
+The rapid transition to public and private-sector collaboration could pose a risk to infrastructure, water and service companies. Privatization of these strategic sectors offers the public sector greater efficiency, but the lack of government experience in such partnerships could be a risk to private companies.
+
+Margin risk
+
+Traditional markets have dried up as a result of a lack of investment capital and difficulties raising funding, which:
+Results in greater and more globalized competition, driving down prices.
+Obliges us to search for opportunities in new markets with greater risks, requiring additional risk control and management measures.
+
+56 BUSINESS MODEL
+
+ACCIONA INFRASTRUCTURE, AGUA AND SERVICES
+
+ACCIONA 2013 Integrated Report 57
+
+ACCIONA tackles risks relating to its infrastructure activities at the corporate level and by activity and project
+
+RISK MANAGEMENT SYSTEM
+CORPORATE LEVEL
+COMPANY/BUSINESS UNIT
+
+PROJECT/PROCESS COUNTRY/REGION
+
+Opportunity Bidding
+
+Implementation O&M
+
+ACCIONA applies a global approach in its risk management, ensuring the independence of the process and its involvement in all stages of the project (from planning to monitoring and control),
+
+with a proactive approach to anticipating problems that might arise. The global nature of the process provides essential information for decision making.
+
+IMPLEMENTATION
+
+01
+Identification
+
+02
+Analysis and Classification
+
+OFFER
+
+06
+Improvement
+
+Risk Management Cycle
+
+03
+Planning
+
+05
+Monitoring and Control
+
+04
+Handling and Management
+
+ACCIONA applies its risk management system at all stages of a project to ensure prevention and control
+
+01
+Offer and contracting
+
+02
+Implementation: Design/ Construction/O&M
+
+03
+Project completion
+
+ACCIONA analyzes risks during the bidding stage for projects:
+With a budget of more than 75 million euros.
+O f particular interest (the first project in a country, new customers, unusual types of contracts, activities in which we have less experience, etc.).
+D ue to customer requirements.
+
+The risk and opportunity management system during implementation (currently only in ACCIONA Infrastructure) applies to the following projects:
+International projects awarded since 2012 where ACCIONA Infrastructure can control implementation.
+
+The risk-management lessons learnt at each stage are analyzed at the end of the project.
+ACCIONA plans to extend the system to its Water and Services activities.
+
+58 BUSINESS MODEL
+
+ACCIONA INFRASTRUCTURE, AGUA AND SERVICES
+
+ACCIONA 2013 Integrated Report 59
+
+ACCIONA Infrastructure, Agua and Services meets challenges...
+
+...through its business model...
+
+A SPECIALIST BUSINESS...
+Infrastructure With the economy gradually recovering from long recession, we expect an increasing number of infrastructure projects to be given the green light. Emerging markets need to invest in every type of infrastructure to keep pace with
+
+their economic growth. This is exactly where ACCIONA Infrastructure can apply all of the technology and knowhow it has accumulated in over 100 years of projects worldwide.
+
+Engineering
+305
+projects
+232
+M in project portfolio
+
+Civil engineering
+232
+projects
+4,405
+M in project portfolio
+
+Building
+115
+projects
+870
+M in project portfolio
+
+85
+M in sales
+
+1,825
+M in sales
+
+545
+M in sales
+
+* 2013 figures.
+
+Concessions
+
+Other and auxiliary
+
+22
+concessions
+
+217
+M in project portfolio
+
+135
+M in sales
+
+143
+M in sales
+
+ACCIONA has the innovation capacity to keep pace with these needs and take advantage of opportunities. It carries out every part of the construction process, from engineering to the building work itself and subsequent maintenance; it also manages public-sector concessions, particularly in the transport and construction sectors, applying the most appropriate technology for each particular case.
+Water There will be significant opportunities in the water sector, as a result of forecast
+
+shortages, increasing urbanization in emerging economies and ageing infrastructure in mature markets.
+Because of its horizontal integration in the sector and its pioneering desalination, purification and drinking water-treatment technology, ACCIONA is one of the leading players in the water business. With over 30 years of experience, it is serving over 50 million people in more than 20 countries worldwide.
+
+Desalination
+
+Water purification
+
+Design and construction
+
+113
+M portfolio
+85
+M in sales
+
+275
+M portfolio
+134
+M in sales
+
+Operation and maintenance
+
+713
+M portfolio
+33
+M in sales
+
+* 2013 figures.
+
+226
+M portfolio
+56
+M in sales
+
+Drinking water treatment
+
+Services
+
+97
+M portfolio
+
+48
+contracts
+
+59
+M in sales
+334
+M portfolio
+
+8,971
+M portfolio
+
+3
+M in sales
+
+148
+M in sales
+
+60 BUSINESS MODEL
+
+ACCIONA INFRASTRUCTURE, AGUA AND SERVICES
+
+Services ACCIONA can provide its service solutions to a huge number of customers through its diversified and integrated business model across a range of sectors: cleaning, auxiliary services (help desk, telephone service, concierge, reception, etc.), technical services (maintenance of buildings, facilities and energy equipment, pest control, etc.), energy services (energy efficiency audits, energy consumption optimization solutions,
+
+etc.), environmental services (maintenance of green spaces, sports facilities, gardens and irrigation facilities, environmental monitoring, etc.), urban services (waste management, landfill management, street cleaning), handling (passenger services, cargo, ticket sales, walkways, etc.), production and design, hospitality and safety.
+
+ACCIONA's range of services is the sum of its efforts in all of these areas and its commitment to a multi-service model, through coordination and management of all activities involved. One of the key's to ACCIONA's growth in the sector is the simplification of its management and the economies of scale resulting from its integrated offering.
+
+Facility services
+717
+contracts
+487
+M portfolio
+306
+M in sales
+* 2013 figures.
+
+Environmental services
+60
+contracts
+19
+M portfolio
+24
+M in sales
+
+Airport services
+167
+contracts
+139
+M in sales
+
+Event management
+6
+contracts
+46
+M portfolio
+22
+M in sales
+
+Urban services
+17
+contracts
+133
+M portfolio
+34
+M in sales
+
+Forwarding and other services
+115
+M in sales
+
+...present throughout the value chain...
+
+Infrastructure ACCIONA's business model covers the entire value chain, enabling it to control and manage infrastructure projects during
+
+every stage in their life cycle: design, financing, construction, and operation and maintenance This facilitates value creation
+
+and enhances the Company's knowledge and experience.
+
+Design
+
+Financing
+
+P rojects contracted for over 2,500 M.
+
+2 0 concessions financed in the last 10 years.
+
+Construction
+Over 76 M in R&D and innovation in 2013.
+
+Operation and maintenance
+More than 100 projects involving O&M activities contracted in the last five years.
+
+ACCIONA 2013 Integrated Report 61
+
+Water Vertical integration of this activity is a major differentiating factor for ACCIONA, enabling it to maximize its competitive advantages. Its involvement in all stages of the value
+
+chain gives the Company the opportunity to develop expertise throughout the entire water cycle, from the start of the process to when it reaches each home.
+
+Design and Construction engineering
+
+Operation and maintenance
+Investment in O&M activities: 82.2% satisfaction with water treatment O&M services.
+1 90 successful O&M bids in the last five years.
+
+Work concessions Water and
+
+(BOT)
+
+integral services
+
+concessions
+
+5 BOT projects awarded in the last five years.
+
+3 0 projects won in the last five years.
+
+Services ACCIONA aims to provide service solutions that more than meet the needs of its public and private-sector customers, exploiting the synergies that arise in its activities.
+
+Its commitment to integration and spirit of service enables the Company to add more value for its customers, while maintaining its defining commitment to innovation and sustainability.
+
+Re-engineering
+ISO 9001 and 14001 certification: 100% of environmental, urban and facility services.
+100% of handling activities, walkway maneuvering and services for people with limited mobility in Spain.
+
+Operation and maintenance
+O ver 10 years average time in the contracts.
+
+62 BUSINESS MODEL
+
+ACCIONA INFRASTRUCTURE, AGUA AND SERVICES
+
+ACCIONA 2013 Integrated Report 63
+
+...with a major international presence...
+
+ACCIONA strives to enhance the presence of each of its Infrastructure, Water and Services divisions in all the regions in which it is active, exploiting new opportunities for integration as they arise.
+Latin America is estimated to need 450 billion euros of infrastructure (including water) and non-residential construction investment. With its significant presence in Brazil, Chile and Mexico, in addition to Colombia, Costa Rica, Ecuador and the Dominican Republic, ACCIONA forecasts a compound annual growth rate of 2.7%.
+In Europe, the Middle East and Africa, infrastructure and non-residential construction requirements are estimated at 1.3 trillion euros. With its presence in Spain, Italy, the United Arab Emirates, Poland, Saudi
+
+Arabia and Portugal, ACCIONA forecasts a 2.9% compound annual growth rate.
+In Australia and South East Asia, infrastructure and non-residential construction requirements are estimated at 600 billion euros. With its presence in Australia, Hong Kong and India, the Company expects a 4.5% compound annual growth rate.
+Finally, in North America investment requirements are estimated at 700 billion euros. ACCIONA is currently active in Canada and the USA, expecting to achieve a compound annual growth rate of 2.6%.
+
+CANADA
+USA  MEXICO COSTA RICA PANAMA
+ECUADOR PERU
+CHILE
+
+GERMANY UNITED KINGDOM
+
+SWEDEN  POLAND
+
+SPAIN PORTUGAL  MOROCCO  DOMINICAN REPUBLIC
+COLOMBIA
+
+ITALY ALGERIA
+
+GABON
+
+SAUDI ARABIA
+
+UAE
+
+BRAZIL
+
+SOUTH AFRICA 
+
+AUSTRALIA
+
+Agua Infrastructure Services Including countries with turnover in excess of three million euros.
+
+...with the credentials of ACCIONA...
+
+The advantages offered by ACCIONA Infrastructure, Agua and Services are based on factors that facilitate exploitation of
+
+synergies in our activities, thus contributing to the Company's growth.
+
+COMMITMENT TO INNOVATION
+INTERNATIONAL PROFILE
+COMPREHENSIVE OFFERING
+EXPERIENCE AND KNOWHOW
+
+Innovation is one of ACCIONA's competitive advantages. Our research work focuses on the present, but with an eye on the challenges of the future.
+ACCIONA's wide-ranging experience in achieving opportunities internationally guarantees our ability to respond to the challenges of increasing market globalization and integration.
+ACCIONA's commitment to vertical business integration gives us extensive knowledge and experience in all stages of the value chain. This makes ACCIONA one of the leading suppliers of integrated solutions in the sectors where it is active.
+The extensive knowledge ACCIONA has built up through its vast experience in the infrastructure, water and services sectors is a key asset in our commercial differentiation and an important factor in our market leadership.
+
+...and a strategy that keeps us ahead of changes...
+
+The integration of our Infrastructure, Water and Services businesses will bring ACCIONA new competitive advantages. This merger has created a business unit with full responsibility for its own income statement, providing a wide range of products and technologies in ACCIONA's strategic
+
+markets, completing our comprehensive and integrated offering.
+This division is very active in Australia, Brazil, Canada, Chile, Spain, Mexico and Poland, where there are significant growth opportunities.
+
+Specialist product units
+
+SPECIAL STRUCTURES, BRIDGES AND ROADS
+Over 1,700 km of roads built over the last 10 years.
+H undreds of bridges built garnering multiple prizes and setting many records.
+
+RAILWAYS AND TUNNELS
+O ver 2,700 km of AVE high-speed rail track and 50 km of railway viaducts
+M ore than 160 tunnels
+O ver 100 km of subway lines.
+
+PORTS AND WATER PROJECTS
+M ore than 60 ports built.
+T he first offshore gas terminal installed in the world (Algeciras).
+T he largest reservoir in Western Europe (Alqueva).
+
+WATER
+S pecializing in water treatment with significant activities throughout the integrated water cycle.
+A world leader in reverse-osmosis desalination.
+
+INDUSTRIAL ENGINEERING
+F ocusing on EPC projects for electricity generation, oil and gas and mining plant.
+P articipation in contracts worth over 1,300 million euro over the last three years.
+
+SERVICES
+Integrated facility and facility management services.
+E nvironmental, airport handling and energy efficiency services.
+
+64 BUSINESS MODEL
+
+ACCIONA INFRASTRUCTURE, AGUA AND SERVICES
+
+Through this new structure, ACCIONA forecasts that the revenue and EBITDA of its Infrastructure and Service business lines will increase in 2014, with the Water division remaining stable. The largest investments will be in the Infrastructure
+
+division (around 60-70 million euros), with international business gaining ground. In the Water division, concessions and operation and maintenance contracts will become more important.
+
+...generating real value...
+
+ACCIONA INFRASTRUCTURE, AGUA AND SERVICES
+INFRASTRUCTURE Number of concessions Construction portfolio outside Spain (M) WATER Volume of water managed (hm3) SERVICES Number of private contracts Number of public contracts
+
+2013
+22 3,078
+663
+924 43
+
+IN COMPARISON WITH 2012
+23 3,494
+568
+858 69
+
+...for the business
+INFRASTRUCTURE
+2 ,733 M
+in sales
+82 M
+in EBITDA
+5,723 M
+Infrastructure backlog
+
+WATER
+585 M
+in sales
+54 M
+in EBITDA
+10,714 M
+Water backlog
+
+SERVICES
+641 M
+in sales
+20 M
+in EBITDA
+
+...for society as a whole
+
+INFRASTRUCTURE
+
+WATER
+
+2 ,387 hospital beds managed.
+2 2 concessions in 2013 and more than 35 concessions over the last ten years.
+O ver 5,000 km of roads and rail lines built for transport of people and freight.
+
+M anagement services for the integral water cycle in over 180 towns in Spain.
+1 15 drinking water treatment plants with a total capacity of more than 7 m3d supplying more than 26 million people.
+
+More than 300 water treatment plants built, with a total capacity in excess of 11.8 million m3d of water, benefiting over 53 million people.
+M ore than 70 desalination plants, with total production of drinking water greater than 2.2 million m3d, supplying over 10.5 million people.
+
+SERVICES
+A verage workforce of 15,000 with 4,200 work places.
+S erving over 6 million passengers on over 118,000 flights.
+C leaning of 5,300 trains and busses, with a total of 1,815,090 cleaning services performed.
+W e manage waste for more than 300,000 people.
+
+ACCIONA 2013 Integrated Report 65
+
+...with the shared potential of three businesses for the future
+
+3,959 M IN REVENUE
+
+157 M IN EBITDA
+
+MORE THAN
+29,000 EMPLOYEES IN 25 COUNTRIES
+
+APPROXIMATELY
+16,500 M PORTFOLIO
+
+Flagship ACCIONA Infrastructure, Agua and Services projects
+
+Infrastructure
+
+Fortaleza subway line (Fortaleza, Brazil). Construction of the Eastern line of the Fortaleza subway system, in a project worth 2,300 million Brazilian reais (800 million euros), with a local business partner. This involves a 12.4 km extension with 12 stations for electric trains that will carry some 400,000 people per day, helping relieve traffic congestion in the fifth largest city in Brazil.
+Legacy Way (Brisbane, Australia). A 4.6 kilometer tunnel connecting the Western Freeway at Toowong with the Inner City Bypass at Kelvin Grove in Brisbane. This will provide a direct, high-speed connection between the expanding residential areas to the west of Brisbane and the airport to the east of the city.
+RECORDS: The Joyce tunnel boring machine has set records for daily progress, at 48 meters; weekly progress, at 239.9 meters; and monthly progress, at 841.9 meters.
+
+Agua
+
+Award of the tender for the extension, design, construction, commissioning and maintenance contract for the Gabal Al Asfar WWTP in Egypt for 2 years. The plant will have a capacity of 500,000 cubic meters per day, meeting the needs of the eastern part of Egypt's capital, equivalent to a population of 2 million people.
+Copiapó desalination plant (Atacama, Chile). Contract for the design, construction, commissioning and operation of the Copiapó desalination plant for the next twenty years. This will be based on reverse osmosis, with a production capacity of 200 l/s, which can be increased to 750 l/s. The work consists of: sea water inlet, underground brine discharge outlet, supply of sea water to the desalination plant, the desalination plant and associated works, and supply and installation of related equipment.
+
+Services
+
+Maintenance for the Historic Parks of Madrid: 95 million euros over 8 years. Maintenance of the Historic Parks of Madrid involves gardening and cleaning eight of the city's most important parks: the Buen Retiro park, the Parque del Oeste, the Plaza de Oriente gardens, the Sabatini gardens, the Dehesa de la Villa park, the Quinta de la Fuente del Berro, the Quinta de los Molinos and the El Capricho gardens of Alameda de Osuna.
+One of our main responsibilities is to plan and perform 100 action programs.
+Cleaning of the busses, terminals and workshops of Alsa for 3 years. ACCIONA Service is responsible for the cleaning contract for ALSA's bus fleet, and its offices and other employee facilities. The contract covers more than 140 locations throughout Spain, with a fleet of more than 2,800 vehicles; over the last year, we carried out more than 450,000 cleaning services.
+ACCIONA Service offers more than thirty types of cleaning, providing the client with a wide-ranging menu of services that can adjust to meet its needs, flexibly and rapidly.
+
+ACCIONA is convinced that its
+commitment to renewable energies is the right strategy,
+offering significant potential for growth
+
+ACCIONA Energy, for a sustainable future
+ACCIONA Energy is committed to renewable energies for the present and the future.
+
+ACCIONA Energy is a world leader in renewable energy, offering solutions using the most innovative technology, and helping to demonstrate the technical and economic viability of a new sustainabilitybased approach to energy. We are involved in renewable energy activities on all five continents.
+Renewable energies are economically competitive, available now, easy and quick to install and produce no emissions; and they have greater accessibility to funding. They have lower risks than traditional energies, as they are unlimited, free and local, reducing
+
+risks associated with fuel price volatility and demand issues. This means that their positive impact also extends to the balance sheet, while they also generate employment and promote energy independence and development.
+ACCIONA is convinced that its commitment to renewable energies is the right strategy, offering significant potential for growth.
+
+ACCIONA 2013 Integrated Report 67
+
+Business context
+
+A business based on major trends...
+... that faces some risks
+
+Economic growth in emerging countries
+
+Energy dependency in mature countries
+
+PRESSURE FROM THE CONVENTIONAL SECTOR
+
+Climate change
+
+Increasing competition
+
+REGULATORY RISK
+
+ACCIONA Energy responds...
+
+... through the business model
+
+WITH A MAJOR INTERNATIONAL PRESENCE
+
+PRESENT THROUGHOUT THE VALUE CHAIN
+
+... with the credentials of ACCIONA
+
+A unique competitive profile
+
+Global scale and solutions for all markets
+
+Vast experience and the strongest team
+
+PROFITABILITY AND DEBT REDUCTION
+
+... and a strategy that keeps us ahead of changes
+
+MAXIMIZING OPERATING EFFICIENCY
+
+CONTAINED GROWTH
+FOCUSING ON PROFITABILITY
+
+INCORPORATION OF PARTNERS
+
+BUSINESS MODELS WITHOUT INVESTMENT
+
+... setting credible medium and long term
+objectives
+
+RATIONALIZATION OF COSTS
+
+INVESTMENT SLOWDOWN
+
+INCORPORATION OF PARTNERS IN STRATEGIC MARKETS
+
+EPCS AND OTHER ACTIVITIES FOR THIRD PARTIES, LEVERAGING OUR DEVELOPMENT, CONSTRUCTION
+AND O&M CAPABILITIES
+
+OBJECTIVE:
+35-40
+M PER YEAR
+
+OBJECTIVE:
+
+OBJECTIVE:
+
+OBJECTIVE:
+
+550-630
+M IN 2013-2014 (50% REDUCTION VS. INITIAL BUDGET)
+
+INCORPORATION OF PARTNERS AT THE
+INTERNATIONAL LEVEL
+
+400 MW
+126 MW UNDER CONSTRUCTION +
+299 MW AWARDED
+
+SELECTIVE DIVESTMENTS
+
+68 BUSINESS MODEL
+
+ACCIONA ENERGY
+
+A business based on major trends...
+
+Economic growth in emerging economies
+Economic growth in emerging markets is generating an increase in demand for energy, which is not being met. Renewable energy sources are an ideal energysupply solution for these countries, with advantages including competitive costs, unlimited nature and decentralized location.
+Mature markets have already solved their supply problem, but are facing issues related to energy dependency, reducing the carbon footprint of their energy supplies and increasing energy-price competitiveness. In these regions, growth in renewable energy usually replaces obsolete conventional technologies.
+Demand for primary energy is expected to increase by 33%, with a 77% increase in renewable energy, by 2035. (Source. IEA, WEO 2013).
+
+Energy dependency
+The increasing and volatile costs of fossil fuels and the risks of instability of supply in some parts of the planet warn us that we should reduce our dependency on this source of energy.
+Renewable energy consumption will double from 78 MTEP in 2013 to 195 MTEP in 2020. (Source: The Economist Intelligence Unit).
+
+Climate change
+Unless mitigation measures -in which renewable energies have an important role to play- are put in place, climate change represents an enormous threat to the prosperity and development of many parts of our planet.
+The European Commission estimates that global CO2 emissions in 2030 will be double their 1990 level.
+
+Increasing cost competitiveness
+As the renewable energy sector matures, technologies are being developed that are ever more competitive, with lower production costs compared to the upward trend in fossil fuel prices.
+Globally, wind power is now competitive with other conventional technologies, especially in areas with no fossil fuel reserves. The cost of wind energy is currently 15% lower than in 2009, and photovoltaic energy is 50% cheaper (Source: Bloomberg New Energy Finance).
+
+ACCIONA 2013 Integrated Report 69
+
+...that faces some risks
+
+Regulatory risk
+
+There is currently a greater risk of instability in countries with more mature energy regulations as a result of inconsistency between various aspects of energy policy, resulting in higher end-user prices or tariff deficits.
+In Spain, for example, factors such as the fall in demand caused by the crisis, the lack of control over entrance to the photovoltaic technology market and the parallel increase in support for coal-fired generation, together with an investment bubble for combined-cycle plants, have combined to create an over-sized and expensive system. This has now resulted in an adjustment policy for the sector.
+However, even so, expectations of renewable energy growth remain strong, to meet demand requirements in emerging countries and to replace obsolete conventional technologies in mature markets.
+
+Pressure from the traditional sector
+
+Pressures from the conventional energy sector may pose a threat to renewable energy companies.
+The influencing capacity of large global energy companies, and their absence from the renewable energy sector, could impact the growth of these technologies.
+
+70 BUSINESS MODEL
+
+ACCIONA ENERGY
+
+ACCIONA 2013 Integrated Report 71
+
+Regulatory instability for
+the energy sector in Spain
+
+ACCIONA Energy has been, and will be, affected by regulatory changes in Spain.
+The measures and regulations already implemented by, and currently expected from, the Government to enhance the financial stability of the electricity system have hit the profitability of the renewable-energy sector hard. This instability leads to uncertainty in the market, which in turn makes it difficult to make decisions on the measures to adopt in response while their actual impact remains unclear.
+Wind power has been one of the sectors most affected, bearing over 50% of the cuts. The average cut in wind incentives in Spain is almost 50%, resulting in revenue being down almost 25%.
+Assets dating from prior to 2005 (approximately 40% of the 23 GW installed in Spain) will now receive no incentives whatsoever, cutting their total revenue by around 50%. Approximately 40% of ACCIONA's wind-power assets predate 2005.
+The combined effect of the regulatory changes implemented by Law 15/2012 and Royal Decree-Law 2/2013, approved and in effect since 1 January 2013, and Royal Decree-Law 9/2013 and the draft Ministerial Order effective from 14 July 2013, amount to a negative hit for the Energy division of 1,675 million euros, mainly due to impaired goodwill (870 million euros) and impairment to renewable assets in Spain (563 million euros). The impact on 2013 EBITDA is 257 million euros, obliging ACCIONA to make provisions of around 2,000 million euros for 2014.
+However, the Company is mounting an effective response to this regulatory impact, through its geographic diversification, putting a brake on investment and implementation of an ambitious efficiency plan.
+
+ACCIONA Energy meets challenges...
+
+...through its business model...
+
+WITH A MAJOR INTERNATIONAL PRESENCE...
+
+The geographic diversification of ACCIONA Energy, with experience in 22 countries on all five continents, together with its technology and partners worldwide, enables
+
+it to incorporate and react to the latest developments, enabling it to confront the risks that might affect the Company.
+
+ACCIONA Energy by country Total MW, at 31/12/2013
+
+Canada 181
+
+USA 692
+
+Wind
+
+628
+
+Solar thermal 64
+
+Mexico 556
+
+Costa Rica 42
+
+Germany 150
+
+Spain 5,974
+
+Wind 4,743
+
+Hydro
+
+912
+
+Solar thermal 250
+
+Biomass 57
+
+Photovoltaic 3
+
+Cogeneration 9
+
+Portugal 165
+
+Wind
+
+119
+
+Photovoltaic 46
+
+Poland 71 Hungary 24 Croatia 30 Greece 48
+Italy 156
+India 86
+
+Chile
+
+Brazil
+
+South Africa
+
+Australia 305
+
+Operating facilities
+
+Projects under construction Industrial plants
+
+* Where not specified otherwise, the technology in the country is wind power. ** MW attributable under the proportional consolidation method.
+
+Total MW owned 8,480 MW attributable 7,596 (**)
+
+72 BUSINESS MODEL
+
+ACCIONA ENERGY
+
+ACCIONA 2013 Integrated Report 73
+
+With a significant presence in five technologies, the Company is a global leader in the renewable energy sector. The variety of technology available to the Company enables it to adapt its business model to the
+
+context in which it is operating, diversifying its risks, exploiting new production opportunities and generating economies of scale.
+
+Wind
+7,139
+MW capacity
+18,399
+Total GWh produced
+1,291
+M in sales
+* 2013 figures.
+
+Solar Thermal
+
+Solar Photovoltaic
+
+Hydro
+
+314
+MW capacity
+546
+Total GWh produced
+141
+M in sales
+
+49
+MW capacity
+95
+Total GWh produced
+34
+M in sales
+
+912
+MW capacity
+2,883
+Total GWh produced
+169
+M in sales
+
+Biomass
+57
+MW capacity
+454
+Total GWh produced
+57
+M in sales
+
+...PRESENT THROUGHOUT THE VALUE CHAIN...
+
+ACCIONA Energy provides solutions throughout all stages of the energy value chain. The comprehensive knowledge
+
+it has acquired enables it to adapt its solutions and exploit the largest number of opportunities.
+
+Project development
+C ommercial activity and development in 20 countries.
+O ver 1,600 MW supplied to third parties.
+423 MW contracted by third parties in 2013.
+
+Engineering and construction
+327.5 MW in projects under construction.
+In 4 countries on 3 continents.
+3 54 MW portfolio for third party projects in 2014-2015.
+
+* 2013 figures.
+
+Manufacture of wind turbines
+9 45 MW contracted in 2013
+1 ,560 MW total portfolio.
+
+Output
+8 ,480 MW of operational capacity. 2 2,404 GWh of energy generated. M ore than 9,652 MW managed.
+
+Energy management and sales
+2 2,474 GWh of energy invoiced. 5 ,153 GWh of energy marketed.
+
+...with the credentials of ACCIONA...
+ACCIONA Energy's advantages are based on competitive factors that set it apart as a global operator in the sector.
+
+A UNIQUE COMPETITIVE
+PROFILE
+
+ACCIONA Energy is only involved in renewable energy, with demonstrated capabilities in five technologies, and a unique presence throughout the value chain, offering a wide range of customer-focused services. This exhaustive knowledge and proven reliability enables us to offer our customers and partners a tailor-made service.
+
+GLOBAL SCALE
+
+Active in more than 22 countries --with operational facilities in 15 of these-- ACCIONA Energy has a presence in rapidly growing markets.
+The success of its projects over recent years has put ACCIONA into a leading position with strong credibility, having established itself as a main player in key markets, focusing particularly on emerging economies and capturing first mover advantage in the new markets it enters.
+This enables it to remain one step ahead as it seeks to offset risks and offer new solutions.
+
+VAST EXPERIENCE AND THE
+STRONGEST TEAM
+
+After 20 as pioneers anticipating solutions in the sector, ACCIONA has extensive knowledge of every link in the value chain (regulatory, resource analysis, engineering and construction, operating efficiency, O&M, network integration, etc.), with very valuable experience in a range of markets.
+ACCIONA Energy's team of over 2,000 highly qualified professionals has accumulated priceless knowhow in a rapidly growing sector attracting many new players, with the added competitive advantage of offering its own technology.
+ACCIONA Energy's team is multi-disciplinary and highly responsive and adaptable, successfully achieving its sustainable development objectives.
+
+With recurrent EBITDA of around 1,000 million euros, its solvency, reliability, experience and global scale makes ACCIONA Energy a major player as a developer, partner and provider of renewable energy worldwide.
+
+74 BUSINESS MODEL
+
+ACCIONA ENERGY
+
+ACCIONA 2013 Integrated Report 75
+
+...and a strategy that keeps us ahead of changes...
+
+ACCIONA Energy's medium and longer term strategy focuses on generating cash flow and less capital-intensive growth.
+Firstly, efforts have focused on improving the Company's operating efficiency, with a reduction in costs in 2013 of 39 million euros (much higher than the target of 31 million) and a 21% improvement in efficiency in terms of MWh/employee.
+Secondly, leveraging our partners plays a very important role in the growth of this business. In order to address opportunities in the international market, the Company has started looking for a minority partner (up to 49%) for its international portfolio. In future, we will also need to establish relationships with partners at the project level in strategic countries.
+
+ACCIONA Windpower's ability to manufacture wind turbines plays a key role in ACCIONA Energy's integrated business model. With our confidence in the AW-3000 wind turbine as a proven and competitive product in our main markets, ACCIONA Windpower (AWP) launched an energy-cost reduction program in 2013 associated with each turbine, integrating the total cost of the investment and the operating and maintenance expenses of the machine throughout its useful life. The Company achieved a 13% reduction in this cost in 2013 alone; this is expected to reach 25% by late 2014.
+The economic and regulatory conditions in which ACCIONA Energy operates oblige it to keep a permanent tight rein on its cost efficiency, reducing and optimizing its debt.
+
+Moreover, in order to make fullest use of the Energy division's experience and knowhow, our strategy involves continuing with the development, design and construction of renewable assets. Our ability to provide integrated services enables us to take on Engineering Procurement and Construction (EPC) projects and similar activities for other companies, leveraging our development, construction and operations and maintenance capabilities.
+
+ACCIONA's international portfolio
+This currently consists of a net capacity of 2,791 MW (2,506 MW in operation and 285 MW under construction), net production of 7.2 TWh and an average remaining life of 20 years. With consolidated debt of approximately 1,400 million euros, the portfolio generates revenue of approximately 500 million euros and EBITDA of 350 million euros. 98% of the dividend comes from PPAs (Power Purchase Agreements) and regulatory coverage.
+
+Maximization of operating efficiency
+
+Contained growth focusing on profitability
+
+Selective divestment
+
+Expansion of the development model
+
+39 M
+in cost reductions
++21%
+efficiency improvement (MWh/employee)
+
++50%
+containment of investment, to 205 M
+Implementation
+only of investment committed to (South Africa, Costa Rica, Chile)
+14%
+reduction in debt, to
+5.2 BN
+
+Sale of assets in mature markets worth
+271 M (EV)
+62 MW
+in Korea (EV 114 M)
+50 MW
+in Germany (EV 157 M)
+
+A process has been launched to find a minority partner for the international asset portfolio (2.3 GW)
+Promoting
+EPCs
+and other activities for third parties: development, design, construction and O&M for renewable assets
+
+76 BUSINESS MODEL
+
+ACCIONA ENERGY
+
+ACCIONA 2013 Integrated Report 77
+
+...generating real value...
+
+ACCIONA ENERGY INSTALLED MW Aggregate wind installation Total other technologies Total energy GWh GENERATED Wind energy production Total other energies Total energy
+
+2013
+7,139 1,341 8,480
+18,399 4,005 22,404
+
+IN COMPARISON WITH 2012
+7,096 1,341 8,437
+15,165 2,968 20,379
+
+...for the business
+
+2,120 M
+in sales
+
+979 M
+in EBITDA
+
+5.1%
+increase in operating revenue
+
+22,404 GWh
+produced by ACCIONA Energy plants
+
+...and for society as a whole
+
+2,368
+employees
+
+84.65%
+of suppliers are local
+
+Clean energy, equivalent to the consumption of
+6 million
+homes 
+
+Emissions avoided equivalent to
+15.08 million
+tonnes of CO2 
+
+Flagship ACCIONA Energy projects 2013
+
+2013: a very successful year for ACCIONA Windpower
+
+The contracts signed by ACCIONA Windpower in 2013, or to be signed in the first half of 2014, for sales of its 3MW wind turbines totaled 1,560 MW of capacity. This commercial success was based on the reliability and competitiveness of our wind turbines, and the wide range of options we offer to suit different wind conditions.
+AWP also improved the competitiveness of its turbines by reducing their Cost of Energy (COE) by 13% in 2013 (25% in 2014).
+The Division has also commissioned a hub factor in Brazil, and has agreed to the construction of a new factory for nacelles in Brazil, which will come into operation in 2014.
+
+Own investment projects under way
+
+In 2013, ACCIONA Energy continued developing assets on its own behalf that will come on stream in 2014 and the first quarter of 2015.
+We began construction of assets in three new countries in 2013: South Africa (232 MW, divided between 138 MW wind power and 94 MWp photovoltaic), Costa Rica (49.5 MW wind power) and Chile (45 MW wind power).
+The Chile project --the Punta Palmeras wind farm-- is 100% owned by ACCIONA, and was awarded by the electricity company Colbún through a long-term energy supply contract. The wind farm will be operational in 2014 and generate around 124 GWh per year.
+This project reinforces ACCIONA Energy's internationalization strategy; in addition to its assets in Spain, it now has renewable assets operating or about to come onstream on all five continents.
+
+EPCs. Wind power and photovoltaic contracts for customers
+
+In 2013, ACCIONA Energy beefed up its service sales activities with its customers, combining this with completion of its own facilities.
+In the year, ACCIONA Energy signed its first photovoltaic Engineering, Procurement and Construction contract in Australia, for the 24 MWp Royalla facility, together with contracts for the 102 MW South Canoe wind farm in Canada and two photovoltaic plants in Chile with 49 MWp capacity.
+
+ACCIONA seeks to dilute
+the risks of its activity
+through a diversified
+portfolio
+
+Other businesses, a commitment to diversification
+Diversification is the key to maintaining our guarantees of success in new sectors, while in turn diluting risks with a larger portfolio.
+
+ACCIONA's diversification strategy has two objectives. Firstly, the Company's proven business track record enables it to extend its strategies to new sectors, while
+
+providing the guarantees of success required by shareholders and investors. Secondly, ACCIONA is seeking to dilute the risks of its activity across a diversified portfolio.
+
+ACCIONA 2013 Integrated Report 79
+
+ACCIONA Trasmediterranea
+A strategy for the future...
+
+ACCIONA Trasmediterranea is the leading shipping line for Spanish sea transport, connecting the Peninsula to the Canary and Balearic Islands and North Africa. The Company has an extensive presence and experience in the sea transport of vehicles and passengers dating back to 1916.
+It is currently the leader in this sector in Spain, with a business model based on:
+A multi-market strategy with extensive geographic spread, including sea connections to the Balearic and Canary Islands, and Morocco and Algeria in North Africa.
+V ertical integration across all links in the value chain for vehicle and passenger transport: land and sea transport and port operations. This enables it to offer integrated, multi-mode 'port-to-port' logistics services, which are highly valued by freight customers.
+
+ACCIONA Trasmediterranea is a renowned, flagship brand with unique positioning and recognized leadership in the sector. Its business model offers comprehensive solutions to exacting business and environmental standards, with a commitment to service excellence for its customers. This guarantees its success in the markets where it is active.
+Based on these competitive advantages, ACCIONA Trasmediterranea has put in place a medium and longer-term strategy based on:
+
+drink to be a key part of its strategy. Other significant priorities for Trasmediterranea include enhanced use of social networks, support in emergencies such as fires and rescues, and involvement in tourism roadshows.
+Maximizing sales on all fronts: transforming into points of sale, not just 'transport vessels', aiming always for 100% occupation.
+Operational excellence: continuously controlling costs and driving them down.
+
+Adequate asset scale: only producing what is demanded, when there is demand for it.
+Differentiation of its products and customer communications: meeting the needs of its customers, setting itself apart and informing the market of this. The Company considers the introduction of new on-board services related to technological accessibility, facilitation of search engines and travel guides and specialist food and
+
+The volumes of passengers and vehicles transported by Trasmediterranea were up 5.6% and 6%, respectively, in 2013, due mainly to increased cross-Straits traffic. Freight volumes were up 1.54%, mainly due to the new Valencia-Ibiza ferry line.
+Trasmediterranea is seeking to generate value in the areas where it operates by identifying new commercial and tourist routes and connections.
+
+...with solid foundations ...that generates confidence
+
+419
+M IN REVENUE
+13
+M IN EBITDA
+1.3
+M INVESTED IN INNOVATION
+1,400
+EMPLOYEES
+
+2,635,721
+PASSENGERS
+5,161,963
+LINEAR METERS OF FREIGHT HANDLED
+630,212
+VEHICLES
+
+80 BUSINESS MODEL
+
+OTHER BUSINESSES
+
+ACCIONA 2013 Integrated Report 81
+
+ACCIONA Real Estate
+
+A strategy for the future...
+
+ACCIONA Real Estate has a global vision, focusing on developing sustainable space solutions for people and companies with high technological value.
+Its team has extensive experience in all aspects of the Spanish and international real estate markets (residential, hotel, commercial, rental properties, etc.).
+The improving domestic economic outlook is attracting investors and increasing the expectations of sellers. Recently, there has been increasing interest among foreign investors in entering Spain's real estate market through a robust local partner. In the short to medium term, the Division will continue applying a discounting policy across all of its developments in Spain to turn over
+
+its stock of completed developments, so as to reduce debt and increase liquidity.
+The Company's criteria of prudence and minimum risk generates confidence in the markets where ACCIONA Real Estate is well established (Poland and Mexico). Through its Parque Reforma Santa Fe subsidiary in Mexico, ACCIONA Real Estate is committing itself to the Mexican market. The excellent banking conditions in Mexico make it an ideal destination for pursuing the Division's growth strategy.
+In the medium term, the priority for ACCIONA Real Estate is to position itself in a sector that is ready to be rebuilt. The Division is seeking to pursue residential developments and to manage its asset
+
+portfolio through a strategic alliance with an international investor.
+The Division is committed to promoting sustainability. This is demonstrated by its deep involvement in the Clear up project, which is examining and implementing solutions for creating clean buildings with comfortable, healthy and non-polluting internal spaces.
+
+...with solid foundations...that generates confidence*
+
+66
+M IN REVENUE
+
+954
+INVENTORY
+
+3
+M IN EBITDA
+
+421
+INVESTMENT PROPERTIES
+
+1,401 26
+
+M IN GROSS ASSETS, 85% IN SPAIN AND 15% INTERNATIONAL
+
+FIXED ASSETS
+
+* Valued by various independent assessors: the market value of real estate assets (GAV), developments, investment properties and fixed assets at 2013 prices is 1,401 million euros, broken down as follows.
+
+Hijos de Antonio Barceló
+
+A strategy for the future...
+
+Hijos de Antonio Barceló owns a number of wineries in Spain's main wine producing regions, producing quality wine brands that are sold throughout Spain and abroad. This activity contributes value to the Company through a commitment to shareholder value and respect for the environment.
+The wine industry and its stakeholders make a priceless economic, social, agricultural and environmental contribution. Consumers are currently choosing higher quality wines, as part of a healthy, sustainable and modern lifestyle. The Company contributes to this with sales of over 16 million bottles of wine each year to all five continents.
+The wine market is rapidly becoming much more international. There are a number of challenges in developing this business. These
+
+include the concentration of distribution in the hands of organizations that are becoming ever larger, at a time when consumers are demanding higher quality wines with recognized brands at competitive prices, and products with attributes and values suitable for today's new lifestyles.
+In order to meet this demand, our business model features a wide portfolio of highquality prestigious products, focusing on premium and super-premium wines and building volume with the major purchasers in the market. We are pursuing international development and leadership in the market, and over delivering on service, exceeding customer expectations.
+The value of world trade will increase over the coming years as a result of consumption
+
+migrating from traditional producer countries to countries that do not produce enough to meet demand. Exports will also become more valuable due to the increasing quality and prices of the wines sold.
+The international development of ACCIONA's wine business will make our position more stable given current conditions in the domestic market. Our international sales are concentrated in South America (19.6%), Europe (12.2%) and the rest of the Americas (8.5%), with a presence in more than 35 countries.
+In 2013, Hijos de Antonio Barceló signed an agreement with Bronco Wines, the fourth largest importer in the United States, giving us a positive outlook for that market.
+
+...with solid foundations
+38
+M IN REVENUE
+5
+M IN EBITDA
+16
+MILLION BOTTLES SOLD
+
+...that generates confidence
+
+WINERIES IN
+5
+OF SPAIN'S MOST PRESTIGIOUS WINE GROWING REGIONS
+
+42%
+OF TURNOVER FROM INTERNATIONAL MARKETS
+
+ISO
+CERTIFICATION: ISO 9001, ISO 14001 AND ISO 22000
+
+82 BUSINESS MODEL
+
+OTHER BUSINESSES
+
+Bestinver
+
+A strategy for the future...
+
+Bestinver searches for value in all of its investments, through in-depth understanding of all the businesses and companies in its portfolio.
+The Company believes the most reliable way to achieve sustainable returns for its clients is to invest in well managed and comprehensible businesses that are currently undervalued and have strong long-term revaluation potential. Committed to its value-investing philosophy, Bestinver bases its business on valuing companies, to which its management team dedicates 95% of its time.
+Bestinver's objective is to achieve 'reasonable' long-term average returns, through responsible management that avoids speculative investments.
+
+Bestinver seeks out companies with one or more of the following signs that they are undervalued:
+V aluations that imply attractive ratios (Price/Earnings, Enterprise Value/Sales, Enterprise Value/EBITDA, Price/Book value, earnings per share, etc.) in absolute terms in comparison to competitors.
+L ow levels of debt. It is sometimes possible to find companies with no debt and cash levels similar to, or even exceeding, their market capitalizations.
+R ecent share purchases by owners and senior managers, and share buybacks by the Company, implying that the people who know the company best are confident about its future.
+
+Investment selection process
+
+Companies with
+
+Good price caused by
+
+Austrian School Time
+
+C ompetitive advantage: · High ROCE · Sustainable
+A ppropriate attitude to cash-flow generated
+
+S hare structure (family) T ypes of shares (preference, etc.) G eographic reasons: businesses and shareholders in different areas Long-term projects (market impatience) S mall caps (unnoticed by the market) Asset structure (holdings, etc.)
+
+General Economic Structure
+H uman behavior
+Unexpected consequences for shares
+Euphoria/panic
+
+Patience P sychological preparation C ustomer education
+
+ACCIONA 2013 Integrated Report 83
+
+M arket prices that are lower than or close to the cash price paid in mergers and acquisitions in the sector (if the transaction is paid for in shares, this price will be reliable if the shares are reasonably valued).
+
+always takes a long-term approach, exploiting short-term weaknesses in the market to rotate its portfolio, increasing or decreasing positions in response to share price movements for the companies in its portfolio.
+
+By investing in companies with some of these characteristics, Bestinver minimizes risk while reaping very interesting longterm returns. The success of this strategy is demonstrated by the performance of its actively-managed funds (Bestinfond, Bestinver Bolsa, Bestinver Internacional, Bestinver Mixto, Bestinver Mixto Internacional and Bestinver Renta).
+
+Bestinver's model portfolio, as in its Bestinfond mutual fund, achieved returns of 31.82% in 2013 compared to 19.35% for its reference index (70% MSCI, 20% IGBM and 10% PSI).
+
+The assets under management by Bestinver increased by 51% in 2013, to 8,930 million euros at 31 December 2013. Bestinver
+
+...with solid foundations ...that generates confidence
+
+114
+M IN REVENUE
+
+45,500
+CUSTOMERS
+
+78
+M IN EBITDA
+8,930
+M IN FUNDS UNDER MANAGEMENT
+
+107
+AWARDS FOR ITS MANAGEMENT OVER THE LAST 20 YEARS
+1,059
+M IN NET CAPITAL INFLOW
+
+8%
+GROWTH IN THE HEADCOUNT, TO 55 EMPLOYEES
+
+CORPORATE GOVERNANCE
+
+SUB CHAP
+
+Corporate Governance
+
+The Board of Directors concentrates
+its attention on the Company's strategic approach and monitoring performance of its business objectives
+
+A governance model based on value creation
+
+The Company's corporate governance practices are based on both internal and external guidelines and recommendations.
+ACCIONA's corporate governance rules, procedures and controls aim to assure investors and other stakeholders that
+
+the Company's decisions are designed to maximize long-term value creation for its owners and society as a whole.
+
+86 CORPORATE GOVERNANCE
+
+The Company's governing bodies
+
+The General Shareholders' Meeting
+
+The sovereign decision-making body of the owners of the Company, and the highest level decisionmaking body in ACCIONA. Its responsibilities include approving the composition of the Company's Board of Directors, decisions on remuneration policy and allocation of profits.
+
+The Board of Directors
+
+Guides, supervises and controls issues affecting the Company on behalf of its owners. Its members are chosen by the General Shareholders' Meeting. Its responsibilities include determining the Company's strategic approach, and oversight of compliance with objectives. It also ensures that the Company has the policies, processes and controls in place for compliance with applicable internal and external regulations.
+
+Board of Directors' Committees
+
+Monitor certain key issues for the Company and its owners on behalf of the Company's Board of Directors. Their work includes monitoring the effectiveness of internal risk management and control systems. They also ensure that the Board of Directors has the capabilities and competences needed, and aligns remuneration policy to balance the long-term interests of management and owners.
+
+Senior management
+
+Responsible for day-to-day management of the Company under the supervision of the Board of Directors, which sets objectives and regularly monitors performance. The chief executive and senior management report to the Board regularly on compliance with the objectives. The heads of each business and unit are responsible for ensuring their areas function efficiently and in accordance with the policies and procedures established by the governance bodies.
+
+The Board of Directors ensures that it is informed of, and deliberates on and supervises the Company's main risks, challenges and decisions. It also exercises control over the most significant short, medium and long-term financial and nonfinancial issues affecting ACCIONA. The Directors therefore dedicate their time to the questions that are most relevant to creating value: strategy, risk management, developing the management model and regulatory and compliance questions.
+
+ACCIONA 2013 Integrated Report 87
+
+A focus on strategy, risks and compliance
+
+The Board of Directors pays particular attention to the Company's strategic approach and monitoring its business objectives. The last meeting of the year is dedicated to analyzing, refining and determining the following year's strategy. Once the strategy has been defined, it is used in preparing business plans for the Company's divisions. The Board monitors performance of the objectives under these plans every month. The Board also carries out an in-depth quarterly assessment of the objectives in the Company's business plan as part of the process of preparing the financial statements.
+The senior managers report regularly and formally on the business plan performance to the Board.
+ACCIONA's Board of Directors meets monthly to assess the business units in detail, and is in regular contact with the Company's senior managers. The Chairmen of the Board Committees undertake this task independently. The regular work of the governance team includes assessing markets, strategies and risks, requesting the documentation required for such activities from the units.
+
+Company's non-financial risks, ensuring that ACCIONA has in place the policies, processes and controls needed to handle these risks.
+One of the Board of Director's main tasks is to contribute to an appropriate ethical attitude and compliance throughout the organization. In this regard, the Board has the ultimate responsibility for the Company having in place an effective ethical model, and for ensuring that both the letter and the spirit of all internal and external regulations applicable to the Company and its employees are complied with in full. The Board leads work to ensure the Company's compliance. In April 2013, the Board of Directors' Sustainability Committee approved the Corporate Policies Book, which covers issues such as sustainability, anticorruption, risk management, biodiversity and human rights.
+
+The Board's main responsibilities also include overseeing the adequacy of the Company's risk control and management systems. The Audit Committee carries out an in-depth review of the key risks facing the Company's management and across its businesses. This work includes annual guidance and supervision of risk maps and the risk mitigation plans put in place. The Sustainability Committee monitors the
+
+88 CORPORATE GOVERNANCE
+
+A structure that ensures incentives are aligned...
+
+The purpose of corporate governance best practices is to ensure that companies are managed as efficiently as possible in the interests of their owners and other stakeholders.
+The Company's Board of Directors has chosen the current structure to safeguard the interests of its owners and other stakeholders and to generate market confidence. This structure is based on criteria of complementarity, balance, professionalism and diversity, seeking to ensure that the interests of all owners are upheld.
+
+The Board is currently comprised of 13 members, of whom nine are external to ensure that free-float interests are protected (eight of these being independent directors with the other being classified as an external director); two others are proprietary directors representing significant shareholders, with the remaining two directors being the Chairman and the Vice Chairman in their executive capacities.
+
+Executive Committee
+Delegated all of the powers of the Board of Directors, with the exception of those that cannot be delegated by law.
+
+JUAN IGNACIO ENTRECANALES FRANCO
+Vice-Chairman (Executive director)
+
+DANIEL ENTRECANALES DOMECQ
+Proprietary director since 2009
+
+JAVIER ENTRECANALES FRANCO
+Proprietary director since 2011
+
+LEAD INDEPENDENT DIRECTOR
+JAIME CASTELLANOS BORREGO
+Independent director since 2009
+
+Audit Committee
+Mainly supports the Board of Directors in supervising accounting and financial information, internal and external audit services and corporate governance.
+
+MIRIAM GONZÁLEZ DURÁNTEZ
+Independent director since 2010
+
+CONSUELO CRESPO BOFILL
+Independent director since 2008
+
+JOSÉ MANUEL ENTRECANALES DOMECQ
+Chairman (Executive director)
+
+COMMITTEE CHAIRMAN COMMITTEE MEMBER EXECUTIVE COMMITTEE AUDIT COMMITTEE APPOINTMENTS AND REMUNERATION COMMITTEE SUSTAINABILITY COMMITTEE
+
+JORGE VEGAPENICHET LÓPEZ
+Secretary Non-director
+
+BELÉN VILLALONGA MORENÉS
+Independent director since 2006
+
+CARLOS ESPINOSA DE LOS MONTEROS Y BERNALDO DE QUIRÓS
+Independent director since 1994
+
+Sustainability Committee
+Its main function is to assess compliance with the sustainability and corporate social responsibility policies approved by the Board of Directors.
+
+VALENTÍN MONTOYA MOYA
+External director since 2001
+
+D. FERNANDO RODÉS VILÀ
+Independent director since 2009
+
+SOL DAURELLA COMADRÁN
+Independent director since 2011
+
+JUAN CARLOS GARAY IBARGARAY
+Independent director since 2013
+
+Appointments and Remuneration Committee
+Its main function is to assess the competences, knowledge and experience of the Board, thus defining the functions and skills required in candidates for Board vacancies, and assessing the time and dedication required to perform such roles.
+
+ACCIONA 2013 Integrated Report 89
+
+...and facilitates performance of the responsibilities assigned
+
+The Board Committees facilitate the guidance, supervision and control responsibilities of the Company's Board of Directors.
+There are currently three Committees and one delegated commission. The
+
+Committees determine the schedule for their own meetings and their annual work programs, collecting the reports they deem appropriate for their deliberations and for decisions on issues submitted to them for consideration. They meet six times a year, on average.
+
+As an additional guarantee for the owners, the Company has now designated a Lead Independent Director. This person is an independent director who is empowered, among other things, to call Board meetings.
+
+Executive Committee
+Appointments and Remuneration Committee
+Audit Committee
+Sustainability Committee
+
+Delegated all the powers of the Board of Directors in exceptional circumstances.
+Its main functions include assessing the competences, knowledge and experience of the Board and Senior Management; selecting candidates for the Board of Directors; proposing the appointment of independent directors; considering and organizing the Chairman's succession; and assessing the remuneration system and payments to directors and senior managers, and ensuring the transparency of this system. It is chaired by an independent director and comprised exclusively of non-executive directors.
+Supports the Board of Directors in supervising accounting and financial information, internal and external audit services and corporate governance. It is chaired by an independent director and comprised exclusively of non-executive directors
+Responsible for identifying and guiding the Group's corporate social responsibility and sustainability policies, objectives, best practices and programs; assessing, monitoring and reviewing implementation plans for these policies and submitting budgets to the Board of Directors, as necessary; and for preparing the annual Sustainability Report for approval by the Board. It is chaired by a non-executive director and comprised exclusively of non-executive directors.
+
+LEAD INDEPENDENT DIRECTOR
+It was agreed on 6 June 2013 to modify Article 19.4 of the Regulations of the Board of Directors to read as follows:
+"The Board of Directors, at the proposal of the Appointments and Remuneration Committee, will designate one of the Independent Directors as the Lead Independent Director, who will:
+a) C oordinate the work of external directors appointed by the Company in defense of the interests of all Company shareholders, and serve as the spokesperson for the concerns of such directors;
+b) R equest that the Chairman of the Board of Directors call a meeting of the Board, and the inclusion of items on the Agenda when appropriate under the standards of good governance; and
+c) Direct the evaluation by the Board of Directors of its Chairman."
+
+90 CORPORATE GOVERNANCE
+
+Composition of the Board of Directors
+
+The professional profiles and experience of the members of the Company's Board of Directors combine the competences
+
+and skills required for the responsibilities entrusted to them.
+
+José Manuel Entrecanales Domecq
+Juan Ignacio Entrecanales Franco
+Belén Villalonga Morenés
+
+CHAIRMAN
+
+Mr. Entrecanales Domecq began his professional career with Merrill Lynch in London and New York in 1985. In 1991 he joined ACCIONA, where he was Corporate Development Director and Finance Director before being named Chairman in 2004.
+From 1994 to 2000 he was a Board Member of Vodafone España, and from 2000 to 2007 he was Chairman of Vodafone España and its Foundation. From 2007 to 2009 he was Executive Chairman of Endesa, as a result of ACCIONA's stake in its capital.
+He is an active member of some of the main corporate organizations promoting sustainable development and the fight against climate change.
+In 2013 he was elected to the Advisory Council of the UN and World Bank Sustainable Energy For All initiative. He is a member of the Executive Committee of the World Business Council for Sustainable Development (WBCSD), and a member of the UN Global Compact and the Corporate Leaders Group on Climate Change (EUCLG).
+
+VICE-CHAIRMAN
+
+GENERAL SECRETARY
+
+Mr. Juan Ignacio Entrecanales holds an Industrial Engineering Degree from Tufts University (1990) and an Executive MBA from the Instituto de Empresa business school (1996). He began his professional career at Arthur Andersen in 1991 and joined ACCIONA in 1993. He was Deputy Director of Construction from 1995 until his appointment as Executive Vice Chairman of ACCIONA Infrastructure in 1997.
+In 2004 he was appointed as Vice Chairman of ACCIONA and Chairman of ACCIONA Infrastructure.
+His international responsibilities have included being the Chairman of Mostostal Warsawa from 2001 to 2007, leading the expansion of ACCIONA Infrastructure in Poland.
+
+Jorge VegaPenichet López
+
+Mr. Vega-Penichet López holds a degree in Law from Madrid's Complutense University, 1980; Visiting Scholar, Yale Law School, 1981; Graduate of the Academy of American and International Law, The Southwestern Legal Foundation, 1983.
+Since 2006 he has been the General Counsel and Secretary of the Board of Directors; Chairman of ACCIONA Trasmediterranea since 2008; Chairman of Bestinver since 2007.
+Chambers of M. Vega-Penichet; 1983-2006: Co-Managing Partner and Managing Partner of the M&A Department; 1980-1983: Corporate Department.
+Other: Former Secretary and member of the Board of Directors of Avanzit S.A. (2005). Member of the Board of Directors of Endesa (2009).
+
+INDEPENDENT DIRECTORS
+
+Professor at Harvard Business School where she has been teaching finance and business assessment to MBA and PhD students, and programs for business executives since July 2001. She holds a PhD in Business Management and a Masters Degree in Economics from the University of California (Los Angeles). She graduated and later earned her PhD in Economic and Business Science from the Complutense University of Madrid, where she was also a professor. Her areas of specialization include corporate finance, corporate management and business strategy.
+
+Carlos Espinosa de los Monteros y Bernaldo de Quirós
+
+Lawyer, graduate in Business Science (ICADE) and Commercial Expert and State Economist. Former Vice Chairman of the state industrial holding company INI; Chairman of Iberia and Aviaco; Chairman of the Businessmen's Circle and Chairman and Managing Director of Mercedes-Benz España, S.A. He is currently Chairman and Managing Director of Fraternidad Muprespa (a mutual benefit association for accidents in the workplace), and a member of the Inditex Board of Directors.
+
+Consuelo Crespo Bofill
+
+A trustee of the Mirada Solidaria Foundation, a member of Advisory Council of the Esplai Foundation and a member of the governing board of Deusto University. Chairperson of UNICEF España, an independent member of the Board of Directors of Tubacex, S.A. Lecturer on the masters program on international cooperation at universities of the Basque Country and Barcelona and at Madrid's Complutense University.
+
+Fernando Rodés Vilà
+
+Vice Chairman of the Paris-based Havas Group. He began his career in 1985 in the capital markets department of the Manufacturers Hanover Trust Bank. He was appointed CEO of Media Planning, S.A. in 1994. In 2006 he became the CEO of the Havas Group, the fifth largest communications, marketing and advertising group in the world, which is listed on the Paris stock exchange (HAV); he held this position until March 2012. He is the Chairman of Neometrics, a director of other companies in his family-owned group, a trustee of the Natura/Accionatura Foundation and Chairman of the Advisory Council for Sustainable Development of Catalonia.
+
+ACCIONA 2013 Integrated Report 91
+
+INDEPENDENT DIRECTORS
+
+Jaime Castellanos Borrego
+
+Chairman and CEO of the Recoletos Communication Group from 1991 until its sale in 2007. Currently Chairman of Willis Iberia and Lazard Asesores Financieros. He is also on the Board of Directors of Vocento and is the Vice Chairman of the Seres Foundation.
+
+Sol Daurella Comadrán
+Juan Carlos Garay Ibargaray
+Miriam González Durántez
+Valentín Montoya Moya
+Daniel Entrecanales Domecq
+
+Degree in Business Studies and MBA from ESADE. Executive chairman of Coca-Cola Iberian Partners, S.A. She is also an External Independent Director and member of the audit and control committee of Banco de Sabadell, S.A. She is an External Independent Director and Chairperson of the audit and control committee, and a member of the appointments and remuneration committee of Ebro Foods, S.A. She is Co-Chair of the Cacaolat, S.L. group and a trustee of various foundations (ESADE, FERO-VHIO, Science Health and Education, and Friends of the Prado).
+Studied at the University of Southern California's Marshall School of Business, MBA. Studied at Duke University. Fuqua School of Business. Senior Executive Program. His career includes time at Citibank (1980 ­ 1989) where he was the Chairman, and as chief executive for Citicorp for Spain and Portugal. In 2000 he was appointed CEO of Deutsche Bank for the Iberian Peninsula, and was responsible for the Personal Banking division for the whole of Europe, except Germany. From 2005 to 2008 he was Chairman of Deutsche Bank in Spain.
+Graduate in Law from the University of Valladolid, Master's degree from the College of Europe and Senior Associate Member, St. Anthony's College at Oxford University. She has advised the Foreign and Commonwealth Office and the European Union on the Middle East, and was a member of the cabinet of two EU foreign affairs commissioners from 1999 to 2004. At present, she is a partner and heads the international trade and European government relations departments of the law firm Dechert llp and is Vice President of Canning House in London.
+EXTERNAL DIRECTORS
+Graduate in Business Studies from Madrid's Complutense University, he has been with the Group since the start of his career. From 1986 to 1992 he was the Head of the Audit Department for the Entrecanales Group, following which he became the Deputy Executive Director of Finance. In 1997 he became the Director of Financial Control for ACCIONA, S.A., and became a director in 2001, becoming the Chief Financial Officer and a board member in 2004. He has also been a director of Endesa, S.A., Airtel Móvil, S.A. and Hidroeléctrica de Navarra, S.A. (EHN). He has been an External Director of ACCIONA, S.A. since 2009.
+PROPRIETARY DIRECTORS
+Mr. Entrecanales holds a degree in Economics from the Carroll School of Management of Boston College. He joined the Anglo-Dutch multinational Unilever in Madrid in 1993. Two years later he moved to Milan in Italy as the Project Manager for the Company's International R&D Center, developing its global products and strategies. In 1998 he returned to Madrid as Director of Marketing and Communication for Loewe (LVMH Group) with worldwide responsibilities for marketing, communication, merchandising and architecture, and as a member of the Management Committee. From 2001 to 2004 he was the General Manager of Grupo Cinnabar, S.A., a retail textile company, focusing on reorientation of the Group's strategies. In 2003, he simultaneously founded and chaired the Revolution advertising and communication agency with a group of executives from the sector. He has also been involved in and a director of various companies in several sectors.
+
+Javier Entrecanales Franco
+
+Holds a degree in Business and Economics from the Colegio Universitario de Estudios Financieros (CUNEF) with an Executive MBA from the Instituto de Empresa business school. He began his career in 1997 as an Audit Analyst for Price Waterhouse Coopers Madrid. In 2000 he moved to New York to work as an associate in the Corporate Finance Department of BBVA Securities Inc, and was responsible for advising Latin American companies on mergers and acquisitions and takeover bids. In 2004 he returned to Spain as the Vice President of the Leveraged Finance Department of Banco Bilbao Vizcaya Argentaria, S.A., working in close collaboration with the Bank's risk management area. In 2005 he moved to BNP Paribas as head of its Acquisitions Financing Department for Spain and Portugal, and was responsible for structuring and executing acquisitions for corporate clients. He has also undertaken teaching activities for the new generation of Master's courses at the BBVA School of Finance.
+
+PUBLISHED BY: ACCIONA, S.A. Corporate Image and Global Marketing Avda. de Europa, 18. Parque Empresarial La Moraleja. 28108 Alcobendas. Madrid. Spain
+Twitter: @acciona facebook.com/acciona linkedIn.com/company/acciona www.acciona.com
+PRODUCTION: MRM Worldwide Spain, S.A.
+LEGAL DEPOSIT NUMBER: M-15057-2014
+© 2014 ACCIONA, S.A. All rights reserved.
+
+Avda. de Europa, 18 Parque Empresarial La Moraleja 28108 Alcobendas (Madrid). Spain www.acciona.com
+© 2014 ACCIONA S.A. All rights reserved.
+
+

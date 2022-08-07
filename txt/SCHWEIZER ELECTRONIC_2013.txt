@@ -1,0 +1,2419 @@
+Internationalisation ­ the basis for growth ANNUAL REPORT 2013
+
+CONTENTS
+Key Figures.....................................................................................................................................3 About Schweizer Electronic AG....................................................................................................4 Internationalisation ­ the basis for growth................................................................................5 Letter from the Management Board ...........................................................................................8 Management Board ................................................................................................................... 12 Report from the Supervisory Board ......................................................................................... 14 Who we are ..................................................................................................................................17 SCHWEIZER supplies cutting-edge technology products of all kinds and dimensions ...... 26 Shares.......................................................................................................................................... 28 Status report............................................................................................................................... 30 Balance sheet ............................................................................................................................. 53 Income statement...................................................................................................................... 56 Cash flow statement.................................................................................................................. 57 Statement of changes in equity................................................................................................ 58 Appendix ..................................................................................................................................... 59 Audit opinion ...............................................................................................................................74 Declaration by the legal representatives................................................................................. 75 Corporate governance ............................................................................................................... 75 Glossary....................................................................................................................................... 82 Financial calendar ...................................................................................................................... 85 Imprint......................................................................................................................................... 85
+
+KEY FIGURES
+
+Revenues ( million) Order book ( million)
+
+2013 101.2 114.2
+
+EBITDA ( million) EBITDA margin (%) EBIT ( million) EBIT margin (%) Annual result ( million) EPS () Dividend () Total assets ( million) Investments ( million) Equity capital ( million) Equity ratio (%) Net gearing (%) Working capital ( million) Operating cash flow ( million) Employees**
+
+14.2 14.0
+9.8 9.7 6.1 1.62 0.60* 76.7 6.9 45.1 58.8
+3 21.2
+8.8 736
+
+* proposal to annual general meeting ** at the close of the business year including temporary staff
+
+Revenues ( million)
+
+2009 2010 2011 2012 2013
+
+65.8 105.4 105.4
+100.2 101.2
+
+EBIT ( million)
+
+2009 -3.4
+
+2010
+
+16.9
+
+2011
+
+8.3
+
+2012
+
+5.2
+
+2013
+
+9.8
+
+Annual net profit ( million)
+
+2009
+
+-4.5
+
+2010
+
+13.4
+
+2011
+
+6.5
+
+2012
+
+0.7
+
+2013
+
+6.1
+
+2012 100.2
+89.8
+
+Change
+
+absolute
+
+in %
+
+1.0
+
+1
+
+24.4
+
+27
+
+10.0
+
+4.2
+
+42
+
+10.0
+
+5.2
+
+4.6
+
+88
+
+5.2
+
+0.7
+
+5.4
+
+782
+
+0.18
+
+1.44
+
+0.55
+
+0.05
+
+9
+
+71.7
+
+5.0
+
+7
+
+7.5
+
+-0.6
+
+-8
+
+40.9
+
+4.2
+
+10
+
+57.1
+
+2
+
+17.1
+
+4.1
+
+24
+
+7.2
+
+1.6
+
+22
+
+663
+
+73
+
+11
+
+Order entry ( million)
+
+2009 2010 2011 2012 2013
+
+83.0
+103.6 71.3
+126.6
+
+163.0
+
+Dividend ()
+
+2009 0.00 2010 2011 2012 2013
+*proposal to annual general meeting
+
+0.42 0.47 0.55 0.60*
+
+ABOUT SCHWEIZER ELECTRONIC AG
+
+Schweizer Electronic
+
+Schweizer Energy
+
+Meiko Electronics
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+INTERNATIONALISATION ­ THE BASIS FOR GROWTH
+
+The continued existence and healthy growth of a company with a history going back almost 165 years demands a high level of commitment on the part of all stakeholders. SCHWEIZER holds a strong position in its market and has a solid financial foundation to balance against the usual fluctuations that affect the technology sector.
+All initiatives are directed at fulfilling an ambition to continually add value, around which the SCHWEIZER corporate strategy is built. For the three divisions ­ Electronic, Systems and Energy ­ the strategy is made up of eight spheres of activity and linked focus areas. In addition to qualitative growth achieved by optimising its portfolio at the Schramberg technology site, the company is also focusing on growth through the expansion of sites in Asia.
+THE PILLARS OF SUCCESS
+The optimum orientation and make-up of the organisation and the company's production facilities are key to longterm, sustainable success. To achieve this, SCHWEIZER concentrates specifically on four key areas ­ and the development, integration and coordination of these key areas form the basis for the company's success.
+
+Power electronics covers solutions that are able to cope with high currents and effective heat dissipation. In the embedding innovation area Schweizer Systems offers diverse PCB embedding solutions that use assembly and connectivity techniques to combine miniaturisation with enhanced performance and so help to optimise customer applications. The SCHWEIZER system cost reduction innovation area covers solutions for customers that bring overall improvements to the cost-effectiveness and efficiency of systems.
+PRODUCTION EXPERTISE AND QUALITY
+SCHWEIZER recognised the trend towards relocating conventional PCB technology production to the Asian region and in the light of this formed a partnership with MEIKO in 2009. Having greatly increased its capacity in Asia in recent years, MEIKO further expanded its Vietnamese production sites in 2011. Based on their successful partnership, SCHWEIZER and MEIKO agreed on the foundation of a joint venture in 2013. In the context of this joint venture a common production line is being set up for the manufacture of PCBs intended for European customers in the automotive and industry segments, contributing to the further development of the Electronic division.
+
+INNOVATION
+The innovation portfolio offered by SCHWEIZER meets the demands of the international markets. Clear potential for growth can be seen in particular in the growth markets for mobility and energy efficiency. It is precisely these target markets, driven by developments in society, that the SCHWEIZER product portfolio addresses.
+Research and development plays a key role at SCHWEIZER. Trends as well as customer wishes and requirements are identified by SCHWEIZER and consistently implemented through to series production, in order to offer customers tailored products and solutions. The main areas of innovation for the company are power electronics, embedding and system cost reduction.
+
+The basis for this complementary expansion of the company is formed by the experience gained in the Electronic division and the expertise in processes and production. Due to SCHWEIZER's customer structure, it is not only necessary to manufacture cutting-edge products for niche markets, but also large quantities of high-quality products. For our customers, a balanced offering is an absolute must ­ that is to say a good mix of products in differing quantities and at attractive prices. The production facility in Vietnam extends the offering and in this way brings a host of benefits for existing and future customers of SCHWEIZER, particularly those that are also globally positioned. This includes access to larger volumes in proven quality.
+The Schramberg site forms the basis for the global expansion of the production capacity. Here, the company has created a technology site in which a high level of devel-
+
+5
+
+COMPANY ...........................POSITIONING
+
+opment expertise goes hand in hand with rapid and flexible production. To retain its role as a leading producer of innovative technologies, SCHWEIZER is investing extensively and consistently in the machine park required for production at the site.
+Customers choose SCHWEIZER not merely because of its exceptional, innovative technologies. They carefully weigh up whether the company has the capacity to act as a reliable long-term partner for projects and quantities of all sizes and so qualify as a strategic supplier. The increasing internationalisation of its production environment demonstrates SCHWEIZER's commitment to meeting the requirements of its customers.
+
+EMPLOYEES
+Strategic personnel management plays a major role in steering and supporting the growth and internationalisation of the company. The role of employees in the company's success is seen as so important it is included in the SCHWEIZER mission statement. For this reason, priority is given to a forward-looking personnel policy closely linked to strategic planning to enable sustainable personnel resource planning. The company's recruitment efforts increasingly draw on the skills of employees from a range of international backgrounds and in parallel with this it implements specific measures aimed at maintaining their motivation, loyalty and performance.
+
+CUSTOMERS
+Retaining and expanding our customer base is a key factor in our success as a technology company. In its partnerships with existing customers SCHWEIZER attaches a great deal of importance to responding to the individual requirements of its customers quickly and effectively and putting new ideas into effect swiftly. In addition, speed and quality play a key role when bringing products to market that will be mass produced. These requirements will also apply to the new site in Asia. The many years of experience in production and the upstream processes so valued by the established customer base in Europe were critical when it came to setting up a "global front end" in China and the new production facilities in Vietnam. These aspects are also key to further strengthening the company's capacity to offer the entire product life cycle from prototype to mass production. In parallel with international expansion, SCHWEIZER is also addressing the diversification of its market segments. Alongside the well-established automotive, industry and solar segments, our customer base has expanded to include clients in the aerospace industry. Additionally, the company underwent an audit for EN 9100 at the end of 2013 and is now a certified supplier to the aerospace industry. SCHWEIZER can now offer clients in these industries its high-quality, innovative PCB solutions, focused on the areas of power electronics, embedding and system cost reduction, enabling the company to achieve further growth.
+
+Regular, personal contact amongst employees is essential in order to utilise synergies in international teams and promote the transfer of knowledge across borders. To further this process, employees in key positions at the Asian sites undergo training and professional development in various areas at the Schramberg site.
+The cultural diversity found within our teams supports successful teamwork since new solutions can often come out of different approaches and ways of working. The fact that processes and procedures have been jointly developed makes it easier to roll them out to the various sites since local needs have already been considered at the planning stage. In the context of the strategic alignment of the company, SCHWEIZER recently considered at length the issues of personnel development and personnel recruitment.
+Dynamics in the development of technologies and production processes mean that all employees need to update their existing skills as well as develop new competences. To cater for this need, the company offers a diverse and comprehensive training programme to its employees every year so as to invest in enhancing expertise, qualifications and productivity.
+In terms of recruitment, the successful results of targeted and effective personnel marketing are clear to see. With many diversified activities on different platforms, the company increasingly expands its brand awareness on the highly competitive labour market.
+
+6
+
+Evidence of the success of the company's personnel policy is to be found in an independent survey carried out by Focus magazine in conjunction with the Xing business network to identify the "Best employer in Germany", in which SCHWEIZER came out 6th in the Electronics/Electrical Engineering/Medical Devices category for medium-sized businesses in Baden-Württemberg.
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+7
+
+COMPANY ...........................LETTER FROM THE MANAGEMENT BOARD
+LETTER FROM THE MANAGEMENT BOARD
+Dear Shareholders, Business Partners and SCHWEIZER Employees, The 2013 business year was a successful one for the company. We were able to combine innovative capacity, cycle management and cost reduction in an ideal way. Alongside this, the order book for 2014 is already well-filled. This is personally very satisfying.
+2013
+Our core business of PCBs has been affected by fluctuations. We started the 2013 business year with cautious demand. In an industry in which fixed costs play such a large part, the low level of capacity utilisation in the first half of the year meant modest results. Nevertheless, during this period we were able to further enhance our portfolio with products offering added value, which was vital to increasing profitability. Over recent years, we have worked to make cycle management one of SCHWEIZER's core competences. This allows us to adjust costs when the markets slow and to quickly boost production capacities when ­ as in the second half of 2013 ­ customer demand takes off again. However, we are careful to ensure this is not at the expense of our long-term strategy. The results for the 2013 business year demonstrate that, even in a challenging environment, SCHWEIZER is a profitable, well-positioned company able to respond effectively to market fluctuations. This position has been achieved through operational improvements, the right product portfolio, a strong management team and a committed workforce. I am in no doubt that you, our shareholders, will be pleased not only with our operational performance over the past year, but also with developments on the stock market: With a price gain of 37 %, Schweizer shares are among the top-performing shares for global PCB manufacturers. Like you, we are delighted with the past year's results and would like you to share in this success. For this reason we will propose together with the Supervisory Board an increase in the dividend of EUR 0.60 per share at the Annual General Meeting in July.
+8
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+WHAT THE FUTURE HOLDS
+SCHWEIZER has built a strong foundation. We have aligned our product portfolio with the growth markets of mobility and energy efficiency. Your company already holds a leading market position in the automotive sector. In relation to PCBs for the automotive industry SCHWEIZER and MEIKO together hold the number two position in the world in terms of sales.
+Your faith in us is spurring us on to even greater achievements. We have launched an investment programme that will enable the further growth of the company. All investment forms part of our ongoing aim of adding value, around which the corporate strategy is built. For our three divisions of Electronic, Systems and Energy, the strategy consists of eight spheres of activity. Based on these we have defined the following medium-term focus areas and put specific targets in place.
+Focus areas for the Electronic division  To strengthen our leading technological position in power electronics, system cost reduction and
+high frequency applications  To intensify the cooperation with our partners  To continue the process of internationalisation  To expand capacity in the production environment in Vietnam and expand the technology base in
+Germany.
+Focus areas for the Systems division  Strengthen the partnership with semiconductor companies  Launch new technologies for semiconductor applications on the market and in growth markets  Substitute products currently used with technological solutions from SCHWEIZER in existing mar-
+kets.
+Focus areas for the Energy division  Together with an Asian industrial investor utilise the next opening for market entry.
+Our strategy also includes further developing our corporate culture and our corporate brand. The corporate culture and brand go hand in hand since we know that: commercial success is to a large extent the result of identification with the company, passion for what we do and the confidence we inspire. This applies in particular to all our employees and the employees of our strategic partners. We firmly believe that by seeking to build partnerships with our customers that are not just about working with but also for one another, long-term added value will result. This is what we are aiming for and in this way we are forming a highly committed and passionate team of excellence. This enables us to bring about new solutions
+9
+
+COMPANY ...........................LETTER FROM THE MANAGEMENT BOARD
+and products faster than our competitors. These elements come together to form the strong SCHWEIZER brand that has been inspiring our customers for more than 160 years. In parallel with this, based on our mission statement we have developed a competency framework with our four values of quality, speed, creativity and openness. This supports us in further developing our working and management culture and represents a decisive factor in our successful response to the increasing speed and growing complexity of international markets and our environment. As a result, we anticipate becoming an even more attractive employer for our employees around the world. We are aiming to become one of the top employers for markets that are relevant to us. We have already made significant progress in this direction in recent times and now count among the 800 best employers in Germany.
+THANKS TO OUR EMPLOYEES
+Rising demand meant we were confronted with a huge task again in 2013. Thanks to the flexibility, high level of commitment and reliability of our employees, we overcame these challenges with great success. I would like to take this opportunity, together with my colleagues on the Management Board, to thank all employees of SCHWEIZER for their hard work throughout the year. I would also like to express my thanks and that of the Board to the management and employees of our partners Meiko Electronics and Elekonta.
+OUR EXPECTATIONS FOR 2014 AND 2015
+Our successes over the past year provide encouragement to continue on the path we have chosen. Mobility and energy efficiency are long-term drivers for the growth of SCHWEIZER. In the Electronic core business, we have a leading market position, excellent technologies and products as well as long-standing customer relationships that we can also utilise in our new business segments. Our customers are leaders in their sales segments. Through our subsidiaries, joint ventures and partnerships, we have access to Asian growth regions and there are opportunities together with our strategic partners to build on the market position we have already attained. Against this background, we believe the company is very well positioned to see further profitable growth in sales throughout the 2014 business year. Based on the positive outlook for the development of the global economy and the sales segments, for the calendar year 2014 we anticipate growth in sales of 3 % to 7 % compared to the previous year. Providing the global economic trend remains stable, we expect to see even higher growth in the 2015 business year
+10
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+than in 2014. By this time the capacities in the Meiko Schweizer Electronics joint venture and the production facility in Vietnam will be fully on stream. Our investment in the technology plant in Germany will allow for greater dynamism in the section of our product portfolio geared towards high-margin products. As a result, we expect a slight improvement in the results in 2014 compared to 2013. The high level of production capacity utilisation and improvements to the portfolio will mitigate any minor negative effects in 2014. These arise from increased depreciation as a result of investment in technology production facilities and expenditure for starting up the production capacity in Vietnam. For 2015 we anticipate a further improvement in the result compared to 2014. Dear shareholders, business partners and employees, your confidence in SCHWEIZER is what drives us on. We look forward to continuing our onward journey together with you, and would like to reiterate our absolute commitment to the success of SCHWEIZER.
+Dr Marc Schweizer Chairman of the Management Board
+11
+
+COMPANY ...........................MANAGEMENT BOARD
+
+MANAGEMENT BOARD
+"The increasing internationalisation of SCHWEIZER brings new challenges, for example in terms of financing, liquidity and risk management, and information systems. Taking a pro-active approach to designing change management processes has been and remains a key focus for the "cross divisional functions". It is of key importance to recognise the new complexity brought about by internationalisation and diversification at an early stage, and to effectively support this through appropriate processes and information systems."
+Marc Bunz
+
+"As the company grows so too do the demands on our employees, now and in the future. As an employer, we are continually seeking to create the best environment in which our employees can successfully meet these increasing demands. We promote this by entrusting our employees with a high level of personal responsibility, and conferring attractive employment conditions and
+
+12
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+a comprehensive package of employee benefits. Last but not least, we believe it is important that our employees feel happy in the workplace and get satisfaction from doing their job. This joint, collaborative approach is absolutely key to the ongoing success of SCHWEIZER."
+Nicolas Fabian Schweizer
+
+"Our understanding of systems and our flexible business models mean we are ready to take on the challenges of the future. Since we know that otherwise things will just stay the same."
+Dr. Marc Schweizer
+
+"Our aim as a company is to continue to be the preferred supplier for innovative solutions and high-quality PCBs. SCHWEIZER is further developing the necessary process technology and investing in state-of-the-art production facilities at the Schramberg site to enable us to fulfil customers' requirements for high-quality technology products, both in terms of quality and quantity. In the light of ongoing internationalisation within our customer base, alongside this we are working towards being able to provide mass production by developing and expanding the additional Vietnam site."
+Bernd Schweizer
+
+13
+
+COMPANY ...........................REPORT FROM THE SUPERVISORY BOARD
+REPORT FROM THE SUPERVISORY BOARD
+Dear shareholders, Over the course of the 2013 business year, the Supervisory Board of Schweizer Electronic AG carried out its duties as defined by law and the company's Articles of Association. The Supervisory Board advised the Management Board on the leadership of the company extensively and on a regular basis, and supervised the management of the company. To enable it to fulfil its duties, the Supervisory Board was kept informed both verbally and in writing of the company's position in a comprehensive and timely manner. The members of the Supervisory Board received written reports, analyses and income statements on a monthly basis. A significant number of individual meetings took place between the Chairman, his deputy, the finance committee and the Management Board members. These concerned informational and work matters, with particular emphasis placed upon regular risk analyses and their significance for the company. The content and scope of the reporting by the Management Board at all times fulfilled the requirements of the Supervisory Board to the full extent. Decisions or measures by the management requiring the approval of the Supervisory Board due to law, the Articles of Association or rules of procedure were presented in good time, inspected and the relevant judgements made. In the 2013 business year, five rotational and one extraordinary meeting of the Supervisory Board and three meetings of the finance committee took place. With the exception of one meeting, all meetings ­ some of which lasted several days ­ were attended by all members of the Supervisory Board.
+KEY AREAS OF THE MEETINGS OF THE SUPERVISORY BOARD AND FINANCE COMMITTEE
+Key areas of focus in the 2013 business year were the ongoing strategic development of the various divisions, and the opportunities and risks for SCHWEIZER in the Asia growth region. These issues were discussed and agreed upon in close cooperation between the Management Board and the Supervisory Board. The Management Board always involved the Supervisory Board in all key decisions affecting the company.
+In addition to regular discussion of the ongoing development of the business, the Supervisory Board also focused on the following issues:
+14
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+During its meeting in March, the Supervisory Board addressed the financial statement, status report and audit report for the 2012 business year. Other areas addressed included the proposal for appropriation of profit to the shareholders and the agenda for the annual general meeting. The Supervisory Board dealt with changes to the German Corporate Governance Code and updated the Declaration of Conformity. The Supervisory Board was kept informed by the Management Board of developments in the individual divisions. Business developments and the opportunities and risks for the individual divisions also formed key areas for information, discussion and advice at the meetings in April, June and July of the past year. In October the meetings of the finance committee and the Supervisory Board took place in Vietnam. This gave the members of the Supervisory Board the opportunity to form their own picture of the activities being pursued in the context of the Meiko Schweizer Electronics Co. Ltd. joint venture. Other areas discussed at these meetings included the risk management system and the reappointment of Management Board members Dr. Marc Schweizer and Nicolas-Fabian Schweizer. In addition to reporting on business developments, aspects covered in the November meeting included operational and financial planning by the Management Board from 2014 to 2016, the status and progress of the IT consolidation and updating the Declaration of Conformity. Efficiency reviews were carried out and documented.
+SUPERVISORY BOARD COMMITTEES
+The Supervisory Board has set up a finance committee with the goal of increasing efficiency. For a company of our size and orientation, we do not believe that it is either advisable or necessary to set up any further committees. Tasks which had been designated for other committees can be easily dealt with by the finance committee, provided that these are not to be dealt with by the Supervisory Board plenum.
+15
+
+COMPANY ...........................WHO WE ARE
+FINANCIAL STATEMENT, FINANCIAL STATEMENT AUDIT
+The financial statement and status report of Schweizer Electronic AG were produced according to the provisions of the German Commercial Code (Handelsgesetzbuch, HGB) and the German Stock Corporation Act (Aktiengesetz, AktG). As decided in the 2013 annual general meeting, the Supervisory Board commissioned the Villingen-Schwenningen office of Ernst & Young GmbH, Stuttgart, with the audit of the company's accounts, financial statement and management report. An unqualified audit opinion was issued on 17 February 2014. The auditor's financial statement, status report and audit report were made available to all members of the Supervisory Board. The Supervisory Board meeting of 17 March 2014 was attended by the auditor, who supplied the Supervisory Board with their written report and provided exhaustive answers to all questions. The financial statement, status report and proposal for the use of the balance-sheet profit were all discussed in detail by the Supervisory Board. There were no objections and the Supervisory Board approved the audit results. The financial statement of 17 March 2014 is thereby adopted in accordance with Section 172 of the German Stock Corporation Act (AktG). The Supervisory Board has aligned itself with the proposal for appropriation of profit, which allows for a dividend of EUR 0.60. The Supervisory Board extends its sincere gratitude to all employees, whose commitment and dedication made an essential contribution to the company's success. We also extend our thanks to the Management Board and company executives, whose actions and well-considered, effective strategies have kept SCHWEIZER on its successful path. Schramberg, 17 March 2014 The Supervisory Board
+Christoph Schweizer Chairman
+16
+
+WHO WE ARE
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+SCHWEIZER is the people who go to make up SCHWEIZER.
+Alongside a conscientious management team who promote an open culture of diversity and of working "for" one another, these people are the employees who spare no efforts to ensure SCHWEIZER meets the high standards it sets for itself both at home and internationally.
+They are employees who are continually inspired to support the dynamic development of the company with commitment and loyalty, who seize every opportunity for personal development and do everything they can to ensure our customers are satisfied.
+
+17
+
+COMPANY ...........................WHO WE ARE
+"The experience I gained from the manufacturing processes at the Schramberg site is proving to be a great help in setting up the production line in Hanoi. What's completely new for me is working in a different cultural environment. Despite different approaches and ways of working, I have found the work with my new colleagues from Japan, Vietnam and Singapore to be open and constructive, and always marked by great respect for one another."
+Edwin Böckeler Director Operations Vietnam
+18
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+"I enjoy tackling the complex challenges that our customers present us with. And, I find it very inspiring that as a team we bring our creativity, energy and passion to these challenges and, time and again, succeed in bringing solutions to our customers that are innovative and set worldwide standards."
+Jue Chen Innovation Manager
+19
+
+COMPANY ...........................WHO WE ARE
+"Germany is recognised throughout the world for the outstanding quality of its manufactured products. To ensure we live up to this reputation, the complex manufacturing processes at SCHWEIZER are kept under close review. These demanding requirements do not just apply to products however, but also to services. The strong reputation of our services among our customers and within the company is a great motivator for me."
+Tanja Meister Quality Control
+20
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+"Our customers expect us to put innovations into series production at a very swift rate and for orders to be turned around quickly and flexibly. To fulfil these expectations, we need the right processes and equipment. A well-trained team ensures an extremely high degree
+of accuracy and short response times. This enables us to produce small to medium output volumes in consistent quality from different sites around the world."
+Carsten Brudlo Manager Surface Finishing
+21
+
+COMPANY ...........................WHO WE ARE
+"Since the cooperation between SCHWEIZER and MEIKO came into being in 2009 it has been my role as Partnership Manager to build bridges between the two companies and to act as a mediator between two cultures.
+I have been living in Germany for 4 years and there is still much that is new about the country and people that I can convey to my colleagues in Japan and China. At the same time, my colleagues in Germany are always fascinated to learn as much as possible about living and working in Asia. This helps to further mutual understanding and promote close and effective working relationships between the teams in the Far East and Europe."
+Shinjiro Naito Partner Management MEIKO
+22
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+"The recruitment of new talent and people with experience is a particular challenge, and we are extremely proud that we continue to be successful in doing this. Having colleagues with different international backgrounds, of all ages and with different professional experience makes our day-to-day working lives that much the richer. After all, learning from one another and enjoying achievements together is what it's all about!"
+Sabrina Engel Talent Manager
+23
+
+COMPANY ...........................WHO WE ARE
+"Being ready to respond to the needs and wishes of our customers and whatever each new day may bring is an exciting challenge. With increasing internationalisation my role has become more complex and demanding, but also more interesting. I always seek to support our clients in the best way possible, and am able to draw on the expertise of my colleagues in sales and marketing to help me do this. I am not satisfied until the customer is satisfied."
+Cornelia Aberle Customer Service
+24
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+"Our products and solutions have made us a recognised partner for our customers in the automotive and industrial electronics sectors for many years now. Large manufacturers are increasingly relocating their activities to Asia. We are standing by our production site in Germany, but at the same time we increasingly need to be prepared to do business with our customers at an international level. This demands a high level of coordination and a local presence. We have created a strong foundation for this through our global network and international alignment, bringing us closer to our customers and their products."
+Christian Rössle Vice President Sales & Marketing
+25
+
+COMPANY ...........................SCHWEIZER SUPPLIES CUTTING-EDGE TECHNOLOGY PRODUCTS OF ALL KINDS AND DIMENSIONS
+SCHWEIZER SUPPLIES CUTTING-EDGE TECHNOLOGY PRODUCTS OF ALL KINDS AND DIMENSIONS
+In many cases, PCBs are no longer straightforward standardised products, but more and more frequently form an integral component in a complete solution. SCHWEIZER's strategy is built around this approach and focuses on providing technology solutions that are developed in Europe and then produced in high volumes in conjunction with its partner MEIKO in Asia, faithful to its motto: "more than PCBs".
+
+CONSUMPTION, SAFETY AND COMFORT ARE WHAT COUNT FOR VEHICLES
+
+175
+g/km
+
+135
+
+2000
+
+g/km
+
+By 2020, vehicles in Europe will be required to emit only 95 g of CO2 per kilometre. That is equivalent to consumption
+
+2010
+
+of 3.6 l diesel or 4 l petrol per 100 km. To reach this target, new drive concepts need to be
+
+implemented across the board since these levels are unlikely to be achievable for manu-
+
+facturers in the premium segment without hybrid and electric vehicles.
+
+95
+g/km
+2020
+
+Driving should be as comfortable and safe as possible. This means more and more electrical systems in vehicles, all of which significantly increase electrical power requirements. In the future, alongside the 12 V on-board power supply of today, a 48 V power circuit and a high voltage circuit for electric vehicles will also be available. At the same time, the demands on the currents being switched will increase. Standard PCBs will no longer be able to keep up with these demands. Addressing this challenge will require power electronics solutions that are able to cope with high currents and provide effective heat dissipation, as well as having a high copper percentage. However, these solutions should only be used where absolutely necessary.
+
+Smart Battery Switch, SCHWEIZER Inlay Board in cooperation with Infineon
+
+26
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+APPLICATION EXAMPLES TO HELP TO REDUCE FUEL CONSUMPTION AND LOWER CO2 EMISSIONS
+
+New concepts in the drive train, e.g. new approaches to transmission electronics with the ENEPAG Board in cooperation with Continental
+
+Forward-looking navigation e.g. with CCTV systems and the FR4 Flex Board in cooperation with Continental
+
+Start/stop with the Inlay Board in cooperation with Continental
+
+LED headlight with the SCHWEIZER copper IMS Board
+
+Adaptive Cruise Control with the HF Board in cooperation with Bosch
+
+Demand-driven electric motors with the Combi Board in cooperation with Infineon
+
+Increasing electrification for cars with conventional drive, hybrid vehicles or electric cars with the p² Pack®
+27
+
+COMPANY ...........................SHARES
+
+SHARES
+
+CAPITAL MARKETS SHOW POSITIVE TREND
+Due to the favourable development of the economy, an expansionary monetary policy by the central bank and alltime low interest rates, stock markets have been buoyant in 2013. Government announcements have had few or no negative effects on the stock markets. Instead, individual positive news stories around the Eurozone and upward movement in the internal market have had a positive impact. After the DAX reached a peak of 8,000 points in March 2013, it again briefly dropped to 7,500 points in April, below the level at the start of the year. The strong gains in the share price in the month of May were also quickly ceded again and the index returned to the 7,700 point level. During the summer months the DAX experienced major fluctuations within a fluctuation margin of around 1,000 points. But come October the German leading index reached the 9,000 points mark for the first time in its 25-year history and from then until the end of the year bounced from one record high to another. The DAX finished the year at 9,552 points, 25 % higher than at the close of 2012. Technology barometer TecDAX showed an even more positive trend, finishing the year at 1,166 points, representing a 41 % rise in value.
+
+SCHWEIZER SHARES ROSE BY MORE THAN 37 % OVER THE YEAR
+With a price gain of 37.8 %, the trend for SCHWEIZER shares has also been very positive over 2013. Following a strong start to the year, the share price showed an increase of around 26 % by the end of January alone. However, these gains in the share price were ceded by the end of February. Over the following months the share price showed a slight, but consistently negative sideways trend. This trend was halted at the start of August with a low for the year of EUR 12.20. Due to the very strong performance of the business, at the start of September shares were again trading at a price of EUR 16.45, representing a rise in value of approximately 13 % compared to the start of the year. The improved business projection for the 2013 business year was very positively received in the fourth quarter, which resulted in further price gains and an end-of-year share price for Schweizer Electronic AG of EUR 20.00. Including the dividend paid out in July in the amount of EUR 0.55 per share, this equates to performance including the dividend of 41.6 %, equivalent to the performance of TecDAX and far outperforming the DAX.
+
+Share price 1st January 2013 ­ 28th February 2014
+
+180 %
+
++ 37.8 %
+
+160 %
+
+140 %
+
+120 %
+
+100 %
+
+80 % J 13 F 13 M 13 A 13 M 13 J 13 J 13 A 13 S 13 O 13 N 13 D 13 J 14 F 14
+
+Schweizer Electronic AG 28
+
+TecDAX
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+DIVIDEND INCREASED TO EUR 0.60
+
+SHAREHOLDER STRUCTURE
+
+In accordance with the company's cash flow oriented dividend policy, shareholders should also see the benefits of the positive business performance this year. Through its dividend policy, SCHWEIZER is pursuing a strategy of equitably sharing the company's success with all stakeholders as well as building up cash reserves. Building up cash reserves should also help to ensure consistent improvement in the dividend.
+
+At the end of 2013 the free float portion of shares increased by just under four percentage points compared to December 2012, while the number of shareholders increased by 7 % in the same period. Institutional investors held just under 9 % of SCHWEIZER shares. The stake held by the Schweizer families remained constant at approximately 66 %. At year-end, our cooperation partner MEIKO still owned a 4.76 % stake in the company.
+
+Following resumption of the dividend payout by SCHWEIZER in the 2010 business year, this will be the third year in a row we are able to propose an increase in the dividend to the annual general meeting. The Supervisory Board and Management Board will propose a dividend of EUR 0.60 per share at the upcoming annual general meeting. The year-end closing price of EUR 20.00 equates to a dividend yield of 3.0 %.
+Dividend in EUR
+*proposal to annual general meeting
+
+Shareholder structure as of 31/12/2013
+
+FAMILY SCHWEIZER 65.88 % MEIKO 4.76 % FREE FLOAT 19.16 %
+INSTITUTIONAL INVESTORS 8.69 % SCHWEIZER PTE. LTD. 1.43 % OWN SHARES 0.08 %
+
+3,780,000 SHARES
+
+0.55
+
+0.60*
+
+0.42
+
+0.47
+
+2010
+
+2011
+
+2012
+
+2013
+
+INVESTOR RELATIONS
+
+SHARE KEY FIGURES
+
+Year-end closing price Year high Year low No. of shares Market capitalisation at end of business year
+
+2013 EUR 20.00 EUR 20.00 EUR 12.20 3,780,000
+EUR 75.6 million
+
+2012 EUR 14.51 EUR 16.40 EUR 11.50 3,780,000
+EUR 54.8 million
+
+The management of Schweizer Electronic AG takes very seriously its task of informing the capital market participants in a detailed, transparent and thorough manner. In addition to its extensive financial reporting, the management team attended capital market conferences and investor meetings. The trusting and long-term relationships with all stakeholders are further underlined by the
+extensive information which can be found on the SCHWEIZER website at www.schweizer.ag/ en/investor-relations.html.
+
+BASIC SHARE DATA
+ISIN German Securities Code (WKN) Symbol Listed in
+Stock market segment Level of transparency
+
+DE0005156236 515623
+SCE Xetra, Frankfurt, Stuttgart, Düsseldorf, Berlin Regulated market General Standard
+
+29
+
+STATUS REPORT
+I. Business and general conditions...................................................................................... 31 Business model.......................................................................................................... 31 Objectives and strategy............................................................................................ 31 Research and development ...................................................................................... 32
+II. Economic report................................................................................................................. 34 Overall economic and industry-specific conditions .............................................. 34 Business development .............................................................................................. 34 Earnings, net assets and financial position............................................................ 34
+III. Supplementary report ....................................................................................................... 38 IV. Outlook and opportunity report....................................................................................... 39 V. Risk management report .................................................................................................. 46 VI. Characteristics of the internal control and risk management
+system governing the financial accounting process...................................................... 48 VII. Matters relevant to acquisitions ...................................................................................... 50 VIII. Corporate governance statement in accordance with Section 289a HGB................... 51 IX. Remuneration report......................................................................................................... 52
+30
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+I BUSINESS AND GENERAL CONDITIONS
+
+BUSINESS MODEL
+Schweizer Electronic AG is a global best-in-class technology company active in the manufacture of high-quality PCBs and the provision of innovative solutions to the automotive, solar, industry and aerospace sectors. Based on its recognised technology and consultancy expertise, SCHWEIZER supplies products and solutions that address key challenges in power electronics, embedding technology and cost reduction and that stand out thanks to their energy efficiency and consideration for the environment. In the Electronic division, working with its partners Elekonta Marek GmbH & Co. KG and Meiko Electronics Co. Ltd., the company supplies cost and production optimised solutions for small and medium batch sizes as well as for mass production. SCHWEIZER has 700 employees, with more than 11,000 people employed in its extended network in Germany, Japan, China and Vietnam. Schweizer Electronic has been listed on the stock exchange since 5 July 1989. Its shares (WKN 515623) are listed in Frankfurt am Main and Stuttgart.
+OBJECTIVES AND STRATEGY
+Strategic alignment and diversification The company strategy is focused on the Asian growth region as a complement to its European business. SCHWEIZER also intends to increase its involvement in the fields of energy efficiency and electromobility and has adapted its portfolio accordingly. The implementation of this strategy is based on the company's structuring into three divisions: Electronic, Systems and Energy. Whilst the Electronic division has been established for many years, the Systems and Energy divisions are in the process of development.
+Electronic division Together with its partners Elekonta and Meiko Electronics, SCHWEIZER is one of the top two worldwide suppliers of PCBs to the automotive industry. Within the partnership, Elekonta is focused on the production of prototypes. Meiko Electronics is responsible for mass production at low-cost locations in China and Vietnam and also has
+
+technology plants in Japan. Through the Meiko Schweizer Electronics Co. Ltd. joint venture SCHWEIZER also has available production lines in Vietnam (under development) that specifically cater to the requirements of European customers.
+For the Electronic division the company holds a stake in Meiko Electronics Co. Ltd., Ayase, Japan and through subsidiary Schweizer Pte. Ltd., Singapore, it holds shares in Schweizer Electronic Singapore Pte. Ltd. and in Meiko Schweizer Electronics Co. Ltd., Hong Kong.
+Systems division The creation of the Systems division is the logical consequence of increasing customer demand, SCHWEIZER's experience and expertise as well as its new solutions based on embedding technologies (integration of active and passive components into the PCB). The prevailing business model, whereby customers purchase the required PCBs and components separately, will be altered by the embedding approach. The current sequential approach will develop into a triangular relationship between providers of PCBs and semiconductors, passive elements for the components to be integrated and the customers themselves. This requires in-depth management with regard to the procurement of services and products, quality standards and transitions, delivery forms and formats for this new model. To enable early implementation of this new approach and complete its range of products and services, SCHWEIZER is working closely with industry partners and technical institutes to ensure that the Schweizer Systems division can offer customers PCBs and much more besides.
+Energy division Schweizer Energy is aiming to become a solution provider in renewable energies through photovoltaics. SCHWEIZER's high-efficiency cells and modules, which are to be manufactured using state-of-the-art production technology and systems, are key in reducing system costs. SCHWEIZER also follows the approach of integrating photovoltaics as an integral part of conceptual building design. As a forward-looking company, SCHWEIZER is also planning to be active in the off-grid sector and to offer solutions for private households and municipal authorities (self-consumption) in conjunction with storage media.
+
+31
+
+STATUS REPORT.................I OVERALL ECONOMIC AND INDUSTRY-SPECIFIC CONDITIONS
+
+For the Energy division the company holds shares through Schweizer Pte. Ltd., Singapore, in Schweizer Energy Production Pte. Ltd., Singapore, and in Schweizer Energy Production Nantong Ltd., China.
+RESEARCH AND DEVELOPMENT
+Research and development plays a key role at SCHWEIZER. The company therefore pressed ahead with its research and development efforts in 2013, despite cost discipline measures. SCHWEIZER research anticipates trends, customer wishes and requirements, which are consistently implemented from development through to series production. The company aims to provide customers with products and tailored solutions, and has aligned its technology portfolio and core competencies accordingly. The results of the company's research and development are protected by means of systematic property rights management.
+R&D activities are aligned to the technology modules and their ongoing development. Hence the key focus in the 2013 business year was on power electronics, embedding and system cost reduction.
+
+Power electronics  Substitution of ceramic superstructures with PCB
+solutions  Additional heavy copper solutions for slimmer prod-
+ucts with better thermal performance  Further cost reduction by insourcing value creation
+processes  Semiconductor applications for new technologies
+with partners such as Smart Battery Switch in conjunction with Infineon Technologies AG  New high temperature materials and thermo-prepregs, e.g. for diverse new LED applications in the automotive segment
+Embedding (miniaturisation) and new assembly and connectivity techniques  For power: Ongoing development of heavy copper and
+inlay solutions to create single-board solutions that combine logic and power on the same board, while improving performance and lowering costs  For logic: Solutions for semiconductors with a high number of I/Os and in combination with passive components  For modules: Solutions for smaller chips with fewer I/Os
+
+32
+
+System cost reduction  3D PCBs for safety-related applications  Expanding solutions for radar applications, e.g. new
+"Single Board" solutions in hybrid or mixed superstructures  Combi Boards to combine diverse SCHWEIZER technologies
+In addition to its close cooperation with customers in joint development projects, SCHWEIZER also uses the services of partners to achieve its ambitious R&D goals. Particularly in the face of future technological challenges and the need to bring products to market as quickly as possible, this close interaction is an absolutely essential requirement. In all its joint research and development work, SCHWEIZER ensures that it retains the core competencies for the relevant technologies.
+Through intensive research and development activities, in 2013 SCHWEIZER succeeded in further expanding its strategic importance as a development partner among key customers. Together with the processing of projects funded by the Federal Ministry of Education and Research (BMBF), we were also able to further expand our existing network of universities and institutes.
+In 2013, spending on research and development totalled EUR 2.4 million.
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+33
+
+STATUS REPORT.................II ECONOMIC REPORT
+
+II ECONOMIC REPORT
+
+OVERALL ECONOMIC AND INDUSTRY-SPECIFIC CONDITIONS
+
+EARNINGS, NET ASSETS AND FINANCIAL POSITION
+
+In the 2013 calendar year growth in the global economy fell short of expectations. Nevertheless, the outlook for the economic situation in the large industrialised nations brightened over the course of the calendar year. This is confirmed by the actual figures, which show that the leading nations in Asia have lost momentum to some extent. Economic growth slowed in China and India. Low levels of borrowing compared to the established economies, relatively low unemployment and rising per capita income give grounds for optimism for the future. The Chinese economy is very unlikely to return to the double-figure growth rates of the past. However, it will remain the driving force in the global PCB market and will continue to strengthen its leading position.
+BUSINESS DEVELOPMENT
+The global PCB market is expected to have grown slightly by USD 55.5 billion (previous year: USD 55.0 billion) in 2013. This is equivalent to worldwide growth of approx. 0.8 % on the previous year across all segments. In contrast, production volumes in Europe are expected to have fallen by around 7 % (Prismark). Despite this, SCHWEIZER saw modest growth in its sales revenue of 1 %. The company was particularly successful in its key automotive and industry customer segments.
+
+EARNINGS AND ORDER SITUATION
+Development of sales Revenue for SCHWEIZER in the reporting year was EUR 101.2 million, representing a 1.0 % increase on the previous year (previous year: EUR 100.2 million). While revenue in the first quarter at EUR 23.6 million fell below expectations, the trend for the second half of the year was very positive. The fourth quarter showed particularly strong growth with sales of EUR 25.7 million, contributing to the overall increase in sales.
+Markets / In Germany sales increased by 8.2 % to EUR 66.3 million (previous year: EUR 61.3 million), which means 66 % of revenue was generated in Germany. The second biggest market for SCHWEIZER is Hungary. With sales revenue of EUR 14.3 million this once again represented a 17.7 % increase on the previous year's figure. However, sales in Europe (outside Germany) fell by EUR 2.2 million to EUR 26.2 million. The biggest markets for the company outside Europe are the USA followed by China. Overall, business activity in the regions outside Europe was slightly behind that in the previous year. Revenue of EUR 4.5 million (previous year: EUR 4.7 million) was recorded in Asia (APAC region) . The Chinese market performed much better with growth of 11.9 %. Sales activity in countries on the American continent showed a reversal.
+
+Customers / Sales for customers in the automotive sector developed extremely well. Revenue of EUR 69.6 million (previous year: EUR 65.3 million) was realised in this customer segment, equivalent to a 6.5 % increase on the
+
+Sales by customer segment AUTOMOTIVE 69 %
+
+INDUSTRY 23 %
+SOLAR 1 % OTHERS 7 %
+
+101.2 MILLION EUR
+
+EUR millions Automotive Industry Solar Other
+
+2013 69.6 23.0
+1.5 7.1 101.2
+
+2012 65.3 21.6
+5.6 7.7 100.2
+
+34
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+previous year. By contrast, customers in the industrial electronics sectors (incl. solar) bought 9.9 % less from SCHWEIZER and jointly account for revenue of EUR 24.5 million (previous year: EUR 27.2 million). Business activity for customers in industry other than solar electronics showed a very positive trend with an increase in sales of 6.6 % to EUR 23.0 million.
+Technology / Again in 2013 the proportion of products in the SCHWEIZER technology portfolio ­ system cost reduction, embedding, power electronics ­ increased compared to conventional PCBs. The revenue from these highly innovative, solution-oriented products for customers increased to 42.1 % of the total revenue in 2013. In the previous year this figure was still at just 32.0 %. This clearly demonstrates that the company's strategy of moving towards becoming a technology partner for its customers is coming to fruition.
+Sites / In the reporting year the Schramberg site again increased output by EUR 0.9 million to EUR 94.6 million. 93.5 % of these sales were achieved by products manufactured at the Schramberg site. By contrast, the volumes produced by our high-volume partners in Asia fell slightly by EUR 1.3 million to EUR 6.4 million. The production facilities currently under development in Vietnam for the Meiko Schweizer Electronic joint venture are providing the foundation on which to exploit further potential.
+
+result of the exceptionally high level of innovation in this customer segment, orders compared to 2012 more than doubled and increased to EUR 95.0 million (previous year: EUR 41.6 million).
+Order activity for industrial electronics customers is also showing a positive trend, increasing by 20.6 % to EUR 22.8 million. Overall, the book-to-bill ratio in 2013 was at 1.3 (previous year: 0.7). As a consequence, SCHWEIZER started the new business year with orders amounting to EUR 114.2 million (previous year: EUR 89.8 million).
+Earnings trend EBITDA (earnings before interest, taxes, depreciation and amortisation) rose over the past business year to EUR 14.2 million (previous year: EUR 10.0 million) ­ equivalent to a 42 % increase compared to the previous year.
+The measures to reduce spending on raw materials and supplies and for purchased goods were particularly effective. Expenditure in this area reduced by EUR 0.6 million to EUR 38.8 million (previous year: EUR 39.4 million), while the overall performance of SCHWEIZER improved by 6.3 % standing at EUR 104.8 million. Falling world market prices for gold and copper, the main raw materials used by SCHWEIZER, also assisted in these spending control measures. Consequently, the gross profit margin increased to 60.9 % (previous year: 54.7 %).
+
+Order situation Incoming orders in the past business year amounted to EUR 126.6 million (previous year: EUR 71.3 million). The increase in new orders by EUR 55.3 million or 77.5 % is attributable to customers in the automotive sector. As a
+
+Personnel costs rose by EUR 1.6 million or 4.7 % to EUR 35.5 million (previous year: 33.9 million). Expenditure on wages and salaries remained fairly stable at EUR 29.1 million (previous year: EUR 28.7 million), notwithstanding the significantly higher overall performance. At the end of Decem-
+
+Sales by region GERMANY 66 %
+
+EUROPE 26 %
+(W/O GERMANY)
+ASIA 4 % AMERICA 4 %
+
+101.2 MILLION EUR
+
+EUR millions Germany Europe (w/o Germany) Asia America Other countries
+
+2013 66.3 26.2
+4.5 4.1 0.1 101.2
+
+2012 61.3 28.4
+4.7 5.5 0.3 100.2
+
+35
+
+STATUS REPORT.................II ECONOMIC REPORT
+
+ber 2013 SCHWEIZER had 736 employees, of which 639 are permanent staff. Therefore 73 employees have been taken on, of whom 11 are permanent staff members. In order to retain flexibility in personnel expenditure direct recruitment was overwhelmingly of temporary workers.
+
+NET ASSETS AND FINANCIAL POSITION
+With an equity ratio close to 60 % and net indebtedness of just over zero SCHWEIZER's balance sheet structures continued at a very robust level in the reporting year.
+
+Earnings before interest and taxes (EBIT) rose by 88.1 % to EUR 9.8 million (previous year: EUR 5.2 million). Depreciation fell to EUR 4.4 million (previous year: EUR 4.8 million).
+The financial result amounted to EUR -0.9 million (previous year: EUR -3.6 million). The EUR 2.7 million improvement resulted primarily from the EUR 2.8 million depreciation in the value of our stake in Meiko Electronics in the 2012 business year. Based on the stock market price trend this stake was again written down by EUR -0.1 million in the reporting year.
+Consequently, the earnings before taxes rose by 447 % to EUR 8.9 million (previous year: EUR 1.6 million). Due to the improved earnings, the expenditure for taxes on income and revenue rose to EUR 2.6 million (previous year: EUR 0.9 million). The tax quota amounted to 29.8 %.
+
+Fixed assets The company's assets increased to EUR 76.7 million. The increase of EUR 5.0 million resulted primarily from investment in financial assets totalling EUR 4.3 million. The entire amount was invested in Schweizer Pte. Ltd. in Singapore, by which means stakes were acquired in the companies. The largest single item was a capital contribution of EUR 3.3 million in Schweizer Electronic Singapore Pte. Ltd., which for its part invested this capital in the Meiko-Schweizer joint venture for the production of PCBs in Vietnam. Schweizer Pte. Ltd. also acquired 54,000 shares in Schweizer Electronic AG. The book value of tangible and intangible assets fell by EUR 2.1 million to EUR 28.2 million due to depreciation. Depreciation on tangible assets amounted to EUR 4.2 million and on additions to EUR 2.3 million. In total the fixed assets increased to EUR 38.6 million (previous year: EUR 36.5 million).
+
+With an annual net income of EUR 6.1 million, the result for the previous year was exceeded by 782 %. The earnings per share were EUR 1.62.
+
+Key Figures
+EUR millions Order entry EBITDA EBIT Annual net profit
+
+2013 126.6
+14.2 9.8 6.1
+
+2012 71.3 10.0
+5.2 0.7
+
+Change 78 % 42 % 88 %
+782 %
+
+Current assets The current assets increased by EUR 3.0 million to EUR 38.1 million. This was primarily due to the increase in the inventories by EUR 3.6 million. Both the increased semi-finished product inventory amounting to EUR 4.6 million (previous year: EUR 2.9 million) and the finished product inventory amounting to EUR 4.9 million (previous year: EUR 3.0 million) are attributable to full capacity utilisation at the production facilities in Schramberg. To ensure efficient occupation of the capacity and to avoid fluctuations, the size of the production batches was increased temporarily, which resulted in increased on-site stocks. Due to a good fourth quarter the receivables and other assets also rose by EUR 1.9 million to EUR 15.4 million. The cash on hand reduced by EUR 2.6 million to EUR 9.0 million.
+
+Additional assets were financed from operations. No new loans were taken out. Likewise, no credit lines were used to finance the increase in the current assets. On the reporting date SCHWEIZER had access to unused credit lines totalling EUR 8.2 million.
+
+36
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+Equity capital The equity capital rose by EUR 4.1 million to EUR 45.1 million. This increase resulted from the annual net profit of EUR 6.1 million generated in the reporting year less the expenditure for the dividend payout of EUR 2.1 million. To service the share bonus programme as part of the Management Board's Long Term Incentive Plan, a total of 5,000 of the company's own shares were bought back on the capital market. This is equivalent to 0.13 % of the share capital.
+
+Balance sheet structure in EUR millions
+
+Fixed Assets 36.5 38.6 45.1 40.9 Equity Capital
+
+Current Assets 35.1 38.1
+2012 2013
+
+Long-term 15.7 19.0 borrowed Capital
+Short-term 15.9 11.8 borrowed Capital
+2013 2012
+
+The equity ratio reached 58.8 %; an improvement on the previous year when it stood at 57.1 %.
+Borrowed capital The borrowed capital totalled EUR 31.6 million (previous year: EUR 30.7 million), of which EUR 15.7 million (previous year: EUR 19.0 million) was available to the company on a long-term basis. The fall of EUR 3.3 million resulted primarily from an unscheduled repayment of EUR 1.6 million in 2013 and scheduled repayments amounting to EUR 1.8 million in the 2014 business year. In contrast the short-term borrowed capital increased by EUR 4.1 million to EUR 15.9 million. This includes the following large single items: accounts payable increased by EUR 0.9 million, amortisation payments increased by EUR 1.2 million, tax provisions increased by EUR 0.9 million.
+
+Working capital At the close of the year the working capital amounted to EUR 21.2 million. The rise of EUR 4.1 million resulted from the increase in stock levels amounting to EUR 3.6 million and the increase in trade receivables amounting to EUR 1.2 million. The increased liabilities to suppliers amounting to EUR 4.4 million (previous year: EUR 3.5 million) had a positive effect on the working capital.
+
+Working capital
+EUR millions Stock levels Receivables Liabilities Working capital
+
+2013 13.5 15.6
+7.9 21.2
+
+2012 9.9
+13.7 6.5 17.1
+
+Change 36 % 14 % 22 % 24 %
+
+The provisions increased by EUR 1.6 million to EUR 13.0 million. The reduced discounting factors and future cost increases were crucial for pension provisions. For the other provisions the main increases were in the tax provisions.
+
+The liabilities fell slightly, amounting to EUR 18.4 million at the close of the year (previous year: EUR 19.0 million). The liabilities to credit institutions reduced disproportionately. As a result of an unscheduled repayment of EUR 1.6 million and scheduled repayments of EUR 0.8 million, liabilities to banks reached the level of EUR 7.4 million (previous year: EUR 9.8 million).
+
+Due to the high purchasing volume in the fourth quarter, the liabilities to suppliers increased by EUR 0.9 million to EUR 4.4 million.
+
+37
+
+STATUS REPORT.................II ECONOMIC REPORT
+
+Cash flow The cash flow from current business activities showed a slight improvement, amounting to EUR 8.8 million in comparison with EUR 7.2 million in the 2012 business year. The significantly increased period results could only be partially converted into higher cash flow through the increase in the working capital.
+SCHWEIZER invested EUR 7.0 million in 2013 (previous year: EUR 7.5 million). The most important single project was the capital payment totalling EUR 3.3 million to develop the joint venture with Meiko Electronics. In addition, a group loan was granted to Schweizer Pte. Ltd. in Singapore in the amount of EUR 1.0 million to finance the acquisition of the stake. Both investments increased the financial assets. EUR 2.6 million was invested in tangible fixed assets and intangible assets at the Schramberg site. Investment focused on systems to support the manufacture of technology products and for quality improvement.
+
+As a consequence, the fund for financing purposes amounted to EUR 9.0 million at the end of the reporting year (previous year: EUR 11.6 million).
+
+Cash flow
+
+EUR millions
+Cash flow from current business activities
+Cash flow from investment activities
+Cash flow from financial activities
+
+2013 8.8 -6.9 -4.5 9.0
+
+2012 7.2 -7.5 1.7
+11.6
+
+The cash flow from financial activities reduced by EUR 6.2 million to EUR -4.5 million. EUR 2.4 million went into repayments for long-term loans. EUR 2.1 million was siphoned off for the payment of the dividend of EUR 0.55 per share for the 2012 business year. The buyback of 5,000 of the company's own shares cost kEUR 77.
+
+III SUPPLEMENTARY REPORT
+No results came to light after the reporting date which had a significant influence on SCHWEIZER's earnings, net assets and financial position.
+
+38
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+IV OUTLOOK AND OPPORTUNITY REPORT
+
+TARGET BUSINESS MODEL
+The growth potential for SCHWEIZER results from the SCHWEIZER product portfolio, which is aligned to the growth markets of mobility and energy efficiency. It is demand in these two markets shaped by developments in society that drives SCHWEIZER's target markets.
+The company already holds a leading market position in the automotive sector. In relation to PCBs for the automotive industry SCHWEIZER together with MEIKO holds the number two position in the world in terms of turnover (approx. USD 440 million).
+In recent years, SCHWEIZER has further developed the Electronic business unit and successfully focused the corresponding product portfolio. The foundations have also been laid for the new Systems and Energy business units, which address the growth markets of mobility and energy efficiency.
+Focus areas for the Electronic Division  Expanding the leading technological position in power
+electronics, system cost reduction and high frequency (HF) applications  Intensifying the cooperation with our partners  Continuing our process of internationalisation  Achieving an increase of our production capacity in Vietnam and a technology extension in Germany.
+Focus areas for the Systems Division  Establishing partnerships with semiconductor com-
+panies  Market launch of new technologies in key applica-
+tions and growth markets  Substitution of currently used products by
+SCHWEIZER's technological solutions in already existing markets.
+Focus areas for the Energy Division  Using the next possible door for a market entry
+together with an industrial Asian investor.
+Given the market position and implemented growth drivers, SCHWEIZER believes it is capable of achieving an average level of growth above that of the reference mar-
+
+kets over the course of an economic cycle. SCHWEIZER is increasingly evolving into a provider of technologically advanced products with a deep understanding of applications. The level of product performance for the customer is increased as a result, with the time between product development and market launch also being shortened.
+SCHWEIZER has built a strong foundation.
+Market consolidation brings opportunities for SCHWEIZER Currently, around 2,500 companies worldwide supply extremely diverse types of PCBs. Price competition between manufacturers is ongoing and is likely to remain in play until the global PCB market has consolidated, in much the same way as in the European and American PCB market. In 2013 alone a large number of PCB firms closed their doors in China.
+There are many examples of the traditional market consolidation model to be seen in the electronics industry. The companies that survive are those with a firm financial foundation and/or those that have access to capital, while successfully differentiating themselves from their competitors.
+One example of this is the "memory chip market" (chips/ semiconductors). The number of participants in this market has now dropped to five. Only those companies that have stayed ahead of the game in terms of reducing the size of components and have sufficient reserves to survive one or more downturns continue to participate in this market. However, the miniaturisation of technology nodes is now no longer the ultimate success factor for technology. Trends in the sector are significantly influencing the specification of memory chips. As a result of the trend away from static PCs to portable devices the market for conventional memory chips, e.g. random access memory for PCs, has shrunk significantly with an equivalent growth in the market for "mobile RAM chips" for mobile devices. These aim to produce the optimum balance between power consumption and performance and to offer an optimised battery life. Five years ago the market share for these products was in the single figures, but now it accounts for more than 50 % of the memory chip market.
+
+39
+
+STATUS REPORT.................IV OUTLOOK AND OPPORTUNITY REPORT
+
+End use defines the trend As with the example outlined for the semiconductor industry, the PCB market is increasingly defined by application trends (end use trends). This is opening up many new market opportunities for technology companies, particularly in the automotive segment.
+This market is specifically characterised by long design-in cycles, demanding quality requirements and high price pressure. According to market research institute Prismark, over the coming years the automotive segment will become biggest driver of growth in the PCB market, displacing the mobile phone from its long-held position as the strongest growth market for PCBs.
+Consumption, safety and comfort are what count when it comes to mobility This growth is based on a combination of different factors relating to safety, comfort and the environment. For example, the requirement in Europe to limit CO2 emissions from vehicles to just 95 g/km. This is equivalent to consumption of 3.6 l diesel or 4 l petrol per 100 kilometres. For manufacturers of premium vehicles to achieve these levels, new drive concepts (hybrid and electric) will need to be implemented across the board.
+Driving should also be as comfortable and safe as possible. This requires the integration of a greater number of electrical systems into vehicles, all of which significantly increase electrical power requirements. In the future, alongside a 48 V on-board power supply, the battery will also supply a high voltage circuit for electric vehicles. In parallel with this, the demands on the currents being switched will increase. Standard PCBs will no longer be able to keep up with these demands.
+Addressing this challenge will require power electronics solutions that are able to cope with high currents and provide effective heat dissipation.
+Many manufacturers use a high proportion of copper in their PCBs to achieve this end. This drives manufacturing costs up and elevates the risk situation in the event of increases in the price of copper. For this reason, the SCHWEIZER technology portfolio includes solutions in
+
+which a significantly lower proportion of copper is used. The products manufactured by the Electronic division are leaders in their field and SCHWEIZER is known for the strength of its technology base.
+The global market for power electronics solutions is already roughly the size of the entire European PCB market. Moreover, power electronics PCBs are significantly cheaper than ceramic solutions. The market for ceramic superstructures is worth approx. USD 5 billion and could potentially be replaced in large part by power electronics PCBs. This equates to further growth opportunities for SCHWEIZER.
+PCBs moving towards becoming a high-performing system Nowadays, a mobile phone or smartphone can do much more than a PC was capable of just a few years ago. Comparable developments can be seen in the automotive segment, where miniaturisation is gaining ever more importance. When one considers for example that the engine compartment for a hybrid drive solution needs to accommodate not just a conventional internal combustion engine but also an electric motor, it is clear that every square millimetre of space counts. In order to save space, Schweizer Systems offers diverse PCB embedding solutions that use assembly and connectivity techniques to combine miniaturisation with enhanced performance and so help to optimise customer applications.
+Leading companies in the semiconductor industry that supply the components fitted to today's PCBs are starting to utilise the technological potential of PCBs. Ever finer substrate structures, the effective combination of active and passive components and the substitution of bonding wires are just three advances set to open up a new market worth billions.
+Advanced electronics protect vehicles and occupants Ever increasing volumes of traffic on the roads mean the safety of occupants, and in particular the driver, is increasingly critical. Reducing the number of people killed and injured on the roads is an ongoing priority. Vehicle electronics, such as airbags, play an important part in reducing fatalities and injuries. To begin with, airbags were a
+
+40
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+feature fitted in premium vehicles to protect the driver. Nowadays, airbags are fitted as standard at a number of points in vehicles as all-round protection for occupants.
+Applications such as radar, which is increasingly integrated as standard, are undergoing similar development in the automotive sector. The number of applications on vehicles is growing exponentially. These applications range from proximity cruise control, braking to standstill, proximity and collision warning systems and intelligent braking with adaptive brake assist to blind spot monitoring, lane change assist systems and rear cross traffic alert. All these systems contain sophisticated PCB materials that are significantly more expensive than standard materials. Consequently, one challenge is to apply these materials only partially. Having positioned itself in this market at an early stage, SCHWEIZER now takes a leading role and is in a position to grow fast with high frequency products.
+Technology and understanding of systems as success factors The applications described above are examples of the exacting requirements placed on the development process for PCB technologies, requirements that can only be met by a limited number of the world's 2,500 PCB suppliers. Special products, such as 3D PCBs, combinations of the solutions described above and many other products will continue to advance, providing increasingly greater differentiation potential for specialised suppliers, such as SCHWEIZER.
+
+Firstly, the debt relief process in the USA is already well-advanced. Balance sheets in the private sector are also on a much firmer footing and the situation for the banks has improved, which means lending rules can be relaxed somewhat. Secondly, the stresses in Europe's financial system, which reached their height at the end of 2011, have further lessened in 2013. This will further strengthen growth in the years ahead. Thirdly, lower inflation in the West will increase real spending power providing this continues to be accompanied by lower commodity prices.
+Positive signs The economic indicators give grounds for optimism. In many countries, including the major emerging nations, the business climate indices and early economic indicators are improving. These traditionally reliable indicators point towards a recovery in global economic growth. In addition, the company has observed growth in areas where demand is normally restrained in periods of economic uncertainty. For example, new vehicle registrations are at last on the up again in Europe. Incoming orders in export industries are also increasing in many countries (source: Bloomberg), a clear indication that global trade is growing. In the major emerging nations, which were the last to experience weakened growth, there are various indicators of a resumption in growth. China's GDP growth fell slightly in the first half of 2013, but is now showing an upward trend once again. All the indications point to growth for 2014. For the first time since 2010, global growth roughly corresponds to potential growth.
+
+PROSPECTS FOR GROWTH IN THE GLOBAL ECONOMY
+Towards a new equilibrium The global economy is developing more or less as expected. The business climate is steadily improving, confirming SCHWEIZER's analysis that global growth will gradually increase.
+Headwind easing off The headwind is easing off and the prospects for SCHWEIZER to experience further strong growth in 2014 are good.
+
+Encouraging signs for Europe's periphery states The member states on the periphery of the Eurozone, for so long in the eye of the storm of the European debt crisis, are slowly beginning to gain ground again. They are even closing the gap on some of the core European nations in terms of economic growth. The fundamental figures for the Eurozone show a clear upwards trend. The systemic risks and financial stresses have decreased. Most countries are again seeing growth, if not in 2014 then for 2015. Stronger external growth, greater competitiveness, fewer government cutbacks and less uncertainty will help to boost the markets.
+
+41
+
+STATUS REPORT.................IV OUTLOOK AND OPPORTUNITY REPORT
+
+PROSPECTS FOR GROWTH IN THE ELECTRONIC AND SYSTEMS DIVISIONS
+Higher growth expected in the PCB market It is estimated that the global market for PCBs was worth USD 55.5 billion in 2013, equivalent to growth of 0.8 % on 2012. Economic analysts (sources: Prismark, ZVEI) anticipate average annual growth for the period 2014 to 2017 of around 3.2 % to USD 64.5 billion by 2017. The Asian markets will be dominated by the 3-C segments (computing, communication and consumer), and Europe by the automotive and industry segments.
+The highest growth for PCBs will be seen in the automotive segment with average annual growth of 5.9 % or above. This assessment is further substantiated by IHS (analysts in the semiconductor field) who forecast growth of 8 % for semiconductors.
+
+PROSPECTS FOR GROWTH IN THE ENERGY DIVISION
+Outlook again positive Following several difficult years, analysts rate the prospects for 2014 and 2015 as positive once again. Deutsche Bank Market Research (DBMR) predicts that the market could show a strong upward trend. While recent DBMR forecasts have been generally cautious, they now expect global demand to increase to 46 GW and 56 GW for 2014 and 2015 respectively. DBMR believes that the unanticipated additional demand from markets in the USA, Japan and China could hold up in 2014. They anticipate tightened incentive programmes in China, the signalling of further subsidy cuts at the end of 2014 and slackening financial constraints will provide positive catalysts for growth. It is also expected that network and financing constraints will improve from 2014 onwards.
+
+RESEARCH AND DEVELOPMENT
+
+In Research and Development the focus in 2014 will continue to be on taking innovative solutions from the technology spectrum and transferring them to series production, while reducing the manufacturing costs involved. An organisational structure will also be developed for R&D in Asia. SCHWEIZER will increase the total number of R&D employees both in Germany and in Asia.
+
+42
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+INVESTMENT, PRODUCTION CAPACITIES AND DEPRECIATION
+
+CASH FLOW FROM FINANCIAL ACTIVITIES ­ DIVIDEND POLICY
+
+In the second half of the 2013 business year the demand for products and the associated capacity utilisation at the technology plant in Germany increased significantly. Capacity utilisation at the plants of our MEIKO partners was also very good. The Meiko Schweizer Electronics Co. Ltd. joint venture for the production facility in Vietnam is still under development, with the major portion of the investment for the first completion stage already committed.
+Due to the high level of customer demand and greater dynamism in the product portfolio geared towards technology products with higher added value, investment in 2014 for the Electronic and Systems divisions will increase to around EUR 9 million. For the Energy division, the funding levels can be further restricted, and no additional funding (e.g. through equity contributions to the Schweizer Electronic AG financial investments) is currently planned.
+EMPLOYEE DEVELOPMENT
+The number of employees rose between 2012 and 2013 from 663 to 736 at year end. Further recruitment is planned for 2014 at the Schramberg site, in particular in research and development. The workforce increased by around 150 employees for the production joint venture in Vietnam.
+
+In the years ahead SCHWEIZER will continue the policy pursued over recent years of stable dividends.
+In the 2010 business year, SCHWEIZER resumed dividend payments and distributed a dividend of EUR 0.42 per share. In subsequent years the dividend was increased to EUR 0.47 per share in 2011 and EUR 0.55 per share in 2012.
+The Supervisory Board and Management Board are intending to propose a dividend of EUR 0.60 at the next annual general meeting.
+With its dividend policy, SCHWEIZER is pursuing a strategy of involving shareholders to an appropriate extent and building up cash reserves, which should ensure continuous development of the dividend. SCHWEIZER is therefore working on the basis that it will pay at least constant dividends in future. If the positive trend in the global economy is maintained such that SCHWEIZER can continue its growth path, it may be possible to pay increased dividends. Part of the dividend policy is also the appropriate involvement of employees in the success of the company by means of performance-related payments.
+SCHWEIZER ensures there is a balanced use of equity capital and borrowed capital when financing new projects, a ratio that is aligned with the strategic equity capital rate with regard to expansion-related and technology investments. SCHWEIZER will continue to maintain higher levels of investment in years to come. Financing of the investment programme in the Electronic and Systems business segments is already assured by agreed credit facilities.
+
+43
+
+STATUS REPORT.................IV OUTLOOK AND OPPORTUNITY REPORT
+
+TAXES
+The company anticipates a comparable tax quota on earnings in 2013.
+
+OVERALL STATEMENT ON THE EXPECTED DEVELOPMENT OF SCHWEIZER
+
+WORKING CAPITAL
+Following a EUR 4.1 million increase in working capital to EUR 21.2 million in the previous business year, SCHWEIZER expects this to stabilise in 2014. It is anticipated that the level of receivables will increase slightly in line with the sales forecasts. The stable customer structure should mean average terms of payment remain at the level of the previous year. Accordingly, the accounts payable will show an upward trend. The company is not currently proposing any change to the payment policy, which is primarily targeted at the exploitation of discounts.
+
+Based on the positive outlook for the development of the global economy and the market segments in the 2014 calendar year, SCHWEIZER anticipates growth in sales on the previous year of 3 to 7 %. This expectation is further strengthened by the healthy state of the order book, which amounted to EUR 114 million at year end.
+Mobility and energy efficiency are long-term drivers for the growth of SCHWEIZER. In the Electronic core business, the company leads the market, has excellent technologies and products in addition to well-established customer relationships that we can also use in the Systems division. SCHWEIZER's customers are leaders in their sales segments.
+
+SCHWEIZER is working to bring down the level of stocks of unfinished goods, which increased in the past year due to capacity utilisation, through investment in eliminating bottlenecks, improving processes and increasing the size of the workforce.
+
+Through its subsidiaries, joint ventures and partnerships SCHWEIZER has access to the Asian growth regions. This gives the company a firm basis on which to further expand its market position together with its strategic partners. Against this background, the Management Board believes the company is very well positioned to see further profitable growth in sales throughout the 2014 business year.
+
+BALANCE SHEET STRUCTURE ­ EQUITY CAPITAL TREND
+The objectives for the balance sheet structure of Schweizer Electronic AG are targeted at maintaining a creditworthiness assessment at investment grade for refinancing by means of borrowed capital. In this context, SCHWEIZER is pursuing the long-term objectives of net indebtedness below 90 % and an equity capital rate of 35­40 %. SCHWEIZER's plans make allowances for the event that these objectives are considerably exceeded once again over the coming business years. The company is working on the basis of a moderate increase in equity capital for 2014 as a result of the expected positive results in 2014.
+
+Provided the global economic trend remains stable, SCHWEIZER expects to see even higher growth in the 2015 business year than in 2014. By this time the capacities in the Meiko Schweizer Electronics joint venture and the production facility in Vietnam will be fully on stream. In addition, investment in the technology plant in Germany in 2014 will allow for greater dynamism in the product portfolio and even more sophisticated products with greater added value.
+
+44
+
+PROFIT MARGIN
+The expected growth in sales and portfolio changes for the 2014 business year are likely to produce a slight improvement in the results compared to 2013.
+The high level of production capacity utilisation will mitigate any minor negative effects due to increased depreciation as a result of investment in technology production facilities and expenditure for starting up the production capacity in Vietnam.
+Based on rising sales the result is expected to further improve in 2015. This will be helped by the additional production capacity in Vietnam, which by this time will have gone through the automotive customer approval process, as well as the growing technology share in Germany.
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+45
+
+STATUS REPORT.................V RISK MANAGEMENT REPORT
+
+V RISK MANAGEMENT REPORT
+
+FUNDAMENTALS
+Effective management of risks and opportunities is an important part of the business activities and supports the goal of growing sustainably and profitably. The core business of PCBs is largely characterised by regular periods of market growth that alternate with downturns in the market. Moreover, the risk and opportunity position is affected by the need for a high level of investment in order to achieve and secure a market position as well as exceptionally fast technological turnaround. The battle with the competition on innovation advances also extends to the legal level. Against the background of these fundamental characteristics of the PCB industry, the SCHWEIZER risk policy is aimed at responding quickly to opportunities and exploiting them in order to continually add value for the company. At the same time, any risks ­ which could be associated with the exploitation of opportunities ­ must be actively controlled and any substantial risk of forfeiture avoided. For this purpose, risk management is closely linked to planning at company level and implementation of the strategy and falls to the higher responsibility of the Management Board.
+
+cial position and earnings, cash flow and reputation as well as probability of occurrence. A risk indicator is determined for the potential degree of impact on the business activities, financial position and earnings, cash flow and reputation, and probability of occurrence.
+SIGNIFICANT RISKS
+Currency Risks / Due to its international integration, SCHWEIZER is subject to exchange rate risks and opportunities. In particular, supplies from the strategic cooperation partner Meiko Electronics are paid for in US dollars, meaning that material expenditure is subject to an exchange rate risk. The majority of the company's sales markets, however, are located in the euro area. Consequently, US dollar expenditure exceeds US dollar income. The hedging tools used by Schweizer Electronic AG take into account existing foreign currency receivables and payables as well as expected payment flows. Derivative financial instruments are used in order to reduce currency risks and secure the calculation basis for customer orders. Currency risks are monitored and managed centrally.
+
+For the purposes of implementing the risk policy, we have established a risk management and control system made up of a number of complementary elements. In addition to the "Risk and opportunity management" and "Internal control system governing the financial accounting process" systems described below, this notably includes the standardised planning, control and internal reporting processes linked to the systems.
+In principle, it is the job of each and every employee to actively avert all imminent risks to the company. The risk system is therefore recorded in a management document that is accessible to all employees and that includes planning, information and controlling processes. A cross-hierarchy reporting system ensures that management receives accurate information.
+All relevant risks and opportunities are evaluated in a standardised way from a quantitative and/or qualitative perspective. The assessment covers the following dimensions: degree of impact on the business activities, finan-
+
+Procurement risks / For SCHWEIZER, the consolidation of the PCB industry in Europe has had a positive effect on the sales markets. However, it has also resulted in additional risks on the procurement side from Germany and Europe. Lower demand from Europe for materials involved in the manufacture of PCBs could result in major European suppliers ceasing their activities. SCHWEIZER is therefore putting in efforts now to guard against such a scenario with the multiple qualification of materials, to prepare for alternative procurement from other continents. In this context, additional suppliers from Asia were audited, qualified and approved in the past financial year (2013), In addition, the risk situation is regularly evaluated ­ together with the insurer ­ with respect to insurance cover.
+Strongly fluctuating markets for industrial raw materials combined with the extremely volatile raw material prices mean that there is a costing risk. This risk is countered by concluding contracts with suppliers in good time. The possibility of futures contracts and raw material SWAPs was reviewed in 2013 within the scope of commodity manage-
+
+46
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+ment and SCHWEIZER took corresponding measures. The most important raw materials (copper, gold, aluminium) are monitored on a weekly basis. In addition, the current and expected price level of the most important materials as well as the creditworthiness and delivery performance of suppliers are made available to management in the quarterly purchasing report.
+Credit risk / The positive trend in the automotive segment caused dependency on the automotive industry to heighten further during the reporting year. As this industry sector is subject to cyclical variations, there is a risk of insolvencies and associated bad debt losses. In order to diversify risk, SCHWEIZER believes it is important to win new customers, including medium-sized companies. Yet new customers also mean increased risk in terms of creditworthiness, therefore managing the risk of bad debt is extremely important for SCHWEIZER. Customers' creditworthiness is monitored constantly based on external credit ratings and internal findings, such as changes in payment history and press reports. Trade credit insurance was not taken out. Customers are split into different creditworthiness categories and the payment conditions, and thus the maximum liability, are adjusted accordingly in line with the risk. These assumptions are continuously monitored in twice weekly credit risk meetings, ensuring the relevant sales employees are made aware of critical issues in good time. Monthly management reports provide details of changes involving major customers. The liabilities of major customers are also discussed regularly at Management Board meetings with respect to risk and consideration is given to measures to cover risk. Production Risks / SCHWEIZER's competitive edge is founded in particular on its capacity to innovate and the speed with which it does so, even in the face of complex problems on the part of its customers. This leads to increasing complexity and higher value of the products it manufactures. This in turn leads to heightened risks for the production of such new, high-value products with respect to the stabilisation of new production processes, production quality and reject rates. These risks are countered by involving the people responsible for production, processes and purchasing heavily in the development phase of new products. Once production is underway, regular interdisciplinary team meetings are held, during which problems
+
+with processes are addressed and resolved.
+The production network with partners Elekonta and Meiko Electronics means that part of the value creation no longer takes place solely in the SCHWEIZER production facilities. It is not possible to monitor quality aspects and delivery reliability at external partners to the same extent as in your own organisation. Therefore, to minimise the potential risk, SCHWEIZER has introduced a "safe launch" concept to identify quality risks in the start-up phase, both at the partner's site and in the main plant in Schramberg.
+OVERALL STATEMENT ON THE RISK SITUATION BY THE COMPANY MANAGEMENT
+The overall risk situation has been evaluated by consolidating all significant individual risks. We are not currently aware of any risks that could jeopardise the continued existence of the company.
+
+47
+
+STATUS REPORT.................VI CHARACTERISTICS OF THE INTERNAL CONTROL AND RISK MANAGEMENT SYSTEM GOVERNING THE FINANCIAL ACCOUNTING PROCESS
+
+VI CHARACTERISTICS OF THE INTERNAL CONTROL AND RISK MANAGEMENT SYSTEM GOVERNING THE FINANCIAL ACCOUNTING PROCESS
+
+In contrast with the risk management system, the focus of the internal control system is on the financial accounting process with the aim of monitoring the correctness and effectiveness of the accounting and financial reporting processes. The aim of the internal control system is to minimise the risk of misstatements in accounting and in external reporting and to ensure a reasonable degree of assurance for the financial statement and that it complies with regulatory requirements. For this to be achieved, company-wide compliance with statutory provisions and internal company rules is essential. Clear ownership of processes is assigned. The internal control system fulfils the requirements of BilMoG for effectiveness and forms part of the accounting process in all significant legal entities and corporate functions. The system monitors the principles and procedures on the basis of preventive and detective controls.
+The internal control and risk management system governing the financial accounting process is not formally defined by law. Schweizer Electronic AG therefore follows the definitions of the Institut der Wirtschaftsprüfer in Deutschland e.V. (Institute of Public Auditors in Germany), based in Düsseldorf, concerning the accounting-related internal control system (IDW AS 261 Subs. 19 f.) and the risk management system (IDW AS 340, Subs. 4).
+With regard to the financial accounting process, the company attributes the greatest importance to those features of the internal control and risk management system that significantly influence the accounting procedures as well as the overall tenor of the financial statement including the status report.
+
+This includes the following elements in particular:  Identification of the main risk and control areas rele-
+vant to the accounting process  Reporting of the results of the accounting process
+controls at Management Board level  Preventative control measures in the finance and
+accounting system as well as in all operational company processes that provide salient information on the composition of the financial statement and status report, including a division of functions and pre-defined approval processes in relevant areas  Measures to assure the correct, computer-based processing of data and facts relating to accounting  Establishment of an internal revision system to monitor and test the efficacy of the internal control and risk management system for financial accounting  Involvement of external experts for complex accounting issues in the financial accounting process  Implementation of a risk management system, which includes measures for identifying and evaluating significant risks as well as measures to limit risks, in order to ensure the correctness of the financial statement.
+The effectiveness of the internal control system governing the financial accounting process is systematically evaluated. Initially, an annual risk analysis is carried out and the defined controls revised if necessary. At this stage, significant risks with regard to the financial accounting and financial reporting process are identified and updated. The controls defined for the identification of risks are documented in a standardised way across the company. To evaluate the effectiveness of controls, we carry out regular tests on the basis of spot checks. These form the basis for
+
+48
+
+an internal assessment of whether the controls are fit for purpose. The results of this internal assessment are documented and reported in a standardised system. Where weaknesses in the control system are identified, these are rectified taking into account their potential effects.
+EVALUATION OF EFFECTIVENESS
+At the end of the annual cycle we check and endorse the effectiveness of the internal control system governing the financial accounting process. The Management Board and the finance committee of the Supervisory Board are kept informed of any significant control weaknesses that are found as well as the effectiveness of the controls put in place. The risk management and internal control system is subject to ongoing revision in line with internal and external requirements ­ for example the provisions of the German Accounting Law Modernization Act (Vorgaben des Bilanzrechtsmodernisierungsgesetzes ­ BilMoG). The system is improved in order to continuously monitor the relevant risk areas.
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+49
+
+STATUS REPORT.................VII MATTERS RELEVANT TO ACQUISITIONS
+
+VII MATTERS RELEVANT TO ACQUISITIONS
+
+Composition of the subscribed capital The company's share capital of EUR 9,664,053.86 is divided into 3,780,000 no-par-value shares (individual shares). The same rights and obligations are associated with all company shares and arise from statutory provisions and the Articles of Association.
+Restrictions relating to voting rights or the transfer of shares The Management Board is not aware of any restrictions relating to voting rights or the transfer of shares.
+Direct or indirect shareholdings in the company's capital that exceed 10 percent of the voting rights As at the reporting date, the community of heirs of Gerhard Schweizer, comprising Ms Hannelore Schweizer, Ms Kristina Schweizer and Mr Bernd Schweizer, as well as Mr Christoph Schweizer each holds a direct or indirect stake in excess of 10 % of the company capital and voting rights.
+Shares conferring special control rights No shares with special rights or voting right control, or shares with special rights or voting right control due to the participating interests of employees exist.
+Statutory provisions and provisions governing the nomination and withdrawal of Management Board members and amendments to the Articles of Association The regulations governing the nomination and withdrawal of Management Board members, as set out in Sections 84 and 85 of the German Stock Corporation Act (AktG) and in Section 5(2) of the company's Articles of Association, are as follows: the Supervisory Board determines the number and appointment of Management Board members as well as their withdrawal. The Supervisory Board is also responsible for appointing a member of the Management Board as CEO. Deputy board members may be appointed.
+The regulations governing amendments to the Articles of Association, as set out in Section 179 of the of the German Stock Corporation Act (AktG) and in Section 17(2) of the Articles of Association, are as follows: resolutions of the annual general meeting regarding amendments to the Articles of Association and dissolution of the company are subject to the legally prescribed majority requirements.
+
+Powers of the Management Board to issue and buy back shares By resolution of the annual general meeting of 1 July 2011, the Management Board is authorised, subject to the approval of the Supervisory Board, to increase the company's share capital until 30 June 2016 by up to EUR 3,221,351.29 by issuing new, no-par-value shares in return for contributions in cash and/or in kind (authorised capital). In the process, the shareholders must be granted a subscription right. However, the Management Board was authorised, subject to the approval of the Supervisory Board, to exclude the subscription right a) for fractional amounts; b) for the issuance of new shares against cash contributions if the pro rata amount of capital stock attributable to the new shares does not exceed 10 % of the share capital on the date of entry of this authorisation in the commercial register (EUR 9,664,053.86) and ­ in total ­ does not exceed 10 % of the share capital on the date of issuance of the new shares, and if the issue price of the new shares is not substantially lower than the stock exchange price of the company's shares of the same class and structure on the date of final determination of the issue price (Section 203(1) Clause 1 in conjunction with Section 186(3) Clause 4 AktG); c) for the issuance of new shares against contributions in kind for the purpose of acquiring companies, parts of companies or stakes therein. This authorisation is regulated in Section 4(4) of the Articles of Association.
+By resolution of the annual general meeting of 1 July 2011, the Management Board is authorised until 30 June 2016 to acquire own shares up to a total value of 10 % of the share capital at the time of the resolution (EUR 9,664,053.86) for purposes other than trading in own shares. Together with the other shares held by the company or to be treated as such in accordance with Sections 71 a et seqq. AktG, the acquired shares must not at any time constitute more than 10 % of the share capital at the time of the resolution.
+Further information can be found in the publicly available invitation to the annual general meeting 2011 at
+www.schweizer.ag/en/investor-relations/ shareholders-meeting.html.
+
+50
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+Essential agreements for the event of a change in control In the event of premature loss of a position on the Management Board due to a change of control, three members of the Management Board are entitled to a severance payment and a compensation payment as a result of their employment contract. If the employment contract of the Management Board member ends six months after the change of control as a result of mutual termination, expiry or termination of the Management Board member due to his Management Board position having been considerably affected by the change of control, then he is due severance payments 1.25 times the amount of his total annual remuneration earned on average over the past three business years for the residual term of his employment contract. If the residual term of the employment contract comes to more than three years, then the severance payments for the additional period shall be subject to a flat-rate reduction of 25 % in order to take into account the discounting and deduction of additional benefits.
+
+In addition, the Management Board member shall receive compensation of at least double his total annual remuneration, or triple in the event that he has been an active member of the company's Management Board for more than ten years. The total of the severance and compensation payments shall be limited to an amount equal to six times the total annual remuneration of the Management Board member.
+
+VIII CORPORATE GOVERNANCE STATEMENT IN ACCORDANCE WITH SECTION 289A HGB
+
+The corporate governance statement and the corporate governance report form part of this annual report
+and can be found on the web page at: www.schweizer.ag/en/investor-relations/ corporate-governance.html.
+Schweizer Electronic AG is committed to the principles of responsible, value-based leadership and controlling that is aligned towards long-term success, targeted and efficient cooperation between the Management Board and the
+
+Supervisory Board, respecting the interests of its shareholders and employees, and transparency. The company thus complies with the recommendations of the German Corporate Governance Code governmental commission. Exceptions are explained in the Declaration of Conformity. This document can be found on the web page at the follow-
+ing address: www.schweizer.ag/en/investorrelations/corporate-governance.html.
+
+51
+
+STATUS REPORT.................IX REMUNERATION REPORT
+
+IX REMUNERATION REPORT
+
+The remuneration of the Schweizer Electronic AG Management Board consists of a fixed and a variable element. The latter is divided into a component geared towards the achievement of defined targets for the respective current business year as well as a component with a long-term incentive effect and a proportion of risk. The modified corporate law regulations governing Management Board remuneration according to the German Act on the Appropriateness of Management Board Compensation (VorstAG) as of 31 July 2009, apply to Management Board contracts. Contracts issued before 31 July 2009 have been modified accordingly. The fixed income component of the Management Board's remuneration is not tied to the achievement of defined targets and is paid monthly. In addition, ancillary payments such as the provision of a company car and insurance premium allowances are granted. The variable income component, which relates to the targets for a business year, is geared towards the attainment of certain quantitative and qualitative targets. The quantitative targets ­ to which the greatest weight is assigned ­ are Economic Value Added® (EVA®) and the improvement of the Economic Value Added® compared with the previous year (EVA). In addition to these, individual strategic objectives, agreed upon with the members of the Management Board, are taken into consideration. This remuneration component is paid upon verification and approval of the financial statement by the Supervisory Board. The amount is determined by the level of goal attainment and is capped. In addition to these two board remuneration components, there is also a Long Term Incentive Program ("LTIP") for Management Board members. The LTIP is a remuneration component that offers a long-term incentive effect and a proportion of risk in the form of a "share matching" plan with a four-year ban on sale. Taxes due on this shall be taken over if required.
+
+The members of the Schweizer Electronic AG Management Board are covered by directors and officers liability insurance ("D&O") with an excess ­ since 5 August 2009 ­ of at least 10 % of the loss amount, up to a maximum of one and a half times their fixed annual remuneration, in accordance with the German Stock Corporation Act (AktG).
+The remuneration of the Supervisory Board is regulated in Section 13 of the Articles of Association. In addition to the reimbursement of expenses, each member receives a fixed remuneration component of kEUR 8 per business year as well as a variable remuneration of EUR 400 for each EUR 0.01 by which the dividend declared at the annual general meeting exceeds a dividend of EUR 0.10 per share with full dividend entitlement distributed to the shareholders. The chairman is paid double and his deputy one and a half times this amount. Members of Supervisory Board committees also receive a fixed annual remuneration of kEUR 2. The total remuneration of the Supervisory Board in 2013 came to kEUR 74 (fixed) and kEUR 170 (variable).
+Schramberg, 14 February 2014
+The Management Board
+
+(Dr. M. Schweizer) (B. Schweizer)
+
+(M. Bunz) (N. F. Schweizer)
+
+In the 2013 business year, the Management Board's earnings totalled EUR 1,467 million (fixed), EUR 1,079 million (variable) and 9,490 shares for long-term goals. In the 2013 business year, all members of the Management Board were employed for the full calendar year.
+
+52
+
+BALANCE SHEET
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+53
+
+FINANCIAL STATEMENT ....BALANCE SHEET
+BALANCE SHEET
+ASSETS
+Fixed assets Intangible assets Tangible assets Financial assets
+Current assets Inventories Receivables and other assets Cash on hand, bank balances
+Prepayments and accrued income
+
+31/12/2013 31/12/2012
+
+EUR
+
+EUR  thousands
+
+1,474,733 26,677,050 10,421,906
+
+38,573,689
+
+910 29,351 6,261 36,522
+
+13,452,339 15,417,650 8,998,759
+
+37,868,748
+
+229,072
+
+76,671,509
+
+9,895 13,525 11,577 34,997
+138
+71,657
+
+54
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+LIABILITIES
+Equity capital Subscribed capital ./. Own shares
+Capital reserves Profit reserves
+Other profit reserves Balance-sheet profit
+Provisions Provisions for pensions and similar obligations Additional provisions
+Liabilities Liabilities to credit institutions Trade payables Liabilities to affiliated companies Other liabilities
+Deferred tax liabilities
+
+31/12/2013 31/12/2012
+
+EUR
+
+EUR  thousands
+
+9,664,054 -7,454
+9,656,600 21,682,879
+
+8,686,694 5,034,071
+
+45,060,244
+
+9,664 -19
+9,645 21,663
+5,641 3,975 40,924
+
+7,344,733 5,691,045
+
+13,035,778
+
+6,921 4,490 11,411
+
+7,385,930 4,358,327 2,480,245 4,176,985
+
+18,401,487
+
+174,000
+
+76,671,509
+
+9,752 3,486 2,221 3,590 19,049
+273
+71,657
+
+55
+
+FINANCIAL STATEMENT ....INCOME STATEMENT
+
+INCOME STATEMENT
+
+Sales revenue Increase (PY: reduction) in stocks of finished and unfinished goods Other internally produced and capitalised assets
+Other operating income of which income arising from currency conversion EUR 152,723 (PY: EUR 195,040) Material costs Costs for raw materials and supplies and for purchased goods Costs for purchased services Personnel costs Wages and salaries Social contributions and expenses for pension provisions and for support Depreciation of intangible assets among the fixed assets and tangible assets Other operating expenses of which expenses arising from currency conversion EUR 102,568 (PY: EUR 160,262) Income from holdings Other interest and similar income Depreciation from financial assets Interest and similar expenses of which expenses arising from increased interest EUR 384,385 (PY: EUR 386,280) Result from normal business activities Taxes on income and revenue of which income (PY: expenses) arising from changes to deferred taxes reported in the balance sheet EUR 99,000 (PY: EUR 273,000) Other taxes Annual net profit Profit carried forward Deposits in the other profit reserves Balance-sheet profit
+
+2013 EUR 101,211,368 3,507,363 54,337 104,773,068 2,398,463
+-38,763,424 -6,746,283
+-29,068,955 -6,415,998 -4,426,567 -11,956,271
+10,441 21,077 -134,848 -782,212
+8,908,491 -2,603,700
+-171,101 6,133,690 1,900,381 3,000,000 5,034,071
+
+2012 EUR 100,179,045 -1,689,606 31,514 98,520,953 2,085,369
+-39,384,236 -6,394,509
+-28,685,685 -5,191,155 -4,817,260
+-10,949,845
+14,746 44,400 -2,804,851 -808,995
+1,628,932 -852,778
+-81,273 694,881 3,280,364
+0 3,975,245
+
+56
+
+CASH FLOW STATEMENT
+1. Cash flow from current business activities Period results Depreciations/write-ups on fixed assets Modifications to the provisions Other non-cash revenue/expenses Profit/losses from divestments of assets Modification to the inventories, trade receivables and other assets Modification to trade payables and other liabilities Cash flow from current business activities
+2. Cash flow from investment activities Receipts from divestments of tangible fixed assets Payments for investments in the tangible fixed assets Receipts from divestments of intangible fixed assets Payments for investments in the intangible fixed assets Payments for investments in the financial assets Cash flow from investment activities
+3. Cash flow from financial activities Payments to company owners
+Acquisition of own shares Dividend Receipts from the take-up of financial loans Payments for the amortisation of financial loans Cash flow from financial activities
+4. Fund for financing purposes at period end Cash modification to fund for financing purposes (sub-total 1­3) Fund for financing purposes at period start Fund for financing purposes at period end
+5. Composition of fund for financing purposes Liquid funds = fund for financing purposes at period end
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+2013
+
+2012
+
+ thousands  thousands
+
+6,134 4,427 1,681
+535 262 -5,541 1,318 8,816
+
+695 4,817 -2,603 3,088
+-23 814 460 7,248
+
+65 -2,332
+10 -306 -4,313 -6,876
+
+24 -2,555
+0 -553 -4,408 -7,492
+
+-77 -2,075
+0 -2,366 -4,518
+
+-138 -1,773 4,000
+-421 1,668
+
+-2,578 11,577
+8,999
+
+1,424 10,153 11,577
+
+8,999
+
+11,577
+
+57
+
+FINANCIAL STATEMENT ....STATEMENT OF CHANGES IN EQUITY
+
+STATEMENT OF CHANGES IN EQUITY
+
+In  31/12/2011
+
+Subscribed Own shares capital
+
+Capital reserves
+
+9,664,054
+
+-25,284 21,589,429
+
+Generated equity
+
+Profit reserves
+5,698,368
+
+Balancesheet profit
+5,053,113
+
+Equity according to balance
+sheet
+41,979,680
+
+Acquisition of own shares Issue of own shares to Management Board and Leadership Team (variable remuneration for 2011) Paid dividends
+Annual net profit
+
+0
+
+-25,566
+
+0
+
+-112,525
+
+0
+
+-138,091
+
+0
+
+31,665
+
+73,935
+
+55,039
+
+0
+
+160,639
+
+0
+
+0
+
+0
+
+0 -1,772,749 -1,772,749
+
+0
+
+6,099
+
+73,935
+
+-57,486 -1,772,749 -1,750,201
+
+0
+
+0
+
+0
+
+0
+
+694,881
+
+694,881
+
+31/12/2012
+
+9,664,054
+
+-19,185 21,663,364 5,640,882 3,975,245 40,924,360
+
+Acquisition of own shares Issue of own shares to Management Board (variable remuneration for 2012) Paid dividends Deposit in profit reserves according to Section 58(2) Clause 1 AktG
+Annual net profit
+
+0
+
+-12,783
+
+0
+
+24,515
+
+0
+
+0
+
+0
+
+0
+
+0
+
+11,731
+
+0
+
+0
+
+0
+
+-64,078
+
+0
+
+-76,861
+
+19,515 0
+
+109,890 0
+
+0 -2,074,863
+
+153,919 -2,074,863
+
+0 19,515
+0
+
+3,000,000 3,045,812
+0
+
+-3,000,000 -5,074,863 6,133,690
+
+0 -1,997,805 6,133,690
+
+31/12/2013
+
+9,664,054
+
+-7,454 21,682,879 8,686,694 5,034,071 45,060,244
+
+58
+
+APPENDIX
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+59
+
+FINANCIAL STATEMENT ....APPENDIX
+
+GENERAL NOTES
+The present financial statement was produced in accordance with Section 242ff. and Section 264ff. HGB and according to the relevant provisions of the German Stock Corporation Act (AktG). The regulations regarding large corporations apply.
+The income statement was produced according to the total-cost method.
+In order to improve the clarity of the presentation, we collated individual items of the balance sheet and so structured and explained them separately in this appendix. For the same reason, the "of which" notes were also included in some cases at this point.
+ACCOUNTING AND EVALUATION METHODS
+The following accounting and evaluation methods were decisive for the production of the financial statement.
+Acquired intangible assets among the fixed assets are accounted at procurement cost and are reduced, insofar as they are subject to depreciation, in scheduled instalments according to their useful life.
+The tangible assets are reported at procurement or manufacturing cost and are reduced, insofar as they can be depreciated, in scheduled instalments. Both individual costs and pro-rata overhead costs are integrated into the manufacturing costs of internally produced assets. The definition of the useful life of assets is guided by the period during which it is advisable for reasons of profitability to use the particular asset (economic useful life). Assets are always depreciated using the linear method. Low-value assets with a value of up to EUR 150 are depreciated in full in the year of acquisition. It is assumed that such assets are retired immediately. Low-value assets with a value of between EUR 150 and EUR 1,000 are collated in a collective item for the specific year and depreciated together in linear fashion over a period of five years. The existing col-
+
+lective items are, in total, relatively insignificant for the net assets, financial position and earnings of the company. Depreciation on the tangible fixed assets is always carried out on a pro-rata temporis basis.
+For the financial assets, the share rights are reported at procurement cost or at lower fair values and loans are always reported at par value.
+The inventories are reported at procurement and manufacturing cost or at lower current values.
+The inventories of raw materials and supplies are valued according to the lower of cost or market principle. A fixed value has been defined for plating solutions.
+The unfinished and finished products are valued at manufacturing cost on the basis of individual calculations that are based in turn on the business statement for the period from 01 November 2012 to 31 October 2013, whereby not only the directly attributable costs of direct materials, production wages and special individual costs are taken into account, but also production and material overhead costs and depreciations. Appropriate expenses were capitalised for company social amenities in accordance with Section 255(2) Clause 3 HGB.
+In all cases, the valuation ensured that there would be no losses, i.e. if necessary, deductions were made from the forecast sale prices to cover any costs that were still to be incurred.
+Merchandise is accounted for at procurement cost or at lower market prices.
+All identifiable risks in the inventories that arise from above-average storage duration, impaired usability and lower replacement costs have been taken into account with appropriate devaluations.
+Appropriate provisions have been formed as required for losses arising from delivery obligations.
+Apart from the standard commercial reservation of pro-
+
+60
+
+prietary rights, the inventories are free of any rights of third parties.
+Receivables and other assets are always reported at par value. All risk-carrying items have been taken into account with the formation of appropriate individual value adjustments; the general lending risk has been taken into account with fixed-rate deductions. Interest-free liabilities with a duration of more than one year are discounted.
+The provisions for pensions and similar obligations are determined according to the present value of entitlement method using the "2005 G reference tables". The average market interest rate with a remaining term of 15 years (4.90 %, as of October 2013) was taken as a fixed rate for the discount in accordance with the German Provision Discount Ordinance (Rückstellungsabzinsungsverordnung) dated 18 November 2009. Any anticipated salary and pension increases were taken into account with a rate of 2 %­2.75 %.
+The tax provisions and the other provisions take into account all uncertain liabilities and threatened losses from pending contracts. They are reported in the amount of the necessary fulfilment amount based on a reasonable commercial assessment (i.e. including future cost and price increases). Other provisions with a residual term of more than one year are discounted.
+Liabilities are reported at the respective fulfilment amount.
+In order to determine deferred taxes based on temporary or quasi-permanent differences between the value approaches according to trade law for assets, for debts and for accruals and deferred income and their fiscal value approaches, the amounts of the resulting tax burden and tax relief are valued and not discounted with the company's own tax rates applicable at the time of the elimination of the differences. Active and passive deferred taxes are offset.
+Assets and liabilities denominated in foreign currency have always been converted using the spot exchange average rate applicable on the financial statement reference date.
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+61
+
+FINANCIAL STATEMENT ....APPENDIX
+
+NOTES TO THE BALANCE SHEET
+The items that have been collated in the balance sheet are explained separately below.
+FIXED ASSETS
+The performance of the individual items among the fixed assets is shown in the Analysis of Changes in Fixed Assets with a specification of the depreciations for the business year.
+
+Procurement and manufacturing costs
+
+In 
+
+01/01/2013
+
+Acquisitions Divestments
+
+Transfer
+
+31/12/2013
+
+postings
+
+I. Intangible assets
+Rights and values acquired for a fee
+
+3,700,321
+
+305,777
+
+339,834
+
+517,738
+
+4,184,002
+
+II. Tangible assets
+1. Land and buildings
+2. Technical equipment and machines
+3. Other plant, factory and office equipment
+4. Advance payments and plants under construction
+
+37,508,868 81,403,077
+54,515,376
+1,305,453
+
+0 1,706,795
+436,796
+188,398
+
+0 2,057,082
+535,290
+302,740
+
+0 444,737
+40,238
+-1,002,713
+
+37,508,868 81,497,527
+54,457,120
+188,398
+
+174,732,774
+
+2,331,989
+
+2,895,112
+
+-517,738
+
+173,651,913
+
+III. Financial assets 1. Shares in affiliated companies 2. Loans 3. Holdings
+
+4,426,311
+0 4,639,411
+
+3,313,433
+1,000,000 0
+
+17,550
+0 0
+
+0
+
+7,722,194
+
+0
+
+1,000,000
+
+0
+
+4,639,411
+
+9,065,722
+
+4,313,433
+
+17,550
+
+0
+
+13,361,605
+
+187,498,817
+
+6,951,199
+
+3,252,496
+
+*) Unscheduled depreciation in accordance with Section 253(3) Clause 3 HGB
+
+0
+
+191,197,520
+
+62
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+01/01/2013
+
+Accumulated depreciations Acquisitions Divestments
+
+31/12/2013
+
+Book values
+
+31/12/2013
+
+31/12/2012
+
+2,790,757
+
+258,346
+
+339,834
+
+2,709,269
+
+1,474,733
+
+909,564
+
+20,845,375 76,710,552
+47,825,691
+0
+
+914,411 1,170,139
+2,083,671
+0
+
+0 2,057,082
+517,894
+0
+
+21,759,786 75,823,609
+49,391,468
+0
+
+15,749,082 5,673,918
+5,065,652
+188,398
+
+16,663,493 4,692,525
+6,689,685
+1,305,453
+
+145,381,618
+
+4,168,221
+
+2,574,976
+
+146,974,863
+
+26,677,050
+
+29,351,156
+
+0 0 2,804,851
+2,804,851
+150,977,226
+
+0 0 134,848*)
+134,848
+4,561,415
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2,939,699
+
+0
+
+2,939,699
+
+2,914,810 152,623,831
+
+7,722,194 1,000,000 1,699,712
+10,421,906
+38,573,689
+
+4,426,311 0
+1,834,560
+6,260,871
+36,521,591
+
+63
+
+FINANCIAL STATEMENT ....APPENDIX
+
+SPECIFICATIONS OF SHARE HOLDINGS
+The composition of the shareholding is shown in the table below. (Amounts are shown in the national currency (NC), earnings after tax on profits)
+
+Company name and registered office
+1. Directly held shares Schweizer Asia Limited, Hong Kong/China Schweizer Pte. Ltd., Singapore
+
+Currency
+HKD SGD
+
+Share in the capital
+%
+31/12/2013
+100 100
+
+Equity capital
+in NC thousands
+31/12/2012
+5 7,195
+
+Equity capital
+In  thousands
+31/12/2012
+1 4,466
+
+Earnings
+in NC thousands 2012
+7 -17
+
+Earnings
+In  thousands 2012
+1 -11
+
+2. Shares held indirectly through Schweizer Pte. Ltd., Singapore
+
+Schweizer Energy Production
+
+Singapore Pte. Ltd., Singapore
+
+SGD
+
+Schweizer Energy System Integration
+
+Pte. Ltd., Singapore
+
+SGD
+
+Schweizer Electronic Pte. Ltd.,
+
+Singapore
+
+SGD
+
+94
+
+9,543
+
+5,923
+
+-1,066
+
+100
+
+76
+
+47
+
+-225
+
+100
+
+1
+
+1
+
+-
+
+-662 -140
+-
+
+3. Shares held indirectly through Schweizer Energy Production Singapore Pte. Ltd.
+
+Schweizer Energy Nantong Co. Ltd.,
+
+China
+
+CNY
+
+100
+
+19,505
+
+2,373
+
+-
+
+-
+
+4. Shares held indirectly through Schweizer Electronic Pte. Ltd., Singapore
+
+Meiko Schweizer Electronics, Hong Kong
+
+USD
+
+49.9
+
+-
+
+-
+
+-
+
+-
+
+The amounts for equity capital and earnings refer to the last business year and the financial statement that was available at the time this appendix was produced.
+
+64
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+INVENTORIES
+
+EQUITY CAPITAL
+
+Raw materials and supplies Unfinished products Finished products
+
+31/12/2013  thousands
+3,843 4,576 5,033 13,452
+
+31/12/2012  thousands
+3,598 2,946 3,351 9,895
+
+RECEIVABLES AND OTHER ASSETS
+
+Trade receivables
+of which residual term of more than one year
+Receivables from affiliated companies
+of which residual term of more than one year
+Receivables from companies in which a participating interest is held
+of which residual term of more than one year
+Other assets
+of which residual term of more than one year
+
+31/12/2013 31/12/2012  thousands  thousands
+
+14,117
+
+12,874
+
+0
+
+0
+
+1
+
+3
+
+0
+
+0
+
+193
+0 1,107
+146 15,418
+
+27
+0 621
+182 13,525
+
+The share capital amounted to EUR 9,664,054 as per 31 December 2013 and is divided into 3,780,000 nominal shares (no-par-value shares).
+As per the balance-sheet reference date, Schweizer Electronic AG held a total of 2,945 own shares. This corresponds to an amount of the share capital of kEUR 8 or 0.08 %. The acquisition of own shares took place in accordance with Section 71(1) No. 8 AktG in September 2000 (10,460 shares), in March/April 2001 (15,483 shares), in July 2008 (180,000 shares), in March 2012 (7,000 shares), in June 2012 (3,000 shares) and in September of this year (5,000 shares). 8,750 shares were drawn from the inventory at that time of 25,943 shares in June 2005. During the course of the share exchange with Meiko Electronics Co. Ltd., Ayase, Japan, 180,000 shares were drawn from the inventory in October 2010; 7,303 shares were drawn in the 2011 business year and 12,369 shares in the 2012 business year. During the current business year, 9,576 shares (which corresponds to an amount of the share capital of kEUR 25, that is 0.25 % of the share capital) were drawn to be yielded to the Management Board as a variable remuneration component from the previous year. In connection with these transactions, kEUR 110 was deposited in the other profit reserves and kEUR 20 was deposited in the capital reserve during the 2013 business year in accordance with the regulations in Section 272(1b) Clauses 2 and 3 HGB.
+AUTHORISED CAPITAL
+
+The receivables from companies in which participating interests are held arose exclusively from trade receivables.
+
+The Management Board is authorised, with the consent of the Supervisory Board, to increase the share capital of the company up to 30 June 2016 by up to a total of EUR 3,221,351.29 through the issue of new, registered nonpar-value shares against contributions in cash and/or in kind (authorised capital). This authorisation may be exercised in full or in parts, and on one or several occasion(s). In the process, the shareholders must be granted a subscription right.
+
+65
+
+FINANCIAL STATEMENT ....APPENDIX
+
+However, the Management Board is authorised, with the consent of the Supervisory Board, to exclude the subscription right of the shareholders
+a) for peak amounts;
+b) for the issue of new shares against cash contributions if the total pro-rata amount accounted for by the new shares with regard to the share capital does not exceed 10% of the share capital available at the time of entry of this authorisation in the Commercial Register (EUR 9,664,053.86) and ­ in cumulative terms ­ does not exceed 10% of the share capital available at the time of issue of the new shares and if the issue price of the new shares does not fall considerably below the listed price of the shares of the company of the same class and category at the time of the final definition of the issue price (Section 203(1) Clause 1 in conjunction with Section 186(3) Clause 4 AktG); in the calculation of the 10 % limit, the pro-rata amount in reference to the share capital must be deducted which is accounted for by new or re-acquired shares that were issued or divested since 1 July 2011 under the simplified exclusion of subscription rights pursuant to or in accordance with Section 186(3) Clause 4 AktG, and the pro-rata amount in reference to the share capital which forms the basis for option and/ or convertible rights arising from option and/or convertible bonds and/or duties to convert, which have been issued since 1 July 2011 according to the application of Section 186(3) Clause 4 AktG, must also be deducted;
+c) for the issue of new shares against contributions in kind for the purpose of acquiring companies, parts of companies or holdings in companies.
+The Management Board is authorised, with the consent of the Supervisory Board, to define further details concerning the implementation of capital increases from the authorised capital and the conditions for issuing shares, in particular the issue price. The Supervisory Board is authorised to adjust the wording of Section 4(1) and (4) of the Articles of Association according to the use of the authorised capital or after expiry of the authorisation period.
+
+NOTIFICATIONS OF VOTING RIGHTS
+The German Securities Trading Act (Wertpapierhandelsgesetz ­ WpHG) obliges investors to notify the relevant company if their voting interest in listed companies reaches specified thresholds. We have been informed of the existence of the following holdings:
+Mr Marc Schweizer, Schramberg, informed us on 2 April 2002 that his voting interest in Schweizer Electronic AG amounted to 8.28 % as per the reference date of 1 April 2002.
+Mr Nicolas Schweizer, Schramberg, informed us on 2 April 2002 that his voting interest in Schweizer Electronic AG amounted to 8.28 % as per the reference date of 1 April 2002.
+The community of heirs upon the decease of Mr Gerhard Schweizer informed us on 12 January 2006 that their voting interests in Schweizer Electronic AG were constituted as follows:
+Voting interest of the community of heirs upon the decease of Mr Gerhard Schweizer, consisting of the members Hannelore Schweizer, Bernd Schweizer and Kristina Schweizer: 16.01 %.
+Voting interest of Ms Hannelore Schweizer, held by herself: 1.475 % and as a member of the community of heirs of Mr Gerhard Schweizer: 16.01 %.
+Voting interest of Mr Bernd Schweizer, held by himself: 8.167 % and as a member of the community of heirs of Mr Gerhard Schweizer: 16.01 % .
+Voting interest of Ms Kristina Schweizer, held by herself: 8.167 % and as a member of the community of heirs of Mr Gerhard Schweizer: 16.01 %.
+Meiko Electronics Co. Ltd., Ayase, Japan, informed us in accordance with Section 21(1) of the German Securities Trading Act (WpHG) on 13 January 2011 that its voting interest in Schweizer Electronic AG fell below the threshold of 5 % of the voting rights on 30 December 2010 and on that date it amounted to 4.76 % (which corresponds to 180,000 voting rights).
+
+66
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+MK LuxInvest SA, Luxembourg City, Luxembourg, informed us in accordance with Section 21(1) of the German Securities Trading Act (WpHG) on 02 July 2012 that its voting interest in Schweizer Electronic AG, Schramberg, Germany fell below the threshold of 3 % of the voting rights on 28 June 2012 and on that date it amounted to 2.829 % (which corresponds to 106,941 voting rights).
+
+sponds to 117,440 voting rights) and on 23 December 2013 it fell below the threshold of 3 % and on that date it amounted to 1.5873 % (which corresponds to 60,000 voting rights).
+Notifications of voting rights for the last year are also published on our website at www.schweizer.ag/en/investor-relations/ corporate-governance.html.
+
+LBBW Asset Management Investmentgesellschaft mbH, Stuttgart, Germany informed us in accordance with Section 21(1) of the German Securities Trading Act (WpHG) on 06 July 2012 that its voting interest in Schweizer Electronic AG, Schramberg, Germany fell below the threshold of 5 % of the voting rights on 05 July 2012 and on that date it amounted to 5.29 % (which corresponds to 200,000 voting rights). 5.29 % of the voting rights (corresponding to 200,000 voting rights) are to be assigned by the company in accordance with Section 22(1) Clause 1, No. 6 of the German Securities Trading Act (WpHG) to the Baden-Württembergische Versorgungsanstalt für Ärzte, Zahnärzte und Tierärzte (Baden-Württemberg Pension Fund Institution for Doctors, Dentists and Veterinary Surgeons).
+The Baden-Württembergische Versorgungsanstalt für Ärzte, Zahnärzte und Tierärzte, based in Tübingen, Germany informed us in accordance with Section 21(1) of the German Securities Trading Act (WpHG) on 06 July 2012 that its voting interest in Schweizer Electronic AG, Schramberg, Germany fell below the threshold of 5 % of the voting rights on 05 July 2012 and on that date it amounted to 5.29 % (which corresponds to 200,000 voting rights).
+Mr Christoph Schweizer informed us in accordance with Section 21(1) of the German Securities Trading Act (WpHG) on 09 August 2012 that his voting interest in Schweizer Electronic AG fell below the threshold of 15.00 % of the voting rights on 09 August 2012 and on that date it amounted to 15.05 % (which corresponds to 569,000 voting rights).
+KST Beteiligungs AG, Stuttgart, Germany, informed us in accordance with Section 21(1) of the German Securities Trading Act (WpHG) on 27 December 2013 that its voting interest in Schweizer Electronic AG, Schramberg, Germany fell below the threshold of 5 % of the voting rights on 20 December 2013 and on that date it amounted to 3.1069 % (which corre-
+
+BALANCE-SHEET PROFIT
+The balance-sheet profit includes a profit carried forward of EUR 1.9 million; moreover, we also draw attention here to the proposal for the use of the balance-sheet profit.
+
+PROVISIONS
+Provisions for pensions and similar obligations Additional provisions
+Tax provisions Other provisions
+
+31/12/2013 31/12/2012  thousands  thousands
+
+7,345
+
+6,921
+
+908 4,783 5,691 13,036
+
+22 4,467 4,489 11,410
+
+The pension provisions disclosed in the balance sheet consist of liabilities arising from pension pledges to active and former members of the Management Board and/or their surviving dependants, to executive employees and/or their surviving dependants and to the widow of a former partner.
+The pension provisions for the remaining staff are carried by the Christoph Schweizer e. V. support fund.
+The other provisions include, in particular, provisions for remaining holidays not taken, overtime, age-related parttime employment, personnel costs, environmental protection measures, outstanding invoices, guarantees, financial statement costs and payments of Supervisory Board remuneration. The calculations for age-related part-time employment using insurance formulae is based on the "2005 G guidelines".
+
+67
+
+FINANCIAL STATEMENT ....APPENDIX
+
+LIABILITIES SCHEDULE
+In  thousands
+Type of liability 1. Liabilities to credit insti-
+tutions 2. Trade payables 3. Liabilities to affiliated
+companies 4. Other liabilities
+- of which arising from tax
+- of which relating to social security
+
+31/12/2013
+
+Residual term
+up to 1 over 5 years year
+
+secured by mortgage
+with
+
+1,828 4,358
+224 4,177
+1,765
+151
+
+1,288 0
+2,256 0
+0
+0
+
+7,386 0
+0 0
+0
+0
+
+total
+
+31/12/2012
+
+residual term up to
+1 year
+
+total
+
+7,386 4,358
+2,480 4,177
+1,765
+151
+
+602 3,486
+233 2,961
+1,352
+83
+
+9,752 3,486
+2,221 3,590
+1,352
+112
+
+LIABILITIES TO AFFILIATED COMPANIES
+
+DEFERRED TAX LIABILITIES
+
+This item includes a loan from the Christoph Schweizer e. V. support fund, as the situation involves a special purpose entity in the meaning of Section 290(2) No. 4 HGB. The cash value of the indirect pension pledges determined with insurance formulae according to the present value of entitlement method exceeds the actual cash assets by EUR 4.627 million on the basis of the "2005 G reference tables". A subsidiary liability exists in this amount. The liabilities exist within the context of social security.
+
+A tax rate of 28 % was taken as a basis for the calculation. The deferred tax liabilities mainly result from balance sheet differences regarding tangible assets. These were netted with deferred tax assets from balance sheet differences with regard to pension provisions and other provisions.
+CONTINGENT LIABILITIES
+
+OTHER LIABILITIES
+The other liabilities include liabilities to partners in the amount of kEUR 600 and result from the granting of loans.
+
+Guaranteed amount from cooperative shares
+
+31/12/2013  thousands
+5
+
+31/12/2012  thousands
+5
+
+The risk of claims arising from contingent liabilities is deemed to be negligible.
+
+68
+
+OFF-BALANCE-SHEET TRANSACTIONS
+
+Annual payment liabilities arising from - lease agreements
+
+31/12/2013  thousands
+283
+
+The purpose and advantages of lease agreements lie in the procurement of liquidity and, to some extent, in the avoidance of risks regarding residual value. Risks arise in the contractual bond over the entire term.
+Moreover, we would like to draw attention to the disclosures under the Liabilities to affiliated Companies in this appendix.
+
+OTHER FINANCIAL LIABILITIES
+
+In detail, these liabilities involve the following issues:
+
+Annual payment liabilities arising from - lease agreements - maintenance agreements Order obligation from awarded investment orders
+
+ thousands
+369 670 1,351
+
+The lease agreements and the maintenance agreements end between 2014 and 2017.
+TRANSACTIONS WITH ASSOCIATED COMPANIES AND PERSONS
+No transactions were carried out with associated companies and persons at any rates that were not standard market rates.
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+69
+
+FINANCIAL STATEMENT ....APPENDIX
+
+NOTES TO THE INCOME STATEMENT OTHER OPERATING EXPENSES
+
+SALES REVENUE
+
+The net sales revenue is divided up as follows:
+
+By fields of activity Metallised circuits Non-metallised circuits Multilayer/HDI Other
+
+2013
+
+2012
+
+ thousands  thousands
+
+17,151 5,546 76,378 2,136 101,211
+
+22,400 4,945
+69,450 3,384 100,179
+
+By regions National EU countries Rest of Europe America Asia Other countries
+
+66,119 24,354
+1,995 4,068 4,561
+114 101,211
+
+60,967 27,307 1,303
+5,514 4,759
+329 100,179
+
+This item includes operating, administrative and marketing costs and maintenance expenses. Expenditure from a different period arising from divestments and plants under construction in the amount of kEUR 303 are included below.
+
+FINANCIAL RESULT
+
+Income from holdings
+Other interest and similar income
+Depreciations/write-ups on fixed assets
+Interest and similar expenses
+
+2013  thousands
+10
+21
+-135
+-782 -886
+
+2012  thousands
+15
+44
+-2,805
+-809 -3,555
+
+OTHER OPERATING INCOME
+
+SUPPLEMENTARY INFORMATION
+
+The other operating income includes in particular income from waste recycling, supplier credits and insurance indemnifications. Moreover, this item includes income from a different period arising from the liquidation of other provisions in the amount of kEUR 81 (previous year: kEUR 55).
+PERSONNEL COSTS
+The social contributions and expenses for pension provisions and for support contain expenses for pension provision in the amount of kEUR 1,530 (previous year: kEUR 436).
+
+EMPLOYEES
+
+Average number of employees employed during the business year:
+
+Wage-earning employees
+
+385
+
+Employees
+
+223
+
+608
+
+Trainees
+
+27
+
+635
+
+70
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+MANAGEMENT BOARD
+
+The following persons were appointed as members of the Management Board during this business year:
+
+Dr Marc Schweizer Chairman of the Management Board Chief Executive Officer
+
+Activities and mandates within the Group
+ Director of Schweizer Energy Pte. Ltd.,
+Singapore (up to 12 December 2013)  Managing Director of Schweizer Pte.
+Ltd., Singapore  Managing Director of Schweizer
+Energy Production Singapore Pte. Ltd.,
+Singapore  Director of Schweizer Energy System
+Integration Pte. Ltd., Singapore  Managing Director of Schweizer
+Electronic Singapore Pte. Ltd., Singapore  Director of Schweizer Energy Nantong
+Co. Ltd., China  Vice President of Meiko Schweizer
+Electronics Co. Ltd., Hong Kong
+
+Other activities and mandates
+ Managing Director of Schweizer
+Aviation GmbH, Schramberg  Managing Director of Schweizer
+Air Service GmbH & Co. KG,
+Schramberg  Managing Director of
+Schweizer Verwaltungs- und
+Beteiligungsgesellschaft mbH,
+Schramberg  Member of the General
+Management Board of ZVEI  Director of the Circuit Board section
+in the PCB and Electronic Systems
+association of the ZVEI  Member of the advisory board of
+HDI Gerling
+
+Bernd Schweizer Member of the Management Board Chief Operating Officer
+Responsible for Operations, Technology and Supply Chain
+
+ Director of Schweizer Pte. Ltd.,
+Singapore  Director of Schweizer Energy Production
+Singapore Pte. Ltd., Singapore  Director of Schweizer Energy System
+Integration Pte. Ltd., Singapore  Managing Director of Schweizer
+Electronic Singapore Pte. Ltd., Singapore
+
+Marc Bunz Member of the Management Board Chief Financial Officer
+Responsible for Finance & Controlling, Information Systems, Purchasing and Investor Relations
+
+ Director of Schweizer Energy Pte. Ltd.,
+Singapore (up to 12 December 2013)  Director of Schweizer Asia Ltd.,
+Hong Kong  Managing Director of Schweizer Pte.
+Ltd., Singapore  Director of Schweizer Energy Production
+Singapore Pte. Ltd., Singapore  Managing Director of Schweizer Energy
+System Integration Pte. Ltd., Singapore  Director of Schweizer Energy Nantong
+Co. Ltd., China
+
+ Member of the Stock Exchange Council of the BadenWürttembergische Wertpapierbörse
+
+Nicolas Fabian Schweizer Member of the Management Board Chief Commercial Officer
+Responsible for Sales & Marketing, Technology, Human Resources, Legal and Media & Communications
+
+ Director of Schweizer Energy Pte. Ltd.,
+Singapore (up to 12 December 2013)  Director of Schweizer Pte. Ltd.,
+Singapore  Director of Schweizer Energy Production
+Singapore Pte. Ltd., Singapore  Director of Schweizer Energy System
+Integration Pte. Ltd., Singapore  Supervisor of Schweizer Energy Nantong
+Co. Ltd., China
+
+ Member of the plenum of IHK
+Schwarzwald-Baar-Heuberg  Member of Deutsche Bank's
+Freiburg region
+
+71
+
+FINANCIAL STATEMENT ....APPENDIX
+
+SUPERVISORY BOARD
+In this business year, the Supervisory Board consisted of the following persons:
+
+Christoph Schweizer Chairman Member of the Finance Committee Michael Kowalski Deputy Chairman Member of the Finance Committee
+Martin Fischer Member of the Finance Committee
+Kristina Schweizer
+
+Activities and mandates
+Managing Director:  Schweizer Verwaltungs- und Beteiligungsgesellschaft mbH, Schramberg  Schweizer Air Service GmbH & Co. KG, Schramberg
+Managing Director:  ESSMANN GmbH, Bad Salzuflen (up to 30 June 2013 and Senior Project
+Manager from 1 July 2013 to 31 December 2013)  ESSMANN Gebäudetechnik GmbH, Bad Salzuflen (up to 30 June 2013)  Quadriga Capital Investco 3. GmbH, Bad Salzuflen (up to 30 June 2013)  SEP ESSMANN s.r.o., Ostrava (CZ) (up to 17 September 2013)  OOO Essmann, Moscow (RF) (up to 30 June 2013)
+Managing Director:  S-Immobilien- und Service-GmbH, Jena  S-Grundstücksverwaltungs-GmbH, Jena
+Mandates:  Member of the Supervisory Board of Cybio AG, Jena  Chairman of the Supervisory Board of Aifotec AG, Jena
+Editor, Wolters Kluwer Deutschland GmbH, Unterschleißheim
+
+Siegbert Maier*
+
+Member of the Works Council, Schweizer Electronic AG, Schramberg
+
+Markus Kretschmann*
+
+Mechatronics Engineer, Schweizer Electronic AG, Schramberg
+
+*) Employees' representative
+
+72
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+TOTAL REMUNERATIONS OF THE MANAGEMENT BOARD
+The total remunerations of members of the management board include both fixed and variable elements.
+The variable elements consist of a success-related component and a component with a long-term incentive effect and a proportion of risk.
+In this business year, the remuneration of the Management Board totalled EUR 1.467 million (fixed) and EUR 1.079 million (variable). The variable remunerations involved 9,490 shares with a fair price at the time they were granted amounting to kEUR 190. These shares will be issued in 2014.
+
+PROPOSAL FOR APPROPRIATION OF PROFIT
+
+Given a profit carried forward in the amount of EUR 1,900,381, the annual net income of EUR 6,133,690 and the deposit of EUR 3,000,000 in the other profit reserves, the balance-sheet profit totals EUR 5,034,071.
+
+It shall be proposed at the annual general meeting to appropriate this balance-sheet profit as follows:
+
+Distribution of EUR 0.60 per share for 3,723,055 nominal shares
+Balance to be carried forward
+
+EUR
+2,233,833 2,800,238 5,034,071
+
+AUDIT AND CONSULTING FEES
+
+TOTAL REMUNERATIONS OF THE SUPERVISORY BOARD
+The remunerations of the Supervisory Board in this business year amounted to kEUR 74 (fixed) and kEUR 170 (variable).
+FORMER MANAGING DIRECTORS AND/OR MEMBERS OF THE MANAGEMENT BOARD
+In the 2013 business year, former managing directors and members of the Management Board and/or their surviving dependants were granted total remunerations in the amount of kEUR 520. The provisions formed for this group of persons amount to EUR 5.971 million.
+
+The auditor's fee charged for this business year amounts to kEUR 54 for the financial statement audit and kEUR 10 for other auditing services.
+DECLARATION IN ACCORDANCE WITH SECTION 161 AKTG WITH REGARD TO THE CORPORATE GOVERNANCE CODE
+SCHWEIZER ELECTRONIC AG has issued the declaration for 2013 stipulated in Section 161 AktG and has made this declaration available to the shareholders on the Internet at www.schweizer.ag.
+Schramberg, 14 February 2014
+
+GROUP RELATIONS
+
+The Management Board
+
+An obligation to produce a consolidated financial statement following international accounting standards in accordance with Section 315a HGB does not exist, despite the founding of additional subsidiaries according to Section 290(5) in conjunction with Section 296(2) HGB.
+
+(Dr. M. Schweizer) (B. Schweizer)
+
+(M. Bunz) (N. F. Schweizer)
+
+73
+
+FINANCIAL STATEMENT ....AUDIT OPINION
+
+AUDIT OPINION
+
+We have audited the financial statement ­ comprising the balance sheet, the income statement, the cash flow statement, the statement of changes in equity and the appendix ­ including the bookkeeping system, and the status report of SCHWEIZER ELECTRONIC AG, Schramberg for the business year from 1 January to 31 December 2013. The maintenance of the books and records and the preparation of the financial statement and the status report in accordance with German commercial law are the responsibility of the company's legal representatives. Our responsibility is to express an opinion on the financial statement, the bookkeeping system and the status report based on our audit.
+We conducted our audit of the financial statement in accordance with Section 317 HGB and the generally accepted German standards for the audit of financial statements promulgated by the Institut der Wirtschaftsprüfer (IDW). Those standards require that we plan and perform the audit so that misstatements and violations which materially affect the presentation of the net assets, the financial position and earnings as presented in the financial statement in compliance with the principles of proper bookkeeping and in the status report are detected with reasonable assurance. Knowledge of the business activities and the economic and legal environment of the company and evaluations of possible misstatements are taken into account in the determination of audit procedures. The effectiveness of the accounting-related internal control system and evidence supporting the disclosures in the books and records, the financial statement
+
+and the status report are examined primarily on the basis of random samples within the framework of the audit. The audit includes an assessment of the accounting principles used and significant estimates made by the legal representatives, as well as evaluating the overall presentation of the financial statement and status report. We believe that our audit provides a reasonable basis for our opinion.
+Our audit has not led to any reservations.
+In our opinion, and based on the information gained from the examination, the financial statement complies with the statutory provisions and gives a true and fair view of the net assets, financial position and earnings of the company in accordance with the principles of proper accounting. The status report is in agreement with the financial statement and on the whole provides an accurate understanding of the company's position and suitably presents the opportunities and risks of future development.
+Villingen-Schwenningen, 17 February 2014
+Ernst & Young GmbH Wirtschaftsprüfungsgesellschaft
+
+Nietzer Auditor
+
+Busser Auditor
+
+74
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+DECLARATION BY THE LEGAL REPRESENTATIVES
+To the best of our knowledge, and in accordance with the applicable reporting principles, the annual financial statement gives a true and fair view of the net assets, financial position and earnings of Schweizer Electronic AG and the status report includes a true and fair view of the development and performance of the business and the position of the company, together with a description of the principal opportunities and risks associated with the expected development of the company.
+Schramberg, 14 February 2014
+The Management Board
+
+Dr. M. Schweizer
+
+M. Bunz
+
+B. Schweizer
+
+N. F. Schweizer
+
+CORPORATE GOVERNANCE REPORT AND STATEMENT
+
+The principles of responsible and good corporate governance determine the activities of the management and control bodies of Schweizer Electronic AG. In this statement, the Management Board reports on corporate governance in accordance with Section 289a(1) HGB. At the same time, the Management Board and Supervisory Board report on the corporate governance of the company in accordance with item 3.10 of the German Corporate Governance Code.
+Schweizer Electronic AG is a listed company in accordance with German law and is subject to the statutory provisions for management and monitoring of listed companies. The administration of the company is carried out by the Management Board and the Supervisory Board.
+The Management Board leads the company in accordance with the statutory provisions and the rules of the Board and the Supervisory Board monitors, advises and supports the Management Board in its activities. The rules
+
+of both Boards regulate aspects such as this cooperation. Since the introduction of the German Corporate Governance Code in 2002, the company is required to comply with nationally and internationally recognised standards for responsible corporate governance.
+The Declarations of Compliance made by the Management Board and the Supervisory Board have been made available to all interested parties on the company web page www.schweizer.ag/en/ investor-relations/corporate-governance.html.
+The Management Board and the Supervisory Board addressed the recommendations and suggestions of the German Corporate Governance Code once again in the 2013 business year. The changes to the code on 13 May 2013 have been inspected and will be taken into account in the next Declaration of Compliance in May 2014 and/ or the Declaration has been updated during the period.
+
+75
+
+CORPORATE GOVERNANCE
+
+Schweizer Electronic AG has always been committed to the principles of responsible leadership and controlling, and thus complies with the recommendations of the German Corporate Governance Code governmental commission with a few minor exceptions.
+The Declarations of Conformity issued by the Management Board and the Supervisory Board in May and Nov. 2013 in accordance with Section 161 of the German Stock Corporation Act (AktG) deviates from the recommendations of the German Corporate Governance Code governmental commission that were published in the Federal Gazette on 10 June 2013 with regard to the following items. This involves a statement of clarification that Schweizer Electronic AG has not created a consolidated financial statement, which is why there are no statements on the provisions that are not to be applied in this regard.
+DECLARATION OF CONFORMITY IN ACCORDANCE WITH SECTION 161 AKTG
+(Status May 2013)
+The Management Board and the Supervisory Board of Schweizer Electronic AG hereby declare in accordance with Section 161 of the German Stock Corporation Act (AktG):
+The Management Board and the Supervisory Board of Schweizer Electronic AG hereby declare that, since the last Declaration of Conformity was issued in May 2012, the company has been and is in conformity with the recommendations of the Government Commission's German Corporate Governance Code in the version of 15 May 2012, published in the electronic Federal Gazette on 15 June 2012, subject to the following exceptions:
+Code No. 4.2.3: The company has not complied with and does not comply with the recommendation set forth in Section 4.2.3(4), clause 1, of the Code, which stipulates that when concluding contracts with members of the Management Board, care should be taken to ensure that payments made to a member as a result of premature termination of management duties do not exceed the value of two years' compensation (severance payment cap), and compensate no more than the remaining term of the con-
+
+tract. The employment contracts signed with members of the Schweizer Electronic AG Management Board do not contain such a regulation. We do not consider it advisable to incorporate such a clause, since even in this case the board member could refuse to step down from the Board and insist on payment of his remaining entitlement under the Management Board employment contract. We also believe that the Supervisory Board would have regard to the company's interests in its negotiations with members who retire from the Board early and would not award any excessive severance payment. Code No. 4.2.3(4), clause 4, recommends that payments promised in the event of premature termination of management duties due to a change of control should not exceed 150% of the severance payment cap amounting to two years' compensation (i.e. total of three years' compensation). The company has not complied with and does not comply with this recommendation. In the event of premature loss of a position on the Management Board due to a change of control, two members of the Schweizer Electronic AG Management Board are entitled to a severance payment and a compensation payment as a result of their employment contract that is not limited to three years' compensation. Incorporating such a restriction would limit Schweizer Electronic AG and its Supervisory Board in the selection of suitable candidates for a position on the board, since on occasion an undertaking may be sought for payment in the event of premature termination of management duties due to a change of control greater than that recommended in Code No. 4.2.3(4), clause 4. Therefore, a degree of discretion is needed to enter into such undertakings for the event of a change in control. For this reason, the Supervisory Board reserves the right to enter into undertakings for the event of a change in control in the employment contracts of members of the Management Board that do not comply with the recommended limit in Code No. 4.2.3(4), clause 4.
+
+Code No. 5.1.2:
+
+Code No. 5.1.2(2), clause 3, recom-
+
+mends that an age limit is set for members of the Man-
+
+agement Board. The company has not complied with and
+
+does not comply with this recommendation. We do not
+
+consider it advisable to make a standard specification of
+
+an age limit for members of the Management Board. Com-
+
+petence, technical expertise and experience are far more
+
+76
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+relevant criteria, which should be evaluated regardless of age.
+
+Code No. 5.2:
+
+Code No. 5.2(2), clause 1, states that
+
+the Chairman of the Supervisory Board should also act
+
+as chairman of the committees that handle Management
+
+Board contracts and prepare for Supervisory Board meet-
+
+ings. The company has not complied with and does not
+
+comply with this recommendation, because the Supervi-
+
+sory Board does not have these committees.
+
+Code No. 5.3.1, 5.3.2 and 5.3.3: The Supervisory Board does not have an audit committee as recommended in Code No. 5.3.2 nor does the Supervisory Board have a nomination committee as recommended in Code No. 5.3.3. For a company of our size with only six members sitting on the Supervisory Board, we do not believe it is either advisable or necessary to set up the above committees. The tasks designated for the audit committee and nomination committee as well as the other tasks of the Supervisory Board can easily be dealt with in plenary sessions, provided they are not delegated to the existing finance committee.
+
+The finance committee is the only committee of the Supervisory Board. We do not believe it is either advisable or necessary for a company of our size with only six members sitting on the Supervisory Board to set up further Supervisory Board committees. The composition of the finance committee adequately satisfies the recommendation in Code No. 5.3.1(1) (formation of professionally qualified committees depending on the specific nature of the enterprise and the number of its members). However, as an extreme precautionary measure, we wish to make it clear that no claim to comply with the Code recommendation is made.
+
+Code No. 5.4.1:
+
+Code No. 5.4.1(2), clause 1, recom-
+
+mends that, when stating the specific objectives to be
+
+achieved when constituting the board, the Supervisory
+
+Board should consider an age limit for members of the
+
+Supervisory Board. The company has not complied with
+
+and does not comply with this recommendation. We do not
+
+consider it advisable to make a standard specification of
+
+an age limit for members of the Supervisory Board. Com-
+
+petence, technical expertise and experience are far more
+
+relevant criteria, which should be evaluated regardless of age. The Supervisory Board therefore did not set or consider such an age limit when it stated the specific objectives to be achieved when constituting the board.
+
+Code No. 5.4.1(2), clause 1, in the version of 15 May 2012 recommends that, when stating the specific objectives to be achieved when constituting the board, the Supervisory Board should consider the number of independent members of the Supervisory Board in terms of Code No. 5.4.2. The company has complied with and does comply with this recommendation as of the Supervisory Board meeting of 27 March 2013 in that such an objective has been defined. The opinion of the Supervisory Board on this objective could not be formed until the new version of the Code of 15 May 2012 had been examined in this meeting of the Supervisory Board.
+
+Code No. 5.4.1(4 to 6) recommends that when proposing candidates to the annual general meeting the Supervisory Board should disclose the personal and professional relationships of each candidate to the company, the organs of the company and to any shareholder holding a material interest in the company. The company has not complied with and does not comply with this recommendation, because we believe the requirements of the Code on the duty to report are not clearly defined or delineated. Therefore, we do not believe such notification to be advisable.
+
+Code No. 5.4.6:
+
+Code No. 5.4.6(1), clause 3 recom-
+
+mends that chairmanship of Supervisory Board commit-
+
+tees should be considered in the compensation of the
+
+members of the Supervisory Board. The company has not
+
+complied with and does not comply with this recommen-
+
+dation, because the additional remuneration provided for
+
+in Section 13(4) of the Articles of Association adequately
+
+rewards members of the Supervisory Board for sitting on
+
+committees, as well as the duties undertaken by the com-
+
+mittee chairperson.
+
+Section 13(2) of the Articles of Association of Schweizer Electronic AG provides, alongside the fixed pay component, for the following performance-related remuneration for Supervisory Board members: "In addition each member receives a variable remuneration of EUR 400 for each
+
+77
+
+CORPORATE GOVERNANCE
+
+EUR 0.01 by which the dividend declared at the annual general meeting exceeds a dividend of EUR 0.10 per share with full dividend entitlement distributed to the shareholders." Under Section 13(3) of the Articles of Association the Chairman of the Supervisory Board is paid double and his deputy one and a half times this performance-related remuneration. The performance-related remuneration defined in the Articles of Association complied with the recommendation of the Government Commission in Code No. 5.4.6(2), clause 1, in the version of 26 May 2010 ("In addition to a fixed component, members of the Supervisory Board should also receive performance-related remuneration".). The performance-related remuneration of Supervisory Board members provided for in Section 13(2) of the Articles of Association no longer complies with the changed recommendation in Code No. 5.4.6(2), clause 2, in the version of 15 May 2012 ("If a commitment to performance-related remuneration is made to Supervisory Board members, it should be oriented towards sustainable business development."), because it is linked to the dividend for shares in the preceding business year. No change to the performance-related remuneration for Supervisory Board members in line with the current version of the Code is proposed. We believe that linking performance-related remuneration to the dividend adequately reflects the responsibility of the Supervisory Board for sustainable business development.
+An individualised disclosure as recommended in Code No. 5.4.6(3), clause 1, of the remuneration of the members of the Supervisory Board regulated in our Articles of Association is not made in the appendix or the status report, because no additional information that is relevant to the capital market is involved.
+
+UPDATE TO THE DECLARATION OF CONFORMITY IN ACCORDANCE WITH SECTION 161 AKTG
+The Management Board and Supervisory Board of Schweizer Electronic AG issued a declaration in May 2013 as stipulated in Section 161 AktG on acceptance of the German Corporate Governance Code (the "Code"). The Management Board and Supervisory Board hereby update this declaration and will publish this updated declaration on the Schweizer Electronic AG website.
+Up to October 2013 the company complied with the recommendations of the Code in the version of 15 May 2012 and the recommendations of the Code in the version of 13 May 2013 published in the Federal Gazette on 10 June 2013 (2013 version), subject to the exceptions referred to in the Declaration of Conformity of May 2013. In October 2013 the company no longer complied with two further clauses: No. 4.2.2(2), clause 3, of the Code (2013 version) and No. 4.2.3(2), clause 8, of the Code. For this reason, the Declaration of Conformity needed to be updated.
+Let it be noted that the Management Board and the Supervisory Board of Schweizer Electronic AG declare in accordance with Section 161 AktG:
+Code No. 4.2.2: Code No. 4.2.2(2), clause 3, (2013 version) recommends that, when determining the total remuneration of the individual members of the Management Board, the Supervisory Board should consider the relationship of the Management Board remuneration to the remuneration of senior management staff and the workforce overall and its development over time.
+
+Schramberg, May 2013
+
+Schweizer Electronic AG
+
+Management Board
+
+Supervisory Board
+
+Dr. Marc Schweizer Chairman of the Management Board
+
+Christoph Schweizer Chairman of the Supervisory Board
+
+The Supervisory Board did not fully comply with this recommendation when concluding new employment contracts with the Management Board in October 2013. When concluding the employment contracts the Supervisory Board did take steps, in accordance with the provisions of the German Stock Corporation Act (AktG), to ensure that the total remuneration awarded to Management Board members does not exceed the customary remuneration without special reason. To the extent that the Code in the new version of 13 May 2013 does specify in accordance
+
+78
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+with the German Stock Corporation Act (AktG) that the vertical appropriateness of the Management Board remuneration should be considered and to the extent that it further defines the relevant groups and the time scale for the comparison, we wish to make it clear that no claim to comply with the Code in this respect is made.
+
+In all other respects, the Declaration of Conformity of May 2013 remains in force.
+Schramberg, November 2013
+Schweizer Electronic AG
+
+The new recommendation in the Code resulted in a controversial debate in legal literature on the clarity of the individual requirements. As a result, the Supervisory Board did not have sufficiently specific information on how the senior management staff should be distinguished from junior management and which sections of the workforce are relevant and which irrelevant in this respect. It was also unclear what time frame and perspective should be considered in terms of "development over time". The Supervisory Board is therefore of the view that the measures already implemented for determining the remuneration of the Management Board are sufficient to ensure appropriate remuneration for members of the Management Board.
+
+Management Board
+Dr. Marc Schweizer Chairman of the Management Board
+
+Supervisory Board
+Christoph Schweizer Chairman of the Supervisory Board
+
+THE STRUCTURE OF THE COMPANY MANAGEMENT AND MONITORING OF SCHWEIZER ELECTRONIC AG IS AS FOLLOWS:
+
+Code No. 4.2.3: Code No. 4.2.3(2), clause 8, also recommends, with respect to the variable remuneration components, that any retroactive change to performance targets or comparison parameters should be excluded.
+The company has not complied with this recommendation since 01/11/2013 and will not comply with this recommendation in the future. The current and future remuneration rules in the Management Board employment contracts provide, in the event of extraordinary developments within the company (e.g. change in legal form, share buyback, capital measures, acquisition and/or sale of the company and plant, disclosure of hidden reserves) that have a significant impact on the achievability of the targets subject to variable remuneration, for the Supervisory Board to unilaterally revise the contract terms and conditions and other variable remunerations parameters.
+The Management Board and Supervisory Board believes it is advisable and necessary to take reasonable steps to counter the impact of such extraordinary developments.
+
+Shareholders and annual general meeting Our shareholders exercise their rights at the annual general meeting of the company, which takes place in the first eight months of the business year. The Chairman of the Supervisory Board presides over the annual general meeting. The annual general meeting decides on all the tasks assigned to it by the law.
+It is our goal to make it as easy as possible for shareholders to participate in the annual general meeting, which is why all documents necessary for participation are published online in advance. A proxy is named for the shareholders for the annual general meeting; this proxy can exercise their voting rights according to their instructions.
+Supervisory Board The Supervisory Board of Schweizer Electronic AG is made up of six members, of which two are chosen by the company employees in accordance with the provisions of the law with respect to the German One-Third Employee Representation Act (Drittelbeteiligungsgesetz). The remaining four members of the Supervisory Board were selected
+
+79
+
+CORPORATE GOVERNANCE
+
+prior to the annual general meeting in 2014. An additional member was chosen with respect to the medium-term succession planning. The Chairman of the Supervisory Board is chosen from among the members of the Supervisory Board.
+
+least four times a year and meets without the Management Board if required. There is also a finance committee consisting of three members of the Supervisory Board. The Supervisory Board determines the financial statement and commissions the auditor.
+
+In evaluating the company-specific situation, the size of the company and the proportion of international business activities with regard to its constitution, the Supervisory Board set the following objectives:
+1. A minimum of one seat on the Supervisory Board for persons that particularly embody the criterion of internationality (for example, through foreign nationality, relevant experience abroad or relevant experience in international business);
+2. no more than two seats on the Supervisory Board for persons that have an advisory or organisational role with regard to customers, suppliers, creditors or other business partners of Schweizer Electronic AG; this is intended to limit potential conflicts of interest within the Supervisory Board;
+
+The status report shall report on the essential features of the Supervisory Board remuneration system.
+D&O insurance with an excess has been concluded for the Supervisory Board.
+Management Board The Management Board leads the company under its own responsibility and consists of four members. The Management Board informs the Supervisory Board regularly, promptly and comprehensively with regard to all relevant issues regarding business development, planning, finance and the business situation. The status report describes the essential features of the Management Board remuneration system. D&O insurance with an excess has been concluded for the Management Board.
+
+3. a minimum of three seats on the Supervisory Board for independent members of the Supervisory Board in terms of Code No. 5.4.2, i.e. a minimum of one seat on the Supervisory Board for independent shareholder representatives and a minimum of two seats on the Supervisory Board for independent employee representatives (the Supervisory Board assumes that employee representatives will in principle be independent members of the Supervisory Board);
+4. a minimum of one seat on the Supervisory Board to be occupied by a woman.
+The current composition of the Supervisory Board complies with these objectives.
+The Supervisory Board appoints the members of the Management Board. It monitors and advises the Management Board in the leadership of the company. The key decisions made by the Management Board require the approval of the Supervisory Board. The Supervisory Board meets at
+
+Accounting and financial statement audit The financial statement is made in accordance with HGB guidelines. It is produced by the Management Board, checked by the auditor and determined by the Supervisory Board. The financial statement is published within four months of the end of the business year.
+It has been agreed with the auditor, Ernst & Young GmbH ­ a Stuttgart-based audit firm with a branch office in Villingen-Schwenningen ­ that the Chairman of the Supervisory Board shall immediately be informed of key issues that surface during the audit. The auditor reports on all issues and occurrences that are of essential importance to the tasks of the Supervisory Board that are revealed by the financial statement audit ­ reporting immediately to the Chairman of the Supervisory Board. In addition, the Chairman shall be informed if the auditor identifies facts that result in inaccuracy with respect to the Declaration of Conformity submitted by the Management Board and the Supervisory Board in accordance with Section 161 AktG.
+
+80
+
+COMPANY STATUS REPORT FINANCIAL STATEMENT CORPORATE GOVERNANCE
+
+The auditor participates personally in the Supervisory Board meeting at which the financial statement is decided.
+Transparency A uniform, comprehensive and prompt information policy is of particular importance to Schweizer Electronic AG. The business situation and the results are reported in the annual report, at the Analyst Conference, in the interim reports and in the half-yearly financial report.
+Information is also communicated via press releases or ad hoc messages where this is a statutory requirement. All messages and disclosures can be found online under "Investor Relations".
+
+Acquisition and Sale of Company Shares In accordance with Section 15a of the German Securities Trading Act (WpHG), the members of the Management Board, employees with managerial functions and members of the Supervisory Board or persons closely associated with them are legally obliged to disclose the acquisition and sale of shares in Schweizer Electronic AG where the value of the business conducted by the member and persons associated with him amounts to EUR 5,000 or more within one calendar year. The dealings reported to Schweizer Electronic AG during the last business year
+were duly disclosed and can be viewed on the company's web page at www.schweizer.ag/ en/investor-relations/corporate-governance/ directors-dealings.html.
+
+Schweizer Electronic AG has created the stipulated list of insiders and the persons in question have been informed of the statutory obligations and sanctions.
+
+Schramberg, 17 March 2014
+
+Management Board
+
+Supervisory Board
+
+Share Holdings as of 31/12/2013 Management Board: 929,574 shares. One member of the Management Board is also a member of a community of heirs that holds 576,520 shares.
+
+Supervisory Board: 868,600 shares. One member of the Supervisory Board is also a member of a community of heirs that holds 576,520 shares.
+
+81
+
+FINANCIAL GLOSSARY
+
+AktG Abbreviation for the "Aktiengesetz", which is the German Stock Corporation Act
+Book-to-bill ratio Ratio of orders taken to turnover within a specified period. A book-to-bill ratio of more than 1.0 indicates that incoming orders in the business year were higher than turnover.
+Cash flow Any excess of receipts over payments for a company, which is variably determined depending on the size of the payments under consideration.
+Cash flow statement Analysis of the development of liquid funds/flow of payments under consideration of the source and use of funds.
+Corporate Governance Refers to the responsible management and control of a company, aligned towards long-term value creation. The German Corporate Governance Code governmental commission compiles the relevant standards and integrates them in the Corporate Governance Code.
+D&O insurance Abbreviation for director & officers insurance. D&O insurance is professional liability insurance for bodies, such as management and supervisory boards, and executive employees.
+Deferred taxes Payable or recoverable income taxes that result from the difference between the values stated in the tax and commercial balance sheets.
+Derivative financial instruments Derivative financial instruments are used to insure against and minimise interest rate and/or currency risks due to fluctuations in the exchange rate or market interest rate.
+
+EBITDA Abbreviation for earnings before interest, taxes, depreciation and amortisation or overall performance + other operating performance ./. Material costs ./. Personnel costs ./. Other operating expenses.
+EPS Abbreviation for earnings per share, calculated by dividing the annual net income of the company by the number of shares.
+Equity ratio Calculated as the ratio of the total equity to the total assets.
+EVA® Abbreviation for Economic Value Added®. Indicator used in the context of a comprehensive performance measurement and value creation concept.
+Free float Proportion of the share capital not in the permanent possession of specific shareholders, but that are in free float.
+General Standard One of three Regulated Market transparency levels from which a company can choose for its listing on the stock exchange. Issuers in the General Standard fulfil the high transparency standard of the Regulated Market, without having a specific international orientation. The General Standard is primarily suitable for medium and large companies focused primarily on domestic investors.
+HGB Abbreviation for "Handelsgesetzbuch", which is the German Commercial Code.
+ISIN Abbreviation for International Security Identification Number. Used to clearly identify securities internationally.
+
+EBIT Abbreviation for earnings before interest and taxes and/or EBITDA ./. Depreciation of tangible and intangible assets
+
+Joint venture Cooperation between two or more partner companies, in which the partners remain legally autonomous.
+
+82
+
+LTIP Abbreviation for Long Term Incentive Program. Remuneration components with long-term incentive component and a proportion of risk in the form of a "share matching" plan.
+Net indebtedness Interest-bearing liabilities after allowing for liquid assets and short-term financial assets.
+Prepayments and accrued income Payments that have already been made or received in advance in the reporting period, but relate to a period after the reporting date
+
+WKN Abbreviation for "Wertpapier-Kenn-Nummer", the German securities code, which is used to clearly identify securities in Germany. In international transactions the German securities code number is replaced by the ISIN.
+Working capital The sum of the inventories and trade receivables from operating activities less vendor liabilities.
+
+Provisions Payments or depreciation in value for later periods recognised as expenditure in the accounting period, the level and/or time of which is not fixed on the reporting date, but which is reasonably certain to occur.
+
+Total-cost method Structuring of the income statement based on the sales revenue that follows a basic expenditure-oriented concept, where the prescribed sequence is based on the expected weighting of the individual production factors for the production plant in the operational goods and services process.
+
+83
+
+TECHNOLOGY GLOSSARY
+
+ACT technique Assembly and connectivity technique
+Design-in cycles Development cycles
+Embedding technology Technologies for the integration of active and passive components on PCBs
+High-efficiency solar cells/modules Solar cells with a high level of efficiency, usually over 20 %
+High frequency application In this case, in the 24GHz and 77GHz range. These are radar applications in vehicles
+Inlay solution Inlay is a solid copper layer that is embedded in the PCB using a special technique. The inlay is form-fitted in a resin composite.
+Off-grid An off-grid system is what is known as an "island system": A photovoltaic system that is not connected to the national grid and only functions with an energy store
+PCB Printed Circuit Board ­ a carrier for electronic components. PCBs are used to link active, passive and electromechanical components as well as connectors. Depending on the technological requirements, PCBs are available in a variety of formats. Offers a range of technological possibilities, which can be combined with one another in a modular manner.
+
+Prepreg Fibre glass mats that are pre-impregnated with a resin and are used to bond the individual layers in a multi-layer product.
+Prismark Market research institute
+Single-board solution Combining two different PCBs and technologies into a single PCB.
+Smart battery switch A semiconductor switch that cuts out the on-board voltage in a vehicle in a reversible manner. In the event of a fault (e.g. accident), the switch disconnects the vehicle on-board voltage from the battery to prevent potential short circuits and so avoid the risk of fire. It can also be used to disconnect the battery voltage if a vehicle is transported (e.g. sea crossing).
+Thermo-prepregs Special prepregs with 10 times better thermal conduction than standard prepregs
+ZVEI Zentralverband Elektrotechnik- und Elektronikindustrie e.V. [German Electrical and Electronic Manufacturers' Association]
+
+Power electronics The conduction of high currents and/or heat dissipation
+
+84
+
+FINANCIAL CALENDAR
+
+Date 31/03/2014 30/04/2014 30/04/2014 04/07/2014 14/08/2014 07/11/2014 03/07/2015
+
+Publication/event Annual financial report 2013 Interim report for 1st quarter 2014 Analyst conference Annual general meeting Half-yearly financial report as of 30/06/2014 Interim report for 3rd quarter 2014 Annual general meeting
+
+These dates and potential updates are also detailed on our website at www.schweizer.ag/en/investor-relations/financial-calendar.html.
+
+IMPRINT
+Schweizer Electronic AG Einsteinstraße 10 78713 Schramberg Postfach 561 78707 Schramberg Germany Tel.: +49 (0) 7422 512-0 Fax: +49 (0) 7422 512-397 www.schweizer.ag ir@schweizer.ag
+
+In this report, Schweizer Electronic AG is simply referred to as SCHWEIZER. Elekonta Marek GmbH & Co. KG is referred to as Elekonta. All figures are rounded, which can lead to minor deviations when these are added up. To aid readability, the male form is used throughout this document. However, the female form is also always implied.
+Picture credits Photographs @ Nicolas Knebel ­ perceptum.de World map © Marina Zlochin ­ Fotolia.com Arrows © graphixmania ­ Fotolia.com
+
+SAFE HARBOUR STATEMENT
+This communication contains forward-looking statements and information ­ that is statements about events that lie in the future, not the past. These forward-looking statements can be identified by formulations such as "expect", "wish to", "anticipate", "propose", "plan", "believe", "seek to", "estimate", "become" or similar terms. While such forward-looking statements represent our current expectations and particular assumptions, they are subject to various risks and uncertainties. A number of factors, many of which are outside the control of Schweizer, have an impact on Schweizer's business activities, strategy and results. These factors could cause the actual results and performance of the Schweizer group to differ materially from the information on results and performance made explicit or implied in these forward-looking statements. On our part these uncertainties arise in particular due to the following factors: Changes to the overall economic and business position (including margin developments in the major business units), challenges posed by the integration of important acquisitions and the implementation of joint ventures and other major portfolio measures, changes to exchange and interest rates, the introduction of competing products or technologies by other companies, failure to find acceptance of new products and services among Schweizer's target client groups, changes to the business strategy and various other factors. Should one or more of these risks or uncertainties be realised or it becomes apparent that the underlying assumptions were incorrect, this could cause the actual results to differ materially both in a positive and negative sense from the results referred to in forward-looking statements as expected, anticipated, proposed, planned, projected or estimated. Schweizer does not obligate itself and does not intend to revise or correct these forward-looking statements in light of developments which differ from those anticipated.
+
+85
+
+Schweizer Electronic AG Einsteinstraße 10 78713 Schramberg Postfach 561 78707 Schramberg Germany
+
+
