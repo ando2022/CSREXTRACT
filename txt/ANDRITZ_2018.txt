@@ -1,0 +1,1520 @@
+ANNUAL REPORT 2018
+
+ANNUAL REPORT 2018
+
+THE ANDRITZ GROUP
+
+Order intake Order backlog (as of end of period) Sales EBITDA1 EBITDA margin EBITA2 EBITA margin Earnings Before Interest and Taxes (EBIT) EBIT margin Earnings Before Taxes (EBT) Net income ( i n c l u d i n g n o n - c o n t r o l l i n g i n t e r e s t s ) Non-current assets Current assets Total shareholders' equit y3 Provisions Liabilities Total assets Equity ratio4 Liquid funds5 Net liquidity6 Cash flow from operating activities Capital expenditure7 Employees (as of end of period; without apprentices)
+
+Unit
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+MEUR 6,646.2 5,579.5 5,568.8 6,017.7 6,101.0
+
+MEUR 7,084.3 6,383.0 6,789.2 7,324.2 7,510.6
+
+MEUR 6,031.5 5,889.1 6,039.0 6,377.2 5,859.3
+
+MEUR 498.0 541.7 542.4 534.7 472.0
+
+%
+
+8.3
+
+9.2
+
+9.0
+
+8.4
+
+8.1
+
+MEUR 394.3 444.0 442.1 429.0 379.5
+
+%
+
+6.5
+
+7.5
+
+7.3
+
+6.7
+
+6.5
+
+MEUR 321.6 399.3 385.8 369.1 295.7
+
+%
+
+5.3
+
+6.8
+
+6.4
+
+5.8
+
+5.0
+
+MEUR 304.2 400.6 398.4 376.4 299.4
+
+MEUR 219.7 265.6 274.8 270.4 210.0
+
+MEUR 2,629.5 1,860.8 1,913.7 1,844.7 2,007.4
+
+MEUR 4,289.1 4,404.5 4,284.9 3,933.3 3,987.8
+
+MEUR 1,330.8 1,325.4 1,344.2 1,215.6 1,038.3
+
+MEUR 1,017.7 1,066.1 1,118.9 1,130.4 1,056.2
+
+MEUR 4,570.1 3,873.8 3,735.5 3,432.0 3,900.7
+
+MEUR 6,918.6 6,265.3 6,198.6 5,778.0 5,995.2
+
+%
+
+19.2
+
+21.2
+
+21.7
+
+21.0
+
+17.3
+
+MEUR 1,279.7 1,772.3 1,507.1 1,449.4 1,701.6
+
+MEUR -129.5 908.0 945.3 984.0 1,065.1
+
+MEUR
+
+7.8 246.5 366.6 179.4 342.1
+
+MEUR 137.0 116.8 119.5 101.4 106.5
+
+­ 29,096 25,566 25,162 24,508 24,853
+
+1Earnings Before Interest, Taxes, Depreciation, and Amortization.2Earnings Before Interest, Taxes, Amortization of identifiable assets acquired in a business combination and recognized separately from goodwill at the amount of 56.8 MEUR (2017: 38.3 MEUR), and impairment of goodwill at the amount of 15.9 MEUR (2017: 6.4 MEUR) 3 Total shareholders' equity including non-controlling interests. 4 Total shareholders' equity/total assets. 5 Cash and cash equivalents plus investments plus Schuldscheindarlehen. 6 Liquid funds plus fair value of interest rate swaps minus financial liabilities. 7 Additions to intangible assets and property, plant, and equipment.
+All figures according to IFRS. Due to the utilization of automatic calculation programs, differences can arise in the addition of rounded totals and percentages. MEUR = million euros, TEUR = thousand euros.
+
+ANDRITZ is an international technology group providing plants, systems, equipment, and services for various industries. The company is one of the technology and global market leaders in the hydropower business, the pulp and paper industry, the metal working and steel industries, and in solid/liquid separation in the municipal and industrial segments. Other important fields of business are animal feed and biomass pelleting, as well as automation, where ANDRITZ offers a wide range of innovative products and services in the IIoT (Industrial Internet of Things) sector under the brand name of Metris. In addition, the company is active in power generation (steam boiler plants, biomass power plants, recovery boilers, and gasification plants) and environmental technology (flue gas and exhaust gas cleaning plants) and offers equipment for the production of nonwovens, dissolving pulp, and panelboard, as well as recycling plants.
+
+A passion for innovative technology, absolute customer focus, partnership, reliability, and integrity are core values to which ANDRITZ is committed. The listed Group is headquartered in Graz, Austria. With almost 170 years of experience, 29,000 employees, and more than 280 locations in over 40 countries worldwide, ANDRITZ is a reliable and competent partner and helps its customers to achieve their corporate and sustainability goals.
+
+HYDRO
+
+Order intake Order backlog (as of end of period) Sales EBITDA EBITDA margin EBITA EBITA margin Capital expenditure Employees (as of end of period; without apprentices)
+
+Unit MEUR MEUR MEUR MEUR
+% MEUR
+% MEUR
+
+2018 1,445.8 2,667.9
+1,517.5 142.4
+9.4 113.8
+7.5 57.9
+
+2017 1,317.2 2,921.8 1,583.1
+154.1 9.7
+123.0 7.8
+36.3
+
+2016 1,500.3 3,269.6 1,752.4
+167.2 9.5
+127.6 7.3 26.1
+
+2015 1,718.7 3,640.9 1,834.8
+183.6 10.0 145.3
+7.9 27.4
+
+2014 1,816.7 3,708.6 1,752.3
+177.2 10.1 144.8 8.3 39.4
+
+­ 7,002
+
+7,237
+
+7,260
+
+8,230
+
+8,339
+
+ANDRITZ Hydro is one of the leading global suppliers of electromechanical equipment for hydropower plants. With over 175 years of accumulated experience and more than 31,000 turbines installed, totaling approximately 430,000 megawatts output, the business area provides the complete range of products, including turbines, generators, and additional equipment of all types and sizes ­ "from water to wire" for small hydro applications to large hydropower plants with outputs of more than 800 megawatts per turbine unit. ANDRITZ Hydro has a leading position in the growing modernization, refurbishment, and upgrade market for existing hydropower plants. Pumps (for water and waste water management such as irrigation, drainage, desalination, or water transport, as well as for various other applications in a wide range of industries) and turbogenerators for thermal power plants are also assigned to this business area.
+
+PULP & PAPER
+
+Order intake Order backlog (as of end of period) Sales EBITDA EBITDA margin EBITA EBITA margin Capital expenditure Employees (as of end of period; without apprentices)
+
+Unit MEUR MEUR MEUR MEUR
+% MEUR
+% MEUR
+
+2018 2,571.9 2,421.1 2,233.2
+258.4 11.6
+222.1 9.9
+33.8
+
+2017 2,033.4 1,787.0 2,059.7
+221.5 10.8 194.9
+9.5 42.1
+
+2016 1,919.5 1,803.3 2,094.4 207.7
+9.9 182.2
+8.7 34.1
+
+2015 2,263.9 1,998.6 2,196.3
+214.8 9.8
+190.9 8.7 21.1
+
+2014 1,995.7 1,875.4 1,969.3
+127.6 6.5
+102.9 5.2 28.1
+
+­ 11,435 8,002
+
+7,522
+
+7,324
+
+7,236
+
+ANDRITZ Pulp & Paper is a leading global supplier of complete plants, systems, equipment, and comprehensive services for the production and processing of all types of pulp, paper, board, and tissue. The technologies cover processing of logs, annual fibers, and waste paper; production of chemical pulp, mechanical pulp, and recycled fibers; recovery and reuse of chemicals; preparation of paper machine furnish; production of paper, board, and tissue; sizing, calendering and coating of paper; as well as treatment of reject materials and sludge. The service offering includes system and machine modernization, rebuilds, spare and wear parts, on-site and workshop services, optimization of process performance, maintenance and automation solutions, as well as machine relocation and second-hand equipment. Biomass, steam and recovery boilers for power production, gasification and flue gas cleaning plants, systems and plants for the production of nonwovens and absorbent hygiene products, dissolving pulp, and panelboard (MDF), as well as recycling and shredding solutions for various waste materials also form a part of this business area.
+
+METALS
+
+Order intake Order backlog (as of end of period) Sales EBITDA EBITDA margin EBITA EBITA margin Capital expenditure Employees (as of end of period; without apprentices)
+
+Unit MEUR MEUR MEUR MEUR
+% MEUR
+% MEUR
+
+2018 1,931.8 1,591.6 1,635.1
+57.8 3.5 27.3 1.7 36.1
+
+2017 1,606.5 1,309.7 1,643.5
+129.7 7.9
+98.6 6.0 29.7
+
+2016 1,551.5 1,369.0 1,598.4
+141.7 8.9
+115.2 7.2 49.1
+
+2015 1,438.6 1,332.5
+1,718.1 104.8
+6.1 70.5
+4.1 40.2
+
+2014 1,692.8 1,566.1 1,550.4
+134.0 8.6
+110.2 7.1
+27.9
+
+­
+
+7,818
+
+7,573
+
+7,608
+
+6,160
+
+6,432
+
+ANDRITZ Metals is the technology and global market leader in forming equipment through the Schuler Group, in which ANDRITZ has a stake of more than 95 percent. Schuler offers presses, automation solutions, dies, process know-how, and services for the entire metal forming industry. Its customers include car manufacturers and their suppliers, as well as companies in the forging, household appliance, packaging, energy, and electrical industries. Schuler is also the market leader in minting technology and offers system solutions for various high-tech segments.
+In addition, ANDRITZ Metals is one of the leading global suppliers of complete lines for the production and processing of cold-rolled strip made of carbon steel, stainless steel, aluminum, and other non-ferrous metals. The lines comprise equipment for pickling, cold rolling, annealing and heat treatment, surface finishing, strip coating and finishing, punching and deep drawing, and regeneration of pickling acids. The business area also supplies turnkey furnace systems for the steel, copper, and aluminum industries, burners and refractory products, welding systems, as well as comprehensive services for the metal working industry.
+
+SEPARATION
+
+Order intake Order backlog (as of end of period) Sales EBITDA EBITDA margin EBITA EBITA margin Capital expenditure Employees (as of end of period; without apprentices)
+
+Unit MEUR MEUR MEUR MEUR
+% MEUR
+% MEUR
+­
+
+2018 696.7 403.7 645.7
+39.4 6.1 31.1 4.8 9.2
+2,841
+
+2017 622.4 364.5 602.8
+36.4 6.0 27.5 4.6 8.7
+2,754
+
+2016 597.5 347.3 593.8 25.8
+4.3 17.1 2.9 10.2
+2,772
+
+2015 596.5 352.2 628.0
+31.5 5.0 22.3 3.6 12.7
+2,794
+
+2014 595.8 360.5 587.3
+33.2 5.7 21.6 3.7 11.1
+2,846
+
+ANDRITZ Separation is one of the leading separation technology specialists with the broadest technology portfolio in solid/liquid separation. The industries served include sectors ranging from environment to food, chemicals, and mining and minerals. The comprehensive product portfolio for solid/liquid separation comprises mechanical technologies such as centrifuges, filters, screens, thickeners, or separators, and thermal technologies such as dryers or coolers. The service sector focuses on customer support through local presence, prompt delivery of spare and wear parts, process monitoring and optimization, as well as operator training. In addition, the Separation business area offers technologies and services for the production of animal feed and biomass pellets.
+
+ANDRITZ / Annual Report 2018
+Dear Readers,
+A powerful brand and a strong level of employee identi fication with the products, services, and goals of a com pany are very important for a globally operating group like A NDRITZ to be successful in the long term in a highly competitive and dynamic, global environment.
+The accomplishments and growth of ANDRITZ as a company result from our ability to anticipate and fulfill the needs and expectations of our customers and partners as best possible. The important factors here are tailor-made solutions, technical and process expertise, products that lead the market both technologically and economically, local support, reliability, and a focus on achieving 100 per cent of our goals.
+Thus, the ANDRITZ brand is a value and performance proposition ­ for customers, business partners, employees, and investors. Our company claim puts this proposition in a nutshell: ANDRITZ ­ ENGINEERED SUCCESS.
+The values behind this claim have been clearly defined: passion, partnership, perspectives, and versatility. They form the basis of our own self-image and serve as a driving force and compass for our staff of approximately 29,000.
+On the basis of four great success stories, this Annual Report demonstrates that our values are not just empty phrases. ANDRITZ employees live according to these values in their everyday work, and they are manifested in successful projects for our customers.
+Very truly yours, Wolfgang Leitner
+
+06
+KERSHAW, SOUTH CAROLINA, USA
+OceanaGold uses advanced ANDRITZ technology to optimize all facets of industrial gold mining.
+22 ATLANTA,
+GEORGIA, USA
+Georgia-Pacific is making successful use of the new reality of the Industrial Internet of Things ­ with the help of ANDRITZ.
+
+XERIUM ACQUISITION19
+ANDRITZ strengthens its range of services for the paper industry.
+
+FLUIDIZED BED BOILERS FOR JAPAN31
+Clean electricity from biomass.
+
+34 ÖSTRAND,
+TIMRÅ, SWEDEN
+A large three-year project has made the SCA pulp mill more powerful, more efficient, and more sustainable. A decisive contribution to this project came from ANDRITZ.
+
+LARGE ORDER
+
+FROM CHILE
+
+47
+
+ANDRITZ supplies cutting-edge technologies for the ARAUCO pulp mill in Horcones, Arauco, Chile.
+
+50
+STAVANGER, ROGALAND, NORWAY
+Thanks to technology and know-how from A NDRITZ, "green energy" is being generated very efficiently at the Lysebotn II hydropower station.
+ÖSTRAND, TIMRÅ, SWEDEN
+
+IRRIGATION PUMPS
+
+FOR INDIA
+
+63
+
+ANDRITZ pumps irrigate well over 730,000 hectares of agricultural land in India.
+
+KERSHAW, SOUTH CAROLINA, USA
+
+STAVANGER, ROGALAND, NORWAY
+65
+
+ATLANTA, GEORGIA, USA
+THE ANDRITZ GROUP
+66 Letter to the shareholders 69 Executive Board and Supervisory Board 72 The 2018 business year at a glance 76 Strategy 78 The ANDRITZ share 82 Sustainability and compliance 84 Publisher's note
+
+6­17
+
+SOUTH CAROLINA, USA
+
+Before the California Gold Rush, there was a gold rush in South Carolina. Benjamin Haile struck the first gold in 1827 in Kershaw. The mine that bears his name is still operating today ­ and A NDRITZ is playing an important role in recovering the precious metal.
+
+DIGITAL GOLD
+
+Gleaming nuggets in pan-
+
+ning screens beside rushing
+
+mountain rivers: Modern
+
+gold mining has very little
+
+in common with such
+
+images of the Wild West.
+
+But an eye for detail is
+
+still important. In the largest gold mine in the eastern
+
+7
+
+USA, ANDRITZ technology
+
+is being used to optimize
+
+many facets of this indus-
+
+trial process.
+
+DR. CAELEN ANDERSON
+C a e l e n A n d e r s o n i s a m e t a l l u r g i c a l engineer at OceanaGold.
+
+8
+The drum of the ball mill is as big as a house. It rotates around its own axis in just a few seconds.
+
+It is pitch dark on a country road in South Carolina. At 6:20 in the morning, yellow school buses are already out on the road to collect the children. Brett Schug indicates right and turns onto a narrow road. "This is Gold Road," says the ANDRITZ business developer. In front of him, a huge industrial site appears out of nowhere: the Haile Gold Mine. Four large towers are visible, enormous metal frameworks everywhere. Conveyor belts throw rubble onto a gray heap several houses high and brightly lit. "That's the gold ore," he says. Even though the pile seems gigantic, the gold content is low: It takes more than twenty tons of ore to produce one ounce of gold.
+
+Gold prospecting has been going on for 200 years here, four hundred kilometers east of Atlanta. Captain Benjamin Haile found the precious metal in Kershaw in 1827 and built one of the first ever gold mines in the United States. Following a break in operations, the Australian company OceanaGold produced its first gold here on January 20, 2017 ­ with help from ANDRITZ. One of the technologies used is known as the "Digital Twin" and provides "Virtual Instrument" capabilities that enable the plant operators to take measurements very effectively. Thus, the problems some physical instruments have in terms of reliability, and expensive maintenance problems in some cases are avoided.
+
+An eye for the bigger picture
+A Digital Twin is a detailed, mathematical model of an industrial process, connected live to the actual operating plant. When applied to create Virtual Instruments, it provides reliable, calculated measurements, helping the operators and the automatic control system to run the processing plant at a higher efficiency. The Virtual Instruments at the Haile Gold Mine are
+
+DR. BRETT SCHUG
+D r . B r e t t S c h u g i s a n A N D R I T Z business developer.
+
+currently mounted on slurry pipes through which a mixture of water and gold ore flows. Physical density measurements at such points are traditionally difficult, use nuclear radiation, and must be recalibrated frequently. Digital Twin employs a detailed, first-principles, dynamic process simulation model built in the ANDRITZ proprietary IDEAS simulation software. This process model contains information about the plant equipment, including the size of each pipe and the characteristics of the slurry pump, for example. It connects to the process control system, uses values from trusted physical plant measurements, and calculates the slurry density every second. This Digital Twin system provides a reliable density value without the need for nuclear instruments, recalibration, or manual sampling. It can also issue warning messages to the plant operators if it detects operating problems in the process. The Virtual Instrument thus provides reliable, real-time information and helps the processing plant operate with higher stability and efficiency.
+The Haile Gold Mine also uses the ANDRITZ-proprietary ACE (Advanced Control Expert) optimization technology. For the people working there, it is a little like a virtual colleague ­ but with a great deal of power and responsibility. ACE acts like a specially-trained expert who optimizes processes, makes sure that consumption of resources and energy is as low as possible, and is always fully focused on the task at hand so that the plant operates as efficiently as possible. The Virtual Instrument values from the Digital Twin also provide some of the input values and information for the ACE systems at the mine.
+
+The effect of the ANDRITZ digital
+
+technologies is impressive: The
+
+drums of a ball mill, for example,
+
+which are as big as a house,
+
+rotate around their own axis in
+
+just a few seconds. Inside is
+
+the thunder of hundreds of metal
+
+balls that grind the ore and
+
+weigh over 100 tons alone. In the
+
+giant flotation towers, slightly
+
+shiny, dark water is bubbling.
+
+Metal-laden bubbles, shiny
+
+with ore, overflow to the next process stage. Even the
+
+9
+
+original material mined
+
+doesn't look like gold. "At first
+
+glance, they are just rocks," says
+
+Brett Schug. "The content of gold
+
+in the ore is very low, so the
+
+latest technology helps maximize
+
+recovery of the gold and make
+
+the process more profitable."
+
+"The less often a human being
+
+comes into contact with the
+
+milling process, the less prone
+
+the system is to human error. The
+
+process becomes more predict
+
+able and easier to control when
+
+you change the human role from
+
+interactor to supervisor," says
+
+Caelen Anderson, Metallurgical
+
+Superintendent at OceanaGold.
+
+"Thanks to Virtual Instruments,
+
+we can gather the data and
+
+check the process continuously
+
+and in real time." Without the
+
+need for constant manual sam-
+
+pling, the operator can spend
+
+more time optimizing. With the
+
+aid of the ANDRITZ Digital Twin
+
+and ACE technologies, we are
+
+changing the way operators run
+
+the plant, making it easier
+
+to operate and more efficient."
+
+10
+In the mine's ball mill, thousands of metal balls grind the ore.
+
+11
+A sizable heap, and not without good reason. More than 20 tons of ore are needed to recover a single ounce of gold.
+
+Simulating and optimizing
+
+As Metallurgical Superintendent,
+
+Caelen Anderson supervises a
+
+team that is responsible for help-
+
+ing the mine function most effi-
+
+ciently around the clock. "I create
+
+value," is how he first explains his
+
+job profile when asked. Although
+
+the modern mine around him
+
+has nothing more to do with the
+
+prospecting romanticism of the
+
+Gold Rush, Anderson's family can
+
+still look back on a proud history
+
+in this field. His Irish grandfather
+
+worked in mining, and the family
+
+from Butte, Montana, has spent
+
+over 100 years in the industry.
+
+He was involved himself in the
+
+early planning work for the Haile
+
+Gold Mine years before it actu-
+
+ally went into operation in 2017.
+
+And ANDRITZ was on board as
+
+well at that time. "ANDRITZ has
+
+been with us from the very begin-
+
+ning," he says. "From the
+
+start, ANDRITZ and the staff
+
+12
+
+clearly demonstrated their know-how," Anderson explains
+
+and adds that he was
+
+especially impressed by the
+
+ANDRITZ expertise in the mining
+
+sector. And ANDRITZ staff are still
+
+on the site regularly, in the mean
+
+time there is even a full-time
+
+member of staff working entirely
+
+on the mine site. "The conditions
+
+we had in the beginning at
+
+250 tons per hour (ore feed rate)
+
+are different from now, with over
+
+430 tons per hour," Anderson says.
+
+"The system has grown with us."
+
+Much of Anderson's work is
+
+done in front of computer screens.
+
+In a large control room, he dis-
+
+cusses mining progress with sev-
+
+eral colleagues. They are sitting
+
+in front of huge monitors watch-
+
+ing live camera scenes or com-
+
+puter graphics that show the in-
+
+side of the rotating mills and
+
+what is happening outside on the
+
+conveyor belts. A particularly
+
+large screen is emblazoned with at least 150 numbers, some are flashing, but only a handful are shown in red. All around, his fellow workers have easily a dozen screens to monitor. One of these colleagues takes the opportunity to demonstrate some ANDRITZ technologies together with Anderson and Schug. In a small window, the computer shows two values: "SIM Value/Field Value" ­ where the SIM Value is the value calculated by the new Virtual Instrument tool, based on the Digital Twin technology. "The system ensures that the processes are predictable and efficient. All this pays off for us,"
+
+In the control room, an OceanaGold operator checks the current plant data, including Virtual Instrument data from the ANDRITZ Digital Twin.
+
+Anderson and Schug at one of the grinding area hydrocyclones where the ore undergoes beneficiation in a physicoc hemical process.
+
+13
+
+HOW DOES A DIGITAL TWIN WORK?
+
+The A NDRITZ Digital Twin mirrors the physical process using real equipment characteristics such as physical dimensions and pump curve data.
+
+CONTROL SYSTEM
+
+A Digital Twin is the mathematical model of an industrial process that is linked in real time to a physical plant. This is where the IDEAS software from ANDRITZ comes into play. The Twin generates reliable information and values for opti-
+
+mum operation of the plant. In addition, it issues alerts for the operators or the control software if operating problems start to emerge. The schematic diagram shows a clear and simplified version of the main process steps.
+
+A section of a
+
+physical industrial
+
+process is the subject of the
+
+1
+
+Digital Twin.
+
+14
+
+2 8
+
+1
+Within the industrial process, important and trustworthy measurement equipment is identified.
+
+PHYSICAL PROCESS
+
+2
+Measurements are taken here in order to collect data, e.g. flow rate or pump speed, and sent to the control system.
+
+3
+The data are transferred from the physical control system to the Digital Twin with the aid of an OPC industrial communication protocol.
+
+4
+Then the data is uploaded into the IDEAS process model at the heart of the Digital Twin.
+
+3
+4
+15
+5 6
+
+The Digital Twin
+
+realistically and
+
+reliably represents
+
+7
+
+the selected sec-
+
+tion of the physi-
+
+cal industrial pro-
+
+cess.
+
+VIRTUAL PROCESS
+
+5
+The Digital Twin calculates process values at desired locations ­ providing the Virtual Instruments.
+
+6
+These process values are sent to the control system, including alerts and fault messages if they are needed.
+
+7
+The operators and the control system use all available data, including Digital Twin data, to generate control signals.
+
+8
+Actuators adjust and control the physical equipment and parts of the plant on the basis of these control signals.
+
+16
+
+Anderson explains. "The operators can see in real time how changes affect their circuit. The system provides them with more information ­ the more information we have, the better decisions we can make." The Digital Twin and other ANDRITZ technologies are helping Haile Gold Mine process more ore and extract more gold from the ore it processes.
+This means that more gold is produced without additional effort. And it really could be more in the future: OceanaGold
+
+GOOD BUSINESS WITH GOLD
+The OceanaGold Corporation has its headquarters in Melbourne, A u s t r a l i a , a n d o p e r a t e d a t o t a l o f f o u r m i n e s a s o f D e c e m b e r 2 0 1 8 in New Zealand, the Philippines, and the USA ­ including the Haile Gold Mine in the state of South Carolina with over 550 employees. O c e a n a G o l d h a d a n n u a l s a l e s o f 7 2 4 m i l l i o n U S D i n 2 0 1 7.
+
+17
+When working in the control room, every detail counts so that the mine`s facilities function smoothly and efficiently.
+explains on the mine's website that the original plans were to mine approximately two million ounces of gold annually, and further exploration at Haile has revealed additional ore deposits. So there is justified hope that the final result will be much higher. ANDRITZ is there to help by applying new technologies ­ technologies the prospectors in the Wild West could never have imagined.
+
+Orders and Acquisitions 2018
+1 SIKKIM, INDIA
+
+4 YOUNGSVILLE, NORTH CAROLINA, USA
+
+Roll cover
+
+3 SUELLO, ITALY
+
+2 NUREK, TADZHIKISTAN
+
+18
+
+1 ANDRITZ Hydro
+MAINTENANCE AND OPERATION OF A HYDROPOWER PLANT IN INDIA
+As an extension and prolongation of the existing operating and maintenance contract, ANDRITZ received an additional five-year operating and maintenance contract (2018-2023) for the Teesta Stage III hydropower station, which is one of the largest hydropower plants in India with its installed power of 1,200 megawatts (6 x 200 megawatts) and head of 800 meters. The plant delivers 5,300 gigawatt hours of electricity per annum into the grid. The electro-mechanical equipment in the hydropower plant was supplied by ANDRITZ and handed over to the customer for commercial use in 2017.
+
+2 ANDRITZ Hydro
+MODERNIZATION OF THE LARGEST HYDROPOWER STATION IN CENTRAL ASIA
+ANDRITZ received an order from Barki Tojik, Tadzhikistan, to refurbish and modernize the entire electro-mechanical equipment at Nurek hydropower station in T adzhikistan, including inspection and refurbishment of nine penstocks. After this modernization work, the units will have approximately 12 percent more installed capacity. The project is being funded by the World Bank. With the current installed capacity of 3,000 megawatts, Nurek is the largest hydropower plant in Central Asia and covers more than 70 percent of the national electricity demand.
+
+3 ANDRITZ Metals
+TAKEOVER OF FARINA PRESSE, ITALY
+Schuler took over the Italian forging line manufacturer Farina Presse. In acquiring this mechanical engineering specialist based in Suello in northern Italy, the Schuler Group has completed its product portfolio in the forging and singlestroke press segment. With its products, which are highly valued on the European market, Farina Presse is gaining access to Schuler's global sales network and will continue to operate under its own brand name.
+
+4 ANDRITZ Pulp & Paper
+ACQUISITION OF XERIUM, USA
+
+ANDRITZ successfully concluded the acquisition of Xerium Technologies Inc. in mid-October.
+Xerium Technologies ­ based in Youngsville, North Carolina, USA ­ is a global manufacturer and supplier of machine clothings (forming fabrics, press felts, drying fabrics) and roll covers for paper, tissue, and board machines, including maintenance and aftermarket services. With its SMART Technology, the company provides a sophisticated digital software tool to optimize pressing performance by means of sensors integrated into the roll covers.
+Xerium has around 2,900 employees and operates more than 29 production facilities worldwide, including a site in Gloggnitz, Austria. The company, which will operate under the name of ANDRITZ Fabrics and Rolls in the future, increases the previous ANDRITZ product offering in this sector several times over.
+
+19
+
+Machine clothing
+
+22­27
+
+GEORGIA, USA
+
+Georgia-Pacific is one of the largest pulp producers in the USA. What is the secret to success in its collaboration with ANDRITZ? Exceptional openness towards one another.
+
+23
+CHANGING CULTURES
+Amongst ANDRITZ's customers are some of the best in their field, oftentimes operating legacy businesses with decades of experience and tens of thousands of employees. Yet, even these companies are adapting to new realities in an ever more connected world. Mike Carroll works in one of these companies. He is the Vice President of Innovation at Georgia-Pacific Corporation, one of the world's leaders in producing paper and tissue for mostly giant industrial customers.
+
+MIKE CARROLL
+Mike Carroll is Senior Vice President for innovation at GeorgiaPacific. He would like to have more from ANDRITZ than just the usual services ­ challenging discussions.
+
+24
+
+ANDRITZ helps the company to run their facilities more smoothly and efficiently with highly advanced, selfdeveloped IIoT tools, leading to less downtime, higher profitability, and thus providing a competitive edge. Both companies have developed a very unique understanding of what working together in dynamic times really should look like ­ even if it means having challenging convers ations. Chris Sousa from ANDRITZ met Mike Carroll in Atlanta to talk about the essence and the results of their work together.
+Chris Sousa (left) works as a process optimizer at ANDRITZ. Together with Mike Carroll, he develops new ideas for the pulp and paper producer.
+
+Mike, how do you yourself describe your job?
+Mike Carroll -- I try to be an infectious catalyst for positive change. To do this properly, I spend a lot of my time outside the company and the industry, seeking the best knowledge. Armed with this knowledge, I engage people in conversation about what making the best use of that knowledge might look like within our context. The thing is, when you start using these new ideas and technological tools, the real improvement opportunities emerge when you change how you talk and, therefore, how you think. In the beginning, all that can be quite uncomfortable because you come to realize that you're not as good as you thought you were.
+How does ANDRITZ help you with this realization though?
+
+25
+
+M. C. -- We are both working on that. The short answer is that they help us obtain a true picture of our plant performance. The biggest obstacle we've faced has been letting go of what we view as being true about our plant and processes. It is these beliefs that can allow us to become overly comfort able, thereby enabling us to justify carrying yesterday's methodologies into the future and to shape how we use technology based on the past. A NDRITZ helps us change what we think about ourselves and, therefore, we liberate ourselves so that we can change what we do.
+The tools and technologies we have deployed together have the potential to help us change how we think. Of course, in changing these things we all hope for the hockey-stick development of benefits at all times, but then usually settle for reality because we continue in the same way as we always have. But the real improvement at the end of the hockey stick comes when you change how you frame problems, and then you can solve them differently for a new tomorrow.
+Does the company only have to further open up internally or also towards suppliers or service providers?
+M. C. -- We are becoming more comfortable with the amount of transparency that technology and
+
+digitalization enable. That transparency pulls operations largely out of the shadows. The things that we want to be true or we think may be true aren't always necessarily so. Transparency changes everyone's behavior for as long as it prevails.
+How did the collaboration with ANDRITZ work in order to create a more productive facility?
+M. C. -- For us, a more productive facility means optimization of processes by using the technology we have for what it's good at and freeing up our talent to create more value collaboratively. This will be especially important in the future when dealing with the loss of knowledge and experience during all the generational retirements of the next decade. Unless we start building for that now, our successors will be left with little choice but to radically overturn our traditional model of replacing talent one-for-one. It's likely that everyone's new mental model will need to consider how to use technology to connect more quickly and efficiently with the subject matter experts that are left, like those from ANDRITZ. And for those technologies specific to our business rather than the industry, embracing tools and technology differently may help create a way to
+
+G E O R G I A- PA C I F I C
+Georgia-Pacific is one of the world's leading manufacturers of tissue, cardboard, paper, packaging, and cellulose-based building material. Based in Atlanta, Georgia, GeorgiaPacific employs around 35,000 people in 200 locations all over the world. Founded in 1927 by Owen Cheatham as a wholesaler for lumber, Georgia-Pacific is now a subsidiary of Koch Industries and has been since 2005.
+26
+
+The control center at GeorgiaPacific's headquarters in Atlanta is where all things digital in the Group come together.
+
+27
+
+extend the availability of that knowledge long enough to make a difference. Otherwise the next generation of leaders may ask "why spend the opportunity cost trying to develop expertise that already exists and is easily available via a more highly interconnected ecosystem of capability?"
+How will your business of producing paper and tissue change as a whole?
+M. C. -- What we make probably won't change greatly, but how we go about making it certainly will change quite a lot. For certain, the whole industry will be a lot closer to its customers/consumers.
+Given that this uncertainty in your industry might remain no matter what you do: Why does G eorgia-P acific then need a company like ANDRITZ?
+M. C. -- It comes down to one word and that is agility ­ agility that enables speed. This comes from a fundamental belief that the only sustainable advantage you're going to have is no longer limited to IP. Tomorrow, the only sustainable long-term advantage anybody can ever hope to have is the ability to recognize opportunities and scale them quickly. And all this needs the right talent and culture.
+What happens next in the changes you have started to implement together?
+
+M. C. -- The next steps are now to take these things as far as our courage and ability allow, increasing our knowledge, improving our practices and in the end, sustaining the performance we achieve. We need to continue to ask what capabilities, functions or roles we need. What tools do we need and where? Today, companies have a great deal of embedded self- insurance within their operations because yesterday we solved problems by throwing people at them. People were the capability we could deploy, and this worked for what we needed then. Success tomorrow will require us to be different in that regard. What ANDRITZ has helped me learn is that capability is much more than technology alone.
+How can a company get rid of too much of this insurance attitude?
+M. C. -- The interesting thing to me is that most of those insurance decisions are typically delegated ­ because of their complexity ­ to people that aren't facing the customer. But risk is there in the marketplace, where your customer is. Again: Not being intellectually honest is the biggest threat we face ­ not having the courage to allow curiosity to help us ask questions. We all need to develop a form of behavior that allows partners like ANDRITZ to be more frank and honest.
+
+28
+
+METRIS OPP ­ OPTIMIZATION OF PROCESS PERFORMANCE
+
+In collaborations with companies similar to Georgia-Pacific, ANDRITZ provides a bouquet of services called Metris OPP (Optimization of Process P erformance). It is part of the ANDRITZ digital solutions offered under the Metris technology brand and has been proven to boost the performance of a variety of production systems. The business model is based on continuous savings right from the start and a positive cash flow throughout the contract. ANDRITZ's customers have achieved savings of more than 150 million euros, without any additional investment.
+Metris OPP means that analytical software collects information from systems about each control loop, control valve, motor, and other variables during the process on sites like chemical plants, steel mills or pulp mills. Advanced signal processing and statistical tools identify potential for optimization, which is then interpreted by ANDRITZ experts who work with the clients' operations and maintenance staff. Operational stability increases, and waste is reduced significantly.
+
+LAYER 3
+The data are shown in a higher-level display (multi-mill monitoring). This makes very efficient comparisons possible using standardized values.
+LAYER 2
+The infrastructure level is used for the purposes of absolutely reliable cyber security to transfer the data safely and in such a way that it is available at all times.
+LAYER 1
+Data are pre-compressed and aggregated using the production-specific performance data (KPIs) in order to obtain maximum informative value with figures that are easy to handle and compare.
+
+MULTIPLE-PLANTS LAYER
+Each plant is fitted with a separate Metris OPP system that is customized for the respective location. This is where the process is stabilized and the personnel on site optimize operations during production.
+
+29
+
+Orders and Acquisitions 2018
+SLUDGE TREATMENT EQUIPMENT FOR VANCOUVER
+
+ANDRITZ Separation 5
+
+ANDRITZ was awarded an order to supply a complete dewatering and drying line for the city of Vancouver. This waste water project provides the third cleaning stage for waste water from the "core" municipalities of Victoria, Esquimalt, Saanich, Oak Bay, View Royal, Langford, and Colwood, and from the Esquimalt and Songhees First Nations reserves. The project will be completed by the end of 2020 in order to comply with the sludge treatment regulations applying in British Columbia and throughout Canada. The remaining solids from the waste water treatment plant undergo residuals treatment at Hartland Landfill, where they are converted into so-called Class A biosolids. The dried, Class A biosolids product is suitable for several beneficial uses, including that of an alternative energy source.
+
+8 KAMISU, JAPAN
+
+5 VANCOUVER, BRITISH COLUMBIA, CANADA
+
+31
+8 ANDRITZ Pulp & Paper
+HIGHLY EFFICIENT CIRCULATING FLUIDIZED BED BOILERS FOR JAPAN
+ANDRITZ has received three orders from Toyo Engineering Corporation (TOYO), Japan, to deliver PowerFluid fluidized bed boilers with flue gas cleaning systems for new biomass power plants to be built in Japan.
+The PowerFluid boilers to be supplied by ANDRITZ feature lowest emissions, high efficiency and availability, and highest fuel flexibility. They form an essential part of high-efficiency biomass power plants for supply of green energy to the national grid.
+
+6 HAI PHÒNG, VIETNAM
+
+7 BOUCHERVILLE, QUÉBEC, CANADA
+
+6 ANDRITZ Metals
+SERVOPRESS LINE FOR VIETNAM
+
+7 ANDRITZ Hydro
+ACQUISITION OF HMI, CANADA
+
+Schuler has been a part of the ANDRITZ GROUP since 2013 and received a large order in February 2018 from VinFast, the first car manufacturer with its own press shop in Vietnam. Schuler is to supply a servopress line with a pressing force of 73,000 kilonewtons and a maximum production rate of 16 strokes per minute, a tryout press with 25,000 kilonewtons, and a blanking line and press with 8,000 kilonewtons. VinFast plans to manufacture 500,000 cars a year by 2025 using this equipment.
+30
+
+The Canadian company HMI has over sixty years' experience in the energy sector, especially in the hydropower segment.
+Among other services, the company provides expertise for the repair and modernization of gates as well as other equipment for hydropower stations. HMI has around 100 employees in Québec City and Boucherville, QC, and in Langley, BC, C anada.
+
+PowerFluid boilers
+
+34­45
+
+TIMRÅ, SWEDEN
+
+For three years, the SCA pulp mill in Östrand was completely modernized and enlarged substantially. The mill went into operation in June 2018 and is one of the largest industrial investments in Sweden. A NDRITZ planned, designed, and installed large parts of the project, supplied innovative technologies, started up this equipment, and dealt with the occupational safety aspects.
+
+BETTER 35 AND B ETTER
+More powerful, more efficient, and more sustainable: SCA's pulp mill in Östrand, Sweden, has reinvented itself in a mammoth, three-year project. ANDRITZ contributed the advanced technology and extensive know-how for one of the country's largest industrial investments.
+
+INGELA EKEBRO
+Ingela Ekebro has been working for SCA for over 30 years. As President of Helios, she is responsible for the entire project.
+
+Ingela Ekebro remembers April 26, 2017 very well ­ the day when the tension surrounding the Helios project, for which she was responsible, reached an absolute peak. ANDRITZ was to widen the huge HERB recovery boiler in SCA's pulp mill in Östrand, Sweden, by 3.8 meters. A complete boiler side wall with a height of 60 meters, a width of 30 meters, and weighing 460 tons was moved in one piece using a hydraulic device. Never before had this been attempted in a mill of this size.
+Five hundred men and women worked intensely with full focus to move the wall into the exact position with millimeter precision and not make any mistakes while doing so. The sound of motors humming echoes throughout the
+Concentrated calm: All production processes are monitored constantly in the newly built control center at SCA's pulp mill in Östrand.
+
+SCA AT A GLANCE
+The Swedish forest products company SCA was established in 1929 and has its headquarters in Sundsvall. The company owns 2.6 million hectares of forest ­ an area the size of Belgium. And because it is used intensively, this resource is managed carefully and sustainably: According to SCA, the net area of the forest grows year after year. The company offers paper for packaging and publications, pulp, wood products, renewable energy, and various services for other f o r e s t - o w n e r s . I n 2 0 1 7, S C A h a d a p p r o x i m a t e l y 4 , 0 0 0 e m ployees and sales in the region of 16.7 billion Swedish krona.
+premises, and earnest voices are heard coming from the walkie-talkies. Eventually the good news comes through: Mission accomplished! A mixture of relief and happiness fills the air. The capacity of the ANDRITZ HERB recovery boiler was increased from 3,000 to today's 5,000 tons per day. In future, the energy yield will be so high that the mill will be able to feed up to 50 percent of the electricity generated to the public grid. The mill's namesake ­ Helios, the mighty god of the sun ­ would have appreciated this achievement.
+"It was a great relief to us all," says Ingela Ekebro, looking back. A year and a half later in September 2018, she sits down in a meeting room bathed in light in the control center in the middle of the mill premises. Amidst the hectic mill operations, the modern building is like an oasis of calm where work goes on with deep concentration, but still in a relaxed atmosphere. There are lounge-like working and recreation areas in pleasant colors, wood-paneled walls, and stylish lamps. You feel as if you are visiting a digital startup. Ingela Ekebro leans back and smiles. "Extending the recovery boiler was an extremely important stage of the project for us."
+
+37
+Increase in the capacity of the HERB recovery boiler from 3,000 to 5,000tons per day. The innovative HERB boiler upgrade by moving the side wall enabled optimum flow of flue gas before and after the upgrade. Furthermore, an additional ESP chamber and a feed water pump were added.
+
+ANDRITZ delivered new LimeFlash technology for the existing lime kiln, enabling a substantial increase in the capacity without the need to invest in a new lime kiln. The delivery also included upgrade of the existing wood dust burning system, which ANDRITZ supplied in 2011 in order to support the new increased lime kiln capacity.
+
+SCA and ANDRITZ at work: Göran Bröttgårdh, Ingela Ekebro, Håkan Wänglund, and Henrik Grönqvist check progress on the Helios project.
+
+39
+A quantum leap
+This was not the only leg of the journey in which the forest management and wood-processing group SCA received active support from ANDRITZ. The Helios project, which planned to completely modernize and extend the pulp mill near the university town of Sundsvall, took almost three years. Throughout this entire period ­ and partly in the years preceding it as well ­ a large team of ANDRITZ experts from Sweden, Austria, Finland, and Germany was actively involved and worked closely together with SCA.
+The topics were manifold and extended from the planning, concept, and control of important areas of the mill extension to delivery and start-up of innovative technologies and on to management of work safety.
+SCA invested almost eight billion Swedish krona in moderni zation of the mill, in which around 8,000 employees were involved over the total project duration. The pulp mill, which was started up in June 2018, is one of the largest industrial investments in Sweden, and there is, above all, one very good reason for this: Bleached softwood pulp is in demand all over the world. In the past ten years, the global market saw growth of 1.5 to 2 percent per year. "We are now increasing our annual capacity gradually from 430,000 to 900,000 tons of softwood kraft pulp," says Ingela Ekebro. Achieving this goal would be a world record. About half of the production volume will be used for SCA's own paper production, while the rest will be sold to external tissue producers.
+
+HENRIK GRÖNQVIST
+ANDRITZ employee Henrik G r ö n q v i s t c o o r d i n a t e d t h e e n tire project with ten separate start-ups.
+
+wood processing area, two in pulp drying, and then the recovery boiler start-up. Here, the Group supplied and installed the following production technologies and equipment: a debarking system with two parallel debarking and chipping lines, a new, energy-saving EvoDryTM pulp drying system, new recausticizing machinery, as well as the ANDRITZ LimeFlash technology and upgrade of the existing wood dust burner system to increase the capacity of the existing lime kiln. These components contribute both individually and collectively to increasing the output and efficiency of the mill and keeping the use of resources very low.
+
+GÖRAN BRÖTTGÅRDH
+
+System knowledge from A to Z
+The project was also a huge undertaking for ANDRITZ, both technologically and in terms of organization. After all, how is it possible to modernize a pulp mill extensively while it is in full operation and then disrupt ongoing operations as little as possible during this work? All this in a very confined space: The mill premises are bordered by the sea on one side and a railway track on the other. Space is a luxury here, so the logistics were correspondingly complicated. Machines, components, and working materials had to be delivered to the site "just in time" and such that all those involved did not get in each other's way.
+
+"Together with SCA, we divided the entire project into several phases and sub-projects that we worked through in small steps, flexibly, and in close coordination," Henrik Grönqvist, project director from ANDRITZ, recalls. "Of course, there are numerous technical and organizational obstacles in a project of this magnitude," adds Göran Bröttgårdh, who handled the business side of the project as its commercial director. "So open, trusting, and professional communication were of the essence."
+In addition to extending the ANDRITZ HERB recovery boiler, ANDRITZ was involved in other process areas. In total, there were ten separate ANDRITZ start-ups, including five in the white liquor plant, two in the
+
+Göran Bröttgårdh is a commercial p r o j e c t d i r e c t o r a t A N D R I T Z . A m o n g other tasks, he coordinated the demanding logistics and important health and safety aspects.
+
+41
+Complete wood room with two parallel debarking and chipping lines and bark processing with two HQ-Press bark presses resulting in excellent bark dry content. The chip handling system underwent major modernization work.
+
+43
+EvoDryTM pulp drying system from ANDRITZ with energy-saving technologies that reduce the mill's operating costs significantly. The system includes energy recovery from the boiler waste heat, fine screening, and a twin wire dewatering system with fully automatic tail threading that meets the strictest health, safety, and environmental regulations.
+
+Knowledge and courage
+"Sustainability was our top priority at all levels," says Ingela E kebro. "That's why we also wanted to set benchmarks in terms of work safety."
+Considering the hard winters in Östrand, this was not easy: The temperature drops to minus 20 degrees, up to 1.7 meters of snow are not unusual, and a stubborn layer of ice covers the streets and the mill. All this made work dangerous on the site, where heavy equipment had to be lifted and moved. "Thanks to untiring efforts by ANDRITZ, we succeeded in keeping accident figures as low as possible," says Ingela Ekebro.
+"Technical know-how is not the only reason why we chose ANDRITZ," says Håkan Wänglund, general project manager at SCA
+
+SUSTAINABILITY AT SCA ÖSTRAND
+SCA Östrand holds quality certification according to ISO9001, environmental certification acc o r d i n g t o I S O 1 4 0 0 1 , a n d e n e r g y c e r t i f i c a t i o n a c c o rd i n g to E N 1 6 0 01 . I n a d d i t i o n , Ö st ra n d h a s FSC® and PEFCTM chain-of-custody certification. Customers are offered both TCF (Totally ChlorineFree) and ECF (Elemental Chlorine Free) pulp, produced using raw materials from sustainable forestr y.
+Teamwork: Göran Bröttgårdh, Ingela Ekebro, Henrik Grönqvist and Håkan Wänglund inspect the EvoDryTM pulp drying system.
+
+45
+
+HÅKAN WÄNGLUND
+Håkan Wänglund is SCA's general project manager and has worked closely together with Ingela Ekebro on several occasions over a period of many years.
+
+ANDRITZ supplied new recausticizing machines, including a Lime Green green liquor filter for efficient filtration of the green liquor with a minimum volume of landfill waste and a disc filter to optimize the quality of the white liquor.
+
+and Ingela Ekebro's right-hand man. "Yes, the Group's lean process solutions, the modern technology, and its energy efficiency are convincing." And there is another aspect that is at least equally important to the two SCA engineers: ANDRITZ has the courage to tackle and implement new and unusual ideas, even if there is no 100 percent certainty what the result will be in detail," says Wänglund, while Ingela Ekebro nods in agreement. "We appreciate this pioneering spirit. It takes courage to set new benchmarks."
+
+Orders and Acquisitions 2018
+
+46
+
+9 ANDRITZ Metals
+ACQUISITION OF ASKO, USA
+ANDRITZ signed an agreement to acquire ASKO Inc., a family-owned company based in Homestead, Pennsylvania, USA. ASKO has around 140 employees and manufactures a wide range of knives, blades, liners, wear plates, and accessories for the metals producing, processing, and recycling industries. This acquisition supplements the ANDRITZ service portfolio for the metal industry.
+
+Knives and blades for the metal industry
+10 ANDRITZ Pulp & Paper
+STRONGER PRODUCT PORTFOLIO FOR THE PAPER INDUSTRY
+ANDRITZ acquired Novimpianti Drying Technology S.r.l., a company owned by Novigroup S.r.l. and based in Lucca, Italy. The company is a global supplier of engineered equipment and technical services for air and energy systems to the paper industry's leading manufacturers. By acquiring Novimpianti, ANDRITZ is strengthening its product portfolio for air engineering and energy systems, mainly for tissue and board machines.
+In addition, ANDRITZ acquired a 70 percent stake in Diatec S.r.l. based in Collecorvino, Italy. The company designs and manufactures a wide range of special machines and technological solutions, mainly for the production of baby diapers and other absorbent hygiene products, but also for food packaging. With this acquisition, ANDRITZ is complementing its product portfolio in Nonwoven and is now able to offer the complete supply and value chain, from the raw material, to web forming, finishing, and converting.
+
+ANDRITZ Pulp & Paper 11
+PULP TECHNOLOGIES AND KEY EQUIPMENT FOR ARAUCO'S MAPA PROJECT IN CHILE
+
+47
+
+ANDRITZ received an order from Celulosa Arauco y Constitución S.A. to supply energy-efficient and environmentally friendly pulp production technologies and key process equipment for modernization and extension of the ARAUCO pulp mill in Horcones, Arauco, Chile. Start-up is scheduled for the first quarter of 2021.
+The ANDRITZ scope of supply on EPS basis (EPS: engineering, procurement, supervision) comprises a complete wood processing plant, a complete fiberline, an energy-efficient evaporation plant, and a complete white liquor plant.
+
+12 ANDRITZ Hydro
+SUPPLY OF PUMP-TURBINES FOR THE FIRST PUMPED STORAGE POWER S TATION IN NORTHWESTERN CHINA
+
+ANDRITZ will supply four 350-megawatt reversible pump-turbines designed for a head of 440 meters to Shaanxi ZhenAn Pumped Storage Co. Ltd., a subsidiary of the State Grid Corporation of China (SGCC), for the ZhenAn pumped storage hydropower plant in Shaanxi Province, China. ZhenAn will be the first pumped storage power station in northwestern China, with a total installed capacity of 1,400 megawatts. After completion, ZhenAn will be used to cover peak demand, regulate frequency, and correct the power factor. In addition, the plant will serve as a standby unit in emergencies and provide black-start capacity for any power failures in the high-voltage network in Shaanxi Province.
+
+10.1 LUCCA, ITALY
+
+12 SHAANXI PROVINCE, CHINA
+
+9 HOMESTEAD, PENNSYLVANIA, USA
+
+10.2 COLLECORVINO, ITALY
+
+11 HORCONES, ARAUCO, CHILE
+
+50­61
+
+ROGALAND, NORWAY
+
+Hydropower is considered to be the most important source of renewable energy, and its importance in a sustainable and efficient electricity supply is growing rapidly. Norway is playing a pioneering role here, as the new Lysebotn II hydropower station near the city of Stavanger illustrates. The plant has been completely modernized and prepared for the digital future with technology and know-how from ANDRITZ.
+
+GREEN STORAGE BATTERY
+Lysefjord in southwestern Norway is spectacular: The deep blue inlet extends 42 kilometers inland, framed by rugged cliffs hundreds of meters high. At the end of the fjord, a different kind of gem is ensconced deep in the rock: the new Lysebotn II hydropower station. The Lyse Group produces highly efficient "green energy" here ­ with effective support from ANDRITZ.
+50 5 1
+
+BJØRN HONNINGSVÅG
+Bjørn Aase Honningsvåg has been CEO of Lyse Produksjon AS since 2013, responsible for operations, maintenance, and expanding the hydropower segment.
+
+Norway has been focusing on sustainable energy generation for many years, and 98 percent of domestic electricity is generated from hydropower. With eleven of its own hydropower plants and a stake in three more, the Lyse Group produces energy for around 150,000 households. And the conglomerate wants to keep on growing. The new Lysebotn II power plant plays a prominent role here. ANDRITZ developed, supplied, and installed the heart of the plant: two high-head Francis turbines with their generators. Bjørn Honningsvåg, CEO of Lyse Produksjon AS, explains the project`s background and perspectives in an interview with Andres Hernandez, ANDRITZ project manager.
+
+Entrance to the new Lysebotn II power station that went into operation in June 2018.
+
+Lysefjord near Stavanger.
+ANDRES HERNANDEZ
+Andres Hernandez is a mechanical engineer and, as ANDRITZ project manager, a specialist in large construction projects.
+
+Andreas Hernandez --The new hydropower station in Lysebotn generates 15 percent more energy than the old one. How is this done?
+Bjørn Honningsvåg -- By producing more electricity with the same volume of water. The water flows from the reservoir, which is very high up above sea level, down into the valley through a new tunnel we have built that is almost eight kilometers long. The reservoir itself remains unchanged, and the surroundings were left largely intact. Almost all the work needed for the new structure took place inside the mountain.
+A. H. -- What exactly do the new ANDRITZ units provide?
+B. H. -- When both high-head F rancis turbines are running at full power, they provide a total of 370 megaw atts. The old plant could only provide 210 megawatts. Lysebotn`s annual capacity has increased to 1.5 terawatt hours. As the existing reservoir is utilized for the new units, there was no need to apply for a new environmental license for this, which would have been quite expensive and complex.
+
+52 5 3
+
+With a population in the region of 120,000, Stavanger is the fourth largest city in Norway. The Lyse Group has its headquarters here.
+
+"ANDRITZ is very competitive as far as economic criteria are concerned. In addition, we were looking for plenty of know-how and experience with high-pressure Francis turbines."
+A. H. -- Why was this new construction needed in the first place? What is the significance of the power station for Lyse?
+B. H. -- One reason is the higher capacity, as I already mentioned. But that's not the whole story. We will also become more efficient and more flexible. Well over 200 million euros have gone into the entire new construction, and we consider this a wise, long-term investment that will make us more agile and more competitive overall. An important driver is the EU's environment policy and strategy applying until 2050: The member states are intensifying the use of renewable energy sources, and they will possibly consume twice as much electricity in the future as they do today. We
+
+want to have a share in this. The higher generating efficiency is also giving us the opportunity to apply for Green Energy Certificates as an additional source of income for the power plant.
+A. H. -- In what respect?
+B. H. -- One of the big advantages of hydropower is that production can be started and stopped flexibly ­ unlike thermal power stations, where starting and regulating are expensive and can also take several hours. Lysebotn II is like a huge, green storage battery that will supply Germany and the UK, as needed, with additional power as soon as sub-sea cables have been laid to increase the interconnection capacity between Norway and con tinental Europe/the UK. The respective construction projects are already underway.
+A. H. -- What is the role of ANDRITZ in this context as Lyse's partner?
+B. H. -- ANDRITZ presented a very competitive proposal. In addition, we wanted a partner with a great deal of know-how and experience with high-head Francis turbines and found the match needed to meet our specific requirements in ANDRITZ. The water from the reservoir rushes into the plant from a height of 665 meters at a rate of 60,000 liters per second. These are very demanding conditions that exert extreme stress on the equipment. We need very robust, compact, and efficient turbines that are able to handle the tremendous forces reliably ­ turbines that can be started and stopped frequently as needed without any difficulty and are tailored precisely to our needs.
+A. H. -- What does that mean exactly?
+B. H. -- The so-called condenser mode that can be used to operate the turbines is important in our view.
+
+3D printed model of the high-head Francis runner installed in Lysebotn. In reality, the diam eter is 1,475mm.
+54 5 5
+
+THE LYSE GROUP
+Lyse is a Norwegian group of companies focusing on energy and glass fiber-based broadband systems. It began operat i o n s o n J a n u a r y 1 , 1 9 9 9, b u t i t s roots go back more than 100 years. The owners are 1 6 m u n i c i p a l i t i e s i n t h e S ø r - Rogaland province. The group has 1,250 employees, and an nual sales recently amounted to the equivalent of well over 600 million euros.
+
+Machine hall of the new underground power plant Lysebotn II with the ANDRITZ generators in the center.
+
+56 5 7
+
+Without delving too deep into the technical details, it means that the unit is operated in air (the water is drained from the runner and the generator is used as motor). In this operating mode, the unit can provide important auxiliary services to stabilize the frequency of the grid. If more and more fluctuating energy sources like wind and photovoltaic are feeding the grid, this could become a valuable service that we would like to sell to the network operator.
+A. H. --The new power station has been operating now for several months. What is your interim conclusion?
+B. H. -- Lysebotn II is running to our full satisfaction. Of course, we are constantly involved in fine tuning, but that's normal. When we sealed the project in the contract with ANDRITZ in November 2013, we agreed on July 20, 2018 as the commissioning date. Thankfully, we also succeeded in meeting exactly this date although the logistical demands were challenging: All components had to be shipped through the fjord, the schedule was tight, and there was not a lot of space inside the plant for storage and maneuvering.
+
+Lysebotn
+
+Almost all of the parts and tools needed for construction of Lysebotn II had to be shipped through the fjord by boat. Here a spiral casing (60 tons) is transported through the fjord in one piece on a barge.
+
+HYDROPOWER FROM A TO Z
+With over 175 years of accumulated experience and more than 31,000 turbines installed totaling approximately 430,000 megawatts output, ANDRITZ is one of the world's leading suppliers of electromechanical equipment for hydropower stations. In addition, the company holds a top position in the growing hydropower plant service, refurbishment, and upgrade market for existing hydro power plants.
+
+58 5 9
+
+Active parts of the generator (215 MVA).
+
+FRANCIS TURBINE
+
+Technical data
+
+Nominal power (MW)
+
+185
+
+Max. generator output (MVA) 215
+
+Head (m)
+
+686 maximum
+
+Voltage (kV)
+
+13.80
+
+Speed (r.p.m.)
+
+600
+
+No. of machines
+
+2
+
+Runner diameter (mm)
+
+1,475
+
+Customer
+
+Lyse Produksjon AS
+
+Waterway
+
+Lysefjord
+
+"More flexibility and efficiency at lower cost: This is one of the major goals throughout the Lyse Group. ANDRITZ is helping us to achieve it."
+60 6 1
+
+Nevertheless, everything was completed on time, with only one moderately serious accident, and that is very important in our view. Occupational health and safety are our highest priority.
+A. H. -- What is the next step? What plans does Lyse have for the future?
+B. H. -- We will be installing the Metris DiOMera system from ANDRITZ in spring 2019. This is a digitally supported tool that we can use for predictive optimization of maintenance work. DiOMera constantly monitors a large number of sensor data that we receive in real time from power plant operations. We can use this to forecast the residual life of components and draw up precise maintenance schedules to keep downtimes as short as possible. Digitalization in this form has a clearly positive effect that we also want to use in other power plants in future. More flexibility and efficiency at lower cost: This is one of the major goals throughout the Lyse Group. ANDRITZ is helping us to achieve it.
+
+Orders and Acquisitions 2018
+
+ANDRITZ Metals 13
+
+NEW HOT-DIP GALVANIZING LINE FOR NUCOR STEEL ARKANSAS, USA
+
+ANDRITZ received an order from Nucor Steel Arkansas Division, USA, to supply a hot-dip galvanizing line for its facility in Hickman, Arkansas, USA. The new line will have an annual capacity of approximately 455,000 tons and is designed to produce high-strength steel grades, mainly for the automotive industry. Start-up is scheduled for the first half of 2021.
+The ANDRITZ scope of supplies and services comprises the complete hot-dip galvanizing line, in particular the furnace with the latest annealing technology for high-strength steel grades (Generation 3 AHSS), strip cleaning, mechanical equipment including strip transport and skin pass mill, electrical equipment, automation, and start-up of the plant.
+
+14 MÖNSTERÅS, SWEDEN
+
+13 HICKMAN, ARKANSAS, USA
+
+16 HYDERABAD, TELANGANA, INDIA 15 BAILONGGANG, SHANGHAI, CHINA
+14 ANDRITZ Pulp & Paper
+BIO-METHANOL PLANT FOR SÖDRA'S MÖNSTERÅS MILL IN SWEDEN
+ANDRITZ is to supply a new bio-methanol cleaning and purification plant to Södra Cell, Sweden, for the Södra pulp mill in Mönsterås. With an annual capacity of 5,000 tons, the plant is a key component in a new process for production of bio-methanol from renewable raw material and which is used in shipping, for example, as a stand-alone fuel, as well as for production of biodiesel, as an additive in gasoline, or as a raw material in the chemical industry. The biomethanol generated contributes towards reducing the amount of fossil greenhouse gas emissions.
+
+15 ANDRITZ Separation
+DRYING AND INCINERATION SYSTEM FOR ONE OF THE WORLD'S LARGEST WASTE WATER TREATMENT PLANTS IN BAILONGGANG, SHANGHAI
+ANDRITZ received an order to deliver a complete drying and incineration system for extension of the Bailonggang wastewater treatment plant in Shanghai. Installation work began at the end of 2018, and the first firing is expected for the end of 2019. The technology supplied by ANDRITZ comprises sludge storage and transport, nine fluidized bed dryers, six EcoFluid fluidized bed boilers with flue gas cleaning, and the complete automation equipment. The scope of supply contains the engineering and manufacturing work, delivery, and also supervision of both installation and commissioning.
+Bailonggang is near Pudong International Airport in Shanghai. It is one of the largest wastewater treatment plants in the world and the biggest in Asia. After its completion, the extension project will have an installed capacity of up to 3,000 tons of sludge per day. Bailonggang will then be the world's largest sludge incineration plant and a benchmark among China's environment projects.
+ANDRITZ Hydro 16
+PUMPS FOR GIANT IRRIGATION PROJECT IN INDIA
+ANDRITZ received an order from the infra structure company Megha Engineering & Infrastructures Ltd. (MEIL) in Hyderabad, India, to supply a total of 27 vertical volute pumps for three pumping stations near the village of Kaleshwaram in the Indian state of Telangana. The Kaleshwaram project is designed to store approximately 4.7trillion liters of water in order to irrigate well over 730,000hectares of agricultural land in Telangana. It comprises several pumping stations with reservoirs and is the first multi-stage lift irrigation project of this magnitude and complexity in India. All in all, the water will be pumped over a distance of 200 kilometers and an elevation of more than 500 meters. It also contains the longest water transport tunnel in Asia, extending over a distance of 81 kilometers and connecting the dam to one of the reservoirs. This irrigation project is unique, not just in India, but also worldwide.
+
+62 6 3
+
+Vertical volute pump
+
+66
+LETTER TO THE SHAREHOLDERS
+
+EXECUTIVE BOARD AND SUPER VISORY BOARD
+69
+
+THE 2018 BUSINESS YEAR AT A GLANCE
+72
+
+76 STRATEGY
+78 THE
+ANDRITZ SHARE
+
+SUSTAINABILITY AND COMPLIANCE
+82
+
+84
+PUBLISHER'S NOTE
+
+LETTER TO THE SHAREHOLDERS
+
+Dear Ladies and Gentlemen, dear Shareholders, dear Colleagues,
+Creating internal growth and acquiring companies or technologies that extend and complement the ANDRITZ product portfolio have always been essential pillars of our business strategy for achieving long-term growth.
+In pursuit of this strategy, we established an important basis and requirement for advancing and accelerating organic growth in the past 2018 business year by rolling out our ideas platform AIM ­ ANDRITZ Innovation Management ­ group-wide after having launched it in individual divisions in 2017. The results so far are overwhelming: At the end of 2018, our employees all around the world had already submitted almost 1,300 technology-related ideas to AIM, over 200 of which were classified as "ready for implementation" according to a comprehensive assessment by our evaluation team, and some of these ideas are already being put into practice. Last year we also launched two internal startup competitions for which around 115 ideas were submitted from all business areas and from locations worldwide. Following careful selection on the basis of specific criteria, four startup ideas were chosen and allocated appropriate funding to implement initial concepts and feasibility studies. The large number of ideas submitted group-wide reflects the wealth of know-how, innovative power, and commitment of our employees all over the world. I am very confident that we can create the basis for long-term, organic growth with our initiatives, which we will continue to push in 2019 as well.
+2018 was also a very active year for ANDRITZ in terms of external growth. Following a few quieter years as far as acquisitions are concerned, we purchased a total of six companies during the reporting period ­ Xerium Technologies, Diatec, Novimpianti, ASKO, HMI, and also Farina Presse acquired by Schuler ­ with total annual sales of well over 500 million euros. All of these companies complement or extend our product portfolio and, above all, our range of services, and so they provide considerably more added value for our customers. Structural integration of these companies into the ANDRITZ GROUP
+
+Wolfgang Leitner
+
+with the aim of utilizing the respective growth potentials will be an important focus in 2019.
+ANDRITZ showed solid business development overall in 2018, although it was mixed when viewed by business area. The Group's order intake, which at 6.6 billion euros was a record figure and significantly higher than the low level of the previous year's reference period, saw very positive development. All business areas were able to increase their order intake and thus establish a good order backlog for 2019.
+Regarding performance by the business areas, the picture here varied widely in 2018. Pulp & Paper saw very good development, with order intake well above the figure for the previous year ­ not least thanks also to the boiler orders from Japan and China and the large order to supply major pulp technologies for ARAUCO's MAPA project in Chile. Earnings developed very positively in both the capital and the service sectors. This was not the case in the Metals business area, where processing of some projects with lower margins and
+67
+
+cost overruns on individual orders ­ due to difficult market conditions ­ had a massively negative effect on earnings development. In contrast, order intake developed very well with comparatively satisfactory margins, particularly in the Metals Processing sector. In Metals Forming, award of the first orders in the entirely Asian automotive segment is certainly worth mentioning. We are hoping for good sales potential for our presses and pressing lines here. However, the development of earnings was not satisfactory. In spite of the adjustment measures implemented so far, the cost basis is still not competitive, particularly in the middle price segment. Further steps, including more localization, are needed here to ensure that our products come closer to the price levels of our competitors.
+Additional measures will also be needed in the Hydro business area in order to adjust our capacities and organizational structures to the changed market conditions. The global market for hydropower equipment has been declining since 2011 because of the massive development and expansion of solar and wind energy, which are strongly driven by subsidies. And there is no significant trend reversal on the horizon at the moment. In order to safeguard our ability to compete in the hydropower sector in the long run and adapt our cost basis to the lower market volume, particularly in Europe, we will also have to initiate some capacity adjustments in 2019.
+In the digitalization sector, we made good progress in 2018. We were able to conclude more optimization contracts with leading customers in the pulp and paper industry and also launched our customized, online spare parts catalog successfully for the first customers using this product. In Israel, we have a subsidiary specializing in cybersecurity, and in Germany, we have purchased a minority stake in a startup focusing on the use of artificial intelligence for our products and services.
+From today's perspective, we assume there will be a slight weakening of the global economy in 2019 compared to 2018. Nevertheless, we expect a good market environment overall for all four of our business areas. Processing of the high order backlog, integration of the companies acquired in 2018, further advancement of our digita lization initiatives, and selective cost adjustment measures in individual business segments will be the main focus in 2019.
+On behalf of the Executive Board, I would like to thank all of our employees for their commitment and also our numerous shareholders at home and abroad for the confidence they have placed in us.
+WOLFGANG LEITNER
+President and CEO
+
+68
+
+EXECUTIVE BOARD AND SUPERVISORY BOARD
+
+The ANDRITZ AG Executive Board comprised five members as of December 31, 2018, all of whom have many years of experience and specialist know-how in their respective areas of responsibility.
+
+HUMBERT KÖFLER
+Pulp & Paper (Service), Separation
+
+JOACHIM SCHÖNBECK
+Pulp & Paper (Capital Systems), Metals Processing, as well as group-wide Quality and Safety Management
+
+WOLFGANG
+LEITNER
+President and CEO Central Group functions: Information Technology, Human Resources Management, Corporate Communications, Investor Relations, Internal Auditing, Manufacturing Management, and Metals Forming
+
+MARK VON LAER
+Central Group functions: Controlling, Treasury, Order and Project Financing, Legal Matters and Compliance, and Group Procurement Management
+
+WOLFGANG SEMPER
+Hydro and group-wide Automation
+
+The ANDRITZ AG Supervisory Board consists of six members elected by the Annual General Meeting and three members delegated by the Works Council.
+
+JÜRGEN HERMANN FECHTER
+
+CHRISTIAN NOWOTNY
+Chairman of the Supervisory Board
+FRITZ OBERLERCHNER
+Deputy Chairman
+
+ALEXANDER ISOLA
+MONIKA KIRCHER
+KURT STIASSNY
+
+Delegated by the Works Council:
+GEORG AUER ANDREAS MARTINER MONIKA SUPPAN
+69
+
+Joachim Schönbeck
+
+Humbert Köfler
+
+Mark von Laer
+
+Wolfgang Leitner Wolfgang Semper
+
+THE 2018 BUSINESS YEAR AT A GLANCE
+International technology group ANDRITZ showed solid business development overall ­ although mixed by business area ­ in 2018.
+
+Europe 35% (40%) 55% (58%)
+
+China 18% (16%) 11% (12%)
+
+Order intake by region in 2018 (2017)
+In 2018, the order intake was 6,646 MEUR (2017: 5,580 MEUR).
+Employees by region as of the end of 2018 (2017)
+ANDRITZ had 29,096 employees in 2018 (2017: 25,566 employees).
+
+Asia (without China), Australia, Africa 20% (16%) 8% (7%)
+
+Due to the utilization of automatic calculation programs, differences can arise in the addition of rounded totals and percentages.
+
+72
+
+ORDER INTAKE
+
+The order intake of the Group saw very favorable development in 2018 and reached a record level of 6,646 MEUR (up by 19 percent versus 2017: 5,580 MEUR). All four business areas were able to increase their order intake considerably compared to the previous year. First-time consolidated companies contributed approximately 147 MEUR to order intake in the reporting year. The business areas' order intake development at a glance:
+
+Hydro Pulp & Paper Metals Separation
+
+Unit MEUR MEUR MEUR MEUR
+
+2018 1,446 2,572 1 ,9 3 2
+697
+
+2017 1,317 2,033 1,607
+622
+
++/+10% +26% +20% +12%
+
+SALES
+Sales of the ANDRITZ GROUP amounted to 6,031 MEUR and were thus slightly above the level of the previous year's reference period (2017: 5,889 MEUR).
+Sales in the Hydro business area decreased compared to the previous year (minus four percent) due primarily to the decline in order intake in the past few years and the resulting lower sales generation. Sales in the Pulp & Paper business area increased significantly (plus eight percent) compared to the previous year thanks to its strong service business and first-time consoli dation of Xerium Technologies, Inc. in October 2018. The Separation business area also saw an increase in sales (plus seven percent) ­ due to the positive development of order intake in the past year. Sales in the Metals business area were practically at the same level compared to the previous year. First-time consolidated companies contributed approximately 149 MEUR to sales in the reporting year.
+
+Hydro Pulp & Paper Metals Separation
+
+Unit MEUR MEUR MEUR MEUR
+
+2018 1,518 2,233 1,635
+646
+
+2017 1,583 2,060 1,644
+603
+
++/-4% +8% -1% +7 %
+
+ORDER BACKLOG
+The order backlog of the ANDRITZ GROUP amounted to 7,084 MEUR as of December 31, 2018, and was thus eleven percent higher than the reference figure for the previous year (December 31, 2017: 6,383 MEUR).
+EARNINGS
+Earnings were negatively impacted by provisions amounting to well above 20 MEUR for capacity restructuring measures in the Metals Forming segment and the Hydro business area. The Group's EBITA amounted to 394 MEUR and was thus signifi cantly below the figure for the previous year's reference period (2017: 444 MEUR), which included an extraordinary positive effect of approximately 25 MEUR mainly due to sale of the Schuler Technical Center in Tianjin, China. Profitability (EBITA margin) dropped substantially to 6.5 percent (2017: 7.5 percent). Without this extraordinary effect, the EBITA margin for 2018 would have amounted to 6.9 percent (2017: 7.1 percent without extraordinary effect).
+The EBITA margin in the Hydro business area reached a solid level of 7.5 percent (2017: 7.8 percent) in spite of the decline in sales. In the Pulp & Paper business area, profitability increased to a record level of 9.9 percent (2017: 9.5 percent). Both the capital and the service business noticed a very favorable development. The EBITA margin in the Metals business area dropped significantly to 1.7 percent (2017: 6.0 percent). This unsatis factory development is ­ in addition to the provisions for capacity restructuring measures in Metals Forming (Schuler) as mentioned above largely attributable to cost overruns on some projects as well as the execution of some lowermargin orders. In the Separation business area, the EBITA margin amounted to 4.8 percent (2017: 4.6 percent).
+
+73
+
+1.3
+billion euros
+Gross liquidity
+
+7.1
+billion euros
+Order backlog
+
+19.2
+percent
+Equity ratio
+
+North America 17% (21%) 14% (12%)
+
+Order intake by region in 2018 (2017)
+Employees by region as of the end of 2018 (2017)
+
+South America 10% (7%) 12% (11%)
+
+Detailed information on the 2018 business year, including the integrated Management Report, Corporate Governance Report, and Consolidated Financial Statements for 2018, can be found in the 2018 Annual Financial Report, available for download at andritz.com/downloads.
+
+74
+
+NET WORTH POSITION AND CAPITAL STRUCTURE
+Total assets increased to 6,919 MEUR (December 31, 2017: 6,265 MEUR) due primarily to the companies acquired during the business year; the equity ratio amounted to 19.2 percent (December 31, 2017: 21.2 percent).
+Liquid funds amounted to 1,280 MEUR as of December 31, 2018 (1,772 MEUR as of the end of 2017), while net liquidity dropped significantly to -130 MEUR (908 MEUR as of the end of 2017). This substantial decline in net liquidity is largely due to payments for the purchase of acquisitions as well as early redemption of a high-interest bond held by Xerium Technologies.
+In 2018, ANDRITZ AG issued a Schuldschein darlehen with a volume of 500 MEUR in order to provide funds for corporate financing including refinancing and for acquisition financing.
+
+year. Novimpianti is a global supplier of engineered equipment and technical services for air and energy systems to the paper industry's leading manufacturers. The Schuler Group, which belongs to ANDRITZ, acquired Farina Presse, an Italian manufacturer of forging lines. With this mechanical engineering specialist based in Suello in northern Italy, the Schuler Group has completed its product portfolio in the forging and single-stroke press segment.
+ANDRITZ acquired the Canadian company HMI, with headquarters in Boucherville, Québec. HMI focuses on repair and upgrade of shut-off valves and other equipment for hydropower stations.
+
+IMPORTANT ACQUISITIONS
+The acquisition of Xerium Technologies, Inc. was closed successfully in October 2018. The group, which has approximately 2,900 employees and 29 production facilities worldwide, is a global manufacturer and supplier of machine clothing and roll covers for paper, tissue, and board machines and is extending the ANDRITZ product range in this sector.
+In July 2018, ANDRITZ acquired a 70 percent stake in Diatec S.r.l., a leading manufacturer of machines for the production of baby diapers and hygiene products. The company is based in Collecorvino in the Pescara region, Italy.
+ANDRITZ acquired ASKO, Inc., a family-owned company with headquarters in Homestead, Pennsylvania, USA, in September 2018. The company manufactures a wide range of knives, blades, liners, and wear plates, including accessories for the metals producing and processing industry as well as for the recycling industry. This acquisition supplements the ANDRITZ service portfolio for the metal industry.
+ANDRITZ acquired Novimpianti Drying Technology S.r.l., a company owned by Novigroup S.r.l. and based in Lucca, Italy, during the business
+
+75
+
+STRATEGY
+For many years, the ANDRITZ GROUP has been pursuing a business strategy aimed at achieving long-term profitable growth. ANDRITZ's goal is to achieve annual sales growth averaging five to eight percent and to increase profitability (EBITA margin) sustainably to eight percent. The main cornerstones of this strategy are: the creation of internal and external growth, technology and cost leadership, extending the company's position on the market, and global presence.
+
+2009
+3,198 3,349
+
+2010
+3,554 4,132
+
+2011
+4,596 5,707
+
+2012
+5,177 4 ,9 2 4
+
+2013
+5,711 5,611
+
+2014
+5,859 6,101
+
+2015
+6,377 6,018
+
+2016
+6,039 5,569
+
+2017
+5,889 5,580
+
+Sales (MEUR) Order intake (MEUR)
+
++7%
+
+Average annual sales growth (2009­2018)
+
+2018
+6,031 6,646
+
+Due to the utilization of automatic calculation programs, differences can arise in the addition of rounded totals and percentages.
+
+76
+
+GROWTH
+In order to achieve the long-term sales growth target, ANDRITZ continues to focus on organic growth and the acquisition of companies. ANDRITZ invests around three percent of sales, including order-related work, every year in research and development of new products, with special focus here on digitalization. By offering smart technologies that create added value, ANDRITZ supports its customers in achieving their business goals as best possible, thus also tapping into new sales and growth opportunities in its business areas. Complementary acquisitions, i.e. acquisition of companies with complementary products/technologies, will continue to be an important cornerstone of ANDRITZ's growth strategy. By integrating these companies into the Group, ANDRITZ not only creates important synergies, but also paves the way for these companies to achieve organic growth. The Group's overall goal is to become a full-service provider with global presence in all business areas by developing its own products and acquiring other companies.
+At the same time as achieving sales growth, the company seeks to increase profitability in the long term and achieve an EBITA margin averaging eight percent in the coming years. Continuous optimization of cost and organizational structures as well as further expansion of stable service business are among the measures implemented to achieve this margin.
+TECHNOLOGICAL AND COST LEADERSHIP
+The ANDRITZ GROUP ranks among the leading global suppliers in all of its business areas. In order to consolidate and further extend this position, it is essential for ANDRITZ to be the preferred technology supplier while still maintaining a competitive cost structure. Thus, the ultimate objective is to offer cutting-edge technologies that help achieve productivity, quality, resource and energy efficiency, and sustainability goals. At the same time, it is necessary to create a cost structure within the Group that secures ANDRITZ's competitive position and continued existence in the long term. The main cornerstones here are ongoing cost optimizations and a manufacturing and location concept aligned to future market opportunities that takes account of regional cost and competitive advantages.
+
+EXTENSION OF MARKET POSITION AND GLOBAL PRESENCE
+ANDRITZ focuses on markets with long-term and sustained growth potential. Within these markets, the Group is concentrating on rapidly growing segments, such as stainless steel or tissue, which are experiencing over-proportional growth compared to the gross national product and whose growth is enhanced by long-term, socio-ecological trends or megatrends, such as digitalization or e-mobility.
+With a balanced mix of global and local presence, ANDRITZ can support its customers in achieving their goals in terms of productivity, profitability, and sustainability. It is thus one of the ANDRITZ GROUP's main objectives to continue extending its worldwide presence in order to utilize growth potential on the one hand, particularly in the emerging economies of South America and Asia, and on the other hand to be close to its customers in order to offer the best possible service. By further relocating manufacturing capacities to emerging markets, ANDRITZ can profit from growth in these regions, but also be a strong impetus there for economic growth and employment.
+
+77
+
+THE ANDRITZ SHARE
+Relative performance of the ANDRITZ share versus the ATX since the IPO
+
+2,000%
+
+1,800%
+
+1,600%
+
+1,400%
+
+1,200%
+
+1,000%
+
+800%
+
+600%
+
+400%
+
+200%
+
+0%
+
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+
+ANDRITZ
+
+ATX
+
+SHARE PRICE DEVELOPMENT
+Development of the international financial markets was influenced by continuing uncertainty and high volatility in 2018. The main influencing factors were the trade dispute between the USA and China, the forthcoming Brexit, the monetary crisis in some of the emerging markets, and expectations of a global economic downswing in 2019. In this stock market environment, the ANDRITZ share fell by 14.8 percent in 2018, while the ATX, the leading share index on the Vienna Stock Exchange, was down by 19.7 percent in the same period. The highest closing price of the ANDRITZ share was EUR 53.50 (September 21, 2018) and the lowest closing price EUR 38.88 (December 17, 2018).
+
+TREASURY SHARES
+In 2018, a total of 112,000 treasury shares were purchased under the share buy-back program approved by the Annual General Meeting.
+LONG-TERM DIVIDEND POLICY
+ANDRITZ pursues a dividend policy oriented towards continuity. Depending on how business develops and on any large-scale acquisitions, ANDRITZ's goal is to distribute between 50 and 60 percent of profits on average to the shareholders in the long-term.
+
+TRADING VOLUME
+The average daily trading volume of the ANDRITZ share (double count, as published by the Vienna Stock Exchange) was 354,084 shares in 2018 (2017: 306,296 shares). The highest daily trading volume was noted at 2,207,746 shares on June 15, 2018, and the lowest trading volume at 65,500 shares on August 27, 2018.
+
+ANNUAL GENERAL MEETING
+The 111th Annual General Meeting of ANDRITZ AG on March 23, 2018 agreed to a dividend payment of EUR 1.55 per share for the 2017 business year (2016: EUR 1.50 per share). The dividend was distributed on March 29, 2018. This is equal to a 60.1 percent payout ratio (2016: 55.8 percent).
+
+78
+
+79
+
+STABLE AND WELL-BALANCED
+SHAREHOLDER STRUCTURE
+ANDRITZ has a stable and well-balanced shareholder structure. Custos Vermögensverwaltungs GmbH owns 25 percent plus one share, while C erberus Vermögensverwaltung GmbH holds 0.77 percent. Some of the shares in these companies are held directly and some indirectly by Custos Privatstiftung and by ANDRITZ AG President and CEO Wolfgang Leitner, respectively. C ertus Beteiligungs-GmbH, whose shares are owned indirectly by Manile Privatstiftung, holds 5.72 percent. With a free float of just under 70 percent, national and international institutional investors and private investors make up the majority of the shareholders. These include FMR LLC (Fidelity Management&Research, a Boston, Massachusetts-based investment company founded in 1946) holding 5.19 percent, BlackRock, Inc. (a US investment company established in 1988 and based in New York City, New York) holding 4.65 percent, and The Capital Group Comp anies, Inc. (a US investment firm founded in 1931 with headquarters in Los Angeles, California) holding 3.96 percent. The majority of institutional investors come from the UK, Austria, and G ermany, while most private investors are from A ustria and Germany.
+
+BROAD RESEARCH COVERAGE
+The following international banks and investment houses publish analysis reports on ANDRITZ at regular intervals: Baader Bank, Berenberg Bank, Commerzbank, Deutsche Bank, ERSTE Bank, Goldman Sachs , Hauck & Aufhäuser, HSBC Trinkaus, Jefferies, J.P. Morgan, Kepler Cheuvreux, Raiffeisen Centrobank, Société Générale, and UBS.
+
+CONTINUOUS AND TRANSPARENT COMMUNICATION
+Continuous and transparent communication with institutional and private shareholders has been the focus of investor relations activities since the ANDRITZ IPO in 2001. In 2018, meetings were held with international institutional investors and financial analysts in Berlin, Boston, Chicago, Frankfurt, London, Los Angeles, Melbourne, M ontréal, Munich, New York, Paris, San Diego, Seattle, Stegersbach, Sydney, Tokyo, Toronto, Vienna, Warsaw, Zurich, and Zürs. In addition, numerous conference calls were conducted to provide information on the main key figures and on the company's strategic and operative development.
+
+80
+
+KEY FIGURES OF THE ANDRITZ SHARE
+
+Earnings per share Dividend per share Payout ratio Price-earnings ratio (based on closing price at end of year) Equity attributable to shareholders per share Highest closing price Lowest closing price Closing price at end of year Market capitalization (as of end of period) Performance ATX weighting (as of end of period) Average daily number of shares traded2
+
+Unit EUR EUR
+%
+
+2018 2.20 1 . 5 51 70.5
+
+2017 2.58 1.55 60.1
+
+2016 2.69 1.50 55.8
+
+2015 2.60 1.35 5 1 .9
+
+2014 2.04 1.00 4 9. 0
+
+EUR EUR EUR EUR MEUR
+% % units
+
+18.24
+
+18.25
+
+1 7. 7 3
+
+1 7. 3 3
+
+22.40
+
+13.02
+
+12.77 13.00
+
+11.63
+
+9. 8 6
+
+5 3 . 5 0 5 4 . 8 7 4 9. 7 0 5 7. 4 9
+
+4 7. 5 8
+
+38.88 44.32 38.69 38.14
+
+3 7. 0 0
+
+4 0 . 1 2 4 7. 0 9 4 7. 7 0 4 5 . 0 5
+
+45.69
+
+4,172.5 4,896.8 4,960.3 4,685.2 4,751.8
+
+-14.8
+
+-1.3
+
++ 5 .9
+
+-2.1
+
+0.0
+
+7. 1 0 4 5 6 . 2 6 8 0 9. 0 0 1 8 9. 5 8 5 4 1 1 . 6 4 7 9
+
+3 5 4 , 0 8 4 3 0 6 , 2 9 6 3 1 7, 5 5 8 3 5 5 , 8 2 1 3 0 5 , 0 2 7
+
+Source: Vienna Stock Exchange 1 Proposal to the Annual General Meeting. 2 Double counting ­ as published by the Vienna Stock Exchange
+
+BASIC DATA OF THE ANDRITZ SHARE
+
+ISIN code First listing day Types of shares Total number of shares Authorized capital Free float Stock exchange Ticker symbols Stock exchange indices
+
+AT0000730007 June 25, 2001
+no-par value shares, bearer shares 104 million none < 70%
+Vienna (Prime Market) Reuters: ANDR.VI; Bloomberg: ANDR, AV ATX, ATX five, ATX Global Players, ATX Prime, WBI
+
+FINANCIAL CALENDAR 2019
+March 6, 2019 M a r c h 1 7, 2 0 1 9 M a r c h 2 7, 2 0 1 9 M a r c h 2 9, 2 0 1 9 April 1, 2019 April 2, 2019 May 2, 2019 August 2, 2019 November 6, 2019
+
+Results for the 2018 business year Record date Annual General Meeting
+Annual General Meeting Ex-dividend
+Record date dividend Dividend payment
+Results for the first quarter of 2019 Results for the first half of 2019
+Results for the first three quarters of 2019
+
+The financial calendar with updates and information on the ANDRITZ share can be found on the Investor Relations page at the ANDRITZ website: andritz.com/share.
+
+81
+
+SUSTAINABILITY AND COMPLIANCE
+For ANDRITZ, sustainability and compliance are two essential factors in securing the company's long-term success. The goal is to achieve the best possible balance between business activities and socio-economic responsibility towards all stakeholders ­ customers, suppliers, investors, members of staff, private citizens, and so on.
+
+SUSTAINABILITY
+The main areas of activity for ANDRITZ in the sustainability sector are checked every year in the course of a materiality analysis and adapted as needed. The concepts and measures based thereon in the respective areas of activity are checked regularly to determine the extent to which they have been achieved and how effective they are, and then adapted to deal with new requirements and demands if necessary.
+From the economic perspective, sustainability for ANDRITZ means securing the company's longterm success without forgetting its responsibility towards the environment and society. Reliability, integrity, and respect are thus part of the foundations of the company's philosophy and important cornerstones of the responsible conduct that is also manifested in ANDRITZ's collaboration with business partners and suppliers. At ANDRITZ, it is thus important that the Group's strict requirements in this respect are also observed and implemented by external stakeholders. This is checked regularly and thus also provides active control and risk management to ensure best possible financial security.
+ANDRITZ owes its strong position as a leading international technology group to its employees and thus would also like to be an attractive and responsible employer for them. A wide range of educational and training courses and the encouragement of diversity in the company are intended to maintain employees' job satisfaction and retain them in the company in the long term. This begins at an early stage with the 800 apprentices worldwide, who have every opportunity to embark on numerous possible
+
+careers, also at international level, at the end of their comprehensive, specialized training. However, social responsibility and sustainability are also reflected in project execution, where ANDRITZ focuses on employing local labor and suppliers, thus making a substantial contribution towards adding value in many countries, especially in emerging markets.
+With innovative power and active entrepreneurial spirit, ANDRITZ is constantly creating new perspectives for the company, its workforce, its customers, and other stakeholders. This innovative spirit is driven by a group-wide ideas management system and by startup competitions that encourage the development of new projects aside from everyday work. In manufacturing, ANDRITZ takes care to ensure that any negative environmental impacts are reduced to a mini mum in the best way possible and that resources are conserved. Observing ecological standards has a part to play here, but so does adherence to strict quality requirements and environmental standards. As part of the integrated management system, these requirements are constantly monitored at all ANDRITZ manufacturing locations, and products and processes are adapted accordingly. The strict requirements for occupational health and safety should also be mentioned here. The global safety initiative is intended to establish an awareness of safety in the workplace in the long term and help to prevent accidents.
+ANDRITZ is committed to an open and transparent communication policy. An important part of this is the compilation of non-financial information that is published in compliance with the legal requirements as part of the Management Report included in the Annual Financial Report.
+
+82
+
+COMPLIANCE
+ANDRITZ acknowledges responsibility in the sense that it actively puts compliance into practice. The foundation for this is laid by the Code of Business Conduct and Ethics compiled in 2010, which is publicly available online. Some amendments were made to the content in the reporting year and the updated code was published in February 2019. In addition, a code of conduct for suppliers has been in force since 2015.
+Compliance with legal provisions as well as internal rules and regulations is monitored by the group-wide compliance committee, which focuses on different topics and regions in its work. The Executive Board's clear commitment to conduct according to these regulations demonstrates to all employees how important compliance is and raises awareness of correct conduct in the everyday working environment.
+In order to check the effectiveness of the compliance management system and further improve it, ANDRITZ has certification according to ISO 19600 for compliance management systems and ISO 37001 for anti-bribery management systems. The standards contain requirements for developing, implementing, and maintaining a compliance management system as well as suitable measures to help protect against, track down, and provide proof of corruption. In Austria, ANDRITZ is the first mechanical engineering company to implement these standards and was also among the first companies internationally that did so.
+A comprehensive, group-wide risk analysis was conducted in order to be able to assess the risks in the compliance sector more accurately. This analysis reviewed seven different areas, and measures were developed to mitigate the risk in each case. This resulted in a four-stage risk assessment being implemented since 2017. In particular, training on the individual compliance topics is among the measures that are intended to ensure that there is a basic understanding of compliance and that compliance regulations are obeyed.
+The online whistleblowing system launched in the spring of 2016 enables employees and external business partners to report compliancerelated incidents anonymously ­ for example insider trading, corruption, violations of export control regulations, and HR topics.
+
+Other topics forming a main focus of compliance work are social engineering, anti-money laun dering and financing of terrorism, and export controls. All details on these topics can be found in the Corporate Governance Report included in the ANDRITZ Annual Financial Report 2018.
+
+Detailed information on sustainability and compliance is available at andritz.com/downloads.
+
+83
+
+PUBLISHER'S
+
+NOTE
+
+DISCLAIMER
+
+PUBLISHED BY
+
+Certain statements contained in the 2018 Annual Report and in the 2018 Annual Financial Report constitute "forward-looking statements." These statements, which contain the words "believe", "intend", "expect", and words of a similar meaning, reflect the Executive Board's beliefs and expectations and are subject to risks that may have a substantial impact on actual results. Thus, readers are cautioned not to place undue reliance on such forward-looking statements. The company disclaims any obligation to publicly announce the result of any revisions to the forward-looking statements made herein, except where it would be required to do so under applicable law.
+The 2018 Annual Report and the 2018 Annual Financial Report contain assumptions and forecasts which were based on the information available up to the copy deadline on February 15, 2019. If the premises for these assumptions and forecasts do not materialize, or risks indicated in the Risk Management chapter and in the Management Report in the 2018 Annual Financial Report do arise, actual results may vary from the forecasts made in the 2018 Annual Report and in the 2018 Annual Financial Report. Although the greatest caution was exercised in preparing the data, all information relating to the future is provided without guarantee.
+NOTE
+In order to improve readability, the present report does not contain any gender-specific wording. Any personal terms used relate to both men and women equally. The Annual Report is also published in German. In the event of any discrepancies, the German version shall prevail.
+
+ANDRITZ AG, 8045 Graz, Austria andritz.com
+RESPONSIBLE
+Dr. Michael Buchbauer, ANDRITZ AG
+EDITORS
+ANDRITZ AG, Peter Gaide, ag-text
+CONCEPT AND CREATIVE IMPLEMENTATION
+Strichpunkt GmbH, Stuttgart/Berlin www.strichpunkt-design.de
+PICTURE CREDITS
+P. 6­13, 16, 17, 22­27, 34, 36­45, 50, 52­55, 61 : Jan Philip Welchering / P. 14, 15: Getty Images / P. 35­38: Behrend&Rausch / P. 50­53, 55­60: Kristofer Ryde / P. 66, 67, 70, 71: Thomas Dashuber (All other illustrations: Strichpunkt GmbH)
+PRINT
+Eberl Print GmbH, Immenstadt i. Allgäu CO2-neutral printing on Munken Crystal rough. The paper is certified according to FSC® criteria and carries the EU Ecolabel.
+carbon neutral
+natureOffice.com | DE-141-217348
+print production
+
+ANNUAL FINANCIAL REPORT 2018
+Detailed information on the 2018 business year, including the integrated Management Report, Corporate Governance Report, and Consolidated Financial Statements for 2018, can be found in the 2018 Annual Financial Report, available for download at andritz.com/downloads.
+
+84
+
+ANNUAL REPORT 2018
+
+ANDRITZ AG
+Stattegger Strasse 18, 8045 Graz, Austria
+
+

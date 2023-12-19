@@ -1,0 +1,386 @@
+MANAGEMENT REPORT OF ACTION S.A. (Company/Issuer) ON OPERATIONS IN 2015
+1. Basic figures and development prospects for the next business year
+In 2015, ACTION S.A. reached sales revenues of PLN 4 685,978 thousand. The operating profit amounted to PLN 36,727 thousand and the net profit PLN 24,088 thousand. The above figures, compared with the same values reached in 2014, decreased by 3.43% with respect to sales revenues, 60,17% with respect to operating profit and 65,34% with respect to net profit.
+These figures are the consequences of many factors, among them, changes resulting from the offer of technologically advanced devices being smaller than in previous years, the introduction of new tax regulations and the growing consolidation of both, suppliers and retail networks. All these changes had a material impact on the demand recorded in 2015. Additionally, a relatively sudden and unforeseeable nature of these changes caused the margins at all levels of activity to be lower than assumed.
+In the coming year, the Management Board does not envisage any significant changes in relation to technologically advanced devices launched and the entities offering these devices. In the Management Board's opinion, the main factors influencing the financial performance in the future are:
+Regarding internal factors: a) an ongoing analysis of the phenomena occurring in the markets served and taking decisions aimed at the best possible adjustment of the offer to the tendencies observed; b) an ongoing control of transaction profitability and cost-effectiveness of the existing structures; c) further growth of activities on e-commerce markets; d) further expansion of what we offer to include new business areas such as toys and medical equipment; e) further improvement of activities in the handling of tenders and Enterprise; f) maintenance and gradual growth of export markets and expansion of Action Europe GmbH operating on the German market; g) better use of the advantages stemming from the expansion of the logistics centre in Zamienie; h) maintaining a wide base of customers representing all sales channels; i) further monitoring of the markets served and active participation in the sales channels that have been newly created or not used so far; j) maintaining strict ongoing monitoring of costs in the Company and in the Capital Group; k) ongoing monitoring and active management of the working capital; l) optimising the structure of the ACTION Capital Group and the performance of the entities constituting it;
+Regarding external factors: a) economic and political situation in Poland and worldwide; b) consequences of the implemented or planned changes in the law, in particular the consequences of the implementation of the Family 500 Plus programme and other regulations supporting consumers; c) changes of regulations regarding health care, in particular, with respect to the existence and functioning of NFZ (National Health Fund); d) technological changes affecting the innovation of the products offered and the development of the Internet of Things; e) changes in the current and long-term monetary policy in Poland and worldwide;
+__________________________________________________________________________________________ Page 1
+
+Management Report of ACTION S.A. for 2015
+(all amounts given in thousand zloty (PLN '000) unless indicated otherwise)
+
+ACTION S.A.
+
+f) demand for the goods offered by the Company.
+
+2. Significant risk factors related to the operation of the Company
+2.1. Risk factors related to the Company's operation
+2.1.1. Stockholding risk The main activity of the Company is the sale of technologically advanced goods, which are naturally exposed to the process of ageing and the resulting loss of value. Producers who market new models of products then lower the prices of the products they previously offered. As a result of the price protection clauses contained in the contracts with suppliers and the existing market practice in this area, the Company receives coverage of losses connected with the loss of value from all its key suppliers. Irrespective of the benefits arising from the price protection mechanisms, the Company tries to maintain high rotation of its stocks.
+2.1.2. Risk of losing receivables When it comes to value, trade receivables are the most important item in the Company's assets. As any other entity dealing in trade, the Company is exposed to the risk of losing some part of its receivables. This risk increases with increasing economic slow-down in Poland and in the world. Bearing in mind the possibility of losing its receivables, the Company insures this risk, using the services of leading insurers.
+Detailed information regarding financial instruments in the scope of: a) price risk, credit risk, cash flow risk and liquidity risk, to which the entity is exposed, b) financial risk management objectives and methods adopted by the entity, including the methods which are used to hedge major types of forecasted transactions in respect of which hedge accounting method is used, was included in Note 30 Financial Instruments and Note 25 Hedge Accounting of the Separate Financial Statement.
+2.2.Risk factors related to the environment in which the Company operates
+2.2.1. Risk related to the macroeconomic situation in Poland The macroeconomic ratios of the Polish economy and its growth rate have a material impact on the value and trends observed on the IT equipment distribution market. The eagerness of dealers to purchase new IT hardware, and consequently the value of purchases exercised by the recipients of the Company, are essentially related to growth in GDP, the level of investments, and the way that retail consumers perceive the market situation. Nonetheless, the current and projected rate of economic growth may negatively affect the demand for the IT equipment offered by the Company.
+
+___________________________________________________________________________________________ Page 2
+
+Management Report of ACTION S.A. for 2015
+(all amounts given in thousand zloty (PLN '000) unless indicated otherwise)
+
+ACTION S.A.
+
+2.2.2. Exchange rate risk The Company is exposed to a foreign exchange risk. ACTION S.A. obtains over 60% of its sales revenues in Polish zloty while about 60% of goods are imported. Payments for imported goods are made mainly in EUR and in USD. Such a currency structure of cash flows exposes the Company to foreign exchange risk. The risk increases proportionally to the changes observed in the FX market. The Company tries to minimise the FX risk. For that reason, in 2011 the Company adopted the FX Risk Management Policy. The rules regarding the FX risk management adopted in the policy set optimal levels of hedging related to the existing currency positions and determine a system for monitoring and control related thereto. In accordance with the adopted hedge accounting principles, the Company is obliged to maintain hedges amounting to nearly 100% of the open currency position on an ongoing basis.
+
+2.2.3. Legal environment risk The changing laws and various interpretations thereof constitute a risk to the operations of ACTION S.A. Potential changes of the law may lead in a direction that will cause adverse effects for the Company's operations. These changes may significantly influence the legal environment of the business activity. Bringing into effect a new regulation important for business life may lead to interpretation problems, incoherent court decisions, unfavourable interpretations assumed by the public administration organs, etc.
+
+2.2.4.
+
+Tax system risk
+
+The Polish tax system is characterised by frequent changes in the tax regulations. Many of them are not
+
+defined precisely enough and their interpretation is not unequivocal. Interpretations of the tax provisions
+
+are subject to frequent changes; however, neither the practices applied by tax authorities nor the court
+
+rulings related to taxation are unified. Due to divergent interpretations of the tax provisions, the risk is
+
+greater in the case of a Polish company than in the case of a company operating in a more stable tax
+
+system. In such circumstances the Company's operation and its tax recognition in income statements
+
+and tax returns may be deemed at variance with the tax regulations by the fiscal authorities. It is,
+
+however, expected that the proceedings before administrative courts consisting of two instances and the
+
+acquis communautaire will significantly influence the uniformity of court decisions related to taxes,
+
+leading in consequence to higher uniformity of tax law application, exercised by the tax authorities as
+
+well. One of the elements of the risk arising from tax regulations are the provisions related to the expiry
+
+of the limitation period of the tax obligation, which is connected with the possibility to verify whether tax
+
+liabilities were calculated correctly for the given period. Tax declarations determining the amount of tax
+
+liability and the amount of payments made may be verified by the inspection of tax authorities within five
+
+years following the end of the year in which the due date for the payment of the tax expired. In the case
+
+the tax authorities adopt an interpretation of tax regulations different than the interpretation adopted by
+
+the Company, which is the basis for the calculation of the tax liability, the situation may have adverse
+
+impact on the operations of the Company, its financial situation, and, in consequence, its results and
+
+growth perspectives.
+
+3. Corporate governance policies
+
+ACTION S.A. is subject to the corporate governance principles: "Code of Best Practice for WSE Listed Companies" adopted by Resolution no. 12/1170/2007 of the Warsaw Stock Exchange of 4 April 2007, the text hereof is included in the annexe to the above mentioned resolution. Since 1 January 2016, ACTION S.A. has been subject to the corporate governance principles "Code of Best Practice for WSE Listed Companies" adopted by way of resolution no. 26/1413/2015 of the Supervisory Board of the Warsaw Stock Exchange of 13 October 2015. The text of the set of these principles is available on the WSE website (www.corp-gov.gpw.pl.) and on the Company's website (www.action.pl). Application of these principles is voluntary. The statement concerning the application of corporate governance principles by ACTION S.A. in 2015, constituting an appendix to this Report, shall be published as a separate component of the Annual Report.
+
+___________________________________________________________________________________________ Page 3
+
+Management Report of ACTION S.A. for 2015
+(all amounts given in thousand zloty (PLN '000) unless indicated otherwise)
+
+ACTION S.A.
+
+4. Identification of material proceedings pending before a court, competent arbitration authority or public administration authority
+As of the day of submitting this Report, no proceedings were ongoing at any courts, authorities competent for arbitration proceedings or public administration authorities in relation to the Company's liabilities or receivables whose value, determined separately for individual proceedings and in total for all the proceedings, would represent at least 10% of the Company's equity.
+
+5. Information on the basic commodity lines offered by the Company and their share in the total sales
+The basic scope of the Company's activity is the distribution of computer hardware and software. The Company's sales volume reflects the market situation and customers' needs. Based on long-standing market experience, the Company flexibly reacts to any changes that occur in the demand structure in order to meet the constantly increasing requirements of its customers. The sales structure is presented in the table below.
+
+Item
+
+Name of Group
+
+1
+
+Ready solutions
+
+2
+
+Consumer electronics
+
+3
+
+Components
+
+4
+
+Peripherals
+
+5
+
+Consumables and office supplies
+
+6
+
+Software
+
+7
+
+Other areas
+
+Total revenues from the sales
+
+of products, goods and
+
+materials
+
+Sales value in 2015
+1,492,999 2,016,554
+854,001 115,477
+97,621 82,345 26,981
+4,685,978
+
+%
+
+Sales value in 2014
+
+31.87% 43.03% 18.22%
+2.46% 2.08% 1.76% 0.58%
+
+1,467,949 2,181,101
+782,698 140,186 150,850 108,723
+21,100
+
+%
+30.25% 44.95% 16.13%
+2.89% 3.11% 2.24% 0.43%
+
+100.00%
+
+4,852,609 100.00%
+
+6. Information on target markets
+The Group's basic market is the domestic distribution market of computer hardware and software. In 2015, it generated 64.26% from net sales of goods and materials. The sales structure by territory in 2015:
+
+Net revenues from the sales of goods and materials (by territory) in thousand zloty
+1. domestic sales ­ sales of goods - including: to related parties 2. exports ­ sales of goods - including: to related parties 3. EU supplies - including: to related parties Total net revenues from the sales of goods and materials
+
+Change
+5.44% 9.45% 3.00%
+0 -21.94% 20.05%
+-3.52%
+
+2015
+3,011,199 194,341 397,944 0
+1,190,430 291,483
+4,599,573
+
+2014
+2,855,879 177,560 386,346 0
+1,524,928 242,795
+4,767,153
+
+___________________________________________________________________________________________ Page 4
+
+Management Report of ACTION S.A. for 2015
+(all amounts given in thousand zloty (PLN '000) unless indicated otherwise)
+
+ACTION S.A.
+
+- including: to related parties
+
+15.23%
+
+484,376
+
+420,355
+
+Both the structure of the Company's recipients and suppliers show a large dispersion. None of the Company's business partners reached 10% share in total purchases or total sales.
+
+7. Information on concluded agreements that are significant for the Company's operation
+Within the basic scope of its activity, the Company is in stable trade relations (agreements for sale and purchase of goods) with numerous recipients and suppliers of goods. In the vast majority of cases the Company does not conclude separate agreements but makes trade transactions based on separate (individual) orders confirmed with invoices.
+Within the period covered by the Report the following significant agreements were concluded:
+
+1. Annex no. 21 of 17 April 2015 to Overdraft Facility Agreement no. 2005/1006392654 of 14 June 2005. Annex no. 21 introduced changes to the legal security for the repayment of credit in the form of the assignment of trade receivables. The said assignment also constitutes common security for the guarantees and letters of credit issued under Master Agreement no. 2010/101/DDF of 20 May 2010, as amended. The amount of the assignment of trade receivables decreased from the minimum PLN 35,000 thousand to the value which is not less than PLN 21,000 thousand.
+2. Annex no. 6 of 17 April 2015 to Master Agreement no. 2010/101/DDF of 20 May 2010 regarding the granting of guarantees and letters of credit. Annex no. 6 introduced changes to the legal security in the form of the assignment of trade receivables. The said assignment also constitutes common security for the Overdraft Facility Agreement no. 2005/1006392654 of 14 June 2005. The amount of the assignment of trade receivables decreased from the minimum PLN 35,000 thousand to the value which is not less than PLN 21,000 thousand. The annex does not provide for any changes in the amount of the limit for issuing guarantees and opening letters of credit which amounts to PLN 21,000 thousand, except for the possibility of increasing the amount of security for the guarantees and letters of credit up to PLN 36,000 thousand, on the day of effective establishment of the common security in favour of the Bank in the form of the registered pledge on warehouse stock along with the assignment of rights under the insurance contract and the assignment of trade receivables up to the amount which is not less than PLN 136,000 thousand.
+3. Annex no. 15 of 18 June 2015 to Overdraft Facility, Guarantee and Letter of Credit Agreement no. 51/2009 of 29 May 2009 concluded by the Issuer and the Bank referred to above. On the basis of Annex no. 15, the overdraft facility repayment date was prolonged until 23 June 2016, the repayment date for the letters of credit was prolonged until 17 March 2017 and the repayment date for bank guarantees was also prolonged: a. for guarantees of less than 13 months (previously, less than one year) until 22 June 2017; b. for guarantees of less than 3 years: until 21 June 2019. The remaining provisions of the agreement (including the form and value of collaterals) have not changed.
+4. Factoring Contract no. 1455/06/2015 of 9 July 2015 concluded between the Issuer and BNP Paribas Factor Sp. z o.o. ("Factor") based in Warsaw. Under the above Contract, the Parties agreed the terms and conditions for the acquisition of non-matured cash receivables of the Issuer by BNP Paribas Factor Sp. z o.o. up to the maximum limit of PLN 50,000 thousand granted to the Issuer. Under the above Contract, BNP Paribas Factor Sp. z o.o. is entitled to remuneration in the form of commissions and interests. The above-mentioned agreement is secured by: a. the assignment of current and future receivables reported to the Factor by the Issuer, b. a blank bill of exchange with a B/E declaration. c. a power of attorney to the client's accounts with BG BNP Paribas S.A.
+___________________________________________________________________________________________ Page 5
+
+Management Report of ACTION S.A. for 2015
+(all amounts given in thousand zloty (PLN '000) unless indicated otherwise)
+
+ACTION S.A.
+
+5. Annex no. 3 to the Multi-Purpose Credit Limit Agreement concluded on 25 July 2014 between Bank Powszechna Kasa Oszczdnoci Bank Polski Spólka Akcyjna with its registered office in Warsaw and the Issuer. Under the above annex, the amount of the credit limit granted (PLN 50,000 thousand) and the security of its repayment remain unchanged. However, the credit utilisation period was extended from 24 July 2015 to 24 July 2016.
+6. Annex to Factoring Contract no. SEB/CF412/12 of 6 February concluded between the Issuer and SEB Commercial Finance Sp. z o.o. Under annex no.12 the duration of the Factoring Contract was extended until 31 October 2016. The remaining provisions of the Contract have not changed.
+7. Annex no. 17 of 24 November 2015 to Overdraft Facility, Guarantee and Letter of Credit Agreement no. 51/2009 of 29 May 2009 concluded by the Issuer and HSBC Bank Polska S.A. with its registered office in Warsaw. Under annex no. 17, the possibility to conclude bank guarantees was extended. A provision on a guarantee which cannot exceed 38 months was added to guarantees not exceeding 13 months and guarantees not exceeding 3 years. The guarantee matures on 21 June 2019. The remaining provisions of the agreement (including the form and value of collaterals) have not changed.
+8. Annex no. 3 of 22 December 2015 to Factoring Contract no. 1455/06/2015 of 9 July 2015 concluded between the Issuer and BG Paribas Factoring Sp. z o.o. ("Factor") based in Warsaw. Under the above annex, the factoring limit of the Issuer was increased from the previous PLN 50,000 thousand to PLN 90,000 thousand.
+8. Information on equity relationship and specification of the major equity investments
+ACTION S.A. forms ACTION S.A. Capital Group in which it is the parent. The Capital Group's scope of activities covers wholesale of computer and IT components, parts and devices. The Capital Group conducts its operations within the whole territory of Poland, and ACTION S.A. is the main supplier of goods, including for the Group's companies.
+In the period covered by the Report the following entities were members of the Group:
+Controlling entity:
+ACTION S.A. with its registered office in Warsaw
+subsidiaries and associated entities: SFK Sp. z o.o. with its registered office in Kraków ­ subsidiary (100%) ACTINA Sp. z o.o. with its registered office in Warsaw ­ subsidiary (100%) SFERIS Sp. z o.o. with its registered office in Warsaw ­ indirect subsidiary (99.89%) 1 GRAM.PL Sp. z o.o. with its registered office in Warsaw ­ subsidiary (100 %) 2 ACTION GAMES LAB S.A. with its registered office in Zamienie - subsidiary (40%) 3 ACTION CENTRUM EDUKACYJNE Sp. z o. o. with its registered office in Warsaw - associate (24.38 %) 4 SYSTEMS Sp. z o. o. with its registered office in Warsaw ­ indirect associate (24.38 %) 5 ACTIVEBRAND Sp. z o.o. with its registered office in Zamienie ­ subsidiary (100%) 6 ACTION EUROPE GmbH with its registered office in Braunschweig (Germany) - subsidiary (100%) 7 RETAILWORLD Sp. z o.o. with its registered office in Stara Iwiczna ­ indirect subsidiary (99.89%) 8 LAPADO Handelsgesellschaft GmbH with its registered office in Potsdam (Germany) - indirect subsidiary (51%) 9 ACTIONMED Sp. z o.o. with its registered office in Zamienie ­ subsidiary (100%) 10 ACTION INNOVATIVE SOLUTIONS Sp. z o.o. with its registered office in Bielsko-Biala - subsidiary (51%) 11
+1 SFERIS Sp. z o.o. with its registered office in Warsaw was consolidated as of 5 January 2007. 2 GRAM.PL Sp. z o.o. with its registered office in Warsaw was consolidated on 28 May 2009, on 18 December 2009 the share was raised to 80%. On 24 May 2010, the share was raised to 100% by means of a share purchase agreement. 3 ACTION GAMES LAB S.A. with its registered office in Zamienie was incorporated on and consolidated
+___________________________________________________________________________________________ Page 6
+
+Management Report of ACTION S.A. for 2015
+(all amounts given in thousand zloty (PLN '000) unless indicated otherwise)
+
+ACTION S.A.
+
+as of 12 December 2011. 4 ACTION CENTRUM EDUKACYJNE Sp. z o.o. with its registered office in Warsaw was consolidated as of 1 October 2012. 5 SYSTEMS Sp. z o.o. with its registered office in Warsaw was consolidated as of 1 October 2012. 6 ACTIVEBRAND Sp. z o.o. with its registered office in Zamienie was established on 3 September 2012. 7 ACTION EUROPE GmbH with its registered office in Braunschweig (Germany) was consolidates as of 8 July 2013. On 1 April 2014, by means of a purchase of non-controlling shares (33.33%), the share of ACTION S.A. was increased to 100%. 8 RETAILWORLD Sp. z o.o. with its registered office in Stara Iwiczna was consolidated as of 18 November 2013. 9 LAPADO Handelsgesellschaft GmbH with its registered office in Potsdam (Germany) was consolidated as of 1 January 2014. 10 ACTIONMED Sp. z o.o. with its registered office in Zamienie was consolidated as of 19 December 2014. 11 ACTION INNOVATIVE SOLUTIONS Sp. z o.o. with its registered office in Bielsko-Biala was consolidated as of 27 October 2015.
+Changes in the composition of the Group within the period covered by the statement:
+As of 1 January 2015, ACTION ENERGY Sp. z o. o. was excluded from consolidation due to the loss of significant influence.
+On 25 March 2015, ACTION S.A. acquired 100% of shares in the increased capital of ACTIONMED Sp. z o.o. for PLN 95 thousand. Then, on 1 July 2015, ACTION S.A. also acquired all newly issued shares in the increased capital of ACTIONMED Sp. z o.o. for PLN 200 thousand.
+On 27 October 2015, ACTION S.A. acquired 51% of shares in ACTION INNOVATIVE SOLUTIONS Sp. z o.o. for PLN 701 thousand.
+On 27 November 2015, ACTION S.A. concluded a contract for the sale of 10 shares of ACTION CENTRUM EDUKACYJNE Sp. z o.o. of a total nominal value of PLN 152 thousand for PLN 160 thousand.
+Shares of third parties in the subsidiaries: 1. SFERIS Sp. z o.o. - 0.11%, of which: Piotr Bieliski 0.055%, Anna Bieliska 0.055% 2. LAPADO Handelsgesellschaft GmbH ­ 49% of shares Jacek Moko 3. ACTION GAMES LAB S.A. ­ 60% of shares entitling to 75% of votes at the shareholders' meeting is held by Piotr Bieliski 4. ACTION INNOVATIVE SOLUTIONS Sp. z o.o. ­ 49% of shares Piotr Olejak
+ACTINA Sp. z o.o. deals in wholesale trade in computer hardware. The main business profile of SFERIS Sp. z o.o. is retail trade in computer hardware. The operations of GRAM.PL Sp. z o.o. (computer games) focuses on retail sales conducted via the Internet. The company is also an operator of wholesale trade in computer hardware. SFK Sp. z o.o. deals in wholesale trade and advertising activities. Apart from providing advertising services, in 2014 ACTION GAMES LAB S.A. started producing computer games. The main business profile of ACTION CENTRUM EDUKACYJNE Sp. z o.o. and SYSTEMS Sp. z o.o. are training and IT services and the rental of computer hardware. ACTIVEBRAND Sp. z o.o. is starting its activity in the marketing services sector. ACTION EUROPE GmbH conducts distribution activities related to wholesale of IT products and white goods. RETAILWORLD Sp. z o.o. focuses on wholesale of IT hardware and accessories to foreign clients. LAPADO Handelsgesellschaft GmbH deals in wholesale trade of computer hardware. ACTIONMED Sp. z o.o. has started its activity related to wholesale of IT hardware and medical accessories and the sale of services. ACTION INNOVATIVE SOLUTIONS Sp. z
+___________________________________________________________________________________________ Page 7
+
+Management Report of ACTION S.A. for 2015
+(all amounts given in thousand zloty (PLN '000) unless indicated otherwise)
+
+ACTION S.A.
+
+o.o. commences the manufacture and sale of telecommunications equipment.
+9. Major transactions with related entities concluded on non-market conditions
+In the period covered by the report, the Company did not conclude any transactions with related entities on non-market conditions. Transactions with related entities are described in Note 27 to the Financial Statements.
+10. Information on credits contracted, loan agreements and guarantees, and sureties granted for the Company
+10.1 Credit agreement no. 2005/1006392654 concluded on 14 June 2005 with Bank Polska Kasa Opieki S.A. based in Warsaw (the Bank)
+The Bank granted ACTION S.A. a revolving open overdraft facility amounting to PLN 100,000 thousand for the financing of its current operations. The loan limit may be used in USD, EUR or PLN. The Issuer may use the overdraft facility up until 31 January 2017. The above-mentioned date is also the final repayment date of the loan.
+10.2 Short-term credit agreement no. 2003/028 concluded on 6 November 2003 with Societe Generale S.A. ("Bank")
+The Bank granted ACTION S.A. a short-term revolving overdraft facility amounting to PLN 30,000 thousand for financing its current operations. The final repayment date of the loan was determined as 29 May 2016. However, in the case the above-mentioned agreement is not terminated by the Bank one month prior to the expiry of this term, the term shall be extended for the next 12 months. The procedure of prolonging credit repayment is effective for five consecutive years from 6 November 2012.
+10.3 Overdraft facility and letter of credit agreement no. 51/2009 concluded on 29 May 2009 with HSBC Bank Polska S.A. ("Bank")
+HSBC Bank Polska S.A. with its registered office in Warsaw granted ACTION S.A. a limit of PLN 100,000 thousand for financing its current operations. The limit includes the following sub-limits: overdraft facility of PLN 80,000 thousand, letters of credit and bank guarantees of PLN 100,000 thousand. The overdraft facility repayment date was set for 23 June 2016. The letters of credit must be paid by 17 March 2017 and the bank guarantees:  for the guarantees of less than 13 months: by 22 June 2017,  for the guarantees of less than 3 years: by 21 June 2019.  for the guarantees of less than 38 months: by 21 June 2019.
+10.4 Investment Loan Agreement no. 2014/126/DDF concluded on 19 May 2014 with Bank Polska Kasa Opieki S.A. with its registered office in Warsaw ("Bank")
+The bank granted a non-revolving investment loan of PLN 50,000 thousand for the financing of max. 80% of net expenses incurred due to the execution of an investment task consisting of a construction of a high-storage warehouse with complete infrastructure (warehouse III located in ul. Dawidowska in Zamienie). Credit facility utilisation date was 31 March 2015, while the date for the final repayment of the credit facility is 31 December 2018.
+
+___________________________________________________________________________________________ Page 8
+
+Management Report of ACTION S.A. for 2015
+(all amounts given in thousand zloty (PLN '000) unless indicated otherwise)
+
+ACTION S.A.
+
+10.5 The Multi-Purpose Credit Limit Agreement concluded on 25 July 2014 with Bank Powszechna Kasa Oszczdnoci Bank Polski Spólka Akcyjna with its registered office in Warsaw ("Bank").
+The Bank granted to the Issuer a credit limit (further referred to as the "Limit") of PLN 50,000 thousand. Within the Limit the Bank: - granted to the Issuer a credit in the current account in PLN, EUR, and USD currencies to fund its current operations, - granted to the Issuer a revolving credit in PLN, EUR, and USD currencies to execute payments under open documentary letters of credit or bank guarantees granted by the Bank, - enabled the Issuer to commission the Bank to issue bank guarantees and to open documentary letters of credit. The Limit may be used until 24 July 2016.
+11. Information on loans, guarantees and sureties granted
+11.1. Loan agreements
+ACTION S.A. granted a loan of EUR 2,000 thousand maturing on 30 January 2016 to Lapado Handelsgesellschaft GmbH.
+ACTION S.A. granted three loans to GRAM.PL Sp. z o.o.: of PLN 1,500 thousand maturing on 31 December 2015 extended by way of an annex until 30 June 2016, (PLN 1,000 thousand repaid during the reporting period), of PLN 400 thousand maturing on 30 June 2016 and of PLN 500 thousand maturing on 30 June 2015 (repaid on time).
+ACTION S.A. granted a loan of PLN 450,000 thousand maturing on 30 June 2015 to ACTION GAMES LAB S.A.
+ACTION S.A. granted a loan of PLN 1,040 thousand to RETAILWORLD Sp. z o.o., maturing on 31 August 2015 (repaid on time). . ACTION S.A. granted two loans to SFERIS Sp. z o.o.: of PLN 5,000 thousand maturing on 30 June 2016 and of PLN 2,000 thousand maturing on 31 October 2015 (repaid on time).
+ACTION S.A. granted a loan of USD 126 thousand maturing on 29 February 2016 to ACTIONMED Sp. z o.o.
+ACTION S.A. granted a loan of 500 thousand maturing on 8 September 2016 to Stowarzyszenie Kultury Fizycznej "PROMOCJA KOLARSTWA"
+11.2 Guarantees and sureties granted
+Guarantees and sureties granted
+As of 31 December 2015, the value of guarantees and sureties granted amounted to PLN 74,943 thousand, including:
+towards other entities
+Bank guarantees for the total amount of (USD 94 thousand) PLN 365 thousand, Bank guarantees for the total amount of (EUR 571 thousand) PLN 2,436 thousand; Bank guarantees for the total amount of PLN 4,000 thousand;
+___________________________________________________________________________________________ Page 9
+
+Management Report of ACTION S.A. for 2015
+(all amounts given in thousand zloty (PLN '000) unless indicated otherwise)
+
+ACTION S.A.
+
+Performance bonds for the total amount of PLN 1,195 thousand; Guarantees of repayment of custom and tax liabilities of PLN 220 thousand, Letters of credit relative to the supplies of goods totalling PLN 19,446 thousand.
+towards related parties Corporate guarantees amounting to (EUR 11,095 thousand) PLN 47,281 thousand.
+12. Proceeds from the issue of shares
+In 2015, the Company issued 347,000 series C shares. The increase of the share capital was entered into the National Court Register on 10 February 2016. The proceeds from the issue amounting to PLN 4,164 thousand were used for financing the current operations of the Company.
+13. Information on the acquisition of equity shares
+In 2015, the Company did not purchase any equity shares.
+
+14. Explanation of differences between forecasts and figures disclosed in the Annual Report
+The Company does not prepare result forecasts on the entity level.
+
+15. Evaluation of financial resources management
+
+Liquidity ratios Current ratio (current assets/current liabilities) Quick ratio (liquid current assets / current liabilities) Quick ratio (cash / current liabilities)
+
+31.12.2015 1.34 0.85 0.03
+
+31.12.2014 1.30 0.77 0.11
+
+Despite the year being more difficult than expected, the Company once again achieved very safe levels of liquidity ratios. The parameters of liquidity ratios in 2015 maintained their significantly safe values at the level of current liquidity. At the level of quick liquidity, the Company recorded a significant further improvement of the ratio. And at the level of cash liquidity, the ratio decreased compared to the levels observed before 2014.
+
+Level and structure of working capital in PLN `000 1. Current assets 2. Cash and securities 3. Adjusted current assets (1-2) 4. Current liabilities 5. Short-term loans 6. Adjusted current liabilities (4-5) 7. Working capital (1-4) 8. Demand for current assets (3-6) 9. Net cash 9. (7-8)
+10. Equity share in the financing the current assets (7:1) in %
+
+Change -10.48% -75.67%
+-4.23% -12.77% -43.09%
+-6.28% -2.96% 0.40% 16.86%
+2%
+
+31.12.2015 1,053,162 25,064 1,028,098 787,072 90,464 696,608 266,090 331,490 -65,400 25%
+
+31.12.2014 1,176,467 103,003 1,073,464 902,254 158,968 743,286 274,213 330,178 -55,965 23%
+
+___________________________________________________________________________________________ Page 10
+
+Management Report of ACTION S.A. for 2015
+(all amounts given in thousand zloty (PLN '000) unless indicated otherwise)
+
+ACTION S.A.
+
+2015 ended for the Company with a decrease of its current assets by 10.48% mainly in connection with a significant drop in the value of maintained inventories while the value of the assets adjusted by the cash held decreased by 4.23%. The Company also greatly reduced its short-term interest-bearing debt and the liabilities adjusted by the value of the credits incurred decreased by 6.28%. As a result of the changes described above, both, the working capital and the Company's demand for currents assets remained at the levels similar to those recorded a year ago.
+
+Debt ratios Total debt ratio Equity ratio Interest-bearing debt/equity
+
+31.12.2015 71% 29% 0.60
+
+31.12.2014 75% 25% 0.83
+
+At the end of 2015 the Company's debt ratios remained at the level similar to the values recorded a year ago, however, a clear debt-reduction tendency may be observed. Special attention should be paid to the decrease in the interest-bearing debt in relation to the Company's capitals.
+16. Evaluation of the possibility of executing intended investments
+The Company has no plans for any significant investment expenditure in the coming year.
+17. Evaluation of the factors and untypical events influencing the result of operations
+In 2015, an important factor having impact on the results of the Company was the introduction of changes in the tax regulations, i.e. the reverse VAT charge mechanism, as of 1 July 2015. This event, on the one hand, positively limited tax risk of the suppliers and recipients but also influenced the purchasing decisions of the recipients negatively, meaning that in June the recipients withheld with their purchases of electronic devices covered by the reverse VAT charge. Moreover, the changes gave rise to a number of doubts regarding the correctness of VAT calculation for certain types of sale.
+18. Description of the external and internal factors significant for the Company's growth
+Factors significant for the Company's growth are described in Section 1 to this Report.
+19. Changes to the basic principles of the Company management
+In 2015, the Company did not considerably change its management principles.
+
+20. Agreements concluded between the Company and the persons managing it
+Piotr Bieliski, President of the Management Board, has held his position pursuant to a resolution passed by the Supervisory Board. Possible compensation which may be due to the President of the Management Board in the case of dismissal is an equivalent to five-month's remuneration. Edward Wojtysiak, Vice-President, performs his obligations on the basis of a "Management Contract" regulating the mutual relations connected with the performance of his obligations as Member of the Company's Management Board. This contract does not contain any provisions which might lead to
+___________________________________________________________________________________________ Page 11
+
+Management Report of ACTION S.A. for 2015
+(all amounts given in thousand zloty (PLN '000) unless indicated otherwise)
+
+ACTION S.A.
+
+changes in the shareholding structure in the future. This contract does not provide for any compensation in the case of removal from the Company's Management Board. Slawomir Harazin, Vice-President of the Management Board, has held his position pursuant to a resolution passed by the Supervisory Board. The resolution did not stipulate any compensation in the case of his dismissal from the Company's Management Board.
+21. Value of remunerations, awards or benefits for persons managing or supervising the Company
+Remuneration of persons managing or supervising the Company is described in detail in Note 35 to the Financial Statements. One Member of the Management Board of ACTION S.A. holds shares in related entities:
+Mr. Piotr Bieliski holds the following shares: - in SFERIS Sp. z o.o. - 15 shares (out of 27,993 shares) with the nominal value of PLN 16 thousand constituting 0.05% of the capital, - in ACTION GAMES LAB S.A. ­ 60% of shares giving the right to exercise 75% of votes at the company's General Meeting.
+22. Nominal value and total number of all the Company's shares
+The Company has issued a total of 16,957,000 shares, including 11,910,000 series A shares, 4,500,000 series B shares and 547,000 series C shares with the nominal value of PLN 0.10 each and the total nominal value of PLN 1,695,700. The issue of 347,000 series C shares took place in December 2015. The increase of the share capital was registered on 10 February 2016.
+23. Information on agreements which may influence the current shareholder structure
+At present, there are no agreements which may influence the current shareholding structure;
+24. Information on the systems of control of the employee stock option schemes
+The Company does not have any employee share schemes.
+25. Information concerning the entity authorised to audit Financial Statements
+Detailed information concerning the entity authorised to audit Financial Statements was presented in Note 37 to the Financial Statements.
+26. Expected development of the Company and its financial standing
+In 2016, the Company does not expect a significant increase of sales and its main goal will be optimisation and growth in profitability. The above results from the analysis of the possible impact of the factors described in clause 1. hereof and the changes observed in the first months of this year. The Company plans further work on the improvement of efficiency, in particular with respect to the total asset and current liabilities turnover. Expectations regarding growth are sought particularly in further expansion of Action Europe GmbH, supply of goods to foreign e-commerce entities as well as the development of toy sector and medical equipment sector.
+The Management Board presumes that the fulfilment of the above assumptions will once again allow the Company to achieve dynamics not worse that those observed in the general market
+___________________________________________________________________________________________ Page 12
+
+Management Report of ACTION S.A. for 2015
+(all amounts given in thousand zloty (PLN '000) unless indicated otherwise)
+
+ACTION S.A.
+
+The main financial indicators are also expected to be maintained on the level that is not lower than in the previous years.
+
+Piotr Bieliski PRESIDENT OF THE MANAGEMENT BOARD
+
+Slawomir Harazin Vice-President of the Management Board
+
+Warsaw, 21 March 2016
+
+Edward Wojtysiak Vice-President of the Management Board
+
+___________________________________________________________________________________________ Page 13
+
+

@@ -1,0 +1,1505 @@
+Report of the Managing Board of BIOTON S.A.
+on the operation of BIOTON S.A. in the period between
+01.01.2011 and 31.12.2011
+Warsaw, April 2012
+
+Table of Contents
+
+1. Principles of preparing the annual financial statement ................................................................ 5
+
+1.1.
+
+Average exchange rates of PLN/EUR in the period covered by the annual financial statements
+
+and comparative data. ............................................................................................................... 5
+
+1.2.
+
+Basic items of the balance sheet, standalone profit and loss account and standalone cash flow
+
+statement from the standalone annual financial statement and standalone comparative data
+
+converted into EUR.................................................................................................................... 6
+
+2. Review of the basic economic and financial values presented in the annual financial statement, in particular description of factors and events, including the untypical ones, having significant influence on the activity of BIOTON S.A. and profits obtained or loss incurred in 2011 and review of the prospective development of the Company's operation at least in the subsequent accounting year .......................................................................................................................7
+
+3. Description of significant risks and threats with determination to which extent BIOTON S.A. is exposed to them .................................................................................................................................... 11
+
+4. Proceedings pending before court, institution for arbitration proceedings or public administration authority ......................................................................................................................... 12
+
+5. Information on basic products, goods or services and their determination by quality and quantity and the share of particular products, goods and services (if they are significant) or their groups in the general sales volumes of BIOTON S.A., as well as the changes within this scope in the given accounting year .............................................................................................................................. 13
+
+6. Information on selling markets taking into consideration division into domestic and foreign markets and supply sources of materials for production, goods and services, specifying dependency on one or more recipients and suppliers, and in case the share of one recipient or supplier reaches at least 10 % of the total revenues from sales - names (business names) of the supplier or recipient, its share in the sales or supplies and its formal links with BIOTON S.A............................................ 14
+
+6.1.
+
+Selling markets......................................................................................................................... 14
+
+6.2.
+
+Supply sources ......................................................................................................................... 15
+
+7. Information on the agreements of significance for the operation of BIOTON S.A., including the agreements known to the Company and concluded between the stockholders, insurance agreements, cooperation agreements ..................................................................................................... 15
+
+8. Information on organisation or capital connections between BIOTON S.A. and other entities and specification of its main domestic and foreign investments (securities, financial instruments, intangible assets and real properties), including capital investments outside the group of its affiliates and description of the method of their financing................................................................... 19
+
+8.1.
+
+SciGen Ltd with the seat in Singapore ..................................................................................... 19
+
+8.2.
+
+Investment in India................................................................................................................... 19
+
+8.3.
+
+Investment in China ................................................................................................................. 19
+
+8.4.
+
+BioPartners Holdings AG with the seat in Switzerland ........................................................... 20
+
+8.5.
+
+A joint venture with a group of companies controlled by the Shah family............................... 20
+
+8.6.
+
+Copernicus Sp. z o.o. with the registered seat in Szczecin ....................................................... 20
+
+8.7.
+
+BIOLEK Sp. z o.o. with the registered seat in Warsaw ............................................................ 20
+
+8.8.
+
+Investments in fixed assets and intangible assets ..................................................................... 21
+
+8.9.
+
+Outlays to research and development ...................................................................................... 21
+
+9. Information on significant transactions concluded by BIOTON S.A. or any of its subsidiaries with the affiliates bound under other conditions than market conditions, including their amounts and information specifying the nature of such transactions ................................................................ 21
+
+10. Information on credit and loan agreements concluded and terminated in a given accounting year, indicating at least their amounts, type and interest rate, currency and maturity date ............ 21
+
+2
+
+10.1. Credits...................................................................................................................................... 21
+10.2. Loans........................................................................................................................................ 22
+11. Information on loans granted in the given accounting year, with special consideration of loans granted to affiliates of BIOTON S.A., providing at least their amount, type and interest rate, currency and maturity period................................................................................................................. 22
+11.1. Loans granted to affiliates ....................................................................................................... 22
+11.2. Other loans .............................................................................................................................. 23
+12. Information on guarantees and warranties given and received in the accounting year, with particular consideration of the ones granted to affiliates of BIOTON S.A. ........................................ 23
+13. In case of issue of securities during the period covered by the report - description of use by BIOTON S.A. of the revenues from the issue obtained by the time of drawing up this statement ... 23
+14. Explanation of differences between the financial results indicated in the annual statement and earlier forecasts for the given year ......................................................................................................... 25
+15. Evaluation, including justification, of the methods of management of financial resources, with particular regard to the ability to fulfil contractual obligations and specification possible threats and actions which BIOTON S.A. has taken or intends to take in order to prevent such threats ..... 25
+16. Assessment of the possibility of realization of the investment assumptions, including capital investments, as compared with the volume of funds, taking into consideration possible changes in the structure of financing of such operation.......................................................................................... 27
+17. Assessment of factors and untypical events having influence on the Company' result for the accounting year, specifying the influence of such factors and untypical events on the results achieved .................................................................................................................................................... 27
+18. Characterization of external and internal factors significant for the development of the enterprise of BIOTON S.A. and the Group and description of development perspectives of Company's and Group's operations at least until the end of 2012, taking into account the elements of market strategy worked out by them ................................................................................................. 28
+18.1. Factors significant for the development of the Company and the Group ................................ 28
+18.2. Perspectives of development of the operation of the Company and the Group........................ 29
+19. Changes in the basic principles of management of the business of BIOTON S.A. and the Group ........................................................................................................................................................ 29
+20. All agreements concluded between BIOTON S.A. and managing persons, providing for a compensation in case of their resignation or dismissal from the function without an important reason or in case their recall or dismissal is due to Company merger by acquisition ....................... 29
+21. Remuneration, awards or benefits, including the ones resulting from incentive or bonus programs based on the capital of BIOTON S.A., including the programs based on bonds with preferential right, exchangeable subscription warrants (in cash, in kind or in any other form), paid, due or potentially due individually to each of the managing persons and persons supervising the Company within the enterprise of BIOTON S.A., regardless of their recording as costs or resulting from apportionment of profit and information on remuneration and awards obtained for holding functions in the managing bodies of the subsidiaries ............................................................................ 29
+22. Specification of the overall number and face value of all stocks of BIOTON S.A. and stocks and shares in the affiliates of the Company, held by the managing and supervising persons (separate for each of the persons) ........................................................................................................... 29
+23. Information on agreements known to BIOTON S.A. (including the ones concluded after the balance sheet date), in the result of which there might change the proportion of stocks held by the present stockholders and bondholders in the future ............................................................................ 30
+24. Information on control system of the employee's stocks programs ........................................... 32
+25. Information on the chartered auditor .......................................................................................... 32
+26. Declaration of the Managing Board of BIOTON S.A. on conformity ....................................... 32
+3
+
+27. Declaration of the Managing Board of BIOTON S.A. on selection of the auditor ................... 32
+
+28. Declaration of the Managing Board of BIOTON S.A. on applying the corporate governance rules .....................................................................................................................33
+
+28.1.
+
+Indication of the collection of corporate governance rules BIOTON S.A. is subject to, and the place where the collection of rules is available to the public .................................................. 33
+
+28.2.
+
+Indication of the provisions of the collection of corporate governance rules BIOTON S.A. has waived, explanation of the circumstances and reasons of the waiver and specification of the methods of remedying possible effects of such decision or information what measures it intends to take in order to reduce the risk of non-application of a given provision in the future ................................................................................................................................................. 33
+
+28.3.
+
+Description of the main features of the internal control and risk management systems applied by the Company with regard to the process of drawing up standalone and consolidated financial statements ................................................................................................................. 38
+
+28.4.
+
+Indication of stockholders holding, directly or indirectly, significant packs of BIOTON S.A. stocks including the number of stocks held by respective entities, their percentage share in the initial capital, number of votes resulting therefrom and their percentage share in the overall number of votes at the general meeting ................................................................................... 38
+
+28.5.
+
+Indication of the holders of all securities which give special rights to control BIOTON S.A., including the description of such rights ................................................................................... 39
+
+28.6.
+
+Indication of any restrictions concerning exercising the voting right, such as the restriction to exercise the voting right by the holders of a specified part or number of votes, temporary restrictions concerning exercising the voting right or subscription, according to which, in cooperation with the Company, the capital rights linked to the securities are separated from the ownership of the securities ................................................................................................. 39
+
+28.7. Indication of all restrictions concerning transfer of ownership of BIOTON S.A. securities.... 40
+
+28.8.
+
+Description of the rules concerning appointment and dismissal of managing persons and their rights, in particular the right to make a decision on issue or buyout of stocks ........................ 40
+
+28.9. Description of the principles of change of the Articles of Association of BIOTON S.A........... 41
+
+28.10.
+
+Method of operation of the general meeting and its main rights and description of the rights of the stockholders and method of their exercising, in particular the rules resulting from the regulations of the general meeting, if any, provided that information within this scope does not result directly from the legal regulations................................................................................. 41
+
+28.11. Personal composition and its changes within the last accounting year and description of operation of managing and supervising bodies of BIOTON S.A. and their committees ......... 46
+
+4
+
+This report on the activities of the Managing Board of BIOTON S.A. ("Company") in the period between 01.01.2011 and 31.12.2011 has been drawn up according to § 91 the regulation of the Minister of Finance of 19 February 2009 on current and periodical information submitted by issuers of securities and conditions of deeming equivalent the information required by the regulations of a state being a nonmember state (Journal of Laws of 2009, No. 33, item 259 as amended).
+BIOTON S.A. including its subsidiaries and affiliates shall be hereinafter referred to as the "Group".
+1. Principles of preparing the annual financial statement
+The basic accounting principles and methods, assets and liabilities evaluation methods, assessment of the financial result and the method of drawing up the annual financial statement have been discussed under clause 1.1.5 of the annual financial statement of BIOTON S.A. for the period between 01.01.2011 and 31.12.2011.
+1.1. Average exchange rates of PLN/EUR in the period covered by the annual financial statements and comparative data.
+The average exchange rates of PLN to EURO announced by the National Bank of Poland, in the periods covered by the financial statement and comparative financial data have been presented in the table below.
+
+Accounting year
+2010 2011
+
+Average exchange rate
+in the period
+4.0044
+4.1401
+
+Minimal exchange rate in
+the period 3.8356
+3.8403
+
+Maximal exchange rate in
+the period 4.177
+4.5642
+
+Exchange rate as at the last day of
+the period 3.9603
+4.4168
+
+5
+
+1.2. Basic items of the balance sheet, standalone profit and loss account and standalone cash flow statement from the standalone annual financial statement and standalone comparative data converted into EUR
+
+SELECTED INDIVIDUAL FINANCIAL DATA
+
+31.12.2011 31.12.2010 31.12.2011
+
+(k PLN)
+
+(k PLN)
+
+(k EUR)
+
+I. Net revenues from sales
+
+142,281
+
+240,196
+
+34,367
+
+II. Gross operating profit (loss)
+
+(35,424)
+
+97,157
+
+(8,556)
+
+III. Gross profit (loss) before taxation
+
+51,571
+
+132,000
+
+12,456
+
+IV. Net profit (loss)
+V. Net cash flow from operating activity
+VI. Net cash flow from investment activity
+VII. Net cash flow from financial activity
+
+55,170
+(8,754) (90,749)
+74,098
+
+104,784 136,099 (42,970) (84,129)
+
+13,326 (2,114) (21,920) 17,898
+
+VIII. Net cash flow, total
+
+(25,405)
+
+9,000
+
+(6,136)
+
+IX. Total assets
+X. Liabilities and provisions for liabilities
+
+1,891,947 421,056
+
+1,566,281 263,240
+
+428,352 95,331
+
+XI. Long-term liabilities
+
+163,746
+
+128,401
+
+37,073
+
+XII. Short-term liabilities
+
+257,310
+
+134,839
+
+58,257
+
+XIII. Equity capital
+
+1,470,891 1,303,041
+
+333,022
+
+XIV. Share capital
+XV. Weighted average number of stocks
+XVI. Profit (loss) as per one common stock (in PLN/EUR)
+XVII. Watered profit (loss) as per one common stock (in PLN/EUR)
+XVIII. Accounting value as per one stock (in PLN/EUR)
+XIX. Watered accounting value as per one stock (in PLN/EUR)
+XX. Declared or paid up dividend per one stock (in PLN/EUR)
+
+1,325,700 1,075,970
+
+300,149
+
+5619687845 5316850831 5619687845
+
+0.0098 0.0098 0.2617 0.2617
+-
+
+0.0197 0.0197 0.2451 0.2451
+-
+
+0.0024 0.0024 0.0593 0.0593
+-
+
+31.12.2010 (k EUR)
+59,983 24,263 32,964 26,167 33,987
+(10,731) (21,009)
+2,248 395,496 66,470 32,422 34,048 329,026 271,689 5316850831 0.0049 0.0049 0.0619 0.0619
+-
+
+6
+
+2. Review of the basic economic and financial values presented in the annual financial statement, in particular description of factors and events, including the untypical ones, having significant influence on the activity of BIOTON S.A. and profits obtained or loss incurred in 2011 and review of the prospective development of the Company's operation at least in the subsequent accounting year
+An important element influencing comparability of data for 2011 and 2010 was the change of PLN exchange rate towards the main currencies used in the Company:
+ as compared with 2010 in 2011 the average daily exchange rate USD/PLN decreased by 2.38% and EUR/PLN increased by 3.39%,
+ as compared with 31.12.2010 the exchange rate USD/PLN as at 31.12.2011 increased by 15.29%, and the exchange rate EUR/PLN increased by 11.53%.
+Dynamic factors of the respective items of the balance sheet have been calculated by comparison of their values as at 31.12.2011 and at 31.12.2010.
+Analytical balance sheet - assets
+
+31 December
+
+31 December
+
+change
+
+2011
+
+2010
+
+2011/2010
+
+ASSETS
+
+(in
+
+structure
+
+(in
+
+structure change change
+
+kPLN) (in %) kPLN) (in %) (in kPLN) (in %)
+
+Fixed assets
+
+1,575,201 83.26% 1,222,041 78.02% 353,160 28.90%
+
+Tangible fixed assets
+
+323,649 17.11% 267,867 17.10% 55,782 20.82%
+
+Intangible assets
+
+122,011
+
+6.45% 120,735
+
+7.71%
+
+1,276 1.06%
+
+Long-term financial assets
+
+695,644 36.77% 571,309 36.48% 124,335 21.76%
+
+Investments in affiliates and subsidiaries Receivables from sale of goods and services and other
+
+393,743 11,960
+
+20.81% 238,080
+
+<0.1%
+
+0
+
+15.20% <0.1%
+
+155,663 11,960
+
+65.38% -
+
+Deferred income tax assets
+
+26,813
+
+1.42% 23,325
+
+1.49%
+
+3,488 14.95%
+
+Long-term accruals
+Current assets Inventories Short-term financial assets Trade receivables and other Tax receivables Cash and cash equivalents Cash at the reserved account Accruals Assets available for sale TOTAL ASSETS
+
+1,381
+316,746 73,697 15,932
+203,554 0
+11,526 0
+6,433 5,604 1,891,947
+
+<0.1%
+
+725
+
+16.74% 344,240
+
+3.90% 78,876
+
+<0.1% 29,698
+
+10.76% 191,768
+
+<0.1%
+
+489
+
+<0.1% 16,006
+
+<0.1% 20,925
+
+<0.1% 6,478
+
+<0.1%
+
+0
+
+100.00% 1,566,281
+
+<0.1%
+21.98% 5.04% 1.90%
+12.24% <0.1% 1.02% 1.34% <0.1% <0.1% 100.00%
+
+656 90.48%
+
+-27,494 -5,179
+-13,766 11,786
+-489 -4,480 -20,925
+-46 5,605 325,666
+
+-7.99% -6.57% -46.35% 6.15% -100.00% -27.99% -100.00% -0.71%
+20.79%
+
+In 2011 the balance sum of the Company increased by 20.8% (by 325.7 million PLN). Total fixed assets increased by 28.9% (by 353.2 million PLN). As regards the value the increase of the fixed assets was strongly influenced by the change of evaluation of loans granted to subsidiaries nominated in USD and EUR was related to the increase of the foreign exchange rate and the increase of:
+ tangible fixed assets, by 20.8% (55.8 million PLN) to the level of 323.6 million PLN, which was mainly caused by the increase of outlays for fixed assets under construction,
+ investments in affiliated companies and subsidiaries by 65.4% (155.7 million PLN), which was mainly caused by the acquisition of shares in BIOLEK Sp. z o.o.,
+ deferred income tax assets related to the increase of unsettled tax loss.
+
+7
+
+Current assets of the Company have decreased by 8% (27.5 million PLN). The change of the sum of current assets was significantly influenced by:
+ the decrease of the inventories level by 5.2 million PLN, which was mainly connected with optimization of the efficiency of the level of supplies,
+ the decrease of the value of short-term financial assets by 13.8 million PLN to the amount of 15.9 million PLN, being the result of a set-off of a short-term loan granted to company HLST with the liabilities towards this company in the amount of 5 million USD,
+ the decrease of cash and cash equivalents to the level of 11.5 million PLN, including 20.9 million PLN which have been released from the reserved account with regard to fulfilling of the conditions precedent of the agreement concluded by the Company with Bayer Healthcare Company Ltd of 09.07.2009.
+Fixed assets to current assets ratio was 83% to 17% of the balance sum. The increase of share of fixed assets in the structure of the balance sheet for 2011 as compared with the previous year results from the investment in BIOLEK Sp. z o.o., the increase of outlays for fixed assets under construction and the increase of the evaluation of loans in foreign currencies.
+8
+
+Analytical balance sheet ­ liabilities
+
+LIABILITIES Equity capital Share capital Capital from issue of stocks above their nominal value Supplementary capital Reserve capital Retained profit /(loss)
+Long-term liabilities
+Liabilities for credits, loans and other debt instruments
+
+31 December
+
+31 December
+
+change
+
+2011
+
+2010
+
+2011/2010
+
+(in
+
+structure
+
+(in
+
+structure change change
+
+kPLN) (in %) kPLN) (in %) (in kPLN) (in %)
+
+1,470,891 77.74% 1,303,041 83.19% 167,850 12.88%
+
+1,325,700 70.07% 1,075,970 68.70% 249,730 23.21%
+
+59,985
+
+3.17% 61,470
+
+3.92% -1,485 -2.42%
+
+138,424 -108,388
+55,170 163,746
+
+7.32% <0.1% 2.92% 8.65%
+
+191 27,651 137,759 128,401
+
+<0.1% 1.77% 8.80% 8.20%
+
+138,233 -136,039
+-82,589 35,345
+
+>1000% -491.99% -59.95%
+27.53%
+
+115,488
+
+6.10% 99,268
+
+6.34% 16,220 16.34%
+
+Employees benefits
+
+1,318
+
+<0.1% 1,062
+
+<0.1%
+
+256 24.11%
+
+Deferred income Other liabilities Short-term liabilities Liabilities for credits, loans and other debt instruments Trade receivables and other Accruals TOTAL LIABILITIES
+
+24,153 22,787 257,310
+99,441
+135,514 22,355
+1,891,947
+
+1.28% 1.20% 13.60%
+
+24,787 3,284 134,839
+
+5.26% 46,318
+
+7.16% 73,119 1.18% 15,402 100.00% 1,566,281
+
+1.58% <0.1% 8.61%
+2.96%
+4.67% <0.1% 100.00%
+
+-634 19,503 122,471
+53,123
+62,395 6,953 325,666
+
+-2.56% 593.88% 90.83%
+114.69%
+85.33% 45.14% 20.79%
+
+Equity capitals of the Company increased by 12.9% to the level of over 1.471 billion PLN, which was mostly influenced by the increase of the share capital by 249.7 million PLN.
+The share of equity capitals in the structure of liabilities has decreased to the level of 77.8%.
+Within liabilities there is observed the increase of long-term liabilities by 35.3 million PLN, mainly resulting from:
+ the credit taken in the amount of 20 million PLN,  the liability for acquisition of shares in BIOLEK Sp. z o.o. in the amount of 19.9 million PLN.
+In 2011 the short-term liabilities increased almost two times, by 122.5 million PLN (90.8%). Their share in the structure of liabilities in the balance sheet increased from 8.6% to 13.6%, mainly due to:
+ the increase of liabilities from supplies and services and other by 62.4 million PLN (85.3%), mainly resulting from the purchase of shares in BIOLEK in the amount of 53.3 million PLN, resulting from the settlement of acquisition and future liability concerning the payment of bonus,
+ the increase of liability from credits, loans and debt instruments by 53.1 million PLN, mainly due to contracting a new debt financing in a financial institution,
+ the increase of the item "Other accruals" by 7 million PLN, mainly due to establishment of cost provisions for the expenditures for management and legal service.
+
+9
+
+Dynamic factors of the respective items of the profit and loss account have been calculated by comparison of their values in 2011 and the values in 2010.
+In 2010 BIOTON S.A. has sold the assets related to antibiotics operations. According to IFRS 5 "Fixed assets intended for sale and discontinued operations" the Company is obliged to present the revenues, costs and financial result from antibiotics operations within the scope of discontinued operations. Profit and loss account presents revenues, costs and result of the Company taking into account reclassification of antibiotics operations to discontinued operations.
+Analytical profit and loss account
+
+Specification Revenues from sales Own cost of sales The cost of stoppages and unused process line capacity Gross profit on sales Other operating revenues Cost of sales Cost of general management Cost of research and development Other operating costs Gross profit from operating activity Financial revenues Financial costs Profit / (loss) before taxation Income tax Net profit / (loss) on discontinued operations Net profit / loss
+
+31 December 2011
+
+(in kPLN) 142,281
+71,732
+
+share in sales 100.00%
+50.42%
+
+(in kPLN) 240,196
+59,865
+
+31 December
+
+2010
+
+share in sales
+
+change (in
+kPLN)
+
+100.00% -97,915
+
+24.92% 11,867
+
+change
+(in %) -40.76% 19.82%
+
+4,489 66,060 8,273 48,461 47,952 7,370 5,974 -35,424 127,920 40,925 51,571 -3,599
+
+3.16% 5,003 46.43% 175,328
+5.81% 29,099 34.06% 43,077 33.70% 46,298
+5.18% 9,212 4.20% 8,683 -24.90% 97,157 89.91% 47,717 28.76% 12,874 36.25% 132,000 -2.53% 27,216
+
+2.08% 72.99% 12.11% 17.93% 19.28%
+3.84% 3.61% 40.45% 19.87% 5.36% 54.96% 11.33%
+
+-514 -10.27% -109,268 -62.32%
+-20,826 -71.57% 5,384 12.50% 1,654 3.57% -1,842 -20.00% -2,709 -31.20%
+-132,581 -136.46% 80,203 168.08% 28,051 217.89% -80,429 -60.93% -30,815 -113.22%
+
+0 55,170
+
+0.00% 32,351 38.78% 137,135
+
+13.47% -32,351 -100.00% 57.09% -81,965 -59.77%
+
+In 2011 the Company obtained revenues from sales in the amount of 142.5 million PLN. The Company has observed the decrease by 97.9 million PLN, whereas in 2010 the amount of 123.1 million PLN constituted the value of revenues from the licence rights concerning repacking, promotion, distribution and sales of insulin on the territory of the People's Republic of China sold to Bayer Healthcare Company Limited ­ on the grounds of the agreement of 09.07.2009. Gross profit in sales has decreased by 109.3 million PLN, which was mainly caused by the above mentioned transaction.
+In the structure of other operating revenues the largest items are:  revenues from settlement of the current assets from transaction of sale of BIOTON WOSTOK ZAO (2.9 million PLN),  revenues from licence fees in the amount of (2.9 million PLN).
+Other operating costs mainly comprised of:  updating the value of non-financial assets (1.8 million PLN),  donations (1 million PLN),  provisions for holidays and retirement gratuity (0.7 million PLN).
+The value of financial revenues was significantly influenced by:  interest on loans granted and deposits (13.6 million PLN),  release of write-downs updating the financial assets (2.3 million PLN),  positive exchange differences (112 million PLN).
+
+10
+
+Financial costs were as follows:  the costs of interest (14.3 million PLN),  the write-down updating the value of receivables in the amount of 26.6 million PLN.
+Gross profit for 2011 amounted to 51.6 million PLN (in 2010 - 132 million PLN). The value of the deferred tax amounted to 3.6 million PLN, net profit amounted to 55.2 million PLN.
+3. Description of significant risks and threats with determination to which extent BIOTON S.A. is exposed to them
+The risk related to rejection or delay in admitting Group's products for trading
+New products of the Group may be admitted for trading on a given market only after obtaining proper approval according to the binding legal regulations, and the permissions to trade a product are given for a specified time and require prolongation. Preparation of documentation necessary to obtain such permission for a given product, especially in some of the markets, requires a lot of work and is time consuming. The procedure of obtaining such permission or its prolongation may turn out to be very time consuming. These reservations concern in particular the procedure of central registration of biotechnological products, which may be additionally prolonged due to frequent changes of regulations and interpretation doubts related thereto. The above factors may result in significant delays in introduction of new products for trading by the Group. Refusal or delay of permission to trade with the Group's products may have significant, negative influence on the operation, financial situation or operating results of the Group. Threat­ high.
+The risk related to side effect, interactions with other drugs or quality defects of a given product of the Group.
+It cannot be excluded that during application of a medicine, after it has been approved for trading, there shall occur unpredictable side effects as well as interactions with other drugs. Such situations can also take place with participation of the medicines available on the market for some time already and may cause certain actions to be initiated by appropriate authorities. For instance in Poland, should there be proven an unexpected, severe, adverse side effect of a medicinal product, threatening human life or health, no declared therapeutic efficiency or a risk inadequate to the therapeutic effect, the Minister of Health withdraws the permission for admission to trading. Moreover, in case of a justified suspicion that a medicinal product does not comply with the requirements defined for such product, the provincial pharmaceutical inspector issues a decision on putting on hold trading of specified batches of a medicinal product, on the territory of his operation. Existence of any of the above factors may have significant, negative influence on the operation, financial situation or operating results of the Group. Threat­ average.
+The risk of non-performance of the intended results of the development works within the field of biotechnological products
+A significant part of the Group outlays is spent for financing development works, including development of biotechnological products. Development of operation in the biotechnological products market requires extensive investment outlays and the risk of not achieving the assumed results of development works within the scope of biotechnological products is much higher than in case of regular generic drugs. Failure of development works financed by the Company and the Group may cause the lack of possibility to regain the outlays through increased sale of biotechnological products developed in the result of the financed development works, which may have significant adverse effect on the operation, financial situation or operating results of the Group. Threat­ high.
+The risk related to termination of the license for production of recombinant human insulin
+One of the most significant products of the Group, i.e. recombinant human insulin is manufactured, distributed and sold under the licence provided to the Company on 03.06.1997. At present, after taking over the rights from Savient Pharmaceuticals Inc. (formerly Bio-Technology General Corp.), the licensor is Ferring International Center S.A. The licence is valid on a given territory for 15 years, starting from the date of registration of recombinant human insulin, however not longer than until 31.12.2019. After expiry of the above mentioned terms concerning a given territory, the Company will not be bound by the provisions of the licence agreement, but it can still produce and sell the insulin. The licence agreement may be terminated by the licensor in case the Company breaches provisions of the said agreement and in case of circumstances which prevent further performance of the agreement. Any possible earlier termination of the licence agreement shall mean that the production and sales of one of the most
+11
+
+important products of the Group should be stopped, which may have negative effect on the operations, financial standing or operating results of the Group. Treat­ low.
+Risk related to the strategy of commercialization of the Group's products on the key markets
+Group's strategy within the scope of commercialization of products of the group on key markets is based on cooperation with international pharmaceutical concerns under long-term distribution agreements. It is not certain whether the sales volumes assumed by the distribution partner of the Group will be obtained. The outlays for marketing and sales of the products of the group incurred by distribution partners, their resources kept on selected foreign markets and expertise and experience within the scope of promotion and sale of pharmaceutical products on a given market may not be sufficient to gain the assumed sales volumes Considering the above there is no certainty that the activity of the Group on the foreign markets shall bring expected effects. It cannot be excluded that the distribution partners of the Group shall not be able to achieve their goals and their marketing strategy on the export markets shall not be effective. Existence of any of the above factors may have significant, negative influence on the operation, financial situation or operating results of the Group. Threat­ high.
+The risk related to the change of rules of refunding medicines
+In most of the countries in which the Group operates, the market of medicines, including the refunded medicines, is regulated in detail by proper legal regulations. On the grounds of such regulations there is established a list of refunded drugs, the scope of refundation, including the prices, limits and grade of refund. Adverse changes of the legal regulations, for instance deletion of the medicinal products of the Group from the list of refunded drugs, introduction of a separate, increased limit of prices for refunding competitive products, change of the price limit or decrease of refunding grade of a given drug may have negative influence on competitiveness of the products of the Group, which may have adverse effect on the operation, financial situation or operating results of the Group. Threat­ average.
+The risk of exchange rate
+Significant part of the Company revenues comes from the export of medicines and an important part of the components necessary for production of medicines by the Group is imported. Due to the above a significant part of the Group revenues and the significant part of the costs is generated or incurred in foreign currencies. Moreover, most of the Company revenues from export are expressed in American dollars, while most of the imports are expressed in euro. The Group carries out operations in many markets where both the revenues and costs are incurred in foreign currencies. The Company also finances investments of construction of factories and the outlays for development works in the companies of the Group in the form of loans in foreign currencies. In case there is no balance between the costs and revenues, and in the view of the lack of the balance between the revenues and costs in the same foreign currency, fluctuations of foreign exchange rates may have significant negative effect on the operation, financial standing or operating results of the Group. Threat­ high.
+The risk related to changes of the legal regulations
+The Group is vulnerable to the risk of changes in the legal and regulatory environment in the countries it operates in. The legal and regulatory environment in the countries it operates in have been and still is subject to frequent changes, and the regulations are not applied in the uniform manner by courts and public administration authorities. In case of the Polish market the scope of impact of such factors has been much extended due to the fact of Poland's accession to EU in May 2004, in the result of which Poland was obliged to adopt and implement all legal acts of EU and acquis communautaire (a set of rights and obligations, including judgments of the European Court of Justice binding for all EU Member States). Treat­ low.
+4. Proceedings pending before court, institution for arbitration proceedings or public administration authority
+The heirs of the former owners of the property "Dobra Macierzysz" (of the total area of 1,043,738 m2) applied to the Mazowieckie Voivodeship Office in Warsaw for announcing invalid the decision of the Head of the City and Commune in Oarów Mazowiecki of 15.04.1988 on taking two plots of the total area of 788.700 m2 over by the State Treasury. By the decision of 21.02.2002 the Mazowieckie Voivodeship Office refused to announce the decision in question invalid. On 01.12.2004 the Minister of Agriculture and Rural Development revoked the decision of the Mazowieckie Voivode of 21.02.2002 and
+12
+
+discontinued the proceedings before the first instance authority. By the decision of 08.03.2005 the Minister of Agriculture and Rural Development has passed the case for consideration by the SelfGovernment Appeal Court in Warsaw. The above mentioned decision was appealed against by the Institute of Biotechnology and Antibiotics ("IBA"), however by the decision of the Minister of Agriculture and Rural Development of 20.05.2005 the decision in question has been maintained in force On 21.06.2005 IBA lodged a complaint against the decision of the Minister of Agriculture and Rural Development of 20.05.2005 to the Voivodeship Administrative Court in Warsaw. By the judgement of 03.02.2006 the Voivodeship Administrative Court in Warsaw the IBA's complaint has been dismissed. On 28.03.2006 IBA lodged a plea of nullity for the above mentioned judgement in the result of which the case was submitted again to the Mazowieckie Voivodeship Office.
+In the beginning of 2010 there has been instituted a case before the Self-government Appeal Court ("SKO") concerning declaring invalid the decision of the Head of the City and Commune in Oarów Mazowiecki of 15.04.1988 on taking over, for the benefit of the State Treasury, of two plots of the total area of 677.600 m2 and the decision of the Head of the City and Commune in Oarów Mazowiecki of 19.03.1990 on entrusting Orodek Badawczo-Rozwojowy Biotechnologii [Biotechnology Research and Development Centre] in Warsaw with management of the real estate located in the village Macierzysz, of the area of 77 ha.
+By the decision of 31.01.2011, SKO adjudicated that the proceedings concerning declaration of decision of the Head of the Commune in Oarów Mazowiecki of 15.04.1988 invalid is discontinued and forwarded the submitted motion to the Ministry of Agriculture and Rural Areas. The grounds for the above mentioned adjudication was that SKO found itself incompetent authority to consider the case.
+Notwithstanding the above, by the decision of 31.01.2011, SKO adjudicated that the proceedings concerning declaration of decision of the Head of the Commune in Oarów Mazowiecki of 19.03.1990 invalid is discontinued. The grounds for the above mentioned decision was the fact that SKO had already refused to declare the decision invalid (adjudication of 19.03.1990).
+In the opinion of the Company, in the present regulatory environment and in view of the up-to-date judicial decisions, and in particular in view of the decision of the Constitutional Tribunal of 20.02.1991, the probability that the potential claims of the heirs of the former owners of the property "Dobra Macierzysz" by appropriate authorities will be acknowledged seems slight. Should the adjudication be unfavourable to the Company, the Company shall be entitled to claim compensation from IBA, from which the Company acquired the right of perpetual usufruct of the real properties in question on the grounds of the agreements of 27.06.1996 and of 06.11.1997. IBA had stated, that it should be held responsible for all and any potential claims of third parties.
+5. Information on basic products, goods or services and their determination by quality and quantity and the share of particular products, goods and services (if they are significant) or their groups in the general sales volumes of BIOTON S.A., as well as the changes within this scope in the given accounting year
+The Products of the Company are:
+ recombinant human insulin in the form of a pharmaceutical substance and injection preparations,  Orally taken anti-diabetic medicines.
+Since 2011 the sales of ready-made products in the domestic market has been executed directly by the Company, whereas in the previous years by the wholesale company BIOTON TRADE Sp. z o.o. owned by the Company.
+The Company is selling its products outside Poland under cooperation agreements and sales agreements concluded with foreign and domestic partners, including the companies of the Group. In case of foreign commercial partners the cooperation covers mainly direct export. In case of domestic commercial partners, within the scope of export, the products are delivered by the Company to locations specified by the commercial partners responsible for supplying the products abroad. International sales realized by Polish agents are classified in the financial statement as domestic sales and the same principle applies to the tables below relating to the sales by range of products.
+13
+
+BIOTON S.A. Sales structure by range of products (by value)
+
+Sales Insulin Orally taken anti-diabetic medicines Antibiotics (eye drops) Ready-made products Services Goods and materials Total sales
+
+2011
+
+2010
+
+Change
+
+value structure value structure 2011/2010
+
+(in kPLN) (in %) (in kPLN) (in %)
+
+115,665 119.86% 102,820 112.81% 12.49%
+
+1,038 4,868 121,571 15,058 5,652 142,281
+
+1.08% 5.04% 125.98% 15.60% 5.86% 147.44%
+
+3,308 2,281 108,409 128,206 3,581 240,196
+
+3.63% 2.50% 118.94% 140.66% 3.93% 263.53%
+
+-68.62% 113.35% 12.14% -88.25%
+57.85% -40.76%
+
+6. Information on selling markets taking into consideration division into domestic and foreign markets and supply sources of materials for production, goods and services, specifying dependency on one or more recipients and suppliers, and in case the share of one recipient or supplier reaches at least 10 % of the total revenues from sales - names (business names) of the supplier or recipient, its share in the sales or supplies and its formal links with BIOTON S.A.
+
+6.1. Selling markets
+
+BIOTON S.A. sales structure on the domestic market
+
+Sales - Domestic Insulin Orally taken anti-diabetic medicines Antibiotics (eye drops) Ready-made products Services Goods and materials Total sales
+
+2011
+
+2010
+
+Change
+
+value structure value structure 2011/2010
+
+(in kPLN) (in %) (in kPLN) (in %)
+
+83,105 86.12%
+
+79,166 86.86%
+
+4.98%
+
+1,038 4,868 89,010 2,419 5,069 96,499
+
+1.08% 5.04% 92.24% 2.51% 5.25% 100.00%
+
+3,308 2,174 84,647 6,215
+283 91,144
+
+3.63% 2.38% 92.87% 6.82% <0.1% 100.00%
+
+-68.62% 123.95%
+5.15% -61.07% >1000%
+5.87%
+
+In 2011 the Company obtained revenues from domestic sales in the amount of 96.5 million PLN, which constitutes an increase by 5.9% as compared with 2010. The increase was mainly caused by the increased sales of insulin (dosage forms) and orally taken anti diabetic medicines and was the consequence of the increase of recipients' inventories due to changes in the regulations concerning refunding regulations. The sales of antibiotics and eye drops in 2011 was the effect of execution of the transaction of sales of the antibiotics part of the enterprise of the Company and constituted contractual production which expired at the end of 2011.
+
+14
+
+BIOTON S.A. sales structure on foreign markets
+
+Sales - Foreign Insulin Antibiotics (eye drops) Ready-made products Services Goods and materials Total sales
+
+2011
+
+2010
+
+Change
+
+value structure value structure 2011/2010
+
+(in kPLN) (in %) (in kPLN) (in %)
+
+32,561 33.74%
+
+23,653 25.95% 37.66%
+
+0
+
+<0.1%
+
+108
+
+<0.1% -100.00%
+
+32,561 33.74%
+
+23,761 26.07% 37.04%
+
+12,639 13.10% 121,992 133.84% -89.64%
+
+583
+
+<0.1%
+
+3,299
+
+3.62% -82.32%
+
+45,783 47.44% 149,051 163.53% -69.28%
+
+In 2011 the Company obtained revenues from sales in the amount of 45.8 million PLN. In case of sales of products, the value of insulin sales (dosage forms and substance) was higher by 37.74% as compared with 2010 and amounted to 32.6 million PLN.
+In revenues from sales of services the amount of 11.3 million PLN constituted the value of revenues from the sold licence rights concerning promotion, distribution and sales of insulin on the territory of the Russian Federation to GlaxoSmithKline Trading Services Ltd.
+In 2011 the biggest percentage share in the sales of the Company was recorded by two pharmaceutical wholesales acting in the domestic market: NEUCA S.A. (18%) and FARMACOL S.A. (15 %) and GlaxoSmithKline Trading Services Ltd with regard to the above mentioned transaction (10%).
+
+6.2. Supply sources
+
+In 2011 the geographical structure of purchase of particular materials for production by their value included:
+ active substances - the source of supplies of active substances was the own production of BIOTON S.A. (in 97%), the other source was import from Italy (3%),
+ auxiliary substances - 70% were purchased from domestic companies who in most cases are distributors of imported raw materials, the other came from Israel (27%) and France (3%),
+ packages- the biggest suppliers of direct packages (i.e. vials, caps, stoppers, boxes, leaflets and labels) originated in Italy (42%) and Belgium (20%), whereas domestic supplies constituted 38% of supplies.
+The share of none of the suppliers has reached 10 % of Company revenues from sales. Common relations are regulated by respective trade agreements.
+
+7. Information on the agreements of significance for the operation of BIOTON S.A., including the agreements known to the Company and concluded between the stockholders, insurance agreements, cooperation agreements
+
+With regard to the negotiations with Actavis Group PTC ehf with the registered seat in Iceland ("Actavis") resulting from the letter of intent concluded on 14.11.2010 ("Letter of Intent") between the Company and Actavis (jointly referred to as "Parties"), the Parties concluded, on 06.03.2011, the so called term sheet ("Term Sheet"), including main business and financial terms of future cooperation, which will be reflected in the agreement on establishing common undertaking and other agreements concerning Parties' cooperation within the scope of development and commercialization of Company's insulins, including analogue insulins ("Products"). According to the Term Sheet, the Parties immediately started preparation of the reading of the final agreements which specified the following issues whose conditions had been specified in the Term Sheet:
+(i) establishing of a joint venture by the Company and Actavis ("JV Company"), which will deal with the commercialisation of the Products on the territory of the European Union, United States,
+
+15
+
+Japan, Switzerland, Island, Norway, Serbia, Bosnia and Herzegovina, Croatia, Macedonia, Montenegro and Slovenia ("Territory"),
+(ii) providing the JV Company by the Company with specific rights and exclusive licence for commercialisation (marketing, sale and distribution) of Products on the Territory,
+(iii) distribution of profits from sales of the Products on the Territory in proportion 50/50,
+(iv) the principles of common development of the Products and common development of other biotechnological products within JV Company and distribution of costs connected with it in proportion 50/50.
+Within the scope of the Term Sheet the Parties have also established remuneration for the Company for granting rights to commercialise the Products on the Territory, in the total amount of 55.5 million EUR, which will be paid in lots.
+The respective agreements with Actavis were concluded on 30.01.2012.
+On 17.12.2010 the Company and GlaxoSmithKline Trading Services Limited, a company under Irish law with the seat in Cork ("GSK"), being a part of the capital group GlaxoSmithKline, concluded agreements on marketing, distribution and sales of Company's insulin ("Gensulin") and insulin injector ("GensuPen") on the territory of the Russian Federation under the brands owned by the Capital Group BIOTON S.A., i.e. the agreement on insulin supply and the licence agreement related to granting by the Company to GSK the licenses enabling commercialization of Gensulin and GensuPen on the territory of the Russian Federation (jointly referred to as "Supply Agreement"). The Supply Agreement is exclusive in nature within the territory of the Russian Federation for both parties of the Supply Agreement and has been concluded for the period of 15 years with the option of its extension for further 5 years. GSK has undertaken to pay to the Company a one-off remuneration in the amount of 7 million USD for granting the exclusive right. The remuneration will be payable in instalments related to the occurrence of events specified in the Supply Agreement, related to completion of a part of investments to improve production capacity of the Company (within the scope of investment program already implemented by the Company) and registration of Company's insulin on the territory of European Union by European Medicines Agency. (The first instalment in the amount of 2.5 million USD, was related to the first supply of Gensulin to GSK and became due on 28.09.2011). The Supply Agreement has been concluded under conditions precedent related to the conclusion of technical supporting agreements with regard to the Supply Agreement, completion of the registration process in Russia, and adjustment of the production process to the needs of execution of the contract.
+On 28.06.2011 the Company was notified by GSK on fulfilment by the Parties of all conditions precedent of the Supply Agreement as regards Gensulin inserts and GensuPen. Therefore, with regard to the above the Supply Agreement has taken effect and its execution has entered the phase of supplies, promotion and sales.
+On 25.07.2011 the Company and ARKRAY Global Business Inc. with the registered seat in Japan ("ARKRAY") concluded an agreement concerning promotion and distribution of glucose meter GLUCOCARD 01-mini plus and test strips for measurement of blood glucose manufactured by ARKRAY ("Agreement"). The Agreement is exclusive for both parties on the territory of Poland. The agreement has been concluded for the period of 3 years with the possibility to extend it for further 2 years. GLUCOCARD 01-mini plus is the newest glucose meter in the portfolio of ARKRAY, being one of the world's leading companies producing technologically advanced devices for measurement of blood glucose. Poland shall be the first country in which the product shall be distributed. Introduction of glucose meter GLUCOCARD 01-mini plus is an element of execution of Company's product strategy whose purpose is to provide the persons suffering from diabetes with complex care, being necessary support in effects oriented therapy, safety and prevention of diabetes complications.
+On 31.08.2011 the Company and Troqueera Enterprises Limited with the registered seat in Nicosia ("Seller") concluded the agreement on the sales of 436 shares ("Shares") of the company Biolek Sp. z o.o. ("Biolek") constituting jointly 50.11% of the share capital of Biolek and entitling to the total of 50.11% votes at the Shareholders Meeting of Biolek ("Agreement"). In the result of closing of the transaction the Seller holds 19.885% of shares in Biolek. The base selling price of the Shares amounted to 60,000,000.00 PLN ("Base Selling Price") and was payable by way of deduction of the issue price of the Company stocks which were acquired by the Seller in the number equal to the quotient of the Selling
+16
+
+Price and the issue price of one Company stock, which had been agreed by the parties in the amount equal to the face value of the Company stocks, i.e. . 0.20 PLN per one stock. Taking into consideration that the market price of one Company stock as on the day of conclusion of the Agreement was lower than the face value of Company stocks, the Parties have agreed that the Company shall issue for the Seller additional Company stocks in such number that their value calculated at the average closing price at the WSE of Company stocks within 30 session days prior to conclusion of the Agreement together with the market value of stocks issued by the Company calculated in the same manner is equal to the Base Selling Price ("Mechanism of Supplementary Issue"). Transfer of ownership of the Shares has been made conditional upon fulfilment of the following condition precedent: no existence, within 21 days from the date of conclusion of this Agreement of the so called Majority Objection, as provided for in the Conditions of the Issue of Bonds Exchangeable for Stocks concerning 399 unsecured and dematerialised bearer bonds of A series issued on the grounds of the resolution of 18.06.2010. Moreover, the Parties have agreed that in case of arising of the occurrences related to development and admission for sale of Company products which would significantly increase the value of the Company and affect the revenues and profits possible to be gained by the Company, the Seller shall receive a bonus ("Bonus"), in the amount depending on the following occurrences ("Occurrence"):
+(i) conclusion by Biolek of agreement on distribution of preparations used for cattle breeding on the territory of People's Republic of China ­ Bonus in the amount of 30 million PLN;
+(ii) the first supply of veterinary product for sale under the distribution agreement concluded by Biolek with Beijing Smile Feed Sci. & Tech. Co. Ltd of 01.07.2011 ­ Bonus in the amount of 25 million PLN;
+(iii) admission for sale of Suilectin (one of the innovative preparations by Biolek) on the territory of the People's Republic of China ­ Bonus in the amount of 14 million PLN;
+(iv) conclusion of the agreement concerning sales of selected veterinary products by Biolek on one of the following markets: India, Vietnam, Russia, Ukraine, Poland, Germany, France, Spain, Italy, Denmark, Mexico, Brazil, USA and Canada ("Strategic Markets") ­ Bonus in the amount of 16 million PLN;
+(v) the first supply of veterinary product for sale on one of the Strategic Markets ­ Bonus in the amount of 6.5 million PLN;
+(vi) the first supply of veterinary product for sale on the second of the Strategic Markets ­ Bonus in the amount of 6.5 million PLN;
+(vii) admission of Suilectin for sale in the European Union ­ Bonus in the amount of 20 million PLN.
+Payment for the execution by Biolek of the Occurrences mentioned above shall be made in cashless form by way of issue of stocks of the Company with proper application of the Mechanism of Supplementary Issue (in such number that that their value calculated at the average closing price at the WSE of Company stocks within 30 session days prior to conclusion of the Agreement was equal to the portion of the Bonus).
+With regard to the acquisition of the Shares by the Company, and due to additional engagement of the Company in the acceleration of the commercialisation process and development of sales of the Company products on international markets (in particular through providing adequate human resources and implementation of necessary operating procedures in the Company covering, first of all, the logistics of products supplies), the Company shall be entitled to additional remuneration payable by the Seller in the amount of 19.885% of the dividend payable to the Seller for 2012 and 2013. This remuneration shall be payable directly by Biolek, on behalf of the Seller, by transfer, from the amount to be apportioned for the respective accounting years on the grounds of the approved financial statement. Taking into consideration the conditions of acquisition of the Shares by the Company, as agreed by the Seller and the Buyer, in particular the agreed Selling Price in the amount significantly lower from the one expected by the Seller, and the conditions of payment of the Bonus, the Company shall be obliged to pay to the Seller an additional remuneration in the amount of 10 % of the dividend payable to the Company for the accounting years 2014, 2015, 2016, 2017 and 2018. This remuneration shall be payable directly by the Company, on behalf of the Buyer, by transfer, from the amount to be apportioned for the respective accounting years on the grounds of the approved financial statement.
+On 22.09.2011 there was fulfilled the condition precedent of the Agreement, i.e. there was no Majority Objection, as specified in the conditions of the issue of bonds exchangeable for stocks ("CIB"), concerning 399 unsecured and dematerialised bearer bonds of A series issued by the Company on the
+17
+
+grounds of the resolution No. 5 of the Extraordinary General Meeting of 25.05.2010 on issue of bonds exchangeable for stocks of Z series. None of the Bondholders (as defined in the CIB) has objected to the acquisition of Biolek shares by the Company.
+On 30.11.2011 BIOLEK Sp. z o.o. ("Biolek") and Beijing Smile Feed Sci. & Tech. Co. Ltd with the registered seat in Beijing, China ("Beijing Smile") concluded an annexe to the distribution agreement of 01.07.2011 ("Annexe"). The agreement in question concerns distribution in China of veterinary products manufactured by Biolek and applied in farming of pigs (Suilectin and Suiacid) and poultry (Birdacid). According to Beijing Smile's sales forecast, the value of the contract shall amount to 1.2 billion USD in the period 2012-2021 (with the assumption of gaining 10% share in the market in 10th year of sale). In the result of the conclusion of the Annexe Beijing Smile shall deal - beside sale and marketing in China also with manufacturing of the product Suilectin based on the active substance manufactured by Biolek. Suilectin shall contribute to e.g. shortening of the production period of pigs and increasing dead weight of animals, which are of significance as regards improvement of pigs farming profitability. It has been confirmed with the tests carried out with the use of Biolek's products by Beijing Smile during the recent months in China. Due to the fact that the product Suilectin shall be manufactured in China, this product shall be positioned in the Chinese market as a product manufactured locally. Due to specific selling preferences for modern feed stuff additives manufactured in China and due to very good results of tests carried out by Beijing Smile in China the local production shall contribute to: (i) acceleration of commencement of sale of Suilectin in China and (ii) shall allow - in the Beijing Smile's opinion - to significantly increase the target share in the market and proceeds from the sale of that product in the Chinese market. Beijing Smile is China largest manufacturer and distributor of phytase enzyme used in pigs and poultry farming, and as regards that product, holds approximately 50% share in the market.
+On 30.11.2011 BIOLEK Sp. z o.o. Biolek and Beijing Eastern Bell Technology Group with the registered seat in Beijing, China ("Beijing Eastern Bell") concluded an agreement on distribution by Beijing Eastern Bell of veterinary products manufactured by Biolek applied in farming of dairy cows and calves (Butyrcow, Calfpower, Milkpower, Calfdiarrstop and Calfdiarrprotect). The agreement has been concluded for the period of 10 years with the possibility to extend it under agreed terms and conditions. Based on the market potential, the parties have conservatively assumed that in 10th year of sale of the above mentioned products Beijing Eastern Bell shall hold 5% share in the Chinese market of veterinary products for milk cows and calves, which means that the cumulative sale of Biolek shall amount to approximately 250 million USD. Beijing Eastern Bell is one of China's top three distributors of feed stuffs used in cattle breeding (including the products imported from manufacturers from EU and Canada), which has been present in the market for over 10 years. Beijing Eastern Bell specializes in developing the state-of-the-art programmes of farming dairy cows and calves.
+On 13.12.2011 BIOLEK Sp. z o.o. ("Biolek") and Biopoint M. Jankowski, M. Niewiadomska Sp. j. ("Biopoint") of an agreement concerning distribution in Poland of veterinary products manufactured by Biolek and applied in farming of pigs, poultry and cattle ("Agreement"). The Agreement has been concluded for indefinite time. In the result of the Agreement, Biopoint shall be the exclusive distributor of Biolek's veterinary products in Poland. The value of the Polish market of fodder additives is estimated to 1 billion PLN.
+On 13.12.2011 BIOLEK Sp. z o.o. ("Biolek") and Biopoint M. Jankowski, M. Niewiadomska Sp. j. ("Biopoint"), according to which Biolek shall be the exclusive distributor of all Biopoint veterinary products applied in animal farming (pigs, poultry, cattle) in China, India, Vietnam, Brazil, Cuba, Mexico and Canada, whereas Biopoint shall be the exclusive distributor of all Biolek veterinary products in Great Britain, Russia, the Commonwealth of Independent States, Lithuania, Greece, Belarus, Egypt, Iran, Iraq, Jordan, South Korea, Nigeria, Pakistan, Tunisia, Taiwan and Turkey, where it has been maintaining longlasting trade relationships with local partners.
+The Company has not got any information concerning agreements between the stockholders applicable and pertaining to the Company.
+18
+
+8. Information on organisation or capital connections between BIOTON S.A. and other entities and specification of its main domestic and foreign investments (securities, financial instruments, intangible assets and real properties), including capital investments outside the group of its affiliates and description of the method of their financing
+The investments presented below have been financed from the revenues from the issue of stocks and bank credits.
+8.1. SciGen Ltd with the seat in Singapore
+The Company holds 527.786.735 stocks of SciGen Ltd., constituting 95,57% of the share capital and the number of votes in the Shareholders Meeting of this company.
+The inclusion of SciGen Ltd to the Group constituted an element of execution of the global development strategy of the Company consisting in the expansion of BIOTON S.A. operations outside Polish borders through significant strengthening of its share in the sales of recombinant human insulin in the Asian markets, especially in China and India.
+8.2. Investment in India
+A subsidiary of the Company - SciGen Ltd with the seat in Singapore ("SciGen") holds 100% of shares in SciGen Biopharma Pvt Ltd with the seat in India (formerly Shreya Biotech Private Ltd) ("Biopharma").
+Biopharma has got a production plant under construction in Pune (India), which after the completion shall comply with all applicable GMP and EMA standards in Europe, and FDA standards in the United States. This factory shall have significant production capacity to manufacture biotechnological products.
+On 15.03.2010 the Company was notified that SciGen and BioPharma had concluded an investment agreement with Anglo Gulf Ltd with the seat at the British Virgin Islands ("Investment Agreement"), a company belonging to the MJ Capital Group, which has been present in the pharmaceutical industry in India, including the diabetes treatment sector, for over 30 years. Pursuant to the Investment Agreement Anglo Gulf Ltd has undertaken to acquire new issue shares in the initial capital of BioPharma, constituting 49.99% in the initial capital of BioPharma and ensuring the right to 49.99% of votes at the shareholders meeting of BioPharma, for the total issue price constituting the equivalent of 8,000,000 USD ("Transaction"). Closing of the Transaction is conditional on fulfilment of a number conditions precedent, in particular obtaining corporate approvals (including the approval of the shareholders of SciGen) and regulatory approvals and on acquisition by SciGen of additional shares in BioPharma in the result of conversion of financing granted to BioPharma for the initial capital.
+Execution of the Investment Agreement shall make it possible to complete the construction and launching of production in the factory in Pune. The factory is to manufacture recombinant human insulin and other biotechnological products of the Group.
+8.3. Investment in China
+On 21.10.2011 BIOTON S.A. and its subsidiary SciGen Ltd concluded agreements with Mr. Xichen Gao on the sales of all shares in Hefei-SciGen-BIOTON Biopharmaceutical Company Ltd. with the seat in China ("HSBBC"): through the Company - 24% of shares and (ii) SciGen Ltd 51% of shares. The sales of shares in HSBBC was connected with the strategy of development of sales in China in cooperation with Bayer Health Care Company Ltd and with the distribution agreement concluded with that entity on 09.07.2009. Successful execution of the above strategy does not require possession of own production plant in China by the Group. The agreement on sales of shares in HSBBC included a condition precedent that Mr. Xichen Gao obtains a permit to take over the shares issued by the Ministry of Trade of the People's Republic of China. The agreement was executed on 13 March 2012. The value of sales of the shares held by the Group has been established to the amount of 5.1 million USD, including the sales of the shares held by the Company in the amount of 1.6 million USD. On these grounds the Company covered the shares by the write-down to the amount equal to the selling price, i.e. to the amount of 5.6 million PLN (the value of write down amounted to 2.7 million PLN).
+19
+
+8.4. BioPartners Holdings AG with the seat in Switzerland
+On 09.03.2007 the Company concluded an agreement with the entities of DLJ Merchant Banking Partners group on the purchase of 100% of stocks in the share capital of the company BioPartners Holding AG with the seat in Switzerland ("BioPartners") ("Agreement"). On the date of the Agreement BioPartners was the owner of 100% of shares in companies: (i) BioPartners GmbH with the seat in Switzerland and (ii) BioPartners GmbH with the seat in Germany, operating in the biotechnological business.
+Thanks to acquisition of BioPartners, BIOTON S.A. has obtained access to innovative and biotechnological products in advanced development stages, including the unique sustained release growth hormone developed by BioPartners on the grounds of cooperation with LG Life Sciences, additional know-how within the scope of development of modern biotechnological products and registration processes with EMA. .
+8.5. A joint venture with a group of companies controlled by the Shah family
+On 28.02.2008 the Company executed investment agreement concluded on 04.10.2007 between the Company and Marvel Bioscience Ltd with the seat in Tortola, The British Virgin Islands (,,MBS"), Mr. Jashvant M. Shah, company M.J. Exports UK with the seat in Uxbridge, Middlesex, UK, the company Marvel International Ltd with the seat in Tortola, The British Virgin Islands and Anglo Gulf Ltd with the seat in Tortola, The British Virgin Islands whose aim was to create a joint-venture with a group of companies controlled by the Shah family ("JV", "Investment Agreement").
+Under performance of the Investment Agreement the Company has purchased from MBS and Mr. Jashvant M. Shah 50 % of shares in the holding company MJ BIOTON Life Sciences Ltd (d. Nong Investment Ltd) with the seat in Cyprus ("MJ"), entitling to 50% of votes at the shareholders meeting of MJ, which is the owner of: (i) 100% of shares in MJ Biopharm Pvt, Ltd with the seat in Bombay (India), (ii) 99.60% of shares in the company Medipolis GMP- Oulu with the seat in Oulu (Finland). Moreover, MJ Biopharm Pvt, Ltd holds 100% shares in the company Marvel Life Sciences Pvt Ltd with the seat in Mumbai (India).
+Thanks to the JV, the Company has gained access to innovative and biotechnological products in advanced phases of development, and registration processes, and the possibility of synergies within the scope of use of the production infrastructure and the existing distribution network.
+8.6. Copernicus Sp. z o.o. with the registered seat in Szczecin
+14.09.2010 the decision of the District Court Szczecin Centrum in Szczecin, 13th Commercial Department of the National Court Register on registration of the increase of the initial capital of Copernicus Sp. z o.o. with the seat in Szczecin (formerly Kappa Medilab Sp. z o.o.) ("Copernicus", "Registration") became final. In the consequence of the Registration becoming final, the Company holds 105 shares in Copernicus, constituting 60% of the initial capital and entitling to 60% votes at the Shareholders Meeting of Copernicus. Capital engagement of the Company in Copernicus constitutes execution of investment agreement concluded between the Company, Kappa Medilab Sp. z o.o. and the shareholders of Kappa Medilab Sp. z o.o. on 22.02.2010. ("Agreement"). Under the Agreement the Company has gained the exclusive right to commercialize the insulin injector developed by Copernicus. Based on the exclusive right, the Company shall be entitled to commercialize the injector in all markets where it is or shall be present with the insulin produced by the Company, i.e. in China, India and other countries of Asia and Pacific as well as Russia, and the Commonwealth of Independent States, European Union and the markets in the United States and South America. Company's investment in Copernicus is of strategic importance as it makes it possible for the Company to provide its distributing partners and patients with solutions which improve the quality and increase the safety of a therapy, and in the result improve the level of health care.
+8.7. BIOLEK Sp. z o.o. with the registered seat in Warsaw
+On 31.08.2011 the Company, as the buyer, and Troqueera Enterprises Limited with the registered seat in Nicosia, as the seller, concluded the agreement on sales of 436 shares ("Shares") of BIOLEK Sp. z o.o. ("Biolek") constituting jointly 50.11% of the share capital of Biolek and entitling to the total of 50.11% votes at the Shareholders Meeting of Biolek. Transfer of the ownership right to the shares was made in 4th quarter of 2011.
+20
+
+Acquisition of the Shares by BIOTON S.A. is meant to support the execution of the strategic goal by the Company, which is building of a second business line, which in short perspective shall have positive effect on the financial results of the Company and shall provide the Group with additional cash funds for acceleration of the works on development of next generations of insulins, including analogue insulins. Beside the innovative portfolio of veterinary and pharmaceutical products, the main premise for acquisition of Biolek is the distribution agreement concluded for some veterinary products in China, concluded between Biolek and Beijing Smile Feed Sci. & Tech Co. Ltd. Value of the contract covering products for pig and poultry farming is estimated to 1.2 billion USD in the period 2012-2021. China is the biggest producer of pigs in the world (approx. 50% share in the world market) and poultry (approx. 30% share in the world market) and is ranked fourth in the world as cattle producer.
+8.8. Investments in fixed assets and intangible assets
+At the end of 2011 the outlays for fixed assets under construction amounted to the total of 103.5 million PLN and concerned the tasks performed by the Company and related to outlays accounted for buildings and structures of the value of 32.7 million PLN, machinery and equipment of the value of 70.7 million PLN (as at 31.12. 2010 the outlays amounted to 41.9 million PLN and respectively for each of the above mentioned categories, amounted to 16.3 million PLN and 25.6 million PLN).
+8.9. Outlays to research and development
+At the end of 2011 the outlays for development works and intangible assets in progress amounted to the total of 12.7 million PLN and concerned the outlays for registration of new products in the European Union in the amount of 12.1 million PLN and outlays for new technologies, the amount of 0.3 million PLN (as at 31.12. 2010 amounted to the total of 2.9 million PLN and concerned the outlays for registration of new products in the European Union in the amount of 2.6 million PLN and outlays for new technologies in the amount of 0.4 million PLN).
+9. Information on significant transactions concluded by BIOTON S.A. or any of its subsidiaries with the affiliates bound under other conditions than market conditions, including their amounts and information specifying the nature of such transactions
+In 2011 the Company and its subsidiaries have not concluded any transactions with its subsidiaries under conditions other than market conditions.
+10. Information on credit and loan agreements concluded and terminated in a given accounting year, indicating at least their amounts, type and interest rate, currency and maturity date
+10.1. Credits
+In 2011 the Company concluded the following transactions and made the following arrangements with the financing banks:
+ with BG S.A. - 28.07.2011 the Company concluded the annexe No. 9 to the revolving credit agreement of 05.04.2007 changing the date of repayment of the credit. On 28.11.2011 The Company concluded the annexe No. 10 to the revolving credit agreement extending the credit period until 29.11.2012, At present the Company is changing the applicable financial covenants,
+ with BO S.A. - 20.06.2011 the Company concluded the annexe No. 5 to the revolving working credit agreement extending the date of repayment of the credit. On 18.07.2011 the Company concluded the annexe No. 6 extending the credit period until 20.07.2012 and changing some of the clauses pertaining to the type of securities applied.
+ with PBP S.A. - 05.04.2011 the Company concluded, on arm's length basis, a short-term bridge credit agreement with Polski Bank Przedsibiorczoci S.A. for target financing of investments in the improvement of process line capacity in the production plant in Macierzysz. The credit was repaid in full on 31.12.2011,
+ with PBP S.A. - 19.08.2011 the Company concluded a revolving credit agreement, on arm's length basis, with Polski Bank Przedsibiorczoci S.A. The total amount of the credit available to be used in lots amounts to 50 million PLN. The deadline for repayment of the liability has been established to 19.08.2013. This agreement partially replaces the bridge investment credit raised at Polski Bank Przedsibiorczoci S.A., which was repaid in full on 31.12.2011.
+21
+
+Detailed information pertaining to credits raised by the Company has been presented under item 23 of the annual financial statement of BIOTON S.A. for the period 01.01.2011 - 31.12.2011.
+10.2. Loans
+In 2011 the Company concluded the following loan agreements:
+ with BIOTON TRADE Sp. z o.o., as the lender, a loan agreement for the amount of 3,500,000.00 PLN. The loan has been made available for unlimited time for the purpose of financing the activity of the Company. The interest on the Loan is based on the variable interest rate WIBOR plus margin,
+ with FAXFLEET Ltd, as the lender, a loan agreement for the amount of 5,000,000.00 PLN. The loan has been made available for unlimited time for the purpose of financing the activity of the Company. The interest on the Loan is based on the variable interest rate WIBOR plus margin. The loan was repaid in full in 1st quarter of 2012.
+ with BIOLEK Sp. z o.o., as the lender, a loan agreement for the amount of 12,000,000.00 PLN. The loan has been made available for unlimited time for the purpose of financing the activity of the Company. The interest on the Loan is based on the variable interest rate WIBOR plus margin. The loan was repaid in full in 1st quarter of 2012.
+In 2011 the Company did not terminate any loan agreements.
+11. Information on loans granted in the given accounting year, with special consideration of loans granted to affiliates of BIOTON S.A., providing at least their amount, type and interest rate, currency and maturity period
+11.1. Loans granted to affiliates
+On 31.07.2006 the Company as the lender, and SciGen Ltd with the seat in Singapore ("SciGen"), as the borrower, concluded loan agreement for the amount of 5,000,000.00 USD ("Loan") intended for financing of operation of the Capital Group SciGen Ltd. The Loan has been made available until 2015. The interest on the Loan is based on the variable interest rate USD LIBOR plus margin. On 05.01.2011, 25.01.2011 and 21.07.2011 the Company and SciGen concluded annexes to the Loan agreement, according to which the amount of the Loan has been increased by 800,000.00 USD to the total amount of 69,526,845.00 USD.
+On 09.03.2007 the Company as the lender and BioPartners Holding AG with the registered seat in Switzerland ("BioPartners"), as the borrower, concluded a loan agreement in the amount of 15,766,780.32 USD ("Loan"). The loan has been made available until 2015 for the purpose of financing the activity of the Capital Group BioPartners Holdings AG. The interest on the Loan is based on the variable interest rate USD LIBOR plus margin. On 14.04.2011 the Company and BioPartners concluded Annex to the Loan agreement, by which the amount of the Loan has been increased by 400,000.00 USD to the total amount of 72,466,780.32 USD.
+On 22.07.2009 the Company, as the lender, and BioPartners, as the borrower, concluded a loan agreement for the amount of 390,000.00 EUR ("Loan"). The loan has been made available until 2015 for the purpose of financing the activity of the Capital Group BioPartners Holdings AG. The interest on the Loan is based on the variable interest rate EUR LIBOR plus margin. On 17.01.2011, 25.01.2011, 18.02.2011, 21.03.2011, 26.04.2011, 16.05.2011, 01.06.2011, 21.07.2011, 05.08.2011, 24.08.2011, 28.09.2011, 20.10.2011, 26.10.2011, 16.11.2011, 22.11.2011 and 21.12.2011 the Company and BioPartners concluded annexes to the Loan agreement, by which the amount of the Loan has been increased by 3,875,000.00 EUR to the total amount of 13,160,000.00 EUR.
+On 25.06.2008 the Company, as the lender, and MJ BIOTON Life Sciences Ltd with the registered seat in Cyprus ("MJ"), as the borrower, concluded loan agreement for the amount of 200,000.00 EUR ("Loan")
+22
+
+for the purpose of financing the operation of MJ. The Loan has been made available until 2013. The interest on the Loan is based on the variable interest rate EUR LIBOR plus margin.
+On 18.01.2011, 14.02.2011, 08.03.2011, 12.04.2011, 06.05.2011, 15.06.2011 and 04.08.2011 the Company and SciGen concluded annexes to the Loan agreement, according to which the amount of the Loan has been increased by 630,000.00 EUR to the total amount of 3,449,915.00 EUR.
+On 30.11.2009 the Company, as the lender and Fisiopharma S.r.l. with the seat in Italy ("Fisiopharma"), as the borrower, concluded a loan agreement for the amount of 500,000.00 EUR ("Loan") for the purpose of financing the operation of Fisiopharma. The Loan has been made available until 2012. The interest on the Loan is based on the variable interest rate EUR LIBOR plus margin.
+On 25.03.2011 the Company and Fisiopharma concluded an annexe to the Loan agreement by which the Loan amount has been increased by 250,000.00 EUR to the total amount of 1,850,000.00 EUR.
+On 17.03.2011 the Company, as the lender, and Hefei SciGen Bioton Biopharmaceutical Company Ltd ("HSBBC"), as the borrower, concluded a loan agreement for the amount of 900,000.00 USD ("Loan"), for the purpose of financing of operating activities of HSBBC. The Loan has been made available until 2014. The interest on the Loan is based on the variable interest rate USD LIBOR plus margin. The loan was settled in 2011 within the transaction of the disposal of HSBBC.
+11.2. Other loans
+On 09.07.2009 the Company, as the lender, and Mr. Gao Xiaoming and company Hefei Life Science & Technology Park Investments & Development Co., Ltd with the registered seat in China, as the borrowers, concluded a loan agreement for the amount of 5,000,000.00 USD ("Loan") for the investment purposes. The loan was settled by way of set-off of reciprocal receivables and liabilities.
+On 11.08.2010 the Company, as the lender, and Mr. Gao Xiaoming and company Hefei Life Science & Technology Park Investments & Development Co., Ltd with the registered seat in China, as the borrowers, concluded a loan agreement for the amount of 7,000,000.00 USD ("Loan") for the investment purposes. The loan has been paid out in the amount 3,500,000.00 USD and made available until August 2012. The interest on the Loan is based on the variable interest rate USD LIBOR.
+12. Information on guarantees and warranties given and received in the accounting year, with particular consideration of the ones granted to affiliates of BIOTON S.A.
+In 2011 the Company contracted conditional liability from bills of exchange to leasing agreements concluded with Pekao Leasing Sp. z o.o. for the amount 339 kPLN valid until 31.08.2015.
+In 2011 there has expired conditional liability towards Muehlhan Steel Services Sp. z o.o. as regards ceiling mortgage in the amount of 4,200 k PLN.
+On 04.07.2011 the Company and Polska Agencja Rozwoju Przedsibiorczoci [Polish Agency for Enterprise Development] from which there results a bill of exchange liability in the amount of 17,970 kPLN valid until 31.10.2019.
+In 2011 the Company concluded leasing agreement with BG Leasing Sp. z o.o., from which there results liability in the form of a notarial statement on submitting to execution for the amount of 2,000 kPLN, valid until 31.12.2016.
+In 2011 the Company granted an aval to its subsidiary, Copernicus Sp. z o.o., for the amount of 400 kPLN valid until 30.11.2015.
+13. In case of issue of securities during the period covered by the report - description of use by BIOTON S.A. of the revenues from the issue obtained by the time of drawing up this statement
+On 25.02.2011 the Managing Board of the Company adopted the following resolutions: (i) the resolution on issue, within the target capital, with the exclusion of the subscription right of the current stockholder, of not more than 100,000,000 registered subscription warrants ("Subscription Warrants") giving right to subscription for the stocks of the Company with the exclusion of the subscription right of the current stockholders addressed to Chione Limited, and (ii) the resolution on the increase of the initial capital of
+23
+
+the Company within the target capital and deprivation of the acquisition right of the current stockholders of the Company, on the grounds of which the Managing Board of the Company increased the initial capital of the Company by the amount of 20,000,000.00 PLN through issue of 100,000,000 of common bearer stocks of Y series of the face value of 0.20 PLN each ("Stocks of Y Series") The aim of the issue of the Stocks of Y Series was to allow the holder of the Subscription Warrants to exercise the right to subscribe for the stocks of the Company. The issue price of the Stocks of Y series was PLN 0.20 per one stock.
+The issue of Subscription Warrants and Stocks of Y Series resulted from the investment agreement concluded between the Company and Chione Ltd., the entity controlled by Mr. Slawomir Sokolowski, on 25.02.2011. The financial funds raised by way of issue of the Stocks of Y Series were necessary to increase the inventories of insulin due to the increased demand for the Company's product in the Chinese market and the planned technical breaks in insulin production due to significant increase of the production scale and with regard to the registration process of Company's insulin in EU within the scope of the central procedure.
+With regard to the agreement on sales of the shares in Biolek Sp. z o.o. ("Biolek"), concluded on 31.08.2011 between the Company, as the buyer, and Troqueera Enterprises Limited with the registered seat in Nicosia ("Troqueera"), as the seller ("Agreement"), on 22.09.2011 the Managing Board of the Company adopted a resolution on the increase of the initial capital of the Company within the target capital and on deprivation of the current stockholders of the subscription right, on the basis of which the Managing Board has increased the initial capital of the Company by the amount of 52,196,017.20 PLN through issue of 260,980,086 common bearer stocks of A1 series of the face value of 0.20 PLN each ("Stocks of A1 Series"). The issue price of the Stocks of A1 Series was PLN 0.20 per one stock. The issue of the Stocks of A1 Series has been the first part of payment to Troqueera for 436 Biolek shares, constituting jointly 50.11% of the share capital of Biolek and entitling to the total of 50.11% votes at the Shareholders Meeting.
+On the grounds of the Resolution No. 2 of the Extraordinary General Meeting of the Company of 19.10.2011 on conditional increase of the initial capital with the exclusion of subscription right and issue of subscription warrants with the exclusion of subscription right ("EGM Resolution") and with regard to the Agreement the Managing Board of the Company:
+1. on 28.10.2011 adopted resolution on offering to Troqueera 284,474,459 registered subscription warrants issued on the grounds of the EGM resolution ("Subscription Warrants I"), each of which entitled to acquisition of one stock of AA series of the Company ("Stocks of AAI Series") at the issue price of 0.20 PLN per one Stock of AAI Series. Delivery of the Subscription Warrants I to Troqueera and exercising by Troqueera the right to acquire the Stocks of AAI Series resulting from the Subscription Warrants I took place on 28.10.2011. The issue price of the Stocks of AAI Series was approved by the Supervisory Board of the Company on 28.10.2011. The issue of Stocks of AA I Series and the issue of Stocks of A1 Series constituted payment to Troqueera of the Base Selling Price (according to the definition provided for in the current report No. 31/2011 of 31.08.2011) for 436 shares in Biolek, constituting in total 50.11% of the initial capital of Biolek and entitling to the total of 50.11% votes at the Shareholders Meeting.
+2. on 02.12.2011, adopted the resolution on offering to Troqueera 386,100,386 registered subscription warrants issued on the grounds of the EGM resolution ("Subscription Warrants II"), each of which entitled to acquisition of one stock of AA series of the Company ("Stocks of AA II Series") at the issue price of 0.20 PLN per one Stock of AA II Series. Delivery of the Subscription Warrants II to Troqueera and exercising by Troqueera the right to acquire the Stocks of AAII Series resulting from the Subscription Warrants II took place on 02.12.2011. The issue price of the Stocks of AAII Series was approved by the Supervisory Board of the Company on 02.12.2011. The issue of Stocks of AA II Series constituted payment of bonus to Troqueera in the amount of 30 million PLN with regard to conclusion on 30.11.2011 by Biolek and Beijing Eastern Bell Technology Group with the registered seat in Beijing, China ("Beijing Eastern Bell") of an agreement on distribution by Beijing Eastern Bell of veterinary products manufactured by Biolek applied in farming of dairy cows and calves ("Occurrence II"). Payment of the bonus was made on the grounds of the Agreement with application of the Mechanism of Supplementary Issue (according to the definition provided in the current report No. 31/2011 of 31.08.2011) at the average closing price at the WSE of Company stocks within 30 session days prior to the day on which the Occurrence II has taken place,
+24
+
+3. on 14.12.2011, adopted the resolution on offering to Troqueera 217,096,336 registered subscription warrants issued on the grounds of the EGM resolution ("Subscription Warrants III"), each of which entitled to acquisition of one stock of AA series of the Company ("Stocks of AA III Series") at the issue price of 0.20 PLN per one Stock of AA III Series. Delivery of the Subscription Warrants III to Troqueera and exercising by Troqueera the right to acquire the Stocks of AAIII Series resulting from the Subscription Warrants III took place on 14.12.2011. The issue price of the Stocks of AAIII Series was approved by the Supervisory Board of the Company on 14.12.2011. 2011. The issue of the Stocks of AA III Series constituted payment to Troqueera of the bonus in the amount of 16 million PLN with regard to conclusion, on 13.12.2011, between Biolek and Biopoint M. Jankowski, M. Niewiadomska Sp. j. ("Biopoint") of an agreement concerning exclusive distribution by Biopoint on the territory of Poland of veterinary products manufactured by Biolek and applied in farming of pigs, poultry and cattle ("Occurrence III"). Payment of the bonus was made on the grounds of the Agreement with application of the Mechanism of Supplementary Issue (according to the definition provided in the current report No. 31/2011 of 31.08.2011) at the average closing price at the WSE of Company stocks within 30 session days prior to the day on which the Occurrence III has taken place.
+
+14. Explanation of differences between the financial results indicated in the annual statement and earlier forecasts for the given year
+
+The Company has not published the forecasts of results for 2011.
+
+15. Evaluation, including justification, of the methods of management of financial resources, with particular regard to the ability to fulfil contractual obligations and specification possible threats and actions which BIOTON S.A. has taken or intends to take in order to prevent such threats
+
+In 2010 BIOTON S.A. has sold the assets related to antibiotics operations. According to IFRS 5 "Fixed assets intended for sale and discontinued operations" the Company is obliged to present the revenues, costs and financial result from antibiotics operations within the scope of discontinued operations. Financial effectiveness indices were calculated on the basis of data from financial statements with the exclusion of discontinued operations.
+
+Basic indices of financial efficiency Profitability ratios: 1. Net return on sales (ROS) 2. Return on assets (ROA)
+
+2010 in kPLN
+57.1%
+8.8%
+
+2011 in kPLN
+38.8%
+2.9%
+
+Current and turnover ratios:
+1. Current ratio 2. Quick ratio 3. Average receivables 3.a. Receivables ratio 3.b. Collection of debts cycle in days 4. Average inventories 4.a. Inventories turnover ratio 4.b. Inventories in days 5. Average trade liabilities 5.a. Trade liabilities turnover ratio
+
+2010 in kPLN
+288.2% 216.8% 197,067
+1.22 295 80,042 3.0 120 81,266 3.0
+
+2011 in kPLN
+134.8% 100.7% 197,906
+0.72 501 76,287 1.9 193 104,317 1.4
+
+25
+
+5.b. Payment of trade liabilities in days
+
+122
+
+264
+
+Debt ratio:
+1. Debt-to-asset ratio 2. Equity-to-fixed asset ratio 3. Equity-to-liabilities ratio [times]
+
+2010 in kPLN
+15.8%
+83.2%
+0.19
+
+2011 in kPLN
+21.1%
+77.7%
+0.27
+
+The negative profitability ratios obtained in 2011 are mainly the effect of revenues from sales of the rights to the Chinese market in 2010.
+The index of the average turnover of commercial receivables has significantly decreased, reaching the value of 0.72 in 2011 (in 2010: 1.22). The decrease was the effect of the above mentioned transaction on the sales of rights to the Chinese market, in absolute values the average receivables remained almost the same and amounted to 197.9 million PLN. The time of payment of commercial liabilities has extended to 264 days (from 122 days in 2010) which was mainly caused by reflecting the obligation to pay the bonus resulting from acquisition of shares in BIOLEK Sp. z o.o. The basic index evaluating the possibility to pay current liabilities has decreased from 288.2% to 134.8% as compared with 2010. Quick ratio reached 100.7% in 2011 and decreased from 216.8% in 2010. The average inventory volume as at 31.12.2011 decreased by 3.7 million PLN and was sufficient for 193 days of selling (in the previous year for 120 days).
+The share of foreign financing in the assets (referred to by the debt-to-asset ratio) has increased to 21.1% from 15.8% in 2010.
+
+The structure of assets financing
+1. Equity capitals 2. Long-term liabilities 3. Total fixed capitals (1+2) 4. Fixed assets 5. Fixed capitals for financing current assets 7. Current assets 8. Covering of current assets with the current liabilities 9. Current assets cover ratio: 9.a. with fixed capitals 9.b. with current liabilities
+
+2010 in kPLN
+1,303,041 128,401
+1,431,442 1,222,041
+209,401 344,240 134,839
+
+2011 in kPLN
+1,470,891 163,746
+1,634,637 1,575,201
+59,436 316,746 257,310
+
+60.83% 39.17%
+
+18.76% 81.24%
+
+Equity-to-fixed asset ratio Foreign capital-to-current asset ratio Capital structure ratio (equity capital / foreign capital) Assets structure ratio (fixed assets / current assets)
+
+1.07
+
+0.93
+
+0.76
+
+1.33
+
+4.95
+
+3.49
+
+3.55
+
+4.973
+
+The level of equity capitals was lower than the value of the fixed assets by 7% (in 2010 the level was higher by 7%). Capital structure ratio indicates that all liabilities may be covered from the equity capital which confirms credibility of the Company in trade relations.
+
+26
+
+16. Assessment of the possibility of realization of the investment assumptions, including capital investments, as compared with the volume of funds, taking into consideration possible changes in the structure of financing of such operation
+On 6 July 2010, in the result of public offering of A series bonds exchangeable for stocks of Z series ("Bonds") of the Company, there were registered 399 bonds of the total face value and issue price of 99,750,000 PLN in the depository of securities kept by Krajowy Depozyt Papierów Wartociowych S.A. [Polish National Depository for Securities]. The purpose of the issue of Bonds is to finance a part of 3years investment program concerning the development of biotechnological products of the Company and "Gensupen" pen manufactured by a subsidiary of the Company - Copernicus Sp. z o.o.
+Within Operation 1.4 "Support for research and development works and implementation of their findings" of the Operational Programme Innovative Economy financed from the European Union's funds ("Programme"), on 02.03.2011 Polish Agency for Enterprise Development (implementing authority of the Programme) informed on approval by the Ministry of Regional Development (managing authority of the Programme) of the assessment of both applications submitted by the Company in 2010 acknowledging eligibility for the subsidy. The applications submitted by the Company concerned subsidies to the projects related to development of biotechnological products of the Company. Total subsidy, the Company applied for, amounted to 29,107,500.00 PLN. On 04.07.2011 the Company and Polska Agencja Rozwoju Przedsibiorczoci [Polish Agency for Enterprise Development] concluded an agreement for a subsidy in the amount of 17,970,000.00 PLN on the grounds of the first of the above mentioned applications.
+On 02.03.2011 Company was notified by the Ministry of Economy of the Republic of Poland on granting a subsidy for the Company's project "Diversification of production through introduction of a range of innovative products for diabetics" within the scope of Operation 4.5 "Support of investments of great significance to the economy" of the Operational Programme Innovative Economy. Application of the Company, submitted in 2010, concerned a subsidy in the amount of PLN 51,916,189.50 PLN. Within the scope of carrying out the Project, the Company shall implement technologies aiming at developing innovative biotechnological substances and medicinal products of key importance for health care of persons suffering from diabetes. On 11.04.2012 The Company and the Minister of Economy of the Republic of Poland have concluded the appropriate agreement.
+17. Assessment of factors and untypical events having influence on the Company' result for the accounting year, specifying the influence of such factors and untypical events on the results achieved
+In 2011 the Company completed restructuring actions resulting from the changes in the Company's business environment, being a derivative of the fundamental revision of the Groups operating strategy commenced in 2009, in particular within the area of sales in the foreign markets of the main Company product- recombinant human insulin.
+These operations focused on the following key areas:
+1. consolidation of products portfolio aimed at the acceleration of the effects of commercialization of the key product of the Company ­ recombinant human insulin ­ and focusing of the research and development activity on the products with the highest market potential (growth hormone with the prolonged release),
+2. reduction of operating costs, decrease of the demand for external financing and adjustment of the existing infrastructure to the new requirements of execution of the strategy in selected markets,
+3. focusing the strategic operations of the Group on the specified key competences, i.e.:  manufacturing high quality biotechnological products,  research and development of new biotechnological products,  actions within the area of registration of biotechnological products in the key global markets for the purpose of their further commercialization in cooperation with the leading pharmaceutical concerns operating in the global market,
+4. significant reduction of indebtedness and increase of the stability of the financing structure of the Group.
+27
+
+The effect of the strategy adopted was conclusion of a number of agreements (e.g. with Bayer Healthcare Company Ltd., GlaxoSmithKline Trading Services Ltd., Actavis Group PTC ehf), which affect or shall affect future operation of the Company and the Group.
+The above actions are to intensify operations of the Company and the Group in other markets and realization of the adopted development strategy which would allow obtaining satisfactory financial results in the years to come.
+18. Characterization of external and internal factors significant for the development of the enterprise of BIOTON S.A. and the Group and description of development perspectives of Company's and Group's operations at least until the end of 2012, taking into account the elements of market strategy worked out by them
+18.1. Factors significant for the development of the Company and the Group
+Range of Group's products
+The range of Group's products includes recombinant human insulin, as well as other pharmaceutical products, including the biotechnological ones. Competition in the biotechnological products market is much lesser than in the markets of other pharmaceutical products due to significantly smaller number of competitors and significant barriers hindering entering this market. Margins in the market of biotechnological products are among the highest in the pharmaceutical market.
+Confirmed expertise in development of biotechnological products and their introduction from the laboratory level to industrial production
+The Company has got documented experience in development of biotechnological products. In 1997 it bought from the American biotechnological company - Bio-Technology General Corp. the licence for manufacturing human insulin with the use of patented, genetically modified bacteria strain E. coli, as well the technology of production of insulin and its dosage forms at laboratory scale. During the subsequent four years the Company developed production of the active substance and dosage forms of human insulin at full industrial scale and obtained registration in Poland. During the next years Company specialists worked over the increase of efficiency of the process of insulin production. Insulin production, due to its scale and sophistication level, is one of the most complicated processes of production of biotechnological products. Documented experience within the scope of development of highly efficient processes of production of biotechnological products is one of the most important competitive advantages of the Company.
+Possibilities to develop new products
+The Company and the Group are developing a range of new biotechnological and pharmaceutical products. Thanks to well-educated and experienced staff and cooperation with IBA it is probable that the planned extensive investments in development shall result in the introduction of new biotechnological products. Within the scope of development works of the Group there are continued the works over human growth hormone with prolonged release and insulin analogues.
+High qualified and experienced specialists
+BIOTON S.A., as the only Polish company manufacturing biotechnological products is able to attract key biotechnology specialists in Poland. The Institute of Biotechnology and Antibiotics is a leading research institute in Poland and employs highly qualified and experienced specialists. On the grounds of cooperation agreement with IBA the Company is to receive an offer for cooperation with regard to any new IBA project.
+Strong marketing in Poland
+The Company has developed second largest team for insulin marketing in Poland, consisting of over 80 people who are responsible for marketing and information of doctors and patients.
+Cooperation aiming at entering new markets
+According to the strategy of the Group the Indian, Russian and Chinese markets have got priority. The Company has decided to start cooperation with international pharmaceutical companies which have strong position in the local markets.
+28
+
+Insulin quality/modern production process
+The Company is the only manufacturer of human insulin in Poland, and one of the few in the world, which use the process of recombination of DNA.
+Insulin manufactured by the Company is a high quality product. Both the insulin and the injectors are manufactured following the GMP principles and comply with the European Farmakopeia. The analysis of insulin products is carried out with the use of the given chemical, biochemical validations and microbiological analytical methods. Production plants and quality control laboratories have implemented quality control system compliant with the EU guidelines.
+18.2. Perspectives of development of the operation of the Company and the Group
+In the opinion of the Managing Board, the year 2011 was the last year of organizing the Group and implementing the new strategy. It effects are visible in the results of both Group companies and the Company itself, which successively increases the sales of insulins and other diabetic products in Poland and in the main foreign markets, e.g. in China and Russia. The crowning achievement of the sales development strategy followed by the Company, based on cooperation with the biggest global pharmaceutical concerns in the key markets, was the conclusion on 30.01.2012 of the agreement with the concern Actavis Group PTC ehf, which shall ensure future high dynamics of sale of insulins e.g. in the European Union and the United States. In the opinion of the Managing Board of the Company, at the end of 2012 the Group shall acquire both significant operating profit and net profit, and based on the agreements which have already been concluded by the Company, there might be expected constantly growing profitability in the years to come. The results of the Group shall also be influenced positively by the sales carried out by BIOLEK Sp. z o.o. in the veterinary segment.
+19. Changes in the basic principles of management of the business of BIOTON S.A. and the Group
+In 2011 there were no changes in the basic principles of management of BIOTON S.A. and the Group.
+20. All agreements concluded between BIOTON S.A. and managing persons, providing for a compensation in case of their resignation or dismissal from the function without an important reason or in case their recall or dismissal is due to Company merger by acquisition
+In 2011 the Company did not conclude any agreements of the type.
+21. Remuneration, awards or benefits, including the ones resulting from incentive or bonus programs based on the capital of BIOTON S.A., including the programs based on bonds with preferential right, exchangeable subscription warrants (in cash, in kind or in any other form), paid, due or potentially due individually to each of the managing persons and persons supervising the Company within the enterprise of BIOTON S.A., regardless of their recording as costs or resulting from apportionment of profit and information on remuneration and awards obtained for holding functions in the managing bodies of the subsidiaries
+Information concerning remuneration, awards and benefits of persons managing and supervising BIOTON S.A. has been detailed under item 33 and 34 of the annual financial statement of the Company for the period between 01.01.2011 and 31.12.2011.
+22. Specification of the overall number and face value of all stocks of BIOTON S.A. and stocks and shares in the affiliates of the Company, held by the managing and supervising persons (separate for each of the persons)
+As at 31.12.2011, according to the information available to the Company:  the persons managing BIOTON S.A. did not hold any stocks of the Company,  the number of stocks of the Company held by the members of the Supervisory Board of BIOTON S.A. was as follows: o Ryszard Krauze: 401,174,471 stocks (of the face value 80,234,894.20 PLN), o Barbara Ratnicka ­ Kiczka: 765,970 stocks (of the face value 153,194.00 PLN), o Maciej Grelowski 600,000 stocks (of the face value of 120,000.00 PLN),  the persons managing and supervising BIOTON S.A. did not have any stocks or shares in the affiliates of the Company.
+29
+
+23. Information on agreements known to BIOTON S.A. (including the ones concluded after the balance sheet date), in the result of which there might change the proportion of stocks held by the present stockholders and bondholders in the future
+On 02.07.2009 the Company concluded an agreement with GEM Investments Advisers, Inc ("GEMIA") and GEM Global Yield Fund Limited ("GEM") on providing the Company with funds in the amount of 200 million PLN in the form of the equity line of credit and issuing of subscription warrants for GEM entitling to their exchange into 465,000,000 stocks of the Company issued at the price of 0.35 PLN per one stock, of the total value of 162.75 million PLN ("Agreement", "Warrants"). On the grounds of the Agreement the Company has gained the possibility to demand within three years from conclusion of the Agreement that GEM acquires the subscription warrants and then exercises the right to subscribe for the stocks and acquires the Stocks of the Company issued within the limits of the target capital, whose aggregate issue price should not amount to more than PLN 200 million, whereas the number of the warrants and stocks of the Company within one ballot should not exceed ten times the average volume of the Company stocks turnover in the period of 21 session days prior to the date of use of the equity line of credit by the Company. The Company will be entitled to make the decision on using the equity line of credit any time chosen by the Company depending on the current capital needs, using at its own discretion the subsequent lots of the funds provided. The Company is not obliged to use completely the equity line of credit granted. The Stocks of the Company issued on the grounds of the Agreement shall be acquired in return for cash contributions. The issue price per one stock of the Company shall be different depending on the date of use of the equity line of credit by the Company, and shall be established on the basis of 90% of the average closing price of the stocks of the Company, within the period of 21 consecutive days of quotations prior to the date of acquisition of the subscription warrants granting the right to subscribe for the stocks ("Subscription Date"). In principle, within one ballot GEM will be obliged to acquire the subscription warrants entitling to subscribe for the stocks of the Company, and then the stocks of the Company, in the number not less than 50% and not higher than 200% of the number of Stocks of the Company specified by the Company at the moment of making the decision on use of the equity line of credit granted, which however does not decrease the total value of the equity line granted. On the date falling not later than within 4 months from the earliest Subscription Date on which the subscription warrants have been acquired on the basis of which the stocks of the Company have not been issued yet ("Closing Date"), the Managing Board of the Company will adopt a resolution on the issue, with the exclusion of the acquisition right, within the target capital, of the stocks of the Company in the number corresponding to the number of the subscription warrants held by GEM on the Closing Date ("Stocks") (pursuant to the Agreement the appropriate approvals of the Chairman of the Supervisory Board of the Company and the Supervisory Board of the Company shall also be granted on the Closing Date). The Agreement provides for that the Stocks shall be offered and acquired by GEM on the Closing Date. Immediately after registration of the Stocks in the National Court Register, the Company shall take all necessary actions in order to introduce the Stocks to trading at the Warsaw Stock Exchange. According to the Agreement, on the first Subscription Date the Company shall pay to GEMIA remuneration in the amount of 2,000,000 PLN. Moreover, the Company has committed itself to issue Warrants granting the right to exchange them into 465,000,000 stocks of the Company at the issue price of 0.35 PLN per one stock, which price may be subject to change in certain situations. The equity line of credit is a well-tried solution used in the American and British markets, which is a flexible mechanism enabling the increase of the initial capital in the amounts and on dates adjusted to the needs of the Company.
+By the time of publication of this report the Agreement has not been activated.
+On 06.07.2010, in the result of public offering of A series bonds exchangeable for stocks of Z series ("Bonds", "Stocks of Z Series") of the Company, there were registered 399 bonds of the total face value and issue price of 99,750,000 PLN in the depository of securities kept by Krajowy Depozyt Papierów Wartociowych S.A. [Polish National Depository for Securities]. Each bondholder will be entitled to exchange all or a part of the Bonds held by him into the Stocks of Z series during the exchange period (from 06.07.2010 to 08.04.2013). The price of exchange (issue price) of one Stock of Z series has been established the level of 0.22 PLN. The conditions of issue of the Bonds include provisions preventing watering of the entitlement to exchange the Bonds into the Stocks of Z series.
+By the time of publication of this report no exchange of Bonds has been made.
+30
+
+On 27.10.2011 the District Court for the capital city of Warsaw in Warsaw, 13th Commercial Department of the National Court Register, at the proceedings in camera, registered in the National Court Register the increase of the initial capital of the Company by way of issue of 1,595,585,570 stocks of AA series as adopted by the Extraordinary General Meeting of BIOTON S.A which was held on 19.10.2011. The conditional increase of the Company capital has been adopted within the scope of performance of the agreement on sales of shares in BIOLEK Sp. z o.o. in order to settle the transaction (referred to under item 7 hereof) and to raise funds, as the need might be, for financing of further development of the Company in the field of sale and distribution of insulin and other products in new markets, with special regard to the markets strategic for the Company which characterize with the biggest potential (China, EU States, the United States of America).
+By the time of publication of this report within conditional increase of the initial capital the Company has issued 1,045,576,584 stocks as payment of the Base Selling Price and four parts of the Bonus within the transaction of purchase of shares in BIOLEK Sp. z o.o.
+On 20.04.2012 the Company and Troqueera Enterprises Limited with the registered seat in Nicosia ("Seller") concluded the agreement on the sales of 172 additional shares ("Shares") of the company BIOLEK Sp. z o.o. with the registered seat in Warsaw ("Biolek") constituting 19.78% of the share capital and entitling to 19.78% votes at the Shareholders Meeting of Biolek ("Agreement"). This transaction is the continuation of Company's engagement in Biolek, initiated by the acquisition, on the grounds of the agreement of 31.08.2011 of 50.11% Biolek shares ("Agreement I"), which was reported by the Company in the current report No. 31/2011 of 31.08.2011. In case of acquisition of the Shares the Company shall own in total 69.89% of the share capital and the number of votes at the Shareholders Meeting of Biolek. According to the Agreement the Parties have set the price for selling the Shares to 46,961,254.00 PLN ("Selling Price") and similarly as in case of Agreement I, they provided for that the payment shall be executed by way of deduction of the issue price of the Company stocks which shall be acquired by the Seller in the number equal to the quotient of the Selling Price and the issue price of one Company stock, which has been agreed by the parties in the amount equal to the face value of the Company stocks, i.e. PLN 0.20 for one stock ("Issue of Company Stocks"). Purchase price of one Biolek share shall be equal to the purchase price of one share specified in Agreement I, increased by the value of the bonus for the Seller per one Biolek share. Taking into account that as on the date of conclusion of the Agreement the market price of one stock of the Company is lower than the face value of one stock of the Company, the Company shall be obliged to issue for the Seller additional stocks in the number being the difference between the Selling Price and the market value of stocks issued on the date of Issue of the Stocks of the Company ("Additional Issue of Company Stocks"), whereas the total market value of the stocks issued within the Issue of Company Stocks and Additional Issue of Company Stocks on the date preceding the date of Issue of Company Stocks shall be equal to the Selling Price. Transfer of ownership of the Shares shall be made conditional upon fulfilment of the following condition precedent: (i) no existence, within 21 days from the date of conclusion of this Agreement of the so called Majority Objection, as provided for in the Conditions of the Issue of Bonds Exchangeable for Stocks of the Company concerning 399 unsecured and dematerialised bearer bonds of A series issued on the grounds of the resolution of 18.06.2010, (ii) conclusion between the Company and the Seller of the agreement on the grounds of which the Company shall be entitled to manufacture and to commercialize the Pharmaceutical Products. Moreover, the Parties have agreed that in case of arising of the occurrences related to further development and admission for sale of Biolek products which would significantly increase the value of the Company and affect the revenues and profits possible to be gained by the Company (which occurrences are the same as provided for in Agreement I), the Seller shall receive a bonus (,,Bonus"), in the amount proportional to the number of Shares acquired and the amount of Bonus specified for these occurrences in Agreement I. ("Occurrence"). Occurrences shall include: (i) the first sales under the agreement concluded by Biolek with Beijing Smile Feed Sci. & Tech. Co. Ltd of 01.07.2011 ­ Bonus in the amount of 9,865,809.00 PLN, (ii) admission of Suilectin for sale in the People's Republic of China ­ Bonus in the amount of 5,524,853.00 PLN, (iii) admission of Suilectin for sale in the European Union ­ Bonus in the amount of 7,892,647.00 PLN. Payments for execution of the above mentioned Occurrences by Biolek shall be made in non-cash form, by way of issue of stocks of the Company, taking into account that in case the market price of one stock of the Company on the date of Occurrence is lower than the face value of one stock of the Company, the Company shall be obliged to issue additional stocks for the Seller, in the number being the difference between the amount of Bonus for respective Occurrence and the market value of the stock on the day preceding the Occurrence, whereas the total market value of stocks issued to cover the Bonus assigned to specific Occurrence shall be equal to the value of Bonus corresponding to this Occurrence and specified in the Agreement. Payment of the Bonus, at Company discretion would
+31
+
+also be possible in cash (partially or in total), but only in case of prior full repayment of obligations resulting from the bearers bonds of A series referred to hereinabove.
+24. Information on control system of the employee's stocks programs
+By the time of publishing of this statement the Company has not issued any stocks under incentive programs.
+25. Information on the chartered auditor
+Information concerning the chartered auditor has been presented under item 33 of the annual financial statement of the Company for the period between 01.01.2011 and 31.12.2011.
+26. Declaration of the Managing Board of BIOTON S.A. on conformity
+The Managing Board of BIOTON S.A. represents that according to the best of its knowledge:
+1. the standalone annual financial statement of BIOTON S.A. as at 31.12.2009 has been drawn up according to the International Financial Reporting Standards, as applicable to annual statements and which have been approved by the European Union, hereinafter referred to as "MSSF UE" and within the scope which is not regulated by the above standards, pursuant to the act of 29 September 1994 on accounting (Journal of Laws of 2009, No. 152, item 1223 as amended) and executory provisions issued on the grounds of it.
+IFRS EU include all International Accounting Standards, International Financial Reporting Standards and Interpretations related thereto beside the below Standards and Interpretations which expect approval by the European Union and Interpretations which have been approved by the European Union but are not effective yet.
+The Company has not used the opportunity to apply earlier the new Standards and Interpretations which have already been published and approved by the European Union and which shall take effect after the balance date. Moreover, as at the balance date, the Company has not completed the process of assessment of the influence of the new Standards and Interpretations which shall take effect after the balance date, on the financial statement of the Company for the period in which they should be applied for the first time.
+2. the statement referred to hereinabove shall reflect the material and financial situation of the Company and its financial results in a true, reliable and clear way,
+3. the report of the Managing Board of BIOTON S.A. from the operation of BIOTON S.A. in the period from 01.01.2011 to 31.12.2011 reflects the true picture of the development and achievements and situation of the Company, including the description of the basic threats and risk.
+27. Declaration of the Managing Board of BIOTON S.A. on selection of the auditor
+The Managing Board of BIOTON S.A. represents that:
+1. pursuant to Art. 66 paragraph . 4 of the act of 29 September 1994 on accounting (Journal of Laws of 2009, No. 152, item 1223 as amended) and pursuant to § 21 para. 1 item 1) of the Articles of Association of BIOTON S.A. the Supervisory Board of the Company, by way of a resolution adopted on 27.07.2011 has appointed Deloitte Audyt Sp. z o.o. with the registered seat in Warsaw (00-854) at Aleja Jana Pawla II 19, to be the entity to perform audit of the annual standalone financial statement of BIOTON S.A. as at 31.12.2011 and has approved conclusion of agreements within this scope by BIOTON S.A.
+2. the said entity and the chartered auditors performing the audit of annual standalone financial statements of BIOTON S.A. as at 31.12.2011 fulfil the requirements to issue impartial and independent audit reports, in line with the provisions of the International Standards on Auditing issued by the International Federation of Accountants, chapter 7 of the act of 29 September 1994 on accounting (Journal of Laws of 2009, No. 152, item 1223 as amended) and the national standards of performance of the profession of a chartered accountant, issued by the Polish National Board of Chartered Auditors.
+32
+
+28. Declaration of the Managing Board of BIOTON S.A. on applying the corporate governance rules
+
+28.1. Indication of the collection of corporate governance rules BIOTON S.A. is subject to, and the place where the collection of rules is available to the public
+
+BIOTON S.A. is subject to "Good Practices of WSE Listed Companies". The content of "Good Practices (...)" is available at the web site of the Warsaw Stock Exchange [Gielda Papierów Wartociowych w Warszawie S.A.] dedicated to the tasks related to corporate governance - www.corp-gov.gpw.pl
+
+28.2. Indication of the provisions of the collection of corporate governance rules BIOTON S.A. has waived, explanation of the circumstances and reasons of the waiver and specification of the methods of remedying possible effects of such decision or information what measures it intends to take in order to reduce the risk of nonapplication of a given provision in the future
+
+The Managing Board of BIOTON S.A. informs that, sharing the ideas and assumptions being the grounds of respective rules of "Good Practices of WSE Listed Companies" in view of the practices applicable in the Company or provided for in the Articles of Association, which require departure from the model of management and supervision provided for in some corporate governance rules - it cannot apply constantly and within the full scope the rules presented below.
+The Managing Board of the Company wishes to emphasise that departure from the model or expression of certain reservations, as regards some of the rules, does not have any adverse effect on the transparency of the rules of supervision and management of BIOTON S.A. as well as on implementation of good practices, and with the same it does not breach the assumptions being the grounds of corporate governance. The Managing Board of BIOTON S.A. shall assess the principles of management and supervision in the Company on regular basis and shall also check the expectations of investors as regards Company's position within the scope of rejected good practices, and should it be decided that it is necessary to introduce changes, there will be made a decision on adopting specific rules in the reading as proposed by the Warsaw Stock Exchange. In case it is required to obtain decision of another body of the Company to apply such rules the Managing Board of the Company shall file a motion to such body with a request to give the appropriate decision.
+
+Identification of the rule PART I:
+Rule I.1
+Rule I.1.3.
+
+The rule whose application cannot be guaranteed by the Company constantly or within the full range
+
+Explanation
+
+Recommendations concerning good practices of the listed companies
+
+A Company should provide transparent and effective information policy, both with the use of traditional methods and modern technologies and the state-of-the-art communication devices ensuring speed, safety and effective access to information. Making use of the said methods to the biggest possible extent, the Company should in particular:
+ make it possible to broadcast a session of the general meeting with the use of the Internet, to record the course of the session and make it available to the public on its web site,
+
+The Company practice to date, as well as the practice of many public companies does not confirm the need to broadcast the session, register and make the session minutes of the general meeting available to the public. It is Company's position that the information published by the Company as required by the applicable law, the information on convening and the
+
+33
+
+Rule I.5.
+Part II Rule II.1. Rule II.1.1. Rule II.3.
+
+The Company should establish a remuneration policy and determine the rules of its establishment. The remuneration policy should in particular define the form, structure and level of remuneration of the members of supervisory and managing bodies. While establishing the policy of remuneration of supervisory and managing bodies should comply with the directive of the European Commission of 14 December 2004 on support of appropriate remuneration system of managers of listed companies (2004/913/EC), supplemented with the CE directive of 30 April 2009 (2009/385/CE),
+
+course of the General Meeting are sufficient for the stockholders and other persons who are not participating in the Meeting, to become acquainted with the issues on the agenda.
+Due to detailed provisions in the Company's Articles of Association, the Company may not accept the entire rule in question with the present reading.
+Pursuant to §23 paragraph 3 of the Articles of Association "Remuneration of the members of the Managing Board is established by the Supervisory Board."
+Whereas the remuneration of the members of the Supervisory Board, is established according to Art. 392 §1 of the Code of Commercial Companies, by way of a resolution of the General Meeting of the Company.
+
+Good practices applied by the managing boards of listed companies
+
+The Company maintains a corporate web site and publishes there, beside information required by the applicable legal regulations:
+
+ basic corporate documents, in particular the articles of association Due to Company position as regards rule IV.2, the Company cannot
+
+and company bodies' regulations,
+
+publish on its web site the regulations of the general meeting.
+
+Before conclusion of any significant agreement with an affiliate, the Managing Board applies to the supervisory board for approval of the given transaction/agreement. The above obligation does concern typical transactions which are entered into under market conditions within the scope of operating activities of the Company with an affiliate in which the Company holds majority capital share. For the purpose of the present set of rules there is assumed a definition of an affiliate as provided for in the resolution of the Minister of Finance issued on the grounds of Art. 60 paragraph . 2 of the act of 29 July 2005 on public offering and conditions of introduction of financial instruments to organised turnover system and on public companies (Journal of Laws No. 184, item 1539 as amended).
+
+The Company shares the opinion that the Managing Board should seek approval of the Supervisory Board for conclusion of a significant agreement with an affiliate. Due to detailed provisions in the Company's Articles of Association, the Company may not accept the entire rule in question with the present reading. Pursuant to §21 paragraph 1 of the Articles of Association, the competence of the Supervisory Board shall include:
+"2) granting approval to conclusion of agreements between Affiliates and the Company and performing other actions for Company's Affiliates, in case the value of such agreements or actions exceeds during consecutive 12 (twelve months) the amount of 500,000 EUR or its equivalent in other currencies, except for typical and routine actions taken under market condition between the affiliates, whose nature and conditions result from the current operating activity conducted by the Company or any of its affiliates."
+
+34
+
+Part III Rule III.1.3 Rule III.1.3.
+Rule III.2.
+Rule III.6.
+
+Good practice applied by members of the supervisory boards
+
+Beside the activities specified in the applicable legal regulations a supervisory board should:
+
+ review and give opinions on matters being the subject matter of The Company shares the need to review and provide opinion on matters
+
+resolutions of the general meeting.
+
+being the subject matter of resolutions by the general meeting by the
+
+supervisory board. However, the Company cannot guarantee, that it will
+
+obtain opinion of the supervisory board on each matter that is to be the
+
+subject matter of a resolution of the general meeting in time sufficient to
+
+enable the stockholders to get acquainted with it. Sometimes it may be
+
+required, due to practical reasons, that the general meeting is convened
+
+quickly and the supervisory board itself will not have enough time to issue
+
+opinion before the general meeting or to consult experts prior to issuing
+
+the opinion.
+
+A member of the supervisory board should provide the managing board of the Company with information concerning its links with a stockholder holding stocks which represent not less than 5% of the overall number of votes at the general meeting. The above obligation pertains to links of commercial, family or other nature, which may influence the position of the member of the supervisory board in a matter recognised by the board.
+
+It is Company's opinion that it could not guarantee procedures enabling information on all links of "other nature" due to the ambiguity of this term. In the opinion of the Company, non-disclosure of such information shall not affect transparency of Company operations, due to Company's intent to apply the rules of corporate governance providing for that in case there is a conflict of interests or it is likely to take place, a member of the supervisory board should notify the supervisory board and refrain from participation in a discussion and voting in the case, with regard to which such conflict has occurred.
+
+At least two members of the supervisory board should fulfil the criteria on independency from the company and other entities significantly affiliated to the company. As regards the criteria of independence of members of the supervisory board, there should apply Appendix II to the European Committee Order of 15 February 2005 concerning the role of nonexecutive directors or directors not being members of supervisory boards of listed companies and (supervisory) board committee. Notwithstanding the provisions of item b) of the aforementioned Appendix, a person who is not an employee of the company, a subsidiary or an affiliate cannot be deemed as fulfilling the criteria of independence referred to therein. Moreover, a link with a stockholder, excluding the independence of a member of the supervisory board as provided for herein, shall be actual
+
+The Company acknowledges that good corporate governance should include independent members' participation in the supervisory board. Due to detailed provisions included in § 18 of the Company's Articles of Association, the Company may not accept the entire rule in question with the present reading. According to § 18 of the Company's Articles of Association:
+"1. One of the members of the Supervisory Board appointed by the General Meeting should comply with all of the following conditions:
+
+1)
+
+has been appointed in the mode as provided for in
+
+paragraph 3;
+
+35
+
+and significant link with a stockholder entitled to exercise 5 % and more of the overall number of votes at the general meeting.
+
+2)
+
+cannot be an Entity Affiliated to the Company or a
+
+subsidiary of the Company;
+
+3)
+
+cannot be an Entity Affiliated with a holding company or
+
+another subsidiary of the holding company, or
+
+4)
+
+cannot be a person who is in any way related to the
+
+Company or any of the entities specified under item 2)
+
+and 3), who could significantly influence such person's
+
+ability, as a member of the Supervisory Board, to make
+
+impartial decisions.
+
+2.
+
+To avoid any doubts, the links referred to under paragraph 1 item
+
+2)-4) do not pertain to being a member in the Supervisory Board
+
+of the Company.
+
+3.
+
+Appointment of a member of the Supervisory Board that should
+
+fulfil the conditions specified under paragraph 1, takes place in a
+
+separate ballot. With the reservation of paragraph 4, the right to
+
+propose candidates for a member of the Supervisory Board
+
+fulfilling the conditions specified under paragraph 1 shall be
+
+given to the stockholders present at the General Meeting, whose
+
+aim is appointment of a member of the Supervisory Board
+
+referred to under paragraph 1. The proposal is submitted in
+
+writing to the Chairman of the General Meeting and is attached a
+
+written statement of a given candidate that he consents to being a
+
+candidate and complies with the conditions as specified under
+
+paragraph 1 item 2)-4). Should the stockholders fail to propose
+
+the candidates in the manner specified in the preceding sentence,
+
+candidates for the Supervisory Board, complying with the
+
+conditions specified under paragraph 1 item 2)-4), shall be
+
+proposed by the Supervisory Board.
+
+4.
+
+Authorised Founder is not entitled to propose candidates for a
+
+member of the Supervisory Board referred to under paragraph
+
+1." 1."
+
+Moreover, according to § 21 paragraph 2 of the Articles of Association "resolutions concerning issues as specified under paragraph 1 item 1 to be valid require that their adoption is voted for by a member of the
+
+36
+
+Rule III.8. Rule III.9.
+Part IV Rule IV.1
+Rule IV.2
+
+Supervisory Board who fulfils the conditions specified under § 18 paragraph 1 of the Articles of Association."
+
+However, pursuant to § 21 paragraph 1 item 1 of the Articles of Association, such resolutions include the resolutions concerning: "appointment of the entity performing audit or review of consolidated and standalone financial statements of the Company, giving consent to conclusion of agreements with a given entity or its subsidiaries, subordinate entities, holding companies or subsidiaries or subordinate entities of its holding companies and for any other actions which may negatively affect independence of such entity while performing the audit or review of the financial statements of the Company".
+
+As regards the scope and functioning of committees acting within the supervisory board, there should be applied Appendix I to the European Committee Order of 15 February 2005 concerning the role of nonexecutive directors (...).
+
+See clarification to rule III.6
+
+Conclusion of an agreement / transaction between the company and an See clarification to rule II.3 affiliate, as referred to in part II item 3 shall, shall require approval of the supervisory board.
+
+Good practice applied by the stockholders
+
+Representatives of mass media should have the possibility to attend general meetings.
+
+In principle, the Company acknowledges the assumptions behind this rule and considers it a good corporate practice. In its operation the Company takes numerous actions aiming at maintaining good relations with mass media and carries out efficient information policy. However, one cannot exclude a situation where the Company does not provide the representative of mass media with a possibility to attend the general meeting due to the necessity to ensure efficient course of the session.
+
+The rules of the general meeting shall not prevent the stockholders from participating in the general meeting and exercising their rights. Any amendments of the rules should become binding not earlier than starting from the next general meeting.
+
+The Company practice to date, as well as the practice of many public companies does not confirm the need to introduce the rules of the general meeting that would specify in details the rules of carrying out the general meeting. Therefore, it is Company's opinion that the appropriate regulations of the Code of Commercial Companies should be sufficient grounds to efficiently conduct the general meeting in the Company, including voting in separate groups.
+
+37
+
+28.3. Description of the main features of the internal control and risk management systems applied by the Company with regard to the process of drawing up standalone and consolidated financial statements
+The internal control and risk management system in the process of drawing up financial statements in BIOTON S.A. is based on:
+ internal regulations providing for the obligations, rights and responsibility of respective organisation sections, including the ones participating in the process of drawing up the financial statements,
+ internal procedures specifying the circulation of financial and accounting documents (including the principles of documents control),
+ keeping accounts books in information technology system,
+ operations of the security and internal control sections which monitor the course of sensitive processes, including drawing up the financial statements,
+ operations of the Audit Committee appointed within the Supervisory Board of the Company, including but not limited to: preliminary assessment of the Managing Board reports on the operations of the Company and the Group and providing opinion in the elementary rules of the existing internal control and risk management system and providing the Supervisory Board with motions and recommendations concerning legitimacy of its change and keeping the Supervisory Board informed of any irregularities of such system or risks related to its organisation and functioning known to the Committee,
+ audit and review of financial statements by an independent chartered auditor, appointed by the Supervisory Board of the Company on the basis of recommendation from the Audit Committee.
+28.4. Indication of stockholders holding, directly or indirectly, significant packs of BIOTON S.A. stocks including the number of stocks held by respective entities, their percentage share in the initial capital, number of votes resulting therefrom and their percentage share in the overall number of votes at the general meeting
+The ownership structure of the initial capital of the Company as at 31.12.2011, is presented in the table below:
+
+No.
+
+Stockholder
+
+1 Ryszard Krauze1
+
+Number of stocks / votes (in pcs)
+401.174.471
+
+% of the initial capital / votes
+6.05
+
+2 PROKOM Investments S.A.
+
+1.019.248.302
+
+15.38
+
+3 Troqueera Enterprises Ltd
+
+612.657.426
+
+9.24
+
+4 Others
+
+4.595.421.724
+
+69.33
+
+Total
+
+6.628.501.923
+
+100.00
+
+the District Court for the capital city of Warsaw in Warsaw, 13th Commercial Department of the National Court Register, after in camera proceedings, registered in the National Court Register:
+1. On 04.04.2011 - increase of the initial capital of the Company by way of issue of 100,000,000 common bearer stocks of Y series,
+2. On 30.09.2011 - increase of the initial capital of the Company by way of issue of 260,980,086 common bearer stocks of A1 series,
+
+1 Ryszard Krauze is the holding entity of PROKOM Investments S.A.
+38
+
+3. On 27.10.2011 - consolidation of the existing stocks of the Company into one series, i.e.: (i) 475,077,500 common bearer stocks of A series, (ii) 333,832,485 common bearer stocks of B series, (iii) 80,000,000 common bearer stocks of C series, (iv) 1,491,790 common bearer stocks of D series, (v) 10,102,895 common bearer stocks of E series, (vi) 42,500,000 common bearer stocks of F series, (vii) 1,697,408,406 common bearer stocks of G series, (viii) 81,489,729 common bearer stocks of I series, (ix) 272,190,000 common bearer stocks of J series, (x) 32,619,428 common bearer stocks of K series, (xi) 33,082,033 common bearer stocks of L series, (xii) 300,000,000 common bearer stocks of M series, (xiii) 483,206,610 common bearer stocks of N series, (xiv) 467,505,200 common bearer stocks of R series, (xv) 134,870,120 common bearer stocks of S series, (xvi) 250,000,000 common bearer stocks of T series, (xvii) 595,000,000 common bearer stocks of U series, (xviii) 89,474,460 common bearer stocks of W series, (xix) 100,000,000 common bearer stocks of Y series and (xx) 260,980,086 common bearer stocks of A1 series into one series of stocks ­ A series­ covering in total 5,740,830,742 stocks of A series,
+4. On 28.11.2011 - updating of the entry concerning the increase of the initial capital of the Company by way of issue of 284,474,459 common bearer stocks of AA Series.
+On 22.12.2011 the Polish National Depository for Securities registered 217,096,336 common bearer stocks of AA series of the Company, under the code PLBIOTN00029 ("Registration"). In the result of the Registration:
+ the paid-up initial capital of the Company amounted to 1,325,700,384.60 PLN, including the capital of 1,205,061,040.20 PLN registered with KRS [National Court Register] and the initial capital in the amount of 120,639,344.40 PLN from the issue of 603,196,722 stocks of AA series issued within the conditional capital, whose registration as at the Registration date with KRS has not been updated,
+ the number of Company stocks of all issues amounted to 6,628,501,923, including 6,025,305,201 stocks of the Company registered with KRS and 603,196,722 stocks of AA series issued within the conditional capital, whose registration as at the Registration date with KRS has not been updated,
+ the overall number of votes resulting from the issued stocks of the Company amounted to 6,628,501,923, including 6,025,305,201 votes from the issued stocks of the Company registered with KRS and 603,196,722 votes from 603,196,722 Stocks of AA series, issued within the conditional capital, whose registration as at the Registration date with KRS has not been updated.
+28.5. Indication of the holders of all securities which give special rights to control BIOTON S.A., including the description of such rights
+According to the provisions of the Articles of Association of BIOTON S.A., PROKOM Investments S.A. ("Prokom") has got the status of the so called authorised founder which has a number of individual rights specified in the Articles, including the right to appoint and dismiss the President and Vice President of the Managing Board, as well as one member of the Supervisory Board and the right to appoint the Chairman and Vice Chairman of the Supervisory Board. The restriction of the voting right provided for in the Articles of Association does not apply to Prokom. The above personal rights shall not be granted, if Prokom's share in the initial capital of the Company drops down below 20 %.
+28.6. Indication of any restrictions concerning exercising the voting right, such as the restriction to exercise the voting right by the holders of a specified part or number of votes, temporary restrictions concerning exercising the voting right or subscription, according to which, in cooperation with the Company, the capital rights linked to the securities are separated from the ownership of the securities
+With the reservation of the restrictions provided for in the Articles of Association as specified hereunder, pursuant to article 411 paragraph . 1 of the Code of Commercial Companies, one stock gives right to one vote at the General Meeting. Voting right is granted to the stockholders as from the date of full payment for the stocks.
+According to § 26 paragraph 1 of the Articles of Association of the Company, the voting right of the stockholders has been restricted in such way that no stockholder may exercise more than 20% of the
+39
+
+overall number of votes at the General Meeting, with the assumption that the above mentioned restriction is not applied to establish the obligations of acquirer of a significant pack of stocks, as specified in the act of 29 July 2005 on public offering and conditions of introduction of financial instruments to the organised trading system and on public companies (Journal of Laws No. 184, item 1539) with the reading as at the date of registration of the Resolution No. 1 of the General Meeting on the change of the Articles of Association of 09.05.2006. ("The Act on Public Offering").
+The restriction of the voting right referred to hereinabove shall not apply to:
+ the stockholders who, on the date of registration of the restructuring of BIOTON Sp. z o.o into a joint stock company in the National Court Register, held stocks constituting at least 20% of the initial capital (i.e. PROKOM Investments S.A.), and
+ the stockholder which shall acquire, after introducing the stocks to the public turnover (acting on its own behalf and for its own account) and register at the General Meeting stocks constituting at least 75 % of the overall number of votes in the initial capital of BIOTON S.A., provided that all stocks in the quantity exceeding 10 % of the overall number of stocks in the initial capital of the Company have been acquired by such stockholder:
+o by way of invitation to subscription for sale of all stocks of the Company announced in accordance with the regulations of the Act on Public Offering from the stockholders who are not related to such stockholder in a manner specified under art. 87 paragraph 1 items 2-6 of the Act on Public Offering or who do not cooperate with such stockholder under another agreement whose purpose is to evade the restrictions as specified under § 26 paragraph 1, or
+o in the initial public offering (as defined in the Act on public offering).
+28.7. Indication of all restrictions concerning transfer of ownership of BIOTON S.A. securities
+Pursuant to Art. 337 § 1 of the Code of Commercial Companies the stockholders are entitled to dispose of the stocks without restriction.
+28.8. Description of the rules concerning appointment and dismissal of managing persons and their rights, in particular the right to make a decision on issue or buyout of stocks
+The Managing Board comprises of not more than 4 people, including the President and Vice President. The number of members of the Managing Board is determined by the Supervisory Board. The Stockholder, who on the day of registration of the transformation of BIOTON from a limited liability company into joint stock company in the Entrepreneurs Register, held the biggest number of stocks in the initial capital of the Company, shall be granted an individual right to appoint and dismiss the President and Vice President (such right is granted to PROKOM Investments S.A.).
+Other members of the Managing Board are appointed and dismissed by the Supervisory Board. Members of the Managing Board are appointed for a three-year term.
+Declarations of will and affixing signatures on behalf of the Company can be made by: the President of the Managing Board jointly with another member of the Managing Board or with a commercial proxy or Vice President of the Managing Board with another member of the Managing Board or with a commercial proxy.
+The competence of the Managing Board shall include the issues provided for in the Code of Commercial Companies and in the Articles of Association. The Managing Board conducts the Company's affairs and represents it outside.
+Pursuant to Art. 444 of the Code of Commercial Companies and § 11 paragraphs 1 and 2 of the Articles of Association, the Managing Board was authorized to increase the initial capital of BIOTON S.A. through issue of new stocks of the total face value not exceeding 209,090,909.20 PLN by way of a single or several consecutive increases of the initial capital within the limits as specified hereinabove (target capital). Within the authorization to increase the initial capital within the target capital the Managing Board is entitled to issue subscription warrants referred to under art. 453 § 2 of the Code of Commercial Companies, with the time limit for exercising the right to subscribe expiri ng not later than the period for which this authorization has been granted.
+40
+
+As at 31.12.2011, in the result of adopting the resolution on the increase of the initial capital within the target capital by way of issue of (i) 100,000,000 common bearer stocks of Y series (the resolution of 25.02.2011) and (ii) 260,980,086 common bearer stocks of A1 series (the resolution of 22.08.2011, as amended), the Managing Board has completely exercised the existing authority to increase the initial capital of the Company within the target capital.
+With the reservation of contrary provisions of the Code of Commercial Companies or the Articles of Association, the Managing Board shall make decisions in all matters related to the increase of the initial capital within the target capital. The Chairman of the Supervisory Board approves the issue price and issue of the stocks in return for cash contributions. Moreover, upon approval of the Supervisory Board, the Managing Board may restrict the subscription right of the stockholders, entirely or partially, with regard to the stocks of subscription warrants issued within the target capital.
+28.9. Description of the principles of change of the Articles of Association of BIOTON S.A.
+Any change of the Articles of Association of the Company shall require a resolution of the General Meeting and an entry in the register. The resolution on the change of the Articles of Association has to be adopted with the majority of 3/4 of votes. Moreover, pursuant to Article 415 § 3 of the Code of Commercial Companies, a resolution concerning the change of the Articles of Association, which results in the increase of stockholders benefits or limiting the rights granted personally to the stockholders, shall require consent of all stockholders it pertains to.
+28.10. Method of operation of the general meeting and its main rights and description of the rights of the stockholders and method of their exercising, in particular the rules resulting from the regulations of the general meeting, if any, provided that information within this scope does not result directly from the legal regulations
+Convening of General Meetings
+According to the Code of Commercial Companies, general meetings may be held as ordinary (Ordinary General Meeting) or extraordinary (Extraordinary General Meeting).
+Entities authorized to convene the General Meeting
+The General Meeting is convened by the Managing Board. The Supervisory Board may convene Ordinary General Meeting if it is not convened by the Managing Board within six months from the end of the accounting year of the Company, and Extraordinary General Meeting, if it deems it necessary. The right to convene Extraordinary General Meeting is also granted to the stockholders of the Company who represent at least half of the initial capital of the Company or at least half of the overall number of votes in the Company. In such case the stockholders of the Company appoint a chairman of such General Meeting.
+Moreover, a stockholder or stockholders of the Company representing at least 1/20 of the initial capital of the Company may demand convening Extraordinary General Meeting and putting specific issues in its agenda. The demand to convene Extraordinary General Meeting should be filed to the Managing Board in writing or in electronic form. If, within two weeks from the date of filing the demand to the Managing Board, the General Meeting is not convened, registration court may authorize the stockholders of the Company filing such demand to convene Extraordinary General Meeting. The court shall appoint the chairman of such General Meeting.
+Method of convening the General Meeting
+The General Meeting is convened by announcement on the Company web site and in the matter defined for submitting current information pursuant to the act of 29 July 2005 on public offering and conditions of introduction of financial instruments to organised turnover system and on public companies (Journal of Laws of 2005, No. 184, item 1539 as amended) (,,Act on Public Offering") and the regulation of the Minister of Finance of 19 February 2009 on current and periodical information submitted by issuers of securities and conditions of deeming equivalent the information required by the regulations of a state being a non-member state (Journal of Laws of 2009 No. 209, item 1744, as amended) (,,Regulation on Current and Periodical Information"). The announcement should be made at least twenty six days prior to the date of the General Meeting. The announcement should include in particular: (i) date, time and venue of the General Meeting and detailed agenda, (ii) precise description of procedures concerning participation in the General Meeting and exercising the voting right, (iii) date of registration of
+41
+
+participation in the General Meeting, (iv) information that the right to participate in the General Meeting is granted only to persons being stockholders of the Company on the date of registration of participation in the General Meeting, (v) indication where and how the person authorized to participate in the General Meeting may obtain the full text of documentation which is to be presented to the General Meeting and drafts of resolutions, or in case no resolution adopting is planned, remarks of the Managing Board or Supervisory Board concerning the issues put in the agenda of the General Meeting or issues to be introduced to the agenda prior to the date of the General Meeting and (vi) indication of web site address, where information concerning the General Meeting shall be available.
+Pursuant to the Regulation on Current and Periodical Information, the Company is obliged to submit in the form of a current report of, among others: date, time and venue of the General Meeting including its detailed agenda. Moreover, in case of a planned change of the Articles of Association, the current report to be submitted should include the reading of the proposed changes and in case the scope of the changes should be more extensive, the Company should make a decision on preparing new uniform text, the report includes the text of the new Articles of Association, including the list of the new provisions. The drafts of resolutions and appendices to the drafts which should be the subject of the session of the General Meeting, significant for the resolutions to be adopted.
+The right to put specific issues on the agenda of the General Meeting
+A stockholder or stockholders of the Company representing at least 1/20 of the initial capital of the Company may demand putting particular issues on the agenda of the immediate General Meeting. The demand should be filed to the Managing Board not later than twenty one days prior to the planned date of the General Meeting. The demand may be filed in electronic form. The Managing Board is obliged to announce forthwith, however not later than eighteen days prior to the scheduled date of the General Meeting, the changes in the agenda as requested by the stockholders of the Company. The announcement is made in the manner applicable for convening the General Meeting.
+The right to propose drafts of resolutions to the Company
+A stockholder or stockholders of the Company representing at least 1/20 of the initial capital of the Company may, prior to the date of the General Meeting, submit to the Company, in writing or with the use of means of electronic communication, drafts of resolutions concerning the issues put on the agenda of the General Meeting or issues which are to be put on the agenda. The Company announces the drafts of resolutions forthwith on its web site.
+The right to demand disclosure of the list of stockholders and copies of the motions
+A stockholder of the Company may demand sending him the list of the stockholders authorized to participate in the General Meeting, free of charge, by e-mail, providing the e-mail address to which such list should be sent. Moreover, each stockholder of the Company is entitled to demand providing him with the copies of motions concerning issues covered by the agenda of the immediate General Meeting. Such demand should be submitted to the Managing Board. Copies of motions should be delivered not later than within a week prior to the General Meeting.
+Participation in the General Meeting
+The method of participation in the General Meeting and the method of exercising the voting right
+The Stockholders may attend the Meeting and exercise their voting right either personally or through their attorneys. Stockholder of the Company intending to attend the General Meeting through his attorney shall grant his power of attorney in writing or in the electronic form. A specimen of the power of attorney is put by the Company in the announcement on convening the General Meeting. The Company takes appropriate measures to identify a stockholder of the Company and an attorney in order to verify validity of the power of attorney granted in electronic form. Detailed description of the method of verification of the power of attorney granted in electronic form includes the reading of the announcement on convening the General Meeting.
+A stockholder of the Company holding stocks registered at more than one securities account may appoint separate attorneys to exercise rights from stocks registered at each of the accounts.
+If a stockholder of the Company appoints a member of the Managing Board, a member of the Supervisory Board, a receiver, an employee of the Company or a member of the bodies or an employee of a company or cooperative subsidiary to the Company to be his attorney at the General Meeting, such power of attorney may authorize for representation at one General Meeting only. The attorney is obliged to disclose to the stockholder of the Company any circumstances that indicate the presence or the possibility of
+42
+
+occurrence of the conflict of interest. In such case granting further powers of attorney is unacceptable. The attorney referred to hereinabove shall vote according to the instructions given by the stockholder of the Company. An attorney may represent more than one stockholder of the Company and vote differently from the stocks of each stockholder.
+A stockholder of the Company may not vote, personally or through an attorney, for adopting resolutions pertaining to his liability towards the Company for whatever reason, including acknowledgment of fulfilment of duties, release from an obligation towards the Company and any dispute between the said stockholder and the Company. The above restriction does not concern voting by a stockholder of the Company as an attorney of another stockholder while adopting resolutions concerning him, as referred to hereinabove.
+Persons authorized to participate in the General Meeting and to exercise voting rights
+The right to participate in the General Meeting shall be granted only to persons who were stockholders of the Company, sixteen days before the date of the General Meeting (the date of registration in the General Meeting).
+In order to participate in the General Meeting, the persons authorized under the truncated bearer stocks of the Company should demand that the entity keeping their securities account issues an individual certificate on the right to participate in the General Meeting. Such demand should be submitted not earlier than after publication of announcement on convening the General Meeting and not later than on the first banking day following the date of registration of participation in the General Meeting.
+The persons authorized under registered stocks and temporary certificates, lien holders and users having the voting right, shall have the right to participate in the General Meeting if they are registered in the stock book on the date of registration of participation in the General Meeting.
+The list of persons authorized to participate in the General Meeting is prepared by the Company on the grounds of the list drawn up by the entity keeping the depository for securities pursuant to the Act of 29 July 2005 on trading with financial instruments (Journal of Laws of 2005, No. 183, item 1538, as amended) (,,The Act on Turnover with Financial Instruments") and the information revealed in the stock book of the Company on the date of registration of participation in the General Meeting. The above mentioned list is made available at the Managing Board premises for three banking days preceding the General Meeting.
+A stockholder of the Company may transfer stocks in the period between the date of registration of participation in the General Meeting and the date of closing the General Meeting.
+Competence of General Meetings
+According to the regulations of the Code of Commercial Companies, all types of resolutions may be adopted by the stockholders at Extraordinary General Meeting, with exception of several resolutions, which require adoption at Ordinary General Meeting.
+According to the provisions of the Code of Commercial Companies, the agenda of an General Meeting covers: (i) review and approval of financial statement for the previous accounting year and Managing Board's report on the operations of the Company, (ii) adoption of the resolution on apportionment of profit or covering of loss, and (iii) adoption of the resolution on acknowledgement of fulfilment of duties by the members of the Managing Board and Supervisory Board.
+Resolutions of the General Meeting are in principle adopted by the absolute majority of votes cast, with the reservation of the provisions of the Articles of Association and absolutely applicable regulations of the Code of Commercial Companies providing for qualified majority.
+According to the regulations of the Code of Commercial Companies, the following issues shall require resolutions of the General Meeting:
+ changes of the Articles of Association, redemption of stocks, increase of the initial capital, decrease of the initial capital of the Company, issue of exchangeable bonds and bonds with preferential right, disposal of the enterprise and winding up of the Company (requires the majority of 3/4 of votes),
+ appointment, dismissal and suspension of the members of the Supervisory Board,
+43
+
+ making changes in the Articles of Association in order to authorize the Managing Board to increase the initial capital of the Company within the target capital (requires the majority of 3/4 of votes of persons present at the meeting with participation of stockholders representing at least 1/3 of the initial capital); if the General Meeting convened for the purpose of adopting resolutions in the above mentioned case does not take place because of the lack of quorum, the following General Meeting may adopt such resolutions regardless of the number of stockholders present at the given General Meeting,
+ making a significant change of the object of activity of the Company (requires the majority of 2/3 of votes regardless of the number of stockholders present at such General Meeting),
+ merger with other companies, which requires the majority of 2/3 of votes casts, unless the Articles of Association provide for more strict requirements,
+ division of the Company and ordering a break in the session of the General Meeting (requires the majority of 2/3 of votes),
+ issue of subscription warrants (requires the majority of 4/5 of votes),
+ partial or complete deprivation of the subscription right of the stockholders (requires the majority of 4/5 of votes at the General Meeting),
+ a change of the Articles of Association increasing the benefits of the stockholders or limiting individual rights granted to respective stockholders (according to Art. 354 of the Code of Commercial Companies shall require consent of all stockholders concerned),
+ conclusion by the Company of credit, loan, guarantee agreement or other similar agreement with a member of the Managing Board, Supervisory Board, commercial proxy, and receiver or for any of the above mentioned persons, shall require the consent of the General Meeting.
+According to the provisions of the Articles of Association, the following resolutions of the General Meeting shall require the majority of 3/4 of the votes cast:
+ resolutions on redemption of stocks in case as provided for under Art. 415 § 4 of the Code of Commercial Companies,
+ resolutions on acquisition of stocks (own stocks), which are to be offered for purchase by the employees or persons who have been employed by the Company or any of its subsidiaries for minimum three years,
+ resolution on authorization to acquire own stocks in case as provided for under Art. 362 § 1 item 8 of the Code of Commercial Companies,
+ resolutions on mergers with other public companies.
+According to the provisions of the Articles of Association, a resolution of the General Meeting dismissing or suspending some or all members of the Managing Board shall require the majority of 4/5 of the votes cast.
+Voting right
+With the reservation of limitations provided for in the Articles of Association, referred to under item 28.6. hereof, pursuant to Art. 411 § 1 of the Code of Commercial Companies, one stock gives right to one vote at the General Meeting. Voting right is granted to the stockholders as from the date of full payment for the stocks. A stockholder may vote differently from each of the stocks held.
+The right to dispose of stocks
+Pursuant to Art. 337 § 1 of the Code of Commercial Companies the stockholders are entitled to dispose of the stocks without restriction. Moreover, the stockholders are entitled to establish lien or usufruct over stocks.
+Other stockholders' rights Moreover, the stockholders shall have the following rights:
+44
+
+ the right to acquire stocks of new issue depending on the number of stocks held (subscription right). Pursuant to Art. 433 of the Code of Commercial Companies, the stockholders have the pre-emptive right to acquire new stocks depending on the number of stocks held, whereas the subscription right is also granted in case of issue of securities changeable into stocks or incorporating the right to subscribe for stocks,
+ the right to demand election of the Supervisory Board by separate groups. Pursuant to Art. 385 §3 of the Code of Commercial Companies, to the request of stockholders representing at least 1/5 of the initial capital, the election of the Supervisory Board should be made by the immediate General Meeting by way of voting by separate groups, even if the Articles of Association provide for another method of election of the Supervisory Board,
+ the right to demand information concerning the Company. Pursuant to Art. 428 of the Code of Commercial Companies during the General Meeting the Managing Board is obliged to provide the stockholders, upon their request, information concerning the Company, if it is justified for assessment of the issue covered by the agenda of the General Meeting. The Managing Board refuses to provide information if it could harm the Company, a company affiliated with the Company or a company or cooperative subsidiary to the Company, in particular through disclosure of technical or trade secrets or proprietary information concerning organisation of the enterprise. A member of the Managing Board may refuse to provide information if such disclosure could be grounds of his penal, civil or administrative liability. In justified cases the Managing Board may provide information to a stockholder, also in writing, not later than within two weeks from the date of closing the General Meeting. The Managing Board may also provide a stockholder with information concerning the Company outside the General Meeting, but such information should also be disclosed by the Managing Board in writing in the materials submitted to the immediate General Meeting. A stockholder who was refused requested information during the General Meeting and who has lodged a complaint to the minutes, may, within a week from the date of closing the General Meeting, file a motion to the Register Court for obligation of the Managing Board to disclose such information. A stockholder may also file a motion to the Register Court for obligation of the Company to announce information disclosed to another stockholder outside the General Meeting. According to § 38 paragraph 1 item 12 and 13 of the Regulation on Current and Periodical Information information disclosed to a stockholder outside the general meeting under Art. 428 § 5 or 6 of the Code of Commercial Companies and on the grounds of 429 § 1 of the Code of Commercial Companies resulting from the obligation of the Managing Board by the Registration Court to disclose information to a stockholder who has lodged a complaint concerning refusal to disclose information requested at the General Meeting, as well as information the Issuer was obliged to disclose on the grounds of Art. 429 § 2 of the Code of Commercial Companies, by the Register Court, and which has been disclosed to another stockholder outside the General Meeting, shall be made available to the public in the form of a current report,
+ the right to bring an action for revocation or declaring invalid a resolution of the General Meeting. Pursuant to Art. 422 of the Code of Commercial Companies, a resolution of the General Meeting contrary to the Articles of Association or good practice and harming the interest of the Company or aiming at aggrieving a stockholder may be appealed against by way of bringing action against Company for revocation of the resolution. The action for revocation of a resolution should be brought within one month from the date of receiving information on the resolution, however not later than within three months from the date of adoption of the resolution. Pursuant to Art. 425 of the Code of Commercial Companies, a resolution of the General Meeting may also be appealed against by way of bringing action against the Company for declaring the resolution of the General Meeting contrary to the act invalid, whereas the action should be brought within thirty days from its announcement, however not later than within a year from the date of adoption of the resolution. Expiry of the above mentioned deadlines does not exclude the possibility to claim that the resolution contrary to the act is invalid. The action for revocation or declaring invalid a resolution of the General Meeting can be brought by: (i) a stockholder who voted against the resolution and after its adoption demanded that his objection was recorded in the minutes, (ii) a stockholder who was denied participation in the General Meeting without justified reasons, and (iii) a stockholder who was not present at the General Meeting, only in case the General Meeting was improperly convened or there was adopted a resolution which was not on the agenda. The Code of Commercial Companies provides for certain modifications of general rules within the scope of appealing against the resolutions on
+45
+
+merger, division and transformation of companies which are provided for by Art. 509, Art. 544 and Art. 567 of the Commercial Code, respectively,
+ the right to share in the profit indicated in the financial statement audited by a chartered auditor, which was allotted by the General Meeting to be paid to the stockholders. Pursuant to Art.347 § 2 of the Code of Commercial Companies, the profit is distributed depending on the number of stocks held, and in case the stocks are not fully paid-up, such profit is distributed depending on the payments made for stocks,
+ the right to demand, pursuant to Art. . 6 of the Code of Commercial Companies, that a commercial company, which is a stockholder of the Company, provides information whether it is a parent company or a subsidiary of the given commercial company being the stockholder of the Company. The authorized entity may also demand disclosure of the number of stocks or votes which such commercial company has got in the capital company referred to hereinabove, also as a lienholder, user or under agreements with third parties. Answers to the questions provided above should be given to the authorized entity and appropriate capital company within ten days from the date of receipt of the demand. If the demand for providing answers reaches the addressee later than two weeks before the date for which the general meeting has been convened, the period for providing the answer starts on the day following the day on which the shareholders meeting or general meeting have been completed. As from the beginning of the period for providing answers until the date of its providing, the commercial company cannot exercise its rights from the stocks or shares in the capital company as referred to hereinabove,
+ the right to demand, pursuant to Art. . 410 of the Code of Commercial Companies, granted to the stockholders which hold 1/10 of the initial capital represented at the given General Meeting, inspection of the list of attendance of the General Meeting, by a committee established especially for this purpose and comprising of at least three persons,
+ the right to bring an action concerning compensation of damage incurred by the Company, pursuant to Art.486 of the Code of Commercial Companies, if the Company does not bring an action for compensation within a year of the date of disclosure of the damaging act,
+ the right to a share in the assets in case of winding up the Company. Pursuant to Art. 474 of the Code of Commercial Companies, the assets remained after satisfaction or securing of the Company's creditors is divided among the stockholders of the Company depending of their respective payments to the initial capital.
+28.11. Personal composition and its changes within the last accounting year and description of operation of managing and supervising bodies of BIOTON S.A. and their committees
+The Managing Board
+In the accounting year 2011 the composition of the Managing Board was as follows:
+ Slawomir Ziegert - President of the Managing Board,  Adam Wilczga - Vice-President of the Managing Board,  Adam Aleksandrowicz - a Member of the Managing Board until 20.12.2011,  Piotr Blaszczyk - a Member of the Managing Board since 15.09.2011,  Adam Polonek - a Member of the Managing Board since 20.12.2011
+On 15.09.2011 the Supervisory Board of the Company appointed Piotr Blaszczyk for the function of a Member of the Managing Board.
+On 20.12.2011 Adam Aleksandrowicz resigned from the function of a Member of the Managing Board. On the same day the Supervisory Board appointed Adam Polonek, who resigned from the function of a commercial proxy of the Company, for the function of a Member of the Managing Board responsible for financial issues.
+Declarations of will and affixing signatures on behalf of the Company can be made by: the President of the Managing Board jointly with another member of the Managing Board or with a commercial proxy or Vice President of the Managing Board with another member of the Managing Board or with a commercial proxy.
+46
+
+The competence of the Managing Board shall include the issues provided for in the Code of Commercial Companies and in the Articles of Association. The Managing Board conducts the Company's affairs and represents it outside.
+The works of the Managing Board are specified in detail by the Regulations of the Managing Board as adopted by the Supervisory Board. According to the Regulation, Meetings of the Managing Board are convened and conducted by the President of the Managing Board, and in case he is absent, by the Vice President of the Managing Board. Managing Board's meetings may be attended by persons invited from outside the Managing Board upon prior arrangement with the person convening the meeting. Managing Board meetings are held as the need might be, on a date indicated by the President of the Managing Board and in case he is absent, by the Vice President of the Managing Board, at least twice a month. According to the Regulations of the Managing Board, the Managing Board specifies the strategy of development and goals of the Company and their performance, which are subject to approval by the Supervisory Board. Pursuant to the Regulations, the Managing Board is obliged to submit to the Supervisory Board at least quarterly reports concerning significant occurrences in the operation of the Company. Such report should include the report on revenues, costs, financial result, and sum of liabilities and basic balance sheet data of the Company. The Managing Board shall also inform the Supervisory Board of any changes in the strategy and operation goals of the Company.
+The Supervisory Board
+In the accounting year 2011 the composition of the Supervisory Board was as follows:
+ Ryszard Krauze ­ Chairman of the Supervisory Board,  Zygmunt Solorz­ak - Vice Chairman of the Board,  Piotr Borowicz - a Member of the Board,  Leon Bushara - a Member of the Board,  Tomasz Buzuk - a Member of the Board,  Waldemar Dbrowski - a Member of the Board since 19.10.2011,  Marcin Dukaczewski - a Member of the Board since 29.06.2011,  Maciej Grelowski - a Member of the Board,  Rafal Juszczak - a Member of the Board,  Barbara Ratnicka ­ Kiczka - a Member of the Board,  Andre Spark - a Member of the Board,  Joanna Szymaska ­ Bulska - a Member of the Board,  Wieslaw Walendziak - a Member of the Board.
+The Ordinary General Meeting of the Company which was held on 29.06.2011 appointed Marcin Dukaczewski for the function of a Member of the Supervisory Board.
+The Extraordinary General Meeting of the Company which was held on 19.10.2011 appointed Waldemar Dbrowski for the function of a Member of the Supervisory Board.
+The Supervisory Board consists of 5 to 13 members, including the Chairman and Vice Chairman (appointed by the stockholder who, on the date of registration of Company transformation from limited liability company into joint stock company in the Register, held the biggest number of stocks in the initial capital of the Company, i.e. PROKOM Investments S.A.). The Supervisory Board is appointed in the following manner: (i) one member of the Supervisory Board is appointed and dismissed by PROKOM Investments; (ii) one member of the Supervisory Board is appointed and dismissed by the Institute of Biotechnology and Antibiotics; (iii) other members of the Supervisory Board are appointed and dismissed by the General Meeting. Pursuant to §18 of the Articles of Association one member of the Supervisory Board appointed by the General Meeting should meet all of the following conditions: (i) has been appointed in the mode as provided for in §18 of the Articles of Association; (ii) it cannot be an affiliate (according to the definition in the Articles of Association) to the Company or any subsidiary of the Company; (iii) it cannot be an affiliate of the holding entity of the Company or other subsidiary of the holding entity of the Company (according to the definition in the Articles of Association); or (iv) cannot be a person who has any relations with the Company or any of the entities specified under items (ii) and (iii) hereinabove which could significantly influence such person's ability to make impartial decisions as a Member of the Supervisory Board. Authorised founder (PROKOM Investments S.A.) is not entitled to propose candidates for a member of the Supervisory Board referred to hereinabove. Number of members of the Supervisory Board shall be determined by the General Meeting. In case of voting by separate
+47
+
+groups, the number of members of the Supervisory Board shall be 13. The Supervisory Board, whose composition, due to expiry of mandates of some of the members of the Supervisory Board (for other reasons than dismissal), is reduced to lesser number than the one specified by the General Meeting, however consists of at least 5 members, shall be capable of adopting valid resolutions by the time its composition is completed. Members of the Supervisory Board are appointed for a common term of three years. Pursuant to §19 paragraph 1 of the Articles of Association, the authorized founder (PROKOM Investments S.A.) indicates the Chairman and Vice Chairman of the Supervisory Board from among the persons appointed for the Supervisory Board under the provisions of the Articles of Association of regulations of the Code of Commercial Companies.
+In order to ensure validity of resolutions of the Supervisory Board it is required that all members of the Board are invited and at least half of them, Chairman and Vice Chairman included, attend the meeting. Resolutions of the Supervisory Board are adopted by absolute majority of votes. The Resolutions of the Supervisory Board concerning suspension of members of the Managing Board are adopted by the majority of 4/5 of the votes cast. In case the number of votes is even, the vote of the Chairman shall prevail. In case it is necessary, resolutions of the Supervisory Board may be adopted in writing or with the use of the means of distance communication. In such case they become binding after being signed by at least half of the members of the Supervisory Board, including the Chairman. The meetings of the Supervisory Board may be attended by the members of the Managing Board or other persons invited, as the need might be.
+The Supervisory Board acts collegially which does not exclude the possibility of permanent or temporary delegation of respective Members of the Supervisory Board to perform independently specified supervisory actions.
+The competence of the Supervisory Board shall include the issues as provided for in the Code of Commercial Companies. The Supervisory Board exercises constant supervision over all areas of operation of the Company, in particular it assesses the report of the Managing Board on operation of the Company, financial statement for the previous financial year and suggestions of the Managing Board concerning apportionment of profits or covering of loss and submits to the General Meeting a written annual statements concerning the findings from all of the above mentioned assessments. The Supervisory Board may also suspend, for important reasons, some or all members of the Managing Board. Supervisory Board rights may be extended by virtue of the Articles of Association.
+Moreover, according to the Articles of Association, the Supervisory Board (i) appoints the entity performing audit or review of the consolidated and standalone financial statements of the Company and gives consent to conclude agreements with such entity, and (ii) gives consent to conclusion of agreements by the affiliates of the Company or carrying out other activities for Company affiliates in case the value of such agreements or activities exceeds, during 12 consecutive months, the amount of 500 thousand EUR or its equivalent in other currencies, except for typical and routine activities carried out on arm's length basis between the affiliates whose nature and conditions result from the current operating activity of the Company or its subsidiary. To become effective, the resolutions concerning issues referred to under item (i) require that a member of the Supervisory Board appointed by the General Meeting according the mode specified in the Articles of Association votes for its adoption, and such member does not have any relations with the Company that could have significant impact on his ability, as a member of the Supervisory Board, to make impartial decisions, in particular he is not an entity affiliated to the Company. The Supervisory Board determines remuneration of the members of the Managing Board.
+According to the Regulations of the Supervisory Board, the members of the Supervisory Board should participate in the sessions of the General Meeting of the Company in the composition providing for the possibility to give factual answers to the questions asked during the General Meeting. Pursuant to the Regulations, the members of the Supervisory Board should take reasonable measures to obtain from the Managing Board regular and comprehensive information on all significant issues pertaining to the operation of the Company and risk related to such operation and methods of management of the risk. The Chairman and Vice Chairman of the Supervisory Board are particularly responsible for maintaining contacts with the Managing Board and for representation of the Supervisory Board in relations with third parties.
+In the accounting year 2011 within the scope of the Supervisory Board of the Company there was functioning the Audit Committee consisting of:
+ Maciej Grelowski - Chairman of the Committee,  Wieslaw Walendziak - a Vice Chairman of the Committee,  Rafal Juszczak - a Member of the Committee,
+48
+
+The Committee consists of 3 members as the minimum, including the Chairman and Vice Chairman of the Committee. The number of members of the Committee is determined by the Supervisory Board. Members of the Committee, including the Chairman and Vice Chairman, are appointed by the Supervisory Board from among its members. At least one of the members of the Audit Committee has to fulfil the conditions of independency and be qualified within the field of accountancy and financial revision, as specified under Art. 86 paragraph . 4 of the Act of 7 May 2009 on chartered auditors and their self-government, entities authorised to audit financial reports and public supervision (Journal of Laws of 2009, No. 77 item 649). According to the Regulations of the Audit Committee, the Committee is acting collegially. The scope of action of the Committee covers consultancy and providing opinions within the scope of the competence of the Supervisory Board as regards the following areas of operation, as far as it is permitted by the applicable regulations ­ of the capital group of the Company: (i) financial reporting, (ii) annual and quarterly financial planning, (iii) execution of the financial plans submitted to the Supervisory Board, (iv) audit of the financial statements by a chartered auditor, (v) internal and external control system, including internal audit, (vi) risk management system. In order to fulfil its obligations Audit Committee uses the rights of the Supervisory Board as provided for in Art. 382 § 4 of the Code of Commercial Companies and§ 22 of the Articles of Association, and in particular it may audit all documents, demand that the Managing Board and employees of the Company provide it with reports and explanations, revise the assets of the Company and carry out control of the current and planned expenses of the Company. Committee meetings are convened by its Chairman, and in case he is absent- Vice Chairman or any member of the Committee indicated by the Chairman. Decisions of the Committee are made in the form of resolutions adopted by voting of the members of the Committee. Resolutions of the Committee are adopted by absolute majority of votes. In case of equal number of votes, the Chairman shall have the casting vote, and in case he is absent- the Vice Chairman of the Committee shall have the casting vote. To ensure that the resolutions of the Committee are valid, all members of the Committee have to be invited to the meeting and at least half of them are present, including the Chairman or Vice Chairman of the Committee. The resolutions of the Committee may be adopted with the use of the means of direct distance communication. The resolutions adopted with the use of this method are valid when all members of the Committee have been informed of the reading of the draft of the resolution in question.
+49
+
+Signatures of all members of the Managing Board of BIOTON S.A.
+
+Data 27.04.2012
+
+Name and surname
+
+Function
+
+Slawomir Ziegert
+
+President of the Managing Board
+
+27.04.2012
+
+Adam Wilczga
+
+Vice President of the Managing Board
+
+27.04.2012
+
+Piotr Blaszczyk
+
+A Member of the Managing Board
+
+27.04.2012
+
+Adam Polonek
+
+A Member of the Managing Board
+
+Signature
+
+50
+
+

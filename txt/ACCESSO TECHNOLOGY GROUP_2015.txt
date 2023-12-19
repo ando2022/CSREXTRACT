@@ -1,0 +1,4935 @@
+Registered number 03959429
+accesso Technology Group plc 2015 Annual report and financial statements
+
+accesso Technology Group plc
+Contents of the consolidated financial statements for the financial year ended 31 December 2015
+Company information Introduction and key financial highlights Chairman's statement Chief Executive Officer's statement The board of directors Strategic report Report of the directors Report of the independent auditors to the members of accesso Technology Group plc Consolidated statement of comprehensive income Consolidated statement of financial position Company statement of financial position Consolidated statement of cash flow Company statement of cash flow Statement of changes in Group equity Statement of changes in company equity Notes to the consolidated financial statements
+
+Page 2 3 5 6 11 13 15 22 23 24 25 26 27 28 29 30
+
+1
+
+accesso Technology Group plc
+Company information for the financial year ended 31 December 2015
+Directors:
+Secretary:
+Registered office:
+Registered number: Auditors:
+Bankers:
+
+John Weston, Non-Executive Chairman John Alder, Executive Steve Brown, Executive Tom Burnet, Executive Matt Cooper, Non-Executive David Gammon, Non-Executive Leonard Sim, Executive
+Martha Bruce Bruce Wallace Associates Limited 120 Pall Mall London SW1Y 5EA
+Unit 5, The Pavilions Ruscombe Park Twyford Berkshire RG10 9NN
+03959429 (England and Wales)
+BDO LLP Kings Wharf 20-30 Kings Road Reading Berkshire RG1 3EX
+Lloyds Bank plc The Atrium Davidson House Forbury Square Reading Berkshire RG1 3EU
+
+2
+
+accesso Technology Group plc
+
+Introduction and key financial highlights for the financial year ended 31 December 2015 Financial Highlights
+Revenue Adj EBITDA (i) Adj operating profit (ii) Profit before tax Cash generated from operations
+
+12 months ended 31 Dec 15 (audited) $m 93.2 15.2 12.6 7.2 14.7
+
+12 months ended 31 Dec 14 (audited) $m 75.1 11.0 8.7 5.1 10.7
+
+Change
++24.1% +38.2% +44.8% +41.2% +37.4%
+
+Net debt (iii)
+
+9.4
+
+14.3
+
+(34.3%)
+
+Adjusted Earnings per share ­ basic (cents) (iv) Earnings per share ­ basic (cents)
+
+40.96 24.47
+
+30.81 18.49
+
++32.9% +32.3%
+
+(i)
+
+Adjusted EBITDA is defined as operating profit before the deduction of amortisation, depreciation, acquisition costs and costs
+
+related to share based payments
+
+(ii)
+
+Adjusted operating profit is defined as operating profit before the deduction of amortisation related to acquisitions, acquisition
+
+costs and costs related to share based payments
+
+(iii)
+
+Net debt is defined as borrowings less cash and cash equivalents
+
+(iv)
+
+Earnings used in the adjusted earnings per share calculation is defined as PBT before the deduction of amortisation related to
+
+acquisitions, acquisition costs and costs related to share based payments, less tax at the effective rate
+
+Operational Highlights
+
+accesso LoQueueSM ­ Higher volumes and intelligent selling drive growth o Total guest revenue up 16.6% year-on-year o Improved sales execution and optimised pricing drives an average revenue per guest improvement of 4.1% year-onyear o Key contract wins included an expansion with Blackpool Pleasure Beach, an agreement for Qbotsm with a major North American theme park and a five-year contract for Qsmartsm at the Movie Animation Park Studios in Ipoh, Malaysia
+accesso Passport® ­ Contract wins and product improvements extend market leadership and enhance growth platform o Year-on-year volume growth of 20.5%. Mobile volumes up 159%, now representing 24% of total (2014: 11%) o Transformative agreement with Merlin Entertainments Group Ltd to install accesso Passport across Merlin's entire estate o Other notable wins include the One World Observatory at the One World Trade Centre in New York, Navy Pier in Chicago, and a 3 year contract extension with Cedar Fair Entertainments
+Accesso Siriuswaresm ­ Technology enhancements delivering new business momentum o 13 new contract wins during the year including Taos Ski Valley, Brooklyn Museum of Art, The Asian Art Museum and the Black Ball Ferry Line o Blackpool Pleasure Beach is now accesso Siriusware's first European client; the second client globally to feature a samesite integration of accesso LoQueue and accesso Siriusware o Improved technology enhances best-in-class guest-management solution
+ShoWare® ­ Successfully integrated, adding value and performing well o First full year after acquisition characterised by strong growth, reflecting quality of the asset and speed of integration o Performance in line with expectations despite currency headwinds from key markets in Brazil and Mexico
+
+3
+
+accesso Technology Group plc
+Operational Highlights (continued) o 68 new contracts won in the year demonstrates demand for the solution and its potential o First live customer integrations with Siriusware and Passport complete
+Post Period-End ­ Landmark Six Flags extension a transformative moment for our Group o Strong momentum continues across all lines of business o accesso LoQueue extension of its ticketing and queuing partnership with Six Flags Entertainment Corporation through 2025, underscores the value of our offering and confidently underpins future earnings projections o Significant continued momentum in sales to mobile devices o Successful debt refinancing completed
+Directorate Change Leonard Sim, who developed and prototyped our very first queuing solution in 1998 and who subsequently founded Lo-Q in the year 2000, has announced his retirement from the Group's board of directors with immediate effect. Leonard has made an outstanding contribution to our business ­ not just over this year, but since the Group's very first days of operation. He steps down from the Board today, but will remain with the Group as an employee as we move forward with our growth plans. All of us at today's strong, successful and global accesso owe Leonard a significant debt of gratitude: not just for his original `bright idea', but for the energy and passion with which he has pushed that idea forward. The board of directors has no immediate plans to recruit a replacement, but will keep the situation under review. Commenting on the results, Tom Burnet, Chief Executive of accesso, said: "2015 was another strong year for accesso, across every part of our business. We have devoted considerable time, investment and technical attention to our product suite over the past twelve months. The rewards of those efforts are now starting to show through financially, operationally and in the quality of conversation we are able to have with our customers. It gives me huge pleasure that those conversations have led to 92 new accounts comprising between them over 200 new venues being added to our customer base during the year. The clearest signal of our progress lies not in the numbers, and not even in the many achievements of the year in review. Rather, I would urge people to look at the significant, long-term trust that both Merlin and Six Flags have placed in us over the last six months. To select a partner for one year, even two is a big step to take. To select a partner for seven or even ten years, however, is quite a vote of confidence in our technology and our team ­ and it is this which underpins my confidence in 2016 and the years ahead of us."
+4
+
+accesso Technology Group plc
+Chairman's statement
+A bolder, bigger and better accesso
+2015 has been another year to remember for accesso. Our industry continues to change at a rapid pace, but new challenges have been met and overcome, and new opportunities have been seized. The measure of our response to these challenges is reflected not only in our financial performance, but also in the quality of our reputation which continues to grow. Our efforts have taken us from a helpful supplier, and transformed the Group into a trusted, talented and innovative partner.
+The Group's financial performance has been strong this year, achieving adjusted operating profit of $12.6m. We have further integrated our acquisitions, cross-sold between business lines and grown our revenues, profits and earnings per share. We continue to deepen our presence within our existing customer base, renewing numerous contracts, often incorporating added services and extended terms. We share a belief with our clients that outstanding customer experience is the key to success and are as committed as ever to providing them with the most sophisticated technology solutions in pursuit of that aim.
+During the year we have also advanced our progress in new strategic areas for the Group. Sports stadia, museums and cultural sites have joined our more traditional attractions and snow sports clients in increasing number, proving the value of the acquisitions we have made. We have always sought to recognise the commonalities rather than the differences among the venues we serve, and this approach has enabled us to develop solutions for numerous vendors with varying requirements, all of which strengthen our brand and increase our market opportunity.
+A trusted partner
+In 2015 we have deepened our relationships with many of the leading players in our industry. In particular, our important agreement with Merlin reflects a level of confidence and trust in accesso that marks a significant inflection point in the Group's history. We have worked hard to build a company with a particular set of values, which can grow with its clients and share in their successes. This deal, as well as the extensions of our existing agreements with Cedar Fair Entertainment and post period-end with Six Flags Entertainment, prove the effectiveness of this approach, and gathered together suggest a watershed moment has been reached.
+I have said before that perhaps the strongest signal of our strength is the success of the customers we serve. We can be proud of the trust they have placed in us, and of the fact that our technology is an important constituent of their success.
+Investing in execution and innovation
+Our challenge now is to extend the market leadership position we hold. Knowing that the longevity of our business is determined by the quality of the technology we sell, we remain committed to upgrading the core functionality of our products on an ongoing basis. We continue to invest heavily in the business to ensure we stay ahead of our competition, and while our landmark agreement with Merlin Entertainments has provided the impetus for a significant scaling of our operations, we have no intention of pausing in our ambition to remain the very best technology vendor to the markets we serve.
+Our team
+Results like those presented here are not achieved without hard work. In every area of our business, our teams have worked tirelessly this year on some of the biggest projects in the organisation's history. They have risen to those tasks and delivered an outstanding result. On behalf of the entire Board I say thank you to them. I would also like to add my personal thanks to Leonard Sim who leaves our Board today. Leonard has not only played a key role in developing our firm, but can also proudly claim to be one of the original architects of virtual queuing and the industry we now lead.
+Looking ahead
+We have entered 2016 with something of a spring in our step. With some significant successes under our belt and a clear idea of where our focus this year needs to rest, I look forward to the coming year with confidence.
+John Weston Non-Executive Chairman
+5
+
+accesso Technology Group plc
+Chief Executive Officer's statement
+Operational Review
+For some time now, accesso has been pursuing a strategy to deliver sustainable, repeatable revenue growth through both acquisitive and organic means. During 2015, we saw accesso's balanced, diverse and complementary portfolio of businesses continue to mature as one company, and continue to deliver on the promise that first drove its composition.
+Behind the scenes there has been a great deal of time spent harmonising the systems, processes and day-to-day procedures that we rely on to run our business. Our approach to integrating acquisitions, where we carefully get to know our new colleagues, their technology and customers over time before implementing change, continues to pay off and we now have a business which relies on the best practice we can find across all of our antecedents. I believe that the feeling of "one company" is an important one. It allows us to stand a little taller, think a little bigger and importantly invest a little more deeply to ensure we maintain and extend our leading market position.
+A key reference point for this was the July 2015 agreement with Merlin Entertainments Group Ltd. To be trusted to serve a business of Merlin's global scale is a particular honour and one which the whole company is proud of, and working hard to deliver. All accesso clients, current and future, will feel the benefit of those efforts as we improve our ability to serve new markets, countries and languages together with their rapidly evolving consumer demands.
+But we are not finished yet. The Group continues to challenge itself and develop its technological expertise. We continue to trial our queueing technology for entirely `queueless' parks, and constantly evaluate our portfolio to ensure we can deliver the best available solutions to our customers and their guests. Now, as we start not just a new year but a new decade with Six Flags, our focus on innovation and execution will grow even sharper still.
+accesso LoQueue
+This year has been a successful one for our queueing products with total guest revenue up 16.6% year-on-year. A number of factors helped this, not least good weather helping to deliver strong attendance growth. Other key value drivers have been the work we have done on pricing, staff training and the in-park retail experience for guests. Our pricing strategy has shifted the revenue mix making the product entry price point more attractive whilst increasing premium pricing. This has delivered strong overall growth while reducing reliance on premium product sales which fell as a proportion of total sales. We have also continued to experiment with more demand led pricing based on expected attendance.
+Notable other events in the year included the formalisation of our Memorandum of Understanding with the Movie Animation Park Studios (MAPS) in Malaysia for the use of Qsmartsm, and the installation of our Qbotsm solution at LEGOLAND California. The MAPS agreement will go live later in 2016, and take accesso LoQueue into the important Asian market for the first time.
+accesso LoQueue's success in 2015 demonstrates its ongoing value to the Group. With an increasing focus on the cross-and upselling opportunities that exist within accesso, our queuing solutions continue to provide a key entry-point and a firm foundation from which we can offer more comprehensive services to our clients.
+accesso Passport
+2015 has also been strong for accesso Passport, which continues to emerge as the market leading cloud-based general admission ticketing platform. Our entirely revamped `Shopland 5.0' platform has delivered significant new business to the Group and proven our ability not just to capitalise on the mobile opportunity but to actually help shape how mobile commerce in all of our markets is evolving.
+We believe that having a world class ecommerce capability is increasingly important for all of our customers. To be able to appropriately cross and upsell products to consumers whilst they shop is vital to maximise the revenue opportunity in any single customer interaction. We also know that the best way to engage with guests is to ensure the shopping experience is customercentric: they must be able to shop in comfort, in their own time, and on any device they choose. With these factors in mind, we have developed a one-of-a-kind solution designed with mobile customers at its centre and it is that expertise which is at the heart of our accelerating growth.
+The impact of this approach can be seen in the increasing number of transactions taking place in the accesso Passport ecosystem each year. In 2015, ticketing volumes were up 20.5% year-on-year, while mobile volumes increased 159% year-on-year and now
+6
+
+accesso Technology Group plc
+Chief Executive Officer's statement (continued)
+represent 24% of our total (2014: 11%). These figures reflect accesso Passport's ability to create significant value for operators, which then flows through to the Group as a result of our transaction based business model.
+That promise of value continues to generate new business for the Group, with a number of significant contracts signed in the year. Key moments included an agreement with the One World Observatory at the newly opened One World Trade Centre in New York City, as well as three-year agreements with both Chicago's Navy Pier and Tennessee's Nashville Zoo at Grassmere. In March, we were also able to announce a three-year extension to our existing agreement with Cedar Fair Entertainment, another of accesso's long-term partners and one of the world's largest attractions operators, each of whom contribute to the significant underpinning of our forward revenue visibility. Our ability to generate and sustain these durable relationships is a mark of the quality of our products and their central place in our customers' operations.
+Lastly, this year has seen the start of our Merlin rollout, as we begin the process of installing accesso Passport across Merlin's global estate. This will see accesso expand into new geographies and scale rapidly, benefitting from a year of investment in the operational capacity of our business. To date we have installed at nearly thirty venues, mostly in the United States and London with pleasing early feedback. 2016 will see us install widely across Europe, Australia and New Zealand, to be followed in 2017 by their Asian locations.
+accesso Siriusware
+2015 was also a landmark year for accesso Siriusware, achieving thirteen new contract wins in the period for its enhanced pointof-sale and guest management software and delivering on the promise at the time of its acquisition of stepping in to the European marketplace. Financial performance was equally as impressive, with a significant improvement in contribution achieved since the acquisition in late 2013.
+The variety of those thirteen contract wins underscores accesso Siriusware's versatility, winning business in areas as diverse as the Taos Ski Valley resort, the Brooklyn Museum of Art, the Black Ball Ferry Line and The Whitney Museum now located in its impressive new headquarters in New York City. Each of these operators has a very different attraction proposition ­ but for all of that diversity, there is a common need that all of them share which is the need to provide a high-quality user experience to guests. Using accesso Siriusware, they can achieve this by tracking guest rentals, purchases, reservations, loyalty information and much more using its customisable modular software solutions.
+During the year, Blackpool Pleasure Beach also became accesso Siriusware's first European client, adopting the service as part of the contract that also extended its agreement to utilise accesso's queueing solutions. This sale marked an important strengthening of accesso's relationship with an historic UK venue, and is a useful example of our portfolio's complementary nature. Deals of this nature embed accesso at the heart of a venue's operations, and exemplify the Group's ability to maximise existing opportunities as well as capitalise on new ones. We have also continued to invest in the product, making some significant functional enhancements and expanding API capabilities allowing deeper integration with accesso Passport.
+accesso ShoWare
+2015 was ShoWare's first full year as a part of accesso. Having bedded down quickly and proven its ability to generate transactional and repeatable revenue for the Group, performance was in line with expectations despite challenging currency dynamics in Brazil and in Mexico where the business performed particularly strongly.
+Now fully integrated into the Group, ShoWare is helping accesso address a large market of assigned-seat venues in previously untapped geographies and verticals. The ShoWare platform allows venues to manage all aspects of their advanced ticket sales, with options for call centre ticket sales, mobile ticketing, online ticketing and social ticket sales through Facebook pages. Unlike accesso Passport, ShoWare is operated by vendors themselves, allowing them the flexibility and control to maximize profits in the way that suits them best. During the year, ShoWare continued to invest heavily in the platform with notable firsts like the launch of a fully responsive shopping cart.
+Importantly, 2015 has seen ShoWare prove itself capable of rapidly acquiring new contracts, with 68 announced in the year. New clients crossed a number of verticals but range from the Hard Rock Casino in Lake Tahoe to an existing Siriusware customer, Longwood Gardens, now also using ShoWare, to selling out concerts for Rod Stewart and Ed Sheeran in Brazil.
+7
+
+accesso Technology Group plc
+Chief Executive Officer's statement (continued)
+This level of client acquisition demonstrates both a keen appetite for the solution and the helpful leverage it has gained as part of the accesso family.
+Starting as we mean to go on
+Beyond the period-end, all business lines are showing good momentum. The most notable achievement thus far has been the extension to our existing agreement with Six Flags Entertainment Corporation, the world's largest regional theme park company, to continue providing our queuing and ecommerce solutions across its parks until 2025. This win is a further example of accesso's ability to establish long-term relationships that provide excellent future revenue visibility. The start of the year has also seen ShoWare sign 16 new contracts, accesso Siriusware sign four new contracts.
+Financial Review
+These results represent another good year for accesso, notwithstanding the significant investment made in the first half ahead of our securing the Merlin contract. We have delivered performance comfortably in line with expectations, and look forward to another strong year in 2016.
+Key financial metrics
+2015 was the year in which accesso began to see the dual-benefit of its diversified geographical footprint and versatile product portfolio. Weather conditions were generally better than last year, but the increasingly global nature of our business and its capacity to serve a wider variety of venues provides a degree of balance that increases robustness across the seasons.
+Revenue for the 12 months ended 31 December 2015 of $93.2m increased by $18.1m (24.1%) when compared to the 12 month period ended 31 December 2014 and benefited from a full 12 months of Showare revenues (2014: One month) combined with good organic growth. Gross profit margin at 49.4% in 2015, compared to 42.6% in 2014, principally reflecting the increased proportion of higher margin ticketing revenue in 2015.
+Administrative expenses in the business, ignoring share based payments and amortisation related to the acquisitions, were $33.6m in the 12 months ended 31 December 2015, which represented an increase of 41% on 2014. This included a full year of Showare expenditure but also demonstrates the significant investment in our development and customer facing teams throughout the year in anticipation of new business growth and in particular related to the Merlin agreement.
+Adjusted operating profit, which the board considers a key underlying metric, for the 12 months ended 31 December 2015 was $12.6m and this equates to 44.8% growth when compared to the 12 month period ended 31 December 2014.
+Profit before tax of $7.2m increased by $2.1m from $5.1m (41.2%) on the 12 month period ended 31 December 2014.
+Earnings per share (basic) at 24.47 cents for 2015 increased by 5.98 cents (32.3%) on the 12 months ended 31 December 2014.
+These results reflect the manifestation of a mature and well-aligned Group, deriving profitability from supportive businesses offering distinct but related services to complementary markets. The majority of revenues and expenditure continue to be US dollar denominated and the impact of currency movements on revenues or profit before tax is not material.
+Debt refinancing and cash flow
+To prepare the Group for the next stage in its development we renewed and extended our banking facility with Lloyds Bank on 14 March 2016. The extended facility allows the Group a drawdown facility of $25m, with no step downs, plus an additional $10m for potential M&A investments, at an improved drawdown rate of 1.35% above LIBOR and an improved commitment rate. The renewed facility terminates on 14 March 2019 with the possibility for this to extend for a further 12 months.
+Cash generated from operations at $14.7m for the 12 months ended 31 December 2015 was 37.4% better than the 12 month period ended 31 December 2014 and represents a cash conversion from adjusted EBITDA of 96.7% (2014: 97.3%).
+Purchases of intangible fixed assets, which substantially represents capitalised development expenditure, was $6.2m in the period (2014: $2.7m) and reflected a full year of Showare expenditure together with significant investments across our product
+8
+
+accesso Technology Group plc
+Chief Executive Officer's statement (continued)
+portfolio as we look to support global deployment and enhancement of our mobile offering. We see product investment as key to remaining innovative and market leading and do not expect expenditure on development to reduce in 2016.
+Other fixed asset additions at $1.8m (2014: $0.8m) increased principally due to the installation of our Qbotsm solution at LEGOLAND California and further enhancement's to the accesso LoQueue in-park retail locations at specific locations.
+Our closing net debt balance of $9.4m (2014: $14.3m) represents 62% (2014: 130%) of current year adjusted EBITDA, was ahead of our expectations, notwithstanding the increased product investment and the board believes that the company remains in a strong financial position at the period end.
+Tax
+When we announced our interim results, we indicated an underlying annual effective rate of 28%. The full year rate at 25.6% is in line with this guidance and includes a 2% benefit in respect of 2014.
+The Group continues to review and implement opportunities for maintaining or lowering its effective rate, while mindful of the fact that the majority of taxable income will continue to be generated in markets with significantly higher headline tax rates than the UK.
+Dividend
+The Board maintains its view that the payment of a dividend is unlikely in the short to medium term with cash better invested in product development and complementary M&A.
+IP Protection
+The Group continues to seek opportunities to make best use of its intellectual property. As announced during the period, we have appointed Dominion Harbour Group to develop and implement a campaign for an element of the Group's IP portfolio in market verticals not served by accesso. We are pleased with the progress made in this area, and remain committed to defending, monetising and expanding our IP.
+Revenue Visibility
+The Group has historically operated via agreements that offer repeatable, transactional revenue streams that fully align us with our customers' interests. A key element of our M&A activity has been to build on this model, allowing us the luxury of looking forward with increasing levels of confidence in our future revenue. While we are clear that these agreements do not formally offer guaranteed recurring revenue, the Board gains considerable assurance that our contracted agreements offer growth opportunities across their respective terms.
+Broadly, we would expect approximately 85% of our full year revenue stream to be repeatable and transactional in nature, with a further 6% repeatable from ongoing support agreements with the licensed element of our customer base. The balance is largely unrepeatable in nature and split between custom client work and software license sales.
+This combined with the long term nature of many newly signed or extended agreements in 2015 and post period end, together with a low level of attrition of those customers on shorter term agreements, now allows us to look out several years with substantial confidence at our revenue expectations. To put this into context, the Board estimates that contracted arrangements already in place with our top 5 customers alone will generate 60% to 70% of total Group revenues, for each respective year, through to at least 2022. This clearly allows the opportunity to out-perform future revenue expectations by delivering further new business.
+Summary and Outlook for 2016
+accesso has started 2016 in good order. We have an exciting new business pipeline and can rest assured that the opportunity in both ticketing and queuing is significant well beyond our current level of business. Operationally, we continue to develop our products to ensure they are ready to meet the challenges of tomorrow. In 2015 we spent well over ten percent of our Group's revenue on their development and would expect the figure to be similar in 2016.
+9
+
+accesso Technology Group plc
+Chief Executive Officer's statement (continued) The success and longevity of that development process is owed largely to an important dynamic within our cloud-based ticketing systems, accesso Passport and ShoWare, whereby every customer's unique set of functionality requirements ensures a direct link between new customer acquisition and subsequent product improvement. Where new client functionality requirements don't already exist within our systems, we incorporate them into our products on a non-exclusive basis so they can be shared by all accesso users. This mutually beneficial approach to product development allows us to build exceptionally well specified products and, as demonstrated, become a trusted long-term partner for our customers. Looking ahead, the Board is full of confidence in our prospects for the remainder of 2016. All the necessary elements are now in place to accelerate growth; we have the right team, a uniquely differentiated offering and the hunger to make the best of both. We are full of belief that the start we've made will translate into a good year for accesso, extending our lead as the premier technology solutions provider to leisure, entertainment and cultural markets. Tom Burnet Chief Executive Officer
+10
+
+accesso Technology Group plc
+The board of directors for the financial year ended 31 December 2015
+John Weston, Non-executive Chairman
+John Weston joined accesso in 2011 and serves as the Non-Executive Chairman of the Board. Prior to joining, he served as the Chief Executive of British Aerospace and BAE Systems 1998 to 2002, at which time it was a £12.5 billion business employing more than 120,000.
+Weston brings vast experience in the electronics and technology industries and in addition to accesso, he currently chairs several other companies including Fibercore PLC, Windar Photonics PLC, Pro-Drive Composites and Brittpac PLC.
+Previously, Weston served on the board of directors for MB Aerospace, AWS Electronics, Torotrak, Acra Control, Ufi Charitable Trust and Ufi Ltd.
+Weston also serves as a member of accesso's audit and remuneration committees.
+John Alder, Chief Financial Officer
+John Alder joined accesso in 2008 and is the Chief Financial Officer for the company. He is a Chartered Accountant who qualified with Coopers and Lybrand (PricewaterhouseCoopers) and brings expertise in finance, mergers and acquisitions, strategic planning and financial modeling.
+Prior to joining accesso, Alder spent 4 years as European Controller and Interim Finance Director of private equity backed Palletways Group Limited, supporting the Continental European development of Europe's largest and fastest growing palletized freight network business.
+He also held Finance Director and Controller positions in quoted and private pan-European businesses.
+Alder was appointed Chief Financial Officer of the company in August 2009.
+Steve Brown, Chief Operating Officer
+Steve Brown brings a strong operations and finance background to the accesso team with extensive experience in ticketing, pricing strategy, eCommerce and revenue management. As the company's Chief Operating Officer, he guides accesso operations across North America and Europe.
+Brown's theme park career began during college at Walt Disney World Resort. Over the course of sixteen years, held a variety of roles with increasing responsibility in financial planning and pricing strategy including Director, Walt Disney World Ticketing and Vice President, Revenue Management for Disneyland Resort, where he drove dramatic growth in park admissions and hotel revenues utilizing strategic and promotional pricing.
+Prior to joining accesso, Brown served as the corporate Vice President of Ticket Strategy and Sales for Six Flags. While at Six Flags, Brown championed an overhaul of the company's eCommerce process, which doubled the already significant online sales and established Six Flags' national partnerships with major distributors.
+Brown received his MBA from the Goizueta Business School at Emory University in Atlanta and graduated with a BS in Marketing from the University of South Florida in Tampa.
+Tom Burnet, Chief Executive Officer
+Tom Burnet joined accesso as the CEO in late 2010 and is responsible for the company's leadership, strategic direction and growth. He was formerly Managing Director of a division of Serco Group plc, a global outsourcing company, overseeing the 5000 person Defense Services division. Burnet also served as a Non-Executive director of Kainos Group plc.
+Burnet's expertise includes risk management, business analysis, strategic planning and business management. During his career he has been involved in creating, growing and running several businesses and started his career as the UK's youngest Army Officer.
+11
+
+accesso Technology Group plc
+The board of directors (continued) for the financial year ended 31 December 2015 Burnet also has an MBA from the University of Edinburgh. Matt Cooper, Non-executive Director Matt Cooper currently works as a Non-Executive Chairman and/or director with a range of public and private companies. These include Octopus Capital Ltd, Imaginatik Plc, accesso Technology Group Plc, ClearlySo Ltd, VouchedFor Ltd, RNM Financial Ltd, and the National Centre for Circus Arts. Cooper's areas of expertise include corporate strategy formulation, brand and marketing, implementation, organisational culture and design, and executive coaching and leadership. Previously, Cooper was Principal Managing Director of Capital One Bank Europe plc until leaving the company in 2001. In addition he also served as director for a number of companies including Which? Financial UK Ltd, 10Duke Software Ltd, MyDish Ltd and KMI Brands Ltd. Originally from New Jersey, Cooper graduated first in his class in Chemistry from Princeton University in 1988. David Gammon, Non-executive Director David Gammon has widespread experience in developing and building technology-based businesses. Since 2001, Gammon has focused on finding, advising and investing in UK technology companies. Gammon founded Rockspring, an advisory and investment firm, which focuses on early stage technology companies and where Gammon continues as CEO today. Other current positions include a Non-Executive directorship at Frontier Developments plc and Group Strategic Advisor to Marshall of Cambridge (Holdings) Limited. Gammon's previous experience includes Non-Executive director and advisor at artificial general intelligence company DeepMind Technologies Limited, advisor to Hawkwood Capital LLP, Non-Executive director at real time location technology specialist Ubisense Trading Limited, Non-Executive director at internet TV specialist Amino Technologies plc, Non-Executive director at smart metering and software company BGlobal plc, and acting CFO at internet specialist Envisional Solutions Limited. Earlier in his career, Gammon spent 15 years working as an investment banker. Gammon joined accesso in November 2010 and is chairman of the remuneration committee and a member of the audit committee. Leonard Sim, Founding Director Leonard Sim is the inventor of the accesso LoQueueSM virtual queuing system, which was conceived while he ran Tellurian, a sales agency in data communication devices and software. He brings over 30 years of experience in software, electrical engineering and business strategy. Previously, Sim ran technical sales teams for Rockwell Semiconductor and Ferranti Semiconductor after a period as an electronics engineer at Plessey Radar. He gained an Honours Electronic Engineering degree from Heriot-Watt University, Edinburgh in 1971. Sim serves as Founding director and his responsibilities include business development, strategic planning, product marketing and managing the engineering team. Sim has moved to a part time role supporting activities in intellectual property, business development and strategic planning.
+12
+
+accesso Technology Group plc
+Strategic report for the financial year ended 31 December 2015
+Review of business
+The results for the period and financial position of the company and the Group are as shown in the annexed financial statements and explained in the Chairman's statement and Chief Executive Officer's statement.
+Principal risks and key performance indicators
+The Board has identified the principal risks and uncertainties which it believes may impact the Group and its operations, as well as a number of key performance indicators with which to measure the progress of the Group and are presented in the financial highlights on page 3.
+Principal risks and uncertainties
+In line with groups of a similar size, the Group is managed by a limited number of key personnel, including Executive directors and senior management, who have significant experience within the Group and the sectors it operates within, and who could be difficult to replace. Executive remuneration plans, incorporating long-term incentives, have been implemented to mitigate this risk.
+A key risk relates to the high concentration of revenue derived from particular customers or guests of particular theme parks groups. The Group continues to increase its operating parks, including the introduction of additional park operators by introducing new technologies and extending its geographical presence. In addition, the Group continues to seek appropriate complementary acquisitions to reduce reliance on specific customers, sectors or geographies.
+The Group has a seasonal business with revenue and cash flows predominantly linked to leisure venue attendance which, with the current profile of business, peak in the summer months of the northern hemisphere. Attendance at leisure venues can be impacted by circumstances outside the control of the Group including, but not limited to, inclement weather, consumer spending capability within the regions we operate together with operator venue pricing, discount policies, investment capability, safety record and marketing.
+A significant proportion of revenues of the business are denominated in US dollars. Although the majority of expenditure is also denominated in this currency, there remains an exposure to movements between the US dollar and either sterling, the Brazilian real, the Mexican peso or the Canadian dollar. This exposure is managed via entering into appropriate forward contracts.
+It is of fundamental importance in maintaining a sustainable long-term business that the Group is aware and takes action to mitigate competitive threats, whether from technological change, or from competition. Effort is directed to ensure that the Group invests in appropriate and focused research and development activity and monitors technological advances and competitor activity. The Group has accelerated its investments in the year across its product portfolio as it looks to support global deployment and enhancement of its technologies offering. Linked to this, the Group is committed to protecting its technology by the development and/or purchase of patents and will take appropriate action to defend its intellectual property rights or ensure infringers enter into licensing arrangements. The Group capitalises appropriate levels of development expenditure but is exposed to the risk that development of a specific technology could suffer impairment.
+Key performance indicators
+Key performance indicators are used to measure and control both financial and operational performance. Guest attendance, transactional volumes and average revenue per guest, revenues, margins, costs and cash are trended to ensure plans are on track and corrective actions taken where necessary. Product development performance is also monitored and tracked through measurement against agreed milestones. In addition, further key performance indicators include the proportion of business that is delivered via mobile technology, number of venues where our technology is implemented, the proportion of guests that utilise our products and the sales mix of services offered.
+Risk management and internal control
+The Board is satisfied that the Group's risk management and internal control systems are adequate. At this stage the board do not consider it to be appropriate to establish an internal audit function.
+13
+
+accesso Technology Group plc
+Strategic report (continued) for the financial year ended 31 December 2015 On behalf of the board: John Alder Chief Financial Officer 15 March 2016
+14
+
+accesso Technology Group plc
+
+Report of the directors for the financial year ended 31 December 2015
+
+The directors present their report with the financial statements of the company and the Group for the financial year ended 31 December 2015.
+Dividends
+
+No dividends will be proposed for the financial year ended 31 December 2015. Research and development
+
+The Group's research and development activities relate to the development of technologies that can be deployed by entertainment operators and venue owners within leisure, entertainment and cultural markets. During the financial year ended 31 December 2015 the Group invested $12,004,257 into research and development (year ended 31 December 2014: $8,691,088).
+Directors
+
+The directors during the period under review were:
+
+John Weston, Non-Executive Chairman John Alder, Executive Steve Brown, Executive Tom Burnet, Executive Matt Cooper, Non-Executive David Gammon, Non-Executive Leonard Sim, Executive
+
+The company paid for sufficient directors and officer's indemnity insurance during the period, and to the date of approval of these financial statements, to enable the directors to carry out their duties.
+
+The beneficial interests of the directors holding office on 31 December 2015 in the issued share capital of the company were as follows:
+
+Ordinary share capital £0.01 shares
+
+As at 31 December 2015
+
+As at 1 January 2015
+
+John Weston, Non-Executive Chairman John Alder, Executive Steve Brown, Executive Tom Burnet, Executive (1) Matt Cooper, Non-Executive David Gammon, Non-Executive Leonard Sim, Executive
+(1) Shares held by the employee benefit trust of the company.
+
+125,144 6,612
+1,133,916 853,818 22,442 48,000
+2,043,575
+
+165,144 6,612
+1,133,916 853,818 22,442 48,000
+2,043,575
+
+Details of the directors' share options are disclosed on page 20.
+
+Financial instruments
+
+Details of the Group's financial risk management objectives and policies, including the use of financial instruments, are included within the accounting policies in note 3 to the financial statements.
+
+15
+
+accesso Technology Group plc
+
+Report of the directors (continued) for the financial year ended 31 December 2015
+Substantial shareholdings
+
+As at 10 March 2016 the company had been notified that the following were interested in 3% or more of the ordinary share capital of the company:
+
+Shareholder
+
+Number of ordinary shares
+
+% of Issued ordinary share capital
+
+BlackRock Investment Management
+FIL Limited Prudential plc group of companies Vision Invest Enterprises Limited Standard Life Investments Limited Mr Leonard Sim, Director Mr Steve Brown, Director accesso Employee Benefit Trust (On behalf of Mr Tom Burnet, Director)
+
+1,722,735 1,093,886 1,084,140 1,519,364 1,318,963 2,043,575 1,133,916
+853,818
+
+7.83% 4.98% 4.93% 6.91% 6.00% 9.30% 5.16%
+3.98%
+
+Annual general meeting
+
+The annual general meeting of the company will be held on Tuesday 24th May 2016. The notice convening the meeting is enclosed with these financial statements.
+Branch registration
+The company operates a branch in Germany.
+Corporate governance
+The Board of directors comprises four Executive directors and three independent Non-Executive directors, one of whom is the Chairman. The company holds board meetings regularly throughout the year at which financial and other reports are considered. The Board is responsible for formulating, reviewing and approving the Group's strategy, budgets and major items of expenditure.
+The committees of the Board
+The following committees have been established to assist the Board in fulfilling its responsibilities:
+Audit committee
+The members of the audit committee are David Gammon, John Weston and Matt Cooper, who chairs the committee.
+The committee met twice during the year to fulfil its duties. The Chairman, Chief Executive Officer, Chief Financial Officer and external auditors attended meetings by invitation.
+The committee is comprised of independent Non-Executive directors only and its terms of reference are to promote appropriate standards of integrity, financial reporting, risk management and internal controls. This committee is responsible for overseeing the involvement of the Group's auditors in the planning and review of the Group's financial statements, any other formal announcements relating to the Group's financial performance, for recommending the appointment and fees of its auditors, and for discussing with the auditors the findings of the audit and issues arising from the audit. It reviews the Group's compliance with accounting, legal and listing requirements. It is also responsible, along with the Board, for reviewing the effectiveness of the systems of internal control. The committee considers the independence and objectivity of the auditors with regard to the way in which they conduct their audit duties.
+
+16
+
+accesso Technology Group plc
+Report of the directors (continued) for the financial year ended 31 December 2015
+The committee looks to ensure that the auditors' independence is not compromised by their undertaking of non-audit services.
+Non-audit/tax advisory services are benchmarked by management to ensure value for money, auditor objectivity and independence of advice.
+The audit committee's recommendation is that BDO LLP be reappointed as the company's auditors and an appropriate resolution will be put before the shareholders at this year's annual general meeting.
+Remuneration committee
+The members of the remuneration committee are Matt Cooper, John Weston and David Gammon, who chairs the committee.
+The full committee met five times during the year to fulfil its duties. The committee considers and approves specific remuneration packages for each executive director following consultation with the chairman. In accordance with guidelines set by the Board, the committee determines the Group's policy on remuneration of senior executives and the operation of share option schemes, the grant of options and the implementation and operation of other long term incentive arrangements. Remuneration of EonExecutive directors is set by the Executive directors.
+It is considered that the composition and size of the Board does not warrant the appointment of a nominations committee and appointments are dealt with by the Board as a whole. The need to appoint such a committee is subject to review by the Board.
+Going concern
+After making appropriate enquiries, the directors have a reasonable expectation that the Group has adequate resources to continue in operational existence for the foreseeable future, with an underlying business that continues to perform well, confident Group outlook for 2016, and a strong balance sheet and cash position. For this reason, the Board continues to adopt the going concern basis in preparing the accounts.
+Disabled employees
+The Group's policy is one of equal opportunity in the selection, training, career development and promotion of staff. The Group has a policy not to discriminate against disabled employees for those vacancies that they are able to fill and will provide facilities, equipment and training to assist any disabled persons employed.
+All necessary assistance with initial training courses will be given. Once employed, a career plan will be developed so as to ensure suitable opportunities for each disabled person. Arrangements will be made, wherever possible, for re-training employees who become disabled, to enable them to perform work identified as appropriate to their aptitudes and abilities.
+Employees
+The Group's policy is to consult and engage with employees, by way of meetings, surveys and through personal contact by directors and other senior executives, matters likely to affect employees' interests.
+Information on matters of concern to employees is given in meetings, handouts, letters and reports, which seek to achieve a common awareness on the part of all employees on the financial and economic factors affecting the Group's performance.
+Relations with shareholders
+The company and Board recognise the importance of developing and maintaining good relationships with all the various categories of shareholders and devotes significant effort and resource in this respect.
+There have been regular dialogues with shareholders during the year including holding briefings with analysts and other investors including staff shareholders. The company also uses the annual general meeting as an opportunity to communicate with its shareholders. All directors are expected to attend the annual general meeting with the chairman of the audit, remuneration and nominations committees being available to answer shareholders' questions.
+17
+
+accesso Technology Group plc
+
+Report of the directors (continued) for the financial year ended 31 December 2015
+
+Notice of the date of the 2016 annual general meeting is included with this report. Separate resolutions on each substantially separate issue, in particular any proposal relating to the annual report and accounts, will be made at the annual general meeting.
+
+Directors' responsibilities The directors are responsible for preparing the annual report and the financial statements in accordance with applicable law and regulations.
+
+Company law requires the directors to prepare financial statements for each financial period. Under that law the directors have elected to prepare the Group and company financial statements in accordance with International Financial Reporting Standards (IFRSs) as adopted by the European Union. Under company law, the directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the Group and company and of the profit or loss of the Group and company for that period. The directors are also required to prepare financial statements in accordance with the rules of the London Stock Exchange for companies trading securities on the Alternative Investment Market.
+
+In preparing these financial statements, the directors are required to:
+
+·
+
+select suitable accounting policies and then apply them consistently;
+
+·
+
+make judgements and accounting estimates that are reasonable and prudent;
+
+·
+
+state whether they have been prepared in accordance with IFRSs as adopted by the European Union, subject to any
+
+material departures disclosed and explained in the financial statements;
+
+·
+
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will
+
+continue in business.
+
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the company's transactions and disclose with reasonable accuracy at any time the financial position of the company and enable them to ensure that the financial statements comply with the requirements of the Companies Act 2006. They are also responsible for safeguarding the assets of the company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+
+Website publication
+
+The directors are responsible for ensuring the annual report and the financial statements are made available on a website. Financial statements are published on the company's website in accordance with legislation in the United Kingdom governing the preparation and dissemination of financial statements, which may vary from legislation in other jurisdictions. The maintenance and integrity of the company's website is the responsibility of the directors. The directors' responsibility also extends to the ongoing integrity of the financial statements contained therein.
+Statement as to disclosure of information to auditors
+
+So far as the directors are aware, there is no relevant audit information (as defined by Section 418 of the Companies Act 2006) of which the Group's auditors are unaware, and each director has taken all the steps that he ought to have taken as a director in order to make himself aware of any relevant audit information and to establish that the Group's auditors are aware of that information.
+Auditors
+
+A resolution approving the re-appointment of BDO LLP will be proposed at the forthcoming annual general meeting.
+
+Remuneration committee policy
+
+The policy is to provide remuneration packages for Executive directors which aim to attract and retain high quality executives and which link their reward to the Group's performance. The committee regularly reviews the effectiveness of incentive schemes and, where considered necessary or appropriate in order to maximise shareholder value, the committee will consider updating existing scheme rules and/or implementing new schemes.
+
+18
+
+accesso Technology Group plc
+
+Report of the directors (continued) for the financial year ended 31 December 2015
+
+Executive directors' remuneration package
+
+The components of the remuneration package are base salary and benefits, bonuses, pension contributions and long-term incentive arrangements. Base salaries are reviewed by the committee annually, normally in January. The executives may also receive bonuses, depending on whether certain financial, operational or strategic objectives are met. The annual standard bonus plan for the Executive directors has a maximum threshold of between 80% and 100% of base salary and exceptional bonuses are considered at the committee's discretion. The benefits packages offered include private health insurance and payments to money purchase pension schemes. Notice periods for all executive directors are set at six months.
+
+Details of the directors' emoluments who served during the current or prior period are also set out below:
+
+Directors' emoluments
+Non - Executive directors John Weston Anthony Bone (3) Matt Cooper David Gammon (1)
+
+Salary Fees (1) $000 $000
+
+Bonus Other benefits
+$000 $000
+
+84
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+9
+
+44
+
+-
+
+-
+
+9
+
+44
+
+-
+
+-
+
+2015 Total
+$000
+
+2014 Total
+$000
+
+2015
+
+2014
+
+Retirement contributions
+
+$000
+
+$000
+
+84
+
+89
+
+-
+
+28
+
+53
+
+57
+
+53
+
+57
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Executive directors John Alder (2) Steve Brown (2) Tom Burnet Leonard Sim
+
+278
+
+- 111
+
+19
+
+408
+
+379
+
+299
+
+- 149
+
+6
+
+454
+
+420
+
+393
+
+- 292
+
+2
+
+687
+
+671
+
+39
+
+-
+
+-
+
+7
+
+46
+
+61
+
+19
+
+32
+
+-
+
+-
+
+32
+
+33
+
+4
+
+5
+
+Share-based payments
+
+1,111
+
+88 552
+
+34 1,785 1,762
+
+115
+
+41
+
+55
+
+70
+
+Total
+
+1,900
+
+1,803
+
+(1) Fee payments in respect of the services provided by David Gammon were paid to Rockspring (2) John Alder and Steve Brown are US citizens and are part of the US healthcare programs (3) Resigned 27 May 2014
+
+Tom Burnet was the highest paid director in 2015 (2014: Tom Burnet).
+
+19
+
+accesso Technology Group plc
+
+Report of the directors (continued) for the financial year ended 31 December 2015
+Share option scheme
+
+The share options of the directors are set out below:
+
+31 December Issued in
+
+2014
+
+the
+
+period
+
+Exercised in the period
+
+31 December 2015
+
+Share Options
+
+John Alder
+
+40,000
+
+-
+
+160,000
+
+-
+
+Steve Brown
+
+-
+
+-
+
+Tom Burnet
+
+-
+
+-
+
+Leonard Sim
+
+-
+
+-
+
+John Weston
+
+-
+
+-
+
+David Gammon (2)
+
+80,000
+
+-
+
+Matt Cooper
+
+30,400
+
+-
+
+-
+
+40,000
+
+-
+
+160,000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+80,000
+
+-
+
+30,400
+
+LTIP
+
+John Alder
+
+29,818
+
+-
+
+-
+
+- 42,127
+
+-
+
+Steve Brown
+
+32,028
+
+-
+
+-
+
+- 42,463
+
+-
+
+Tom Burnet
+
+45,395
+
+-
+
+-
+
+- 47,805
+
+-
+
+(1) Options may only be exercised when the share price is above £1.82
+
+(2) Held by Rockspring
+
+29,818 42,127 32,028 42,463 45,395 47,805
+
+Employee benefit trust share subscription and Tom Burnet equity incentive plan
+
+Exercise price
+
+Date from which
+exercisable
+
+Expiry Date
+
+57.5p 156p (1)
+156p 600p
+
+25 Jun 10 10 Mar 12
+10 Mar 12 25 Apr 15
+
+24 Jun 19 9 Mar 21
+9 Mar 21 25 Apr 23
+
+- 8 July 2017
+
+-
+
+- 15 Apr 2018
+
+-
+
+- 8 July 2017
+
+-
+
+- 15 Apr 2018
+
+-
+
+- 8 July 2017
+
+-
+
+- 15 Apr 2018
+
+-
+
+On 10 March 2011, the remuneration committee of the Board recommended, and the Board approved, an incentive arrangement pursuant to which the company lent its employee benefit trust (`'EBT'') £1,331,956, and the EBT subscribed for 853,818 new ordinary shares of 1 penny each in the company (`'New Ordinary Shares'').
+
+The EBT plan subsequently granted Tom Burnet an interest in the growth in value above a share price of £2 per share in the New Ordinary Shares. Cash reserves of the Group will not be impacted when this is realised. In addition, the EBT granted Tom Burnet an option to acquire, in relation to half of the new ordinary shares (426,909), the EBT's interest in the value between £1.30 and £2, provided that at the date of exercise the share price is above £1.82.
+The shares are registered in the name of Lo-Q (Trustees) Limited, a wholly owned subsidiary of the company. John Alder and Leonard Sim are directors of Lo-Q (Trustees) Limited.
+Long Term Incentive Plan Awards
+
+On 15 April 2015, the company granted conditional share awards ("Awards") over ordinary shares of 1 penny each under the accesso Technology Group 2014 Long Term Incentive Plan which was approved by shareholders on 27 May 2014. Awards were granted to Tom Burnet (47,805 shares), John Alder (42,127 shares) and Steve Brown (42,463 shares).
+On 8 July 2014, the company granted conditional share awards ("Awards") over ordinary shares of 1 penny each under the accesso Technology Group 2014 Long Term Incentive Plan which was approved by shareholders on 27 May 2014. Awards were granted to Tom Burnet (45,395 shares), John Alder (29,818 shares) and Steve Brown (32,028 shares).
+The Awards vest three years from the date of grant and are required to be held for a further six months and are subject to certain performance conditions relating to the achievement of compound share price growth rates as detailed in note 25. No consideration will be paid for the conditional shares upon their vesting.
+
+20
+
+accesso Technology Group plc
+Report of the directors (continued) for the financial year ended 31 December 2015 On behalf of the board John Alder Chief Financial Officer 15 March 2016
+21
+
+accesso Technology Group plc
+Report of the independent auditors to the members of accesso Technology Group plc for the financial year ended 31 December 2015
+We have audited the financial statements of accesso Technology Group plc for the financial year ended 31 December 2015 which comprise the consolidated statement of comprehensive income, the consolidated and company statements of financial position, the consolidated and company statements of cash flow, the consolidated and company statements of changes in equity and the related notes. The financial reporting framework that has been applied in their preparation is applicable law and International Financial Reporting Standards (IFRSs) as adopted by European Union and, as regards the parent company financial statements, as applied in accordance with the provisions of Companies Act 2006.
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to the company's members those matters we are required to state to them in an auditor's report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the company and the company's members as a body, for our audit work, for this report, or for the opinions we have formed.
+Respective responsibilities of directors and auditors As explained more fully in the director's responsibilities statement, the directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view. Our responsibility is to audit and express an opinion on the financial statements in accordance with applicable law and International Standards on Auditing (UK and Ireland). Those standards require us to comply with the Financial Reporting Council's (FRC's) Ethical Standards for Auditors.
+Scope of the audit of the financial statements A description of the scope of an audit of financial statements is provided on the FRC's website at www.frc.org.uk/auditscopeukprivate.
+Opinion on financial statements In our opinion: · the financial statements give a true and fair view of the state of the Group's and of the parent company's affairs as at 31
+December 2015 and of the Group's profit for the year then ended; · the Group financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union; · the parent company financial statements have been properly prepared in accordance with IFRSs as adopted by the European
+Union and as applied in accordance with the provisions of the Companies Act 2006; and · the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+Opinion on other matters prescribed by the Companies Act 2006 In our opinion the information given in the strategic report and directors' reports for the financial year for which the financial statements are prepared is consistent with the financial statements.
+Matters on which we are required to report by exception We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you if, in our opinion: · adequate accounting records have not been kept by the parent company, or returns adequate for our audit have not been
+received from branches not visited by us; or · the parent company financial statements are not in agreement with the accounting records and returns; or · certain disclosures of directors' remuneration specified by law are not made; or · we have not received all the information and explanations we require for our audit.
+Simon Brooker (senior statutory auditor) For and on behalf of BDO LLP, statutory auditors Reading, United Kingdom
+15 March 2016 BDO LLP is a limited liability partnership registered in England and Wales (with registered number OC305127)
+22
+
+accesso Technology Group plc
+
+Consolidated statement of comprehensive income for the financial year ended 31 December 2015
+Revenue Cost of sales Gross profit Administrative expenses Operating profit Finance expense Finance income Profit before tax Income tax Profit for the period
+
+Notes 4
+7 7 8
+
+2015 $000 93,169 (47,206) 45,963 (38,255) 7,708 (491)
+3 7,220 (1,851) 5,369
+
+Other comprehensive income Items that will be reclassified to income statement Exchange differences on translating foreign operations ­ 2014 restated ­ see note 1
+Other comprehensive income net of tax Total comprehensive income
+
+32 32 5,401
+
+Profit attributable to: Owners of the parent Non-controlling interest
+Total comprehensive income attributable to: Owners of the parent Non-controlling interest
+Earnings per share expressed in cents per share: Basic Diluted
+
+5,367 2
+5,369
+
+5,399 2
+5,401
+
+10
+
+24.47
+
+10
+
+23.49
+
+2014 $000 75,091 (43,086) 32,005 (26,534) 5,471 (344)
+2 5,129 (1,344) 3,785
+(1,297) (1,297)
+2,488
+3,785 -
+3,785
+2,488 -
+2,488 18.49 18.16
+
+All activities of the company are classified as continuing. The notes on pages 30 to 66 form part of these consolidated financial statements.
+23
+
+accesso Technology Group plc
+
+Consolidated statement of financial position for the financial year ended 31 December 2015
+Registered Number: 03959429
+Assets Non-current assets Intangible assets Property, plant and equipment Deferred tax assets
+
+31 December 2015
+
+Notes
+
+$000
+
+31 December 2014 $000
+
+11
+
+71,924
+
+12
+
+3,077
+
+18
+
+5,666
+
+80,667
+
+71,083 2,733 5,696
+79,512
+
+Current assets Inventories Trade and other receivables Income tax receivable Cash and cash equivalents
+Liabilities Current liabilities Trade and other payables Finance lease liabilities Income tax payable
+
+14
+
+561
+
+16
+
+9,080
+
+878
+
+15
+
+5,307
+
+15,826
+
+17
+
+9,181
+
+19
+
+51
+
+84
+
+9,316
+
+648 6,946 1,052 5,693 14,339
+7,999 48 -
+8,047
+
+Net current assets
+
+6,510
+
+6,292
+
+Non-current liabilities Deferred tax liabilities Finance lease liabilities Borrowings
+Total liabilities
+
+18
+
+8,850
+
+19
+
+63
+
+20
+
+14,700
+
+23,613
+
+32,929
+
+8,804 114
+20,000 28,918
+36,965
+
+Net assets
+
+63,564
+
+56,886
+
+Shareholders' equity Called up share capital Share premium Own shares held in trust Other reserves Retained earnings Merger relief reserve Translation reserve Total attributable to equity holders
+
+21
+
+326
+
+24,313
+
+(1,971)
+
+3,427
+
+21,033
+
+13,810
+
+2,624
+
+63,562
+
+342 25,229 (2,076)
+2,593 16,236 14,540
+22 56,886
+
+Non-controlling interest
+
+2
+
+-
+
+Total shareholders' equity
+
+63,564
+
+56,886
+
+The financial statements were approved by the board of directors on 15 March 2016 and were signed on its behalf by:
+
+Tom Burnet Chief Executive Officer
+The notes on pages 30 to 66 form part of these consolidated financial statements.
+
+24
+
+accesso Technology Group plc
+
+Company statement of financial position for the financial year ended 31 December 2015
+Registered Number: 03959429
+Assets Non-current assets Intangible assets Investments in subsidiaries Property, plant and equipment Deferred tax asset
+Current Assets Inventories Trade and other receivables Income tax receivable Cash and cash equivalents
+Liabilities Current liabilities Trade and other payables Income tax payable
+Net current assets
+Non-current liabilities Deferred tax Borrowings
+Total liabilities
+Net assets
+
+31 December 2015
+
+Notes
+
+$000
+
+31 December 2014 $000
+
+11
+
+2,428
+
+13
+
+45,614
+
+12
+
+1,132
+
+18
+
+283
+
+49,457
+
+2,356 47,948
+1,377 195
+51,876
+
+14
+
+360
+
+16
+
+18,662
+
+-
+
+15
+
+1,734
+
+20,756
+
+403 20,528
+903 1,309 23,143
+
+17
+
+1,247
+
+84
+
+1,331
+
+19,425
+
+18
+
+228
+
+20
+
+14,700
+
+14,928
+
+16,259
+
+53,954
+
+1,461 -
+1,461
+21,682
+32 20,000 20,032
+21,493
+53,526
+
+Shareholders' equity Called up share capital Share premium Other reserves Retained earnings Merger relief reserve Translation reserve Total shareholders' equity
+
+21
+
+326
+
+24,313
+
+2,475
+
+13,384
+
+13,810
+
+(354)
+
+53,954
+
+342 25,229
+1,831 11,672 14,540
+(88) 53,526
+
+The financial statements were approved by the board of directors on 15 March 2016 and were signed on its behalf by:
+Tom Burnet Chief Executive Officer
+
+The notes on pages 30 to 66 form part of these consolidated financial statements. 25
+
+accesso Technology Group plc
+Consolidated statement of cash flow for the financial year ended 31 December 2015
+Cash flows from operating activities Cash generated from operations Tax paid
+Net cash inflow from operating activities
+Cash flows from investing activities Acquisition of subsidiary, net of cash acquired Additional consideration to sellers of subsidiary Purchase of intangible fixed assets Purchase of property, plant and equipment Interest received
+Net cash used in investing activities
+Cash flows from financing activities Share Issue Interest paid Payments to finance lease creditors (Repayments) / proceeds of borrowings
+Net cash (used in) / generated from financing activities
+(Decrease) / increase in cash and cash equivalents Cash and cash equivalents at beginning of year Exchange loss on cash and cash equivalents
+Cash and cash equivalents at end of year
+
+Notes 26 11
+15
+
+2015 $000
+14,712 (1,094)
+13,618
+(293) (6,224) (1,785)
+3
+(8,299)
+351 (468)
+(48) (5,300)
+(5,465)
+(146) 5,693 (240)
+5,307
+
+2014 $000
+10,640 (1,340)
+9,300
+(18,088) -
+(2,697) (825) 2
+(21,608)
+402 (344) (46) 12,500
+12,512
+204 5,489
+-
+5,693
+
+The notes on pages 30 to 66 form part of these consolidated financial statements. 26
+
+accesso Technology Group plc
+Company statement of cash flow for the financial year ended 31 December 2015
+Cash flows from operating activities Cash generated from operations Tax received
+Net cash inflow from operating activities
+Cash flows from investing activities Acquisition of subsidiary Additional consideration to sellers of subsidiary Purchase of intangible fixed assets Purchase of property, plant and equipment Interest received
+Net cash used in investing activities
+Cash flows from financing activities Share Issue Interest paid (Repayments) / proceeds from borrowings
+Net cash (used in) / generated from financing activities
+Increase/ (decrease) in cash and cash equivalents Cash and cash equivalents at beginning of year Exchange loss on cash and cash equivalents
+Cash and cash equivalents at end of year
+
+Notes 26 11
+15
+
+2015 $000
+7,070 666
+7,736
+(293) (1,027) (518)
+-
+(1,838)
+351 (458) (5,300)
+(5,407)
+491 1,309
+(66)
+1,734
+
+2014 $000
+5,957 97
+6,054
+(18,781) -
+(1,004) (473) 2
+(20,256)
+402 (332) 12,500
+12,570
+(1,632) 2,941 -
+1,309
+
+The notes on pages 30 to 66 form part of these consolidated financial statements. 27
+
+accesso Technology Group plc
+
+Statement of changes in Group equity for the financial year ended 31 December 2015
+
+Balance at 31 December 2014
+
+Share capital
+$000
+
+Share premium
+$000
+
+Retained earnings
+$000
+
+342
+
+25,229 16,236
+
+Merger relief
+reserve
+$000
+
+Other reserves
+$000
+
+14,540
+
+2,593
+
+Own shares held in
+trust
+$000
+
+Translation reserve
+$000
+
+(2,076)
+
+22
+
+Comprehensive income for the year
+
+Profit for period Exchange differences on translating foreign operations Total comprehensive income for the year
+
+-
+
+-
+
+5,367
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+32
+
+-
+
+-
+
+5,367
+
+-
+
+-
+
+-
+
+32
+
+Contributions by and distributions by owners
+
+Issue of share capital
+
+1
+
+350
+
+-
+
+-
+
+-
+
+-
+
+Share based payments Share option tax credit - current Share option tax credit - deferred Exchange differences on opening balances Total contributions by and distributions by owners
+
+-
+
+-
+
+-
+
+-
+
+629
+
+-
+
+-
+
+-
+
+-
+
+-
+
+35
+
+-
+
+-
+
+-
+
+-
+
+-
+
+262
+
+-
+
+(17)
+
+(1,266)
+
+(570)
+
+(730)
+
+(92)
+
+105
+
+(16)
+
+(916)
+
+(570)
+
+(730)
+
+834
+
+105
+
+2,570
+2,570
+
+Balance at 31 December 2015
+
+326
+
+24,313 21,033 13,810
+
+3,427 (1,971)
+
+2,624
+
+Balance at 31 December 2013
+
+335
+
+26,404 13,148
+
+-
+
+2,658 (2,133)
+
+(873)
+
+Comprehensive income for the year
+
+Profit for period
+
+-
+
+Exchange differences
+
+on translating foreign
+
+operations ­ restated
+
+see note 1
+
+-
+
+Total comprehensive
+
+income for the year
+
+-
+
+-
+
+3,785
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(1,297)
+
+-
+
+3,785
+
+-
+
+-
+
+-
+
+(1,297)
+
+Contributions by and distributions by owners
+
+Issue of share capital
+
+27
+
+399
+
+- 14,540
+
+-
+
+-
+
+-
+
+Share based payments Share option tax credit - current Share option tax credit - deferred Exchange differences on opening balances ­ restated see note 1 Total contributions by and distributions by owners - restated
+
+-
+
+-
+
+-
+
+-
+
+353
+
+-
+
+-
+
+-
+
+-
+
+-
+
+316
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(776)
+
+-
+
+(20)
+
+(1,574)
+
+(697)
+
+-
+
+42
+
+57
+
+7
+
+(1,175)
+
+(697) 14,540
+
+(65)
+
+57
+
+-
+2,192
+2,192
+
+Balance at 31 December 2014
+
+342
+
+25,229 16,236 14,540
+
+2,593 (2,076)
+
+22
+
+Attributable to equity holders $000 56,886
+5,367 32
+5,399
+351 629 35 262
+-
+1,277
+63,562
+39,539
+3,785
+(1,297) 2,488
+14,966 353 316
+(776)
+-
+14,859
+56,886
+
+Noncontrolling
+interest $000
+-
+
+Total $000
+56,886
+
+2
+
+5,369
+
+-
+
+32
+
+2
+
+5,401
+
+-
+
+351
+
+-
+
+629
+
+-
+
+35
+
+-
+
+262
+
+-
+
+-
+
+-
+
+1,277
+
+2
+
+63,564
+
+-
+
+39,539
+
+-
+
+3,785
+
+-
+
+(1,297)
+
+-
+
+2,488
+
+-
+
+14,966
+
+-
+
+353
+
+-
+
+316
+
+-
+
+(776)
+
+-
+
+-
+
+-
+
+14,859
+
+-
+
+56,886
+
+28
+
+accesso Technology Group plc
+
+Statement of changes in Company equity for the financial year ended 31 December 2015
+
+Balance at 31 December 2014
+
+Share capital
+$000
+342
+
+Share premium
+$000
+25,229
+
+Comprehensive income for the year
+
+Profit for period
+
+-
+
+-
+
+Exchange differences on translating foreign operations
+
+-
+
+-
+
+Total comprehensive income for the year
+
+-
+
+-
+
+Contributions by and distributions by owners
+
+Issue of share capital
+
+1
+
+Share based payments
+
+-
+
+Share option tax credit current
+
+-
+
+Exchange differences on opening balances
+
+(17)
+
+Total contributions by and
+
+distributions by owners
+
+(16)
+
+Balance at 31 December 2015
+
+326
+
+350 -
+(1,266)
+(916)
+24,313
+
+Balance at 31 December 2013
+
+335
+
+26,404
+
+Comprehensive income for the year
+
+Profit for period
+
+-
+
+-
+
+Exchange differences on
+
+translating foreign operations ­
+
+-
+
+-
+
+restated see note 1
+
+Total comprehensive income
+
+for the year
+
+-
+
+-
+
+Contributions by and distributions by owners
+
+Issue of share capital
+
+27
+
+Share based payments
+
+-
+
+Share option tax credit current
+
+-
+
+Share option tax credit deferred
+
+-
+
+Exchange differences on
+
+opening balances ­ restated see
+
+(20)
+
+note 1
+
+Total contributions by and
+
+distributions by owners -
+
+7
+
+restated
+
+Balance at 31 December 2014
+
+342
+
+399 -
+(1,574)
+(1,175)
+25,229
+
+Retained earnings
+$000 11,672
+2,329 -
+2,329
+(617)
+(617) 13,384 10,785
+1,216 -
+1,216
+(329)
+(329)
+11,672
+
+Merger relief reserve $000
+14,540
+
+Other reserves
+$000
+1,831
+
+Translation reserve $000
+(88)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(2,989)
+
+-
+
+-
+
+(2,989)
+
+(730)
+(730) 13,810
+-
+-
+-
+
+629 108 (93)
+644 2,475 1,516
+-
+-
+
+2,723
+2,723 (354)
+(21)
+(1,854)
+(1,854)
+
+14,540 -
+-
+
+353 318 (492)
+136
+
+-
+1,787
+
+14,540 14,540
+
+315 1,831
+
+1,787 (88)
+
+Total $000 53,526
+2,329 (2,989)
+(660)
+351 629 108
+-
+1,088 53,954 39,019
+1,216 (1,854)
+(638)
+14,966 353 318
+(492) -
+15,145
+53,526
+
+29
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements for the financial year ended 31 December 2015
+
+1.
+
+Accounting Policies
+
+Basis of preparation
+
+accesso Technology Group plc is a public limited company incorporated in the United Kingdom, whose shares are publicly traded on the AIM market. The company is domiciled in the United Kingdom and its registered address is Unit 5, The Pavilions, Ruscombe Park, Twyford, Berkshire RG10 9 NN.
+
+The Group's principal activities are the development and application of ticketing, mobile and eCommerce technologies, and virtual queuing solutions for the attractions and leisure industry.
+Statement of compliance with IFRS
+
+The Group's financial statements have been prepared in accordance with International Financial Reporting Standards, International Accounting Standards, and related interpretations (collectively IFRSs) issued by the International Accounting Standards Board (IASB) as adopted by the European Union ("adopted IFRSs").
+
+The principal accounting policies adopted in the preparation of the financial statements are set out below. The policies have been consistently applied to all the periods presented, unless otherwise stated.
+
+New standards that have been adopted during the period
+
+·
+
+Annual improvements to IFRSs
+
+The adoption of the above has not had a material impact on the financial statements during the period ended 31 December 2015.
+New standards and interpretations not yet adopted
+
+A number of new standards, amendments to standards, and interpretations are not effective for 2015, and therefore have not been applied in preparing these accounts. The effective dates shown are for periods commencing on the date quoted.
+
+·
+
+IFRS 15 Revenue from Contracts with Customers (effective 1 January 2018)
+
+·
+
+IFRS 9 Financial Instruments (effective 1 January 2018)
+
+·
+
+IFRS 16 Leases (effective 1 January 2019)
+
+·
+
+Clarification of Acceptable Methods of Depreciation and Amortisation: Amendments to IAS 16 and IAS 38
+
+(effective 1 January 2016)
+
+·
+
+Equity Method in Separate Financial Statements (Amendments to IAS 27) (effective 1 January 2016)
+
+·
+
+Disclosure Initiative: Amendments to IAS 1 (effective 1 January 2016)
+
+·
+
+Disclosure Initiative: Amendments to IAS 7 (effective 1 January 2017)
+
+·
+
+Annual improvements to IFRSs
+
+At the date of authorisation of these financial statements, the directors have considered the standards and interpretations which have not been applied in these financial statements, were in issue but not yet effective (and in some cases had not yet been adopted by the EU) and only IFRS 15 "Revenue from Contracts with Customers" was considered to be relevant. The directors are still assessing whether the application of IFRS 15, once effective, will have a material impact on the results of the company. Adoption of the other standards and interpretations referred to above is not expected to have a material impact on the results of the company. Application of these standards may result in some changes in presentation of information within the company's financial statements.
+
+30
+
+accesso Technology Group plc
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Basis of accounting
+The financial statements of accesso have been prepared in accordance with EU Endorsed International Financial Reporting Standards and IFRIC interpretations (IFRS) and the Companies Act 2006, applicable to companies reporting under IFRS.
+Basis of consolidation
+The consolidated financial statements incorporate the results of accesso and all of its subsidiary undertakings as at 31 December 2015 using the acquisition method of accounting. Subsidiaries are all entities over which the Group has the power to govern the financial and operating policies generally accompanying a shareholding of more than half of the voting rights. The results of subsidiary undertakings are included from the date of acquisition.
+Disclosure and details of the subsidiaries are provided in note 13.
+Investments including the shares in subsidiary companies held as fixed assets are stated at cost less any provision for impairment in value. Where necessary, adjustments are made to the financial statements of subsidiaries to bring the accounting policies used in line with those used by the Group.
+All intra-Group transactions, balances, income and expenses are eliminated on consolidation.
+Lo-Q (Trustees) Limited, a subsidiary company that holds an employee benefit trust on behalf of accesso Technology Group plc is under control of the board of directors and hence has been consolidated into the Group results.
+The acquisition of subsidiaries is accounted for using the purchase method. The cost of the acquisition is measured at the aggregate of the fair value, at the date of exchange, of assets given, liabilities incurred or assumed, and equity instruments issued by the Group in exchange for control of the acquiree. Any costs directly attributable to the business combination are written off to the Group income statement in the period incurred. The acquiree's identifiable assets, liabilities, and contingent liabilities that meet the conditions under IFRS 3 are recognised at their fair value at the acquisition date.
+Goodwill arising on acquisition is recognised as an asset and initially measured at cost, being the excess of the cost of the business combination over the Group's interest in the net fair value of the identifiable assets, liabilities, and contingent liabilities recognised.
+Presentation currency
+Effective 1 January 2014 the Group's presentation currency was changed to USD, as the Board considered that this is more closely aligned with the global operations of the Group. Additionally, the company's presentation currency of USD is different to its functional currency. Equity in the company is retranslated at closing rate with the retranslation difference recognised directly in the translation reserve. Retranslation differences recognised in other comprehensive income will be reclassified to profit or loss in the event of a disposal of the business.
+Revenue recognition
+Revenue primarily arises from the development and application of virtual queuing technologies and the rental of such technology by theme park, water park or attraction guests, eCommerce ticketing and sales in relation to point of sale and guest management software licences, and related hardware.
+Revenue, in relation to virtual queuing, represents either total rentals, net of sales taxes, to theme park, water park or attraction guests, where the Group is responsible for the operation within the park or attraction, or the Group's share of such rental. Where total revenue is accounted for, the park operator's share of such rental is included within cost of sales.
+31
+
+accesso Technology Group plc
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Revenue recognition (continued)
+Ticketing revenue is recognised on a transactional basis and point of sale revenue is recognised on transfer of the goods or services.
+Revenue in relation to point of sale and guest management software licences is recognised at the point that the customer accepts the installation.
+Interest expense recognition
+Expense is recognised as interest accrues, using the effective interest method, to the net carrying amount of the financial liability.
+Employee expenses
+The Group issues equity-settled share-based payments to full time employees. Equity-settled share-based payments are measured at the fair value at the date of grant. The fair value determined at the grant date of the equity-settled share-based payments is expensed on a straight-line basis over the vesting period, based on the Group's estimate of shares that will eventually vest.
+The fair value of Enterprise Management Incentive (EMI) and unapproved share options is measured by use of a BlackScholes model, and share options issued under the Long Term Incentive Plan (LTIP) are measured using the Monte Carlo method due to the market-based conditions upon which vesting is dependent. The expected life used in the model has been adjusted, based on management's best estimate, for the effects of non-transferability, exercise restrictions, and behavioural considerations.
+The LTIP awards contain market-based vesting conditions. Market vesting conditions are factored into the fair value of the options granted. As long as all other vesting conditions are satisfied, a charge is made irrespective of whether the market vesting conditions are satisfied. The cumulative expense is not adjusted for failure to achieve a market vesting condition or where a non-vesting condition is not satisfied.
+Commitments under leases
+Where substantially all of the risks and rewards incidental to ownership are not transferred to the Group (an "operating lease"), the total rentals payable under the lease are charged to the consolidated statement of comprehensive income on a straight-line basis over the lease term. The aggregate benefit of lease incentives is recognised as a reduction of the rental expense over the lease term on a straight-line basis.
+Where substantially all of the risks and rewards incidental to ownership of a leased asset have been transferred to the Group (a "finance lease"), the asset is treated as if it had been purchased outright. The amount initially recognised as an asset is the lower of the fair value of the leased property and the present value of the minimum lease payments payable over the term of the lease. The corresponding lease commitment is shown as a liability.
+Finance lease payments are analysed between capital and interest. The interest element is charged to the consolidated statement of comprehensive income over the period of the lease and is calculated so that it represents a constant proportion of the lease liability. The capital element reduces the balance owed to the lessor.
+Property, plant and equipment
+Items of property, plant and equipment are stated at cost of acquisition or production cost less accumulated depreciation and impairment losses.
+32
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+Property, plant and equipment (continued)
+
+Depreciation is charged so as to write off the cost of assets over their estimated useful lives, using the straight-line method, on the following bases:
+
+Plant and machinery Office equipment Installed systems Furniture and fixtures
+
+33.3% 20.0 - 33.3% 25 - 33.3%, or seasons within life of contract 20%
+
+For installed systems the depreciation is charged over a season of operation as this directly reflects the period of operation of the assets in which economic benefits are generated.
+Inventories
+
+Stocks are valued at the lower of cost and net realisable value, after making due allowance for obsolete and slow moving items. Stocks are calculated on a first in, first out basis.
+
+Park installations are valued on the basis of the cost of stock items and labour plus attributable overheads. Net realisable value is based on estimated selling price less additional costs to completion and disposal.
+Deferred tax
+
+Deferred tax assets and liabilities are recognised where the carrying amount of an asset or liability in the consolidated and company statements of financial position differs from its tax base, except for differences arising on:
+
+·
+
+the initial recognition of goodwill;
+
+·
+
+the initial recognition of an asset or liability in a transaction which is not a business combination and at the
+
+time of the transaction affects neither accounting or taxable profit; and
+
+·
+
+investments in subsidiaries and jointly controlled entities where the Group is able to control the timing of the
+
+reversal of the difference and it is probable that the difference will not reverse in the foreseeable future.
+
+Recognition of deferred tax assets is restricted to those instances where it is probable that taxable profit will be available against which the difference can be utilised.
+
+The amount of the asset or liability is determined using tax rates that have been enacted or substantively enacted by the reporting date and are expected to apply when the deferred tax liabilities / (assets) are settled / (recovered).
+
+Deferred tax assets and liabilities are offset when the Group has a legally enforceable right to offset current tax assets and liabilities and the deferred tax assets and liabilities relate to taxes levied by the same tax authority on either:
+
+·
+
+the same taxable Group company; or
+
+·
+
+different Group entities which intend either to settle current tax assets and liabilities on a net basis, or to
+
+realise the assets and settle the liabilities simultaneously, in each future period in which significant amounts
+
+of deferred tax assets or liabilities are expected to be settled or recovered.
+
+Current income tax
+
+The tax expense for the period comprises current and deferred tax. Tax is recognised in the income statement, except to the extent that it relates to items recognised in other comprehensive income or directly in equity. In this case, the tax is also recognised in other comprehensive income or directly in equity, respectively.
+
+The current income tax charge is calculated on the basis of the tax laws enacted or substantively enacted at the balance sheet date in the countries where the company and its subsidiaries operate and generate taxable income. Management periodically evaluates positions taken in tax returns with respect to situations in which applicable tax regulation is
+
+33
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+Current income tax (continued)
+
+subject to interpretation. It establishes provisions where appropriate on the basis of amounts expected to be paid to the tax authorities.
+Goodwill and intangible assets
+
+Goodwill is carried at cost less any provision for impairment. Intangible assets are valued at cost less amortisation and any provisions for impairment.
+
+Goodwill arising on business combinations (representing the excess of fair value of the consideration given over the fair value of the separable net assets acquired) is capitalised, and its subsequent measurement is based on annual impairment reviews, with any impairment losses recognised immediately in the income statement. Direct costs of acquisition are recognised immediately in the income statement as an expense.
+
+Externally acquired intangible assets
+
+Intangible assets are capitalised at cost and amortised to nil by equal annual instalments over their estimated useful economic life.
+
+Intangible assets are recognised on business combinations if they are separable from the acquired entity. The amounts ascribed to such intangibles are arrived at by using appropriate valuation techniques (see note 11). The significant intangibles recognised by the Group and their useful economic lives are as follows:
+
+·
+
+Brand name over 3 years
+
+·
+
+Customer relationships over 10-15 years
+
+·
+
+Intellectual property over 5-7 years
+
+Internally generated intangible assets (research and development costs)
+
+Expenditure on internally developed products is capitalised if it can be demonstrated that:
+
+·
+
+It is technically feasible to develop the product for it to be sold;
+
+·
+
+Adequate resources are available to complete the development;
+
+·
+
+There is an intention to complete and sell the product;
+
+·
+
+The Group is able to sell the product;
+
+·
+
+Sale of the product will generate future economic benefits; and
+
+·
+
+Expenditure on the project can be measured reliably.
+
+Capitalised development costs are amortised over the periods the Group expects to benefit from selling the products developed, which is estimated to be 3 to 5 years. The amortisation expense is included within administrative expenses in the consolidated income statement.
+
+Development expenditure not satisfying the above criteria and expenditure on the research phase of internal projects are recognised in the consolidated income statement as incurred.
+Research and development
+
+In accordance with IAS 38 'Intangible Assets', expenditure incurred on research and development is distinguished as either to a research phase or to a development phase.
+
+All advanced research phase expenditure is charged to the income statement. For development expenditure, this is capitalised as an internally generated intangible asset, only if it meets criteria noted above.
+
+34
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+Research and development (continued)
+
+Development expenditure is capitalised and amortised within administrative expenses on a straight line basis over its useful economic life, which is considered to be up to a maximum of 5 years. The Group has contractual commitments for development costs of $nil (2014: $nil).
+
+Intellectual property rights and patents
+
+Intellectual property rights comprise assets acquired, being external costs, relating to know how, patents, and licences. These assets have been capitalised at the fair value of the assets acquired and are amortised within administrative expenses on a straight line basis over their estimated useful economic life of 5 to 9 years.
+Foreign currency exchange
+
+Transactions entered into by Group entities in a currency other than the currency of the primary economic environment in which they operate (their "functional currency") are recorded at the rates ruling when the transactions occur. Foreign currency monetary assets and liabilities are translated at the rates ruling at the reporting date.
+
+The company's statement of financial position has been retranslated from its functional currency to United States dollars at rates approximating to those ruling when the transactions took place. All assets and liabilities of overseas operations, including goodwill arising on the acquisition of those operations, are translated at the rate ruling at the reporting date. Exchange differences on translating the opening net assets at opening rate and the results of operations at actual rates are recognised in other comprehensive income and accumulated in the translation reserve.
+
+On disposal of a foreign operation, the cumulative exchange differences recognised in the foreign exchange reserve relating to that operation up to the date of disposal are transferred to the consolidated statement of comprehensive income as part of the profit or loss on disposal.
+
+Pension costs
+
+Contributions to the Group's defined contribution pension scheme are charged to the Consolidated statement of comprehensive income in the period in which they become due.
+Financial assets
+
+The Group classifies all its financial assets into one of the following categories, depending on the purpose for which the asset was acquired. The Group's accounting policy for each category is as follows:
+
+·
+
+Loans and receivables are non-derivative financial assets with fixed or determinable payments that are not
+
+quoted in an active market. They arise principally through the provision of goods and services to customers (trade
+
+receivables), but also incorporate other types of contractual monetary asset.
+
+·
+
+Trade receivables are initially recognised by the Group and carried at original invoice amount less an
+
+allowance for any uncollectible or impaired amounts. An estimate for doubtful debts is made when collection of the
+
+full amount is no longer probable. Bad debts are written off when they are identified as being bad. Other receivables
+
+are recognised at fair value.
+
+·
+
+Cash and cash equivalents in the statement of financial position comprise cash at bank, cash in hand and
+
+short term deposits with an original maturity of three months or less. Bank overdrafts that are repayable on demand
+
+and form an integral part of the Group's cash management are included as a component of cash and cash equivalents
+
+for the purposes of the consolidated cash flow statement.
+
+·
+
+Impairment is recognised if there is objective evidence that the balance will not be recovered.
+
+35
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Financial assets (continued)
+
+The Group's loans and receivables comprise trade and other receivables and cash and cash equivalents in the statement of financial position.
+Financial liabilities
+
+The Group treats its financial liabilities in accordance with the following accounting policy:
+
+·
+
+Trade payables and other short-term monetary liabilities are recognised at fair value and subsequently at
+
+amortised cost.
+
+·
+
+Bank borrowings and finance leases are initially recognised at fair value net of any transaction costs directly
+
+attributable to the issue of the instrument. Such interest bearing liabilities are subsequently measured at amortised
+
+cost using the effective interest rate method, which ensures that any interest expense over the period to repayment is
+
+at a constant rate on the balance of the liability carried in the statement of financial position. "Interest expense" in this
+
+context includes initial transaction costs and premiums payable on redemption, as well as any interest payable while
+
+the liability is outstanding.
+
+Equity instruments
+
+Equity instruments are recorded at the proceeds received, net of direct issue costs.
+
+Employee benefit trust (EBT)
+
+As the company is deemed to have control of its EBT, it is treated as a subsidiary and consolidated for the purposes of the consolidated financial statements. The EBT's assets (other than investments in the company's shares), liabilities, income, and expenses are included on a line-by-line basis in the consolidated financial statements. The EBT's investment in the company's shares is deducted from equity in the consolidated statement of financial position as if they were treasury shares.
+Restatement of other comprehensive income
+The 2014 consolidated statement of comprehensive income and statement of changes in Group equity have been restated to remove from other comprehensive income $2.192m of exchange gains predominantly arising on the retranslation of the parent company's equity from Sterling (its functional currency) into US Dollars (the Group's presentational currency). This retranslation difference has instead been recognised directly in equity. The exchange loss recognised in the consolidated statement of comprehensive income now includes only the net exchange differences arising on the retranslation of the recognised assets, liabilities and profit of the Group's non-US Dollarfunctional currency operations. The restatement has had no effect on the consolidated statement of financial position. The 2014 statement of changes in the company's equity has been restated to remove from other comprehensive income $1.787m of exchange differences gains, arising on the translation of the parent company's equity from Sterling (its functional currency) into US Dollars (its presentational currency). The exchange loss recognised in other comprehensive income now includes only the net exchange differences arising on the retranslation of the company's recognised assets, liabilities and loss in the year. The restatement has had no effect on the company statement of financial position.
+
+2.
+
+Critical estimates and judgements
+
+The Group makes judgements and assumptions concerning the future that impact the application of policies and reported amounts. The resulting accounting estimates calculated using these judgements and assumptions may not equal the related actual results, but are based on historical experience and expectations of future events. The
+
+36
+
+accesso Technology Group plc
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Critical estimates and judgements (continued)
+judgements and key sources of estimation uncertainty that have a significant effect on the amounts recognised in the financial statements are discussed below.
+Impairment of assets
+Financial and non-financial assets, including other intangibles, are subject to impairment reviews based on whether current or future events and circumstances suggest that their recoverable amount may be less than their carrying value. Recoverable amount is based on a calculation of expected future cash flows which includes management assumptions and estimates of future performance.
+The recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any). Where the asset does not generate cash flows that are independent from other assets, the Group estimates the recoverable amount of the cash-generating unit to which this asset belongs. An intangible asset with an indefinite useful life is tested for impairment annually and whenever there is an indication that the asset may be impaired.
+Recoverable amount is the higher of the fair value less costs to sell and value in use. In assessing value in use, the estimated pre-tax future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of the future cash flows have not been adjusted.
+If the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying amount, the carrying amount of the asset (cash-generating unit) is reduced to its recoverable amount. An impairment loss is recognised as an expense immediately, unless the relevant asset is carried at a re-valued amount, in which case the impairment loss is treated as a revaluation decrease.
+Where an impairment loss subsequently reverses, the carrying amount of the asset (cash-generating unit) is increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that would have been determined had no impairment loss been recognised for the asset (cashgenerating unit) in prior periods. A reversal of an impairment loss is recognised as income immediately unless the relevant asset is carried at a re-valued amount, in which case the reversal of the impairment loss is treated as a revaluation increase.
+Impairment of non-financial assets (excluding inventories and deferred tax assets)
+Impairment tests on goodwill and other intangible assets with indefinite useful economic lives are undertaken annually at the financial year end. Other non-financial assets are subject to impairment tests whenever events or changes in circumstances indicate that their carrying amount may not be recoverable. Where the carrying value of an asset exceeds its recoverable amount (i.e. the higher of value in use and fair value less costs to sell), the asset is written down accordingly.
+Where it is not possible to estimate the recoverable amount of an individual asset, the impairment test is carried out on the smallest group of assets to which it belongs for which there are separately identifiable cash flows; its cash generating units (`CGUs'). Goodwill is allocated on initial recognition to each of the Group's CGUs that are expected to benefit from the synergies of the combination giving rise to the goodwill.
+Impairment charges are included in profit or loss, except to the extent they reverse gains previously recognised in other comprehensive income. An impairment loss recognised for goodwill is not reversed.
+Agent vs. principal
+Revenue for queuing services is recognised on either a gross or net basis. The determination for this basis is made through analysing whether the Group is acting as a principal or agent in a given arrangement. Revenue and costs will be recognised on a gross basis when the Group is responsible for the operations within the theme parks and bears the
+37
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+Agent v principal (continued)
+
+risk and benefits of the activities. Revenue will be recognised on a net basis when the Group supplies their intellectual property and product but the responsibility for the operation is that of the theme park. Additional detail over the revenue recognition policy for the Group is included in note 1.
+
+Useful lives of intangible assets
+
+Intangible assets are amortised over their estimated useful lives with the charge recorded in administrative expenses. Useful lives are based on management's estimates of the period that the assets will generate revenue, which are periodically reviewed for continued appropriateness. Changes to estimates can result in significant variations in the carrying value and amounts charged to the consolidated income statement in specific periods. More details including carrying values are included in note 11.
+Determination of fair values of intangible assets acquired in business combinations
+
+The fair value of intangible assets acquired in business combinations is based on a method appropriate to the specific intangible asset. The accesso, LLC intangible assets were derived as follows:
+
+·
+
+Customer relationships on multiple period excess earnings; and
+
+·
+
+Internally developed technology on an estimated cost to recreate the intellectual property.
+
+The Siriusware, Inc. and VisionOne, Inc. intangible assets were derived as follows:
+
+·
+
+Internally developed technology on a multiple period excess earnings method;
+
+·
+
+Customer relationships on a cost-based approach; and
+
+·
+
+Trademarks on a relief from royalty method.
+
+Income taxes
+
+The Group is subject to income tax in several jurisdictions and significant judgement is required in determining the provision for income taxes. During the ordinary course of business, there are transactions and calculations for which the ultimate tax determination is uncertain. As a result, the Group recognises tax liabilities based on estimates of whether additional taxes and interest will be due. The Group believes that its accruals for tax liabilities are adequate for all open audit years based on its assessment of many factors, including past experience and interpretations of tax law. This assessment relies on estimates and assumptions, and may involve a series of complex judgements about future events. To the extent that the final tax outcome of these matters is different than the amounts recorded, such differences will impact income tax expense in the period in which such determination is made.
+
+The recognition of deferred tax assets is based upon whether it is more likely than not that sufficient and suitable taxable profits will be available in the future against which the reversal of temporary differences can be deducted. Where the temporary differences are related to losses, the availability of the losses to offset against forecast taxable profits is also considered.
+
+Deferred tax arising on business combinations reflects the difference in tax base and book base. The tax base of the intangible assets depends on the local jurisdiction and the nature of the acquisition as to whether it's a stock or asset purchase.
+
+Research and development tax credit
+
+Research and development tax credits are recognised on an accrual basis and are included as an income tax credit under current assets. The Group has history of successfully estimating research and development tax credits as set out by applicable tax legislation.
+
+38
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+3.
+
+Financial risk management
+
+Overview:
+
+The Group's use of financial instruments exposes it to a number of risks including:
+
+·
+
+Liquidity risk;
+
+·
+
+Interest rate risk;
+
+·
+
+Credit risk; and
+
+·
+
+Market risk.
+
+This note presents information about the Group's exposure to each of the above risks and the Group's policies and processes for measuring and managing these risks. The risks are managed centrally following board-approved policies, and by regularly monitoring the business and providing ongoing forecasts of the impact on the business. The Group operates a centralised treasury function in accordance with Board-approved policies and guidelines covering funding and management of foreign exchange exposure and interest rate risk. Transactions entered into by the treasury function are required to be in support of, or as a consequence of, underlying commercial transactions.
+
+Other than short-term trade receivables and trade payables that arise directly from operations, as detailed in notes 16 and 17, the Group's financial instruments comprise cash. The fair values of these instruments are not materially different to their book values. The objective of holding financial instruments is to finance the Group's operations and manage related risks.
+
+Liquidity risk
+
+The Group closely monitors its access to bank and other credit facilities in comparison to its outstanding commitments to ensure it has sufficient funds to meet its obligations as they fall due. The Group finance function produces regular forecasts that estimate the cash inflows and outflows for the next 12 months, so that management can ensure that sufficient financing is in place as it is required. The Group's objective is to maintain a balance between continuity of funding, and flexibility through the use of banking arrangements in place.
+
+Maturity analysis
+
+The following table analyses the Group's liabilities on a contractual gross basis based on amount outstanding at the balance sheet date up to date of maturity:
+
+31 December 2015
+
+Note
+
+Less than 6 months
+$000
+
+Between 6 months and
+1 year $000
+
+Between 1 and 5 years
+$000
+
+Over 5 Years $000
+
+Total $000
+
+Group
+
+Financial liabilities
+
+17
+
+9,022
+
+Finance lease
+
+19
+
+25
+
+Bank loan
+
+20
+
+-
+
+Interest payable on
+
+bank loan
+
+174
+
+Total
+
+9,221
+
+72
+
+-
+
+26
+
+63
+
+-
+
+14,700
+
+174
+
+377
+
+272
+
+15,140
+
+-
+
+9,094
+
+-
+
+114
+
+-
+
+14,700
+
+-
+
+725
+
+-
+
+24,633
+
+Company
+
+Financial liabilities
+
+17
+
+1,235
+
+Bank loan
+
+20
+
+-
+
+Interest payable on
+
+bank loan
+
+174
+
+Total
+
+1,409
+
+-
+
+-
+
+-
+
+14,700
+
+174
+
+377
+
+174
+
+15,077
+
+-
+
+1,235
+
+-
+
+14,700
+
+-
+
+725
+
+-
+
+16,660
+
+39
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Maturity analysis (continued)
+
+31 December 2014
+Group Financial liabilities Finance lease Bank loan Interest payable on bank loan Total
+
+Note
+
+Less than 6 months
+$000
+
+17
+
+7,950
+
+19
+
+24
+
+20
+
+-
+
+201 8,175
+
+Between 6 months and
+1 year $000
+24
+-
+201 225
+
+Between 1 and 5 years
+$000
+114 20,000
+804 20,918
+
+Over 5 Years $000
+-
+-
+-
+
+Total $000
+7,950 162
+20,000
+1,206 29,318
+
+Company
+
+Financial liabilities
+
+17
+
+Bank loan
+
+20
+
+Interest payable on
+
+bank loan
+
+Total
+
+1,461 -
+201 1,662
+
+-
+
+-
+
+-
+
+20,000
+
+201
+
+804
+
+201
+
+20,804
+
+-
+
+1,461
+
+-
+
+20,000
+
+-
+
+1,206
+
+-
+
+22,667
+
+The Group would normally expect that sufficient cash is generated in the operating cycle to meet the contractual cash flows as disclosed above through effective cash management.
+
+Interest rate risk
+
+The Group's interest rate variation arises mainly from interest on its bank loan facility, which is subject to a floating interest rate, and as such, exposes the entity to cash flow risk if prevailing interest rates were to increase.
+
+The Group regularly reviews its funding arrangements to ensure they are competitive with the marketplace.
+
+The table below shows the Group's and company's financial assets and liabilities that could be affected by the fluctuation in interest rates split by those bearing fixed and floating rates and those that are non-interest bearing:
+
+31 December 2015
+
+Note
+
+Group
+
+Financial assets
+
+16
+
+Cash
+
+15
+
+Total
+
+Bank loan
+
+20
+
+Finance lease
+
+19
+
+Total
+
+Company
+
+Financial assets
+
+16
+
+Cash
+
+15
+
+Total
+
+Bank loan
+
+20
+
+Total
+
+Fixed rate $000
+-
+(114) (114)
+-
+-
+
+Floating rate $000
+-
+(14,700) -
+(14,700)
+-
+(14,700) (14,700)
+
+Non-interest bearing $000
+7,807 5,307 13,114
+-
+
+Total assets $000
+7,807 5,307 13,114
+-
+
+16,656 1,734
+18,390
+-
+
+16,656 1,734
+18,390
+-
+
+Total liabilities $000
+-
+(14,700) (114)
+(14,814)
+-
+(14,700) (14,700)
+
+40
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+Interest rate risk (continued)
+
+31 December 2014
+
+Note
+
+Group
+
+Financial assets
+
+16
+
+Cash
+
+15
+
+Total
+
+Fixed rate $000
+-
+
+Floating rate $000
+-
+
+Non-interest bearing $000
+4,028 5,693 9,721
+
+Total assets $000
+4,028 5,693 9,721
+
+Total liabilities $000
+-
+
+Bank loan Finance lease Total
+
+20
+
+-
+
+(20,000)
+
+19
+
+(162)
+
+-
+
+(162)
+
+(20,000)
+
+-
+
+-
+
+(20,000)
+
+-
+
+-
+
+(162)
+
+-
+
+-
+
+(20,162)
+
+Company
+
+Financial assets
+
+16
+
+-
+
+-
+
+20,243
+
+20,243
+
+-
+
+Cash
+
+15
+
+-
+
+-
+
+1,309
+
+1,309
+
+-
+
+Total
+
+-
+
+-
+
+21,552
+
+21,552
+
+-
+
+Bank loan
+
+20
+
+Total
+
+Credit risk exposure
+
+-
+
+(20,000)
+
+-
+
+(20,000)
+
+-
+
+-
+
+(20,000)
+
+-
+
+-
+
+(20,000)
+
+Credit risk predominantly arises from trade receivables, cash and cash equivalents, and deposits with banks. Credit risk is managed on a Group basis. External credit checks are obtained for larger customers. In addition, the credit quality of each customer is assessed internally before accepting any terms of trade. Internal procedures take into account a customers' financial position, their reputation in the industry, and past trading experience. As a result, the Group's exposure to bad debts is not significant due to the nature of its trade and relationships with customers.
+
+Indeed, the Group, having considered the potential impact of its exposure to credit risk, and having due regard to both the nature of its business and customers, do not consider this to have a materially significant impact to the results. Credit risk also arises from cash and cash equivalents and deposits with banks and financial institutions that have acceptable credit ratings.
+
+Group 2015 $000
+
+2014 $000
+
+Company 2015 $000
+
+2014 $000
+
+Trade and other receivables Cash Estimated irrecoverable amounts
+
+7,807 5,307 (198)
+12,916
+
+4,028 5,693
+(55) 9,666
+
+16,656 1,734
+-
+18,390
+
+20,243 1,309 -
+21,552
+
+The maximum exposure is the carrying amount as disclosed in trade and other receivables. The average credit period taken by customers is 31 days. The allowance for estimated irrecoverable amounts has been made based upon the knowledge of the financial circumstances of individual trade receivables at the balance sheet date. The Group holds no collateral against these receivables at the balance sheet date.
+
+The following table provides an analysis of trade and other receivables that were past due at 31 December 2015 and 31 December 2014, but against which no provision has been made. The Group believes that the balances are ultimately recoverable based on a review of past payment history and the current financial status of the customers.
+
+41
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+Credit risk exposure (continued)
+
+Up to 3 months 3 to 6 months
+
+Group 2015 $000
+3,639 353
+3,992
+
+2014 $000
+2,401 486
+2,887
+
+Company 2015 $000
+75 -
+75
+
+2014 $000
+23 19 42
+
+Capital risk management
+The Group considers its capital to comprise its ordinary share capital, share premium, own shares held in trust, other reserves, accumulated retained earnings and borrowings as disclosed in the Consolidated statement of financial position. Further details of the Group's borrowing facilities are included in note 20. The Group manages its capital structure in the light of changes in economic conditions and financial markets generally and regularly evaluates its compliance with covenants applicable to their borrowing facilities.
+The Group's objectives when managing capital are to safeguard the Group's ability to continue as a going concern in order to provide returns for current and future shareholders and benefits for other stakeholders, and to maintain an optimal capital structure to minimise the cost of capital. In order to maintain or adjust the capital structure, the Group may adjust the amount of dividends paid to shareholders, return capital to shareholders, issue new shares, or increase or reduce debt.
+The Group does not seek to maintain any specific debt to capital ratio, but considers investment opportunities on their merits and funds them in what it considers to be the most effective manner.
+Foreign currency exposure
+The Group has operations in the UK, USA, Canada, Italy, Germany, Australia, Brazil, and Mexico, and, as such, is exposed to the risk of foreign currency fluctuations. The main operating currencies of its operations are in sterling, US dollars, Canadian dollars, and euros. The Group's currency exposure comprises the monetary assets and liabilities of the Group that are not denominated in the operating or 'functional' currency of the operating unit involved. At the period end accesso Technology Group plc and accesso LLC held monetary assets in currencies other than its local currency, sterling and US dollars, respectively. Balances at 31 December 2015 are:
+accesso Technology Group plc $156,804 (2014: $130,653) denominated in US dollars AUD$14,436 (2014: AUD$56,958) denominated in Australian dollars 81,235 (2014: 250,952) denominated in euros
+accesso LLC CAD$10,550 (2014: CAD$nil) denominated in Canadian dollars 32,220 (2014: nil) denominated in euros £3,386 (2014: £nil) denominated in sterling
+The Group manages risk by its subsidiaries matching revenue and expenditure in their local currency wherever possible. The Group tries to keep foreign intercompany balances as low as possible to avoid translation adjustments. Given the nature of the Group's operations and their management of foreign currency exposure, they limit the potential down side risk as far as practicably possible.
+The Group considers the volatility of currency markets over the year to be representative of the potential foreign currency risk it is exposed to. The main currency the Group's results were exposed to was sterling and over the year the average rate for 1GBP = 1.526 USD (2014: 1GBP = 1.65USD). If sterling had been an average of 5% stronger than the dollar through the year then it would have increased Group profit before tax by $140,000 (1.95%). If sterling had been
+
+42
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+Foreign currency exposure (continued)
+
+an average of 5% weaker than the dollar through the year then it would have decreased Group profit before tax by $140,000 (1.95%).
+
+The impact on revenue of these movements would be insignificant.
+
+Fair Value Measurement
+
+The Group does not have any level 2 or 3 financial assets or liabilities that have unobservable inputs that require disclosure.
+
+4.
+
+Business and geographical segments
+
+Segmental analysis
+
+The Group's operating segments under IFRS have been determined with reference to the information presented in the management accounts reviewed by the board of directors.
+
+The principle revenue generating activity of the Group is the provision of technology solutions to the global attractions and leisure industry.
+
+The Group's segments are evaluated by the Board as a whole and are not appraised on their entity level performance. This is because the operations of the segments are merging as the business gains more scale. Allocation of resources is driven by customer needs across the Group rather than entity level performance. Therefore, the Board consider the Group in its current form to be a single Operating Segment.
+
+The Group's revenues, costs, assets, liabilities, currency exposure, and cash flows are therefore totally attributable to the single Operating Segment. The ticketing and queuing operations of the Group are evolving and continually merging, and the Group is now serviced through single sales teams, transferable staff, and is appraised on a Group basis in terms of incentive arrangements.
+
+The definition of segments will be assessed as the Group develops and continues to make acquisitions.
+
+Entity-wide disclosures
+
+Analyses of the Group's external revenues and non-current assets (excluding deferred tax) by geographical location are detailed below:
+
+Revenue
+2015 $000
+
+2014 $000
+
+Non-current assets
+
+2015 $000
+
+2014 $000
+
+UK Other Europe Australia USA and Canada Central and South America
+
+2,807 1,543
+373 86,411
+2,035 93,169
+
+2,005 971 161
+71,954 -
+75,091
+
+2,987 42 -
+71,897 75
+75,001
+
+3,734 -
+70,082 -
+73,816
+
+Revenue generated in each of the geographical locations is generally in the local currency of the theme park or attraction based in that location.
+
+43
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Business and geographical segments (continued)
+Major customers
+
+The Group has entered into agreements with theme parks, theme park groups, and attractions to operate its technology in single or multiple theme parks or attractions within the theme park group.
+
+The majority of the ultimate revenue of the business is derived from guest rentals of the Group's virtual queuing technology or tickets purchased by guests via the Group's ecommerce technology, but no single guest forms a significant proportion of the revenue of the Group. However, the ability to generate guest rentals or ticket related revenue is fully dependant on the Group maintaining and developing agreements with theme parks or attraction owners to operate its technology. Major customers as defined by IFRS 8.34 accounted for $54.0m of Group revenue for 2015 (2014: $53.5).
+
+5.
+
+Employees and directors
+
+Wages and salaries Social security costs Defined contribution pension costs Share based payment transactions
+
+2015 $000
+25,791 1,836 548 629
+28,804
+
+2014 $000
+20,948 1,390 315 353
+23,006
+
+In respect of directors' remuneration, the disclosures required by Schedule 5 to Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008 are included in the detailed disclosures in the report of the directors.
+
+The average monthly number of employees during the year was made up as follows:
+Operations Research & development Sales Finance & administration Marketing Seasonal staff
+
+2015
+113 113
+20 42 2 420 710
+
+2014
+76 79 14 25
+1 432 627
+
+44
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+6.
+
+Expenses by nature
+
+Park operating costs (i) Staff costs Legal and professional costs Travel Marketing Inventories and consumables Other costs Other operating leases Depreciation - owned assets Depreciation - finance leased assets Amortisation Research and development R&D capitalized to balance sheet Foreign exchange differences
+
+2015 $000
+43,259 17,405
+2,051 1,407 1,164
+540 5,958
+998 1,312
+48 5,521 12,004 (6,224)
+18
+
+2014 $000
+38,421 11,321
+1,717 883 790
+3,354 5,308
+541 1,410
+48 3,094 8,691 (2,592)
+(12)
+
+(i) Park operating costs include the operator's share of the revenue, along with the Group's operating costs per the agreement with the park.
+Auditor's remuneration
+
+During the period the following services were obtained from the Group's auditor at a cost detailed below:
+
+Audit services Fees payable to the company's auditors of the parent company and consolidated accounts Fees payable to the company's auditors for the audit of subsidiaries
+
+2015 $000
+114 84 2
+
+2014 $000
+80 34
+
+Non audit services Tax compliance
+Tax advisory Corporate finance services Interim agreed upon procedures Other non-audit services
+
+72 4
+
+66
+
+33
+
+66
+
+85
+
+80
+
+9
+
+13
+
+2
+
+2
+
+322
+
+341
+
+45
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+7.
+
+Finance income and expense
+
+The table below details the finance income and expense for the current and prior periods:
+
+Bank interest received
+Finance costs: Bank interest Finance lease Refinance costs
+Total finance costs
+Net finance expense
+
+2015 $000
+3
+(481) (10)
+-
+(491)
+(488)
+
+2014 $000
+2
+(169) (12) (163) (344)
+(342)
+
+8.
+
+Tax
+
+The table below provides an analysis of the tax charge for the periods ended 31 December 2015 and 31 December 2014:
+
+UK corporation tax Current tax on income for the period Adjustment in respect of prior periods
+Overseas tax Current tax on income for the period Adjustment in respect of prior periods
+
+Note
+
+2015 $000
+466 (134)
+332
+1,181 -
+1,181
+
+2014 $000
+449 -
+449
+1,397 (250) 1,147
+
+Total current taxation
+
+Deferred taxation
+
+18
+
+Original and reversal of temporary difference - for the current period
+
+Original and reversal of temporary difference - for the prior period
+
+1,513
+268 70 338
+
+1,596
+(253) 1
+(252)
+
+Total taxation charge
+
+1,851
+
+1,344
+
+46
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+Tax (continued)
+
+The differences between the actual tax charge for the period and the theoretical amount that would arise using the applicable weighted average tax rate are as follows:
+
+2015 $000
+
+2014 $000
+
+Profit on ordinary activities before tax Tax at United States tax rate of 40% (2014: 40.0%)
+
+7,220 2,888
+
+5,129 2,052
+
+Effects of: Expenses not deductible for tax purposes Additional deduction for patent box Additional deduction for R&D expenditure ­ current period Additional deduction for R&D expenditure ­ prior periods Profit subject to foreign taxes at a (lower)/ higher marginal rate Adjustment in respect of prior period ­ income statement Adjustment in respect of prior periods ­ deferred tax Deferred tax not recognized Income not chargeable for tax purposes Change in tax rates
+Total tax charge
+
+76 (148) (295)
+(583) (134)
+47
+-
+1,851
+
+294 -
+(315) (250) (301)
+1 (124) (13)
+1,344
+
+9.
+
+Profit of parent company
+
+As permitted by Section 408 of the Companies Act 2006, the profit and loss account of the parent company is not presented as part of these financial statements. The parent company's profit for the financial year ended 31 December 2015 was $2,329,072 (2014: $1,215,196).
+
+10.
+
+Earnings per share
+
+Basic earnings per share is calculated by dividing the earnings attributable to ordinary shareholders by the weighted average number of ordinary shares outstanding during the period.
+
+Diluted earnings per share is calculated by dividing the net profit attributable to ordinary shareholders after adjustments for instruments that dilute basic earnings per share by the weighted average of ordinary shares outstanding during the period (adjusted for the effects of dilutive instruments).
+
+Earnings for adjusted earnings per share, a non GAAP measure, are defined as PBT before the deduction of amortisation related to acquisitions, acquisition costs and costs related to share based payments less tax at the effective rate.
+
+The following reflects the income and share data used in the total operations, diluted, and adjusted earnings per share
+
+computations.
+
+2015
+
+2014
+
+Profit attributable to ordinary shareholders ($000)
+
+5,369
+
+3,785
+
+Basic EPS Denominator Weighted average number of shares used in basic EPS
+Basic earnings per share (cents)
+
+21,942 24.47
+
+20,469 18.49
+
+47
+
+accesso Technology Group plc
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Earnings per share (continued)
+Diluted EPS Denominator Weighted average number of shares used in basic EPS Effect of dilutive securities
+Options Weighted average number of shares used in diluted EPS Diluted earnings per share (cents)
+Adjusted EPS
+Profit attributable to ordinary shareholders ($000) Adjustments for the period related to:
+Costs of acquisition and related refinancing Amortisation relating to acquired intangibles from acquisitions Share-based compensation and social security costs on unapproved options
+Tax related to the above adjustments (2015: 25.6%, 2014: 26.2%): Costs of acquisition and related refinancing Amortisation relating to acquired intangibles from acquisitions Share based compensation and social security costs on unapproved options
+Adjusted profit attributable to ordinary shareholders ($000)
+Denominator Weighted average number of shares used in basic EPS Adjusted earnings per share (cents)
+
+2015
+21,942
+911 22,853
+23.49
+5,369
+4,235
+629 10,233
+(1,084)
+(161) 8,988
+21,942 40.96
+
+2014
+20,469
+377 20,846
+18.16
+3,785
+728 2,273
+415 7,201
+(190) (596) (109) 6,306
+20,469 30.81
+
+48
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+11.
+
+Intangible assets
+
+The cost and amortisation of the Group's intangible fixed assets are detailed in the following table:
+
+Goodwill $000
+
+Customer relationships
+$000
+
+Trademarks $000
+
+Internally developed technology
+$000
+
+Patent costs $000
+
+IPR costs $000
+
+Development costs $000
+
+At 31 December 2013
+
+16,566
+
+5,781
+
+236
+
+8,904
+
+643
+
+264
+
+5,486
+
+Foreign currency translation Acquired through acquisition Additions
+
+-
+22,407 -
+
+-
+4,459 -
+
+-
+
+-
+
+(32)
+
+(15)
+
+205
+
+11,376
+
+-
+
+-
+
+29
+
+-
+
+76
+
+-
+
+(267)
+2,592
+
+At 31 December 2014
+Foreign currency translation Additions
+At 31 December 2015
+Amortisation At 31 December 2013
+
+38,973 -
+254 39,227
+-
+
+10,240 -
+10,240
+321
+
+470
+
+20,280
+
+687
+
+249
+
+-
+
+-
+
+(29)
+
+(12)
+
+-
+
+-
+
+-
+
+-
+
+470
+
+20,280
+
+658
+
+237
+
+7
+
+1,209
+
+237
+
+232
+
+7,811 (260) 6,224 13,775
+2,705
+
+Foreign currency translation Charged
+At 31 December 2014
+Foreign currency translation Charged
+At 31 December 2015
+Net book value At 31 December 2015
+At 31 December 2014
+
+-
+-
+39,227
+38,973
+
+473 794
+882 1,676
+8,564
+9,446
+
+-
+
+-
+
+(10)
+
+(15)
+
+86
+
+1,715
+
+129
+
+4
+
+93
+
+2,924
+
+356
+
+221
+
+-
+
+-
+
+(14)
+
+(12)
+
+148
+
+3,205
+
+74
+
+25
+
+241
+
+6,129
+
+416
+
+234
+
+229
+
+14,151
+
+242
+
+3
+
+377
+
+17,356
+
+331
+
+28
+
+(153) 687
+3,239 (159) 1,187 4,267
+9,508
+4,572
+
+Totals $000
+37,880 (314)
+38,447 2,697
+78,710 (301) 6,478
+84,887
+4,711
+(178) 3,094
+7,627
+(185) 5,521 12,963
+71,924
+71,083
+
+49
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Intangible assets (continued)
+
+The cost and amortisation of the company's intangible fixed assets are detailed in the following table:
+
+Patent costs $000
+
+IPR costs $000
+
+Development costs $000
+
+Totals $000
+
+At 31 December 2013
+Foreign currency translation Additions
+At 31 December 2014
+Foreign currency translation Additions
+At 31 December 2015
+Amortisation At 31 December 2013
+Foreign currency translation Charged
+At 31 December 2014
+Foreign currency translation Charged
+At 31 December 2015
+Net Book Value At 31 December 2015
+
+552
+
+264
+
+(31)
+
+(16)
+
+59
+
+-
+
+580
+
+248
+
+(29)
+
+(12)
+
+-
+
+-
+
+551
+
+236
+
+202
+
+232
+
+(10)
+
+(15)
+
+77
+
+4
+
+269
+
+221
+
+(14)
+
+(10)
+
+74
+
+24
+
+329
+
+235
+
+222
+
+1
+
+4,492 (267)
+945 5,170 (260) 1,027 5,937
+2,572 (153)
+733 3,152 (158)
+738 3,732
+2,205
+
+5,308 (314) 1,004 5,998 (301) 1,027 6,724
+3,006 (178)
+814 3,642 (182)
+836 4,296
+2,428
+
+At 31 December 2014
+
+311
+
+27
+
+2,018
+
+2,356
+
+Prior period acquisition of VisionOne Worldwide Ltd.
+On 28 November 2014, the Group acquired 100% of the voting equity of VisionOne Worldwide Ltd., a leading US ticketing and e-commerce provider to the entertainment sector. Further details and disclosures relating to the acquisition, including the provisional fair value of identifiable assets and liabilities acquired, purchase consideration and goodwill are included within the 2014 Annual report and financial statements.
+The principal reason for this acquisition was to take advantage of the complimentary opportunities available within the sector in which the Group operates.
+The revenue included in the consolidated statement of comprehensive income for the period ended 31 December 2014 is that from 28 November 2014. The amount contributed by VisionOne Worldwide Ltd. and its subsidiaries was $0.7m and contributed gross profit of $0.18m over the same period.
+Had VisionOne Worldwide Ltd. and its subsidiaries been consolidated from 1 January 2014 the consolidated statement of comprehensive income would have included revenue of approximately $8.4m and gross profit of $7.7m. Acquisition
+
+50
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Intangible assets (continued)
+
+related costs of $0.72m were incurred in relation to this acquisition and are included within administrative expenses ($0.56m) and finance costs ($0.16m) within the statement of comprehensive income in 2014.
+Details of the final fair value of identifiable assets and liabilities acquired, purchase consideration and goodwill together with the provisional fair values included within the 2014 Annual report and financial statements are:
+
+Identifiable intangible assets Internally developed technology Customer relationships Trademarks
+Property, plant and equipment Receivables and other debtors Payables and other liabilities Cash Deferred tax Liability Total net assets
+
+Book value $000
+1,526 -
+198 1,656 (956)
+693 (622) 2,495
+
+Adjustment $000
+9,850 4,459
+205
+(180) -
+(5,806) 8,528
+
+Final fair Provisional
+
+value fair value
+
+$000
+
+$000
+
+11,376 4,459
+205 198 1,476 (956) 693 (6,428) 11,023
+
+11,376 4,459 205 198 1,656 (956) 693
+(6,428) 11,203
+
+Cash paid at completion Equity instruments (1,519,364 ordinary shares) Working capital true-up Total consideration
+
+18,781
+14,610 (1) 293
+33,684
+
+-
+
+18,781
+
+18,781
+
+-
+
+14,610
+
+14,610
+
+-
+
+293
+
+219
+
+-
+
+33,684
+
+33,610
+
+Goodwill on acquisition
+
+22,661
+
+22,407
+
+(1) In accordance with IFRS 3 Business Combinations (revised 2008), the consideration paid in shares is based on the share price at the date on which the company obtained control of VisionOne Worldwide Ltd. The price determined in the Membership Interest Purchase Agreement for calculating the number of shares to be issued to the vendors is based on an average price of 577.5p. Shares are subject to certain lock-up restrictions, namely that one third is fully restricted until twelve months after the completion date; a further one third is fully restricted until 24 months after the completion date; and the final one third is fully restricted until 36 months after the completion date.
+The main factors leading to the recognition of goodwill are the presence of certain intangible assets, such as the assembled workforce of the acquired entity and the expected synergies of the enlarged Group, which do not qualify for separate recognition.
+The fair value uplift of intangible assets recognised does not attract tax deductions under applicable local tax jurisdictions.
+
+The net cash outflow in each year in respect of acquisition comprised:
+Cash paid Net cash acquired Total cash outflow in respect of acquisition
+
+2015 $000 (293)
+(293)
+
+2014 $000 (18,781)
+693 (18,088)
+
+Total $000 (19,074) 693 (18,381)
+
+51
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Intangible assets (continued)
+
+The Group is required to test, on an annual basis, whether goodwill has suffered any impairment. The recoverable amount is determined based on value in use calculations. The use of this method requires the estimation of future cash flows and the determination of a discount rate in order to calculate the present value of the cash flows.
+
+Details of goodwill allocated to acquired cash generating units (CGUs) is as follows:
+Goodwill carrying amount Acquired cash generating unit: accesso, LLC & Siriusware, Inc. (CGU 1) Acquired cash generating unit: VisionOne Worldwide Limited and its subsidiaries (CGU 2)
+Recoverable amount of CGU's Acquired cash generating unit: accesso, LLC & Siriusware, Inc. (CGU 1) Acquired cash generating unit: VisionOne Worldwide Limited and its subsidiaries (CGU 2)
+Excess of recoverable value of CGU above carrying value Acquired cash generating unit: accesso, LLC & Siriusware, Inc. (CGU 1) Acquired cash generating unit: VisionOne Worldwide Limited and its subsidiaries (CGU 2)
+
+2015 $000
+16,566 22,661
+65,120 33,668
+24,654 184
+
+2014 $000
+16,566 22,407
+69,636 35,704
+29,981 4,556
+
+The recoverable amounts of all the CGUs have been determined from value in use calculations based on cash flow projections using budget and forecast projections and assumes a perpetuity based terminal value.
+
+The key assumptions used for value in the calculations in 2015 and 2014 are as follows:
+
+Pre-tax discount rate (%) Average operating margin (%) Terminal growth rate (%) Forecast period (years)
+
+2015 CGU 1
+14.5 16.0
+3 8
+
+CGU 2 14.5 25.6 3 8
+
+2014 CGU 1
+14.5 19.3
+3 8
+
+CGU 2 14.5 19.3 3 8
+
+Operating margins have been based on past experience, where possible, and future expectations in the light of anticipated economic and market conditions. Discount rates are based on the Group's WACC adjusted to reflect management's assessment of specific risks related to the cash generating unit. Growth rates beyond the formally budgeted period are based on economic data pertaining to the region concerned.
+
+The Group considers the use of a forecast period of 8 years to be acceptable based on the long term agreements within the business that support a longer term view on revenue visibility. Management have a proven track record of accurately forecasting over extended forecast periods.
+
+In respect of CGU 1, if any one of the changes indicated below were made to the above key assumptions, the carrying
+
+amount and recoverable amount would be equal.
+
+Per test %
+
+Change %
+
+Pre-tax discount rate Average operating margin
+
+14.5
+
++7.0
+
+16.0
+
+(7.9)
+
+52
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Intangible assets (continued)
+
+In respect of CGU 2, if any one of the changes indicated below were made to the above key assumptions, the carrying
+
+amount and recoverable amount would be equal.
+
+Per test
+
+Change
+
+%
+
+%
+
+Pre-tax discount rate
+
+14.5
+
++0.1
+
+Average operating margin
+
+25.6
+
+(0.2)
+
+12.
+
+Property, plant and equipment
+
+The cost and depreciation of the Group's tangible fixed assets are detailed in the following table:
+
+Cost At 31 December 2013
+Foreign currency translation Acquired through acquisition Additions Disposals
+At 31 December 2014
+Foreign currency translation Additions At 31 December 2015
+Amortisation At 31 December 2013
+Foreign currency translation Acquired through acquisition Charged Disposals
+At 31 December 2014
+Foreign currency translation Charged
+At 31 December 2015
+Net book value At 31 December 2015
+
+Installed systems
+$000
+4,450
+(257) 345 440 -
+4,978
+(242) 699
+5,435
+
+Plant, machinery and office equipment $000
+1,630
+(26) 1,553
+114 (5)
+3,266
+(52) 421 3,635
+
+2,433
+(146) 184
+1,031 -
+3,502
+(169) 846
+4,179
+
+1,175
+(22) 1,628
+186 (4)
+2,963
+(46) 256
+3,173
+
+1,256
+
+462
+
+Furniture & fixtures $000
+814
+(13) 13
+271 (3) 1,082
+(13) 568 1,637
+365
+(10) 7
+199 (3) 558
+(11) 187
+734
+903
+
+Leasehold improvements
+$000
+456
+561
+1,017
+97 1,114
+86
+459
+42 -
+587
+71
+658
+456
+
+At 31 December 2014
+
+1,476
+
+303
+
+524
+
+430
+
+Totals $000
+7,350
+(296) 2,472
+825 (8) 10,343
+(307) 1,785 11,821
+4,059
+(178) 2,278 1,458
+(7) 7,610
+(226) 1,360
+8,744
+3,077
+2,733
+
+53
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Property, plant and equipment (continued)
+
+The cost and depreciation of the company's tangible fixed assets are detailed in the following table:
+
+Cost At 31 December 2013
+
+Installed systems
+$000
+4,302
+
+Plant, machinery and office equipment
+$000
+446
+
+Furniture & fixtures
+$000
+244
+
+Leasehold improvements
+$000
+-
+
+Foreign currency translation Additions
+
+(257)
+
+(26)
+
+(15)
+
+-
+
+439
+
+34
+
+-
+
+-
+
+At 31 December 2014
+
+4,484
+
+454
+
+229
+
+-
+
+Foreign currency translation Additions
+
+(240)
+
+(23)
+
+(12)
+
+-
+
+20
+
+78
+
+420
+
+-
+
+At 31 December 2015
+
+4,264
+
+509
+
+637
+
+-
+
+Amortisation
+
+At 31 December 2013
+
+2,363
+
+381
+
+162
+
+-
+
+Foreign currency translation Charged
+
+(146)
+
+(22)
+
+(10)
+
+-
+
+989
+
+34
+
+39
+
+-
+
+At 31 December 2014
+
+3,206
+
+393
+
+191
+
+-
+
+Foreign currency translation Charged
+
+(167)
+
+(20)
+
+(10)
+
+-
+
+613
+
+37
+
+35
+
+-
+
+At 31 December 2015
+
+3,652
+
+410
+
+216
+
+-
+
+Net book value
+
+At 31 December 2015
+
+612
+
+99
+
+421
+
+-
+
+At 31 December 2014
+
+1,278
+
+61
+
+38
+
+-
+
+Totals $000 4,992
+(298) 473 5,167 (275) 518 5,410
+2,906 (178) 1,062 3,790 (197)
+685 4,278
+1,132 1,377
+
+54
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+13.
+
+Investments
+
+Investment in subsidiaries
+
+Cost At 31 December 2014
+
+Additions Foreign currency translation
+At 31 December 2015
+
+At 31 December 2013
+Additions Foreign currency translation
+At 31 December 2014
+
+$000
+47,948
+74 (2,408) 45,614
+14,935 33,903
+(890) 47,948
+
+Net book value At 31 December 2014
+At 31 December 2015
+
+47,948 45,614
+
+Name
+Lo-Q, Inc. Lo-Q Service Canada Inc Lo-Q (Trustees) Limited accesso, LLC. Siriusware, Inc. Lo-Q Limited VisionOne Worldwide Limited VisionOne, Inc. VisionOne S.A. de C.V. ShoWare do Brazil Ltda VisionOne do Brazil Ltda
+
+Country of incorporation
+United States of America Canada United Kingdom United States of America United States of America United Kingdom British Virgin Islands United States of America Mexico Brazil Brazil
+
+% Ownership interest
+100 100 100 100 100 100 100 100 100
+60 100
+
+% Voting Rights
+100 100 100 100 100 100 100 100 100 60 100
+
+accesso, LLC, Siriusware, Inc. and VisionOne, Inc. are 100% owned by Lo-Q, Inc. VisionOne do Brazil Ltda and VisionOne do Mexico Ltda are 100% owned by VisionOne Worldwide Ltd. Showare Do Brazil Ltda is 60% owned by VisionOne do Brazil Ltda, and 40% owned by GG Participacoes Ltda, a Brazilian company.
+
+The trade for both Lo-Q, Inc. and Lo-Q Service Canada Inc is that of the application of virtual queue technologies. The trade of accesso, LLC, Siriusware, Inc. and the VisionOne subsidiaries is that of ticketing and point-of-sale software solutions.
+
+Lo-Q (Trustees) Limited operates an employee benefit trust on behalf of accesso Technology Group plc to provide benefits in accordance with the terms of a joint share ownership plan. Further details of this can be found on page 20.
+
+Immediately on the acquisition of VisionOne Worldwide Limited the shares of VisionOne, Inc. were transferred to Lo-Q Inc. The non-controlling interests of all subsidiaries that are not 100% owned by the Group are considered to be immaterial.
+
+55
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+14.
+
+Inventories
+
+Group 2015 $000
+
+2014 $000
+
+Company
+
+2015
+
+2014
+
+$000
+
+$000
+
+Stock Park installation
+
+561
+
+639
+
+360
+
+403
+
+-
+
+9
+
+-
+
+-
+
+561
+
+648
+
+360
+
+403
+
+The amount of inventories recognised as an expense and charged to cost of sales for the year ended 31 December 2015 was $1,878,066 (2014: $1,796,084). Park installation balances includes equipment installed at a theme or water park on a trial basis or during the phase prior to a new or updated operation commencing.
+
+15.
+
+Cash and cash equivalents
+
+Group 2015 $000
+
+2014 $000
+
+Company
+
+2015
+
+2014
+
+$000
+
+$000
+
+Petty cash Bank accounts
+
+16.
+
+Trade and other receivables
+
+1 5,306 5,307
+
+1 5,692 5,693
+
+1 1,733 1,734
+
+1 1,308 1,309
+
+Trade debtors Accrued income Amounts owed by Group undertakings Financial assets
+Social security and other taxes Other debtors VAT Prepayments
+
+Group 2015 $000
+6,407 1,400
+7,807
+18 85 140 1,030 9,080
+
+2014 $000
+2,885 1,143
+4,028
+1,882
+20 1,016 6,946
+
+Company
+
+2015
+
+2014
+
+$000
+
+$000
+
+413 51
+17,701 18,165
+
+43 50 20,150 20,243
+
+1 31 138 327
+18,662
+
+33 35 217 20,528
+
+The Group's financial assets are short term in nature. In the opinion of the directors, the book values equate to their fair value.
+
+56
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+17.
+
+Trade and other payables
+
+Trade creditors Sundry creditors Accruals Financial liabilities
+
+Group
+2015 $000
+
+2014 $000
+
+2,493 159
+6,442
+9,094
+
+1,062 776
+6,112 7,950
+
+Company
+2015 $000
+
+2014 $000
+
+220 44
+971
+1,235
+
+337 219 905 1,461
+
+Social security and other taxes
+
+87 9,181
+
+49 7,999
+
+12 1,247
+
+1,461
+
+The Group's financial liabilities are short-term in nature. In the opinion of the directors the book values equate to their fair value.
+
+18.
+
+Deferred taxation
+
+Group At 31 December 2014
+
+Asset $000
+5,696
+
+Liability $000
+(8,804)
+
+Charged to income (see note 8) Charged directly to equity
+
+(292)
+
+(46)
+
+262
+
+-
+
+At 31 December 2015
+
+5,666
+
+(8,850)
+
+At 31 December 2013
+Foreign currency translation Charged to income (see note 8) Charged directly to equity Business combinations
+
+6,539
+(154) 90
+(779) -
+
+(2,670)
+129 162
+3 (6,428)
+
+At 31 December 2014
+Company At 31 December 2014
+Charged to income Charged directly to equity
+At 31 December 2015
+At 31 December 2013
+Foreign currency translation Charged to income Charged directly to equity
+At 31 December 2014
+
+5,696
+195 15 73
+283 629
+93 (35) (492) 195
+
+(8,804)
+(32) (196)
+228 (116)
+2 82
+(32)
+
+57
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Deferred taxation (continued)
+
+The following table summarises the recognised deferred tax asset and liability:
+Group Recognised asset Tax relief on unexercised employee share options Short term timing differences Business combinations Deferred tax asset
+
+2015 $000
+1,108 3
+4,555 5,666
+
+2014 $000
+831 289 4,576 5,696
+
+Recognised liability Depreciation in excess of capital allowances Business combinations Deferred tax liability
+Company Recognised asset Tax relief on unexercised employee share options Short term timing differences Deferred tax asset
+
+(2,380) (6,470) (8,850)
+
+(1,246) (7,558) (8,804)
+
+280
+
+195
+
+3
+
+-
+
+283
+
+195
+
+Recognised liability Depreciation in excess of capital allowances Deferred tax liability
+
+(228)
+
+(32)
+
+(228)
+
+(32)
+
+Deferred tax assets and liabilities have been measured at an enacted rate of 18% and 40% in the UK and US respectively (2014: 20% and 40% respectively).
+
+19.
+
+Financial lease
+
+Certain office equipment in one of the Group's properties is classified as a finance lease, and included within the Group tangible asset net book value of $3.1m are assets with a net book value of $0.1m held under finance lease arrangements. The depreciation charged in the year in respect of these assets was $0.05m.
+Future lease payments are due as follows:
+
+Minimum lease payments $000
+
+Interest $000
+
+Present Value $000
+
+Not later than one year Repayable between one and five years
+
+57
+
+6
+
+51
+
+67
+
+4
+
+63
+
+124
+
+10
+
+114
+
+Current liabilities
+
+51
+
+Non-current liabilities
+
+63
+
+114
+
+58
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Finance lease (continued)
+At 31 December 2014, the future lease payments were as follows:
+Minimum lease payments $000
+
+Interest $000
+
+Present Value $000
+
+Not later than one year Repayable between one and five years
+
+58
+
+10
+
+48
+
+124
+
+10
+
+114
+
+182
+
+20
+
+162
+
+Current liabilities
+
+48
+
+Non-current liabilities
+
+114
+
+162
+
+20.
+
+Borrowings
+
+Group 2015 $000
+
+2014 $000
+
+Company
+
+2015
+
+2014
+
+$000
+
+$000
+
+Bank loans
+
+14,700 14,700
+
+20,000 20,000
+
+14,700 14,700
+
+20,000 20,000
+
+On 7 November 2014 the Group entered into an amendment and restatement agreement with Lloyds Bank plc in relation to a Revolving Loan Facility dated 4 December 2013. The amended facility includes a borrowing rate of 1.75 per cent above three month LIBOR on funds subject to drawdown and a commitment rate of 0.7 per cent on funds not drawndown. The facility is US dollar denominated and has been secured on the Group's assets and intellectual property in the US and UK. The carrying value of these borrowings approximate to the fair value.
+The maximum available for drawdown through to its expiry on 31 December 2017 are as follows:
+7 November 2014 to 31 October 2015: $29m 1 November 2015 to 31 October 2016: $22m 1 November 2016 to 31 December 2017: $8m
+Lloyds Bank plc holds security in the form of a debenture, including a fixed charge over the freehold and leasehold property and a first floating charge over the other assets of the Group.
+No changes were made to this facility in 2015. The costs incurred in refinancing this facility in 2014 are found in note 7.
+On 14 March 2016, the Group amended the above facility with Lloyds Bank. The amended facility extends it to allow a drawdown facility of $25m, with no step downs, at an improved drawdown rate of 1.35% above LIBOR, and an improved commitment rate. The renewed facility terminates on 14 March 2019 with the possibility for this to extend for a further 12 months.
+
+59
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+21.
+
+Called up share capital
+
+Ordinary shares of 1p each
+Opening balance Foreign currency translation Issued for acquisitions Issued in relation to exercised share options
+
+2015 Number
+21,924,537 -
+59,784
+
+2015 $000
+342 (17)
+1
+
+2014 Number
+20,203,011 -
+1,519,364 202,162
+
+2014 $000
+335 (20)
+24 3
+
+Closing balance
+
+21,984,321
+
+326 21,924,537
+
+342
+
+During the period, 59,784 shares, with a nominal value $909, were allotted following the exercise of share options.
+On 28 November 2014, the Group issued 1,519,364 shares, with a nominal value of $23,686, in respect of the acquisition of VisionOne Worldwide Ltd., with a fair value of $14.6m ($9.62 per share). Shares are subject to certain lock-up restrictions, namely that one third is fully restricted until twelve months after the completion date; a further one third is fully restricted until 24 months after the completion date; and the final one third is fully restricted until 36 months after the completion date.
+
+Following the adoption of new Articles of Association on 12 April 2011 the company no longer has an authorised share capital.
+All issued share capital is fully paid, except for 853,818 treasury shares registered in the name of Lo-Q (Trustees) Limited, a wholly owned subsidiary of the company on behalf of the Lo-Q Employee Benefit Trust.
+Share option schemes
+At 31 December 2015 the following share options were outstanding in respect of the ordinary shares:
+
+Scheme EMI Scheme
+US Scheme
+UK unapproved Scheme Long term incentive plan
+
+Number of shares
+3,000 28,235 88,083 15,000 12,000 22,600 40,000 160,000 32,370 16,222 15,000 137,500 167,700 212,800 110,000 30,400 182,206 40,400 277,534
+
+Period of Option
+25 June 2010 to 24 June 2019 24 June 2013 to 23 June 2021 30 November 2014 to 29 November 2022 25 April 2015 to 25 April 2023 23 January 2017 to 22 January 2024 15 April 2018 to 15 April 2025 (1) 10 March 2012 to 9 March 2021 (2) 24 June 2013 to 23 June 2021 30 November 2014 to 29 November 2022 26 March 2014 to 25 March 2022 25 April 2015 to 25 April 2023 23 January 2017 to 22 January 2024 15 April 2018 to 15 April 2025 10 March 2012 to 9 March 2021 25 April 2015 to 25 April 2023 8 July 2017 27 October 2017 15 April 2018
+
+Price per share
+57.5p 179p 323.5p 600p 697.5p 557.5p 57.5p 156p 179p 323.5p 292.5p 600p 697.5p 557.5p 156p 600p -p (3) -p (3) -p (3)
+
+60
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Called up share capital (continued)
+
+(1) Options vested in three equal tranches on the 25 June 2010, 2011 and 2012 and expire on the 10th anniversary of the grant.
+(2) Options may only be exercised when the share price is above £1.82. (3) Vesting is conditional on achievement of certain market based conditions (see note 25).
+
+22.
+
+Reserves
+
+The following describes the nature and purpose of each reserve within equity:
+
+Reserve Share premium: Own shares held in trust: Other reserve: Merger relief reserve:
+Retained earnings: Translation reserve:
+
+Description and purpose Amount subscribed for share capital in excess of nominal value Weighted average cost of own shares held by the EBT Reserve to account for share option equity based transactions The merger relief reserve represents the difference between the fair value and nominal value of shares issued on the acquisition of subsidiary companies, where the company has taken advantage of merger relief All other net gains and losses and transactions not recognised elsewhere Gains/losses arising on retranslating the net assets of overseas operations into US dollars
+
+23.
+
+Pension commitments
+
+The Group operates a defined contribution pension scheme in the UK and US. The assets of each scheme are held separately from those of the Group in an independently administered fund. The pension charge represents contributions payable by the Group to the fund and amounted to $548,044 (2014: $315,416). Contributions amounting to $48,647 (2014: $38,900) were payable to the fund and are included in creditors.
+
+24.
+
+Related party disclosures
+
+Ultimate controlling party
+
+There is no ultimate controlling party.
+
+Subsidiaries
+
+The company has outstanding balances and transactions with its subsidiaries as set out below:
+
+Lo-Q, Inc. Lo-Q Service Canada Inc Lo-Q (Trustees) Limited accesso, LLC VisionOne Worldwide Limited VisionOne, Inc.
+Siriusware, Inc.
+
+Outstanding balances
+
+2015 $000 14,220
+197 1,971
+114
+1,509
+(222)
+
+2014 $000 15,627
+708 2,076
+383 1,578 (222)
+
+(88)
+
+-
+
+17,701
+
+20,150
+
+Transactions in year
+
+2015 $000 7,629
+75 -
+568
+-
+-
+
+2014 $000 6,040
+151 -
+401 -
+
+-
+
+-
+
+8,272
+
+6,592
+
+61
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+Related party disclosures (continued)
+
+Other related parties
+
+Rockspring, a company in which David Gammon, an accesso Technology Group plc director, is a director invoiced the company in respect of directors fees $44,256 (2014: $44,080) of which $3,578 (2014: $3,673) was outstanding at year end.
+
+Matt Cooper, an accesso Technology Group plc director, invoiced the company in respect of directors fees $44,256 (2014: $44,080) of which $3,578 (2014: $3,673) was outstanding at year end.
+
+Maven Creative, LLC., a company in which Steve Brown, an accesso Technology Group plc director, is a director and has a 33% interest, invoiced the Group $100,928 (2014: $56,382) in respect of marketing services of which $3,082 (2014: $3,818) was outstanding at year end.
+
+All of the above outstanding amounts are included within trade creditors.
+
+Key management compensation
+
+The key management of the company staff are considered to be the directors and their remuneration is as follows:
+
+Director's remuneration Director's contribution to retirement scheme Employer's social security costs Share-based payments
+
+2015 $000
+1,785 55
+126 115 2,081
+
+2014 $000 1,761
+69 221
+41 2,092
+
+Included in employer's social security costs is an amount of $nil related to the exercise of unapproved share options by directors (2014: $72,000).
+
+25.
+
+Share-based payment transactions
+
+Equity settled share option schemes
+
+For details of share option schemes in place during the period see note 21. Details of the number of share options and the weighted average exercise price (WAEP) outstanding during the period are as follows:
+
+Outstanding at beginning of year Granted during the year Exercised during the year Leavers, lapsed & other
+
+2015
+
+Number 1,178,200
+527,334 (59,784) (54,450)
+
+WAEP (pence) 313.21 264.09 388.58 626.43
+
+2014
+
+restated *
+
+Number
+
+WAEP (pence)
+
+977,159
+
+284.56
+
+469,356
+
+355.77
+
+(202,162)
+
+127.59
+
+(66,153)
+
+609.28
+
+Outstanding at end of the year
+
+1,591,300
+
+Exercisable at the end of the year
+
+676,060
+
+Weighted average share price at date of exercise for
+
+share options exercised during the year:
+
+289.10 300.95
+795.80
+
+1,178,200 955,603
+
+313.21 176.85
+745.39
+
+* The 2014 share-based payment disclosure has been restated for the inclusion of the LTIP share options in issue.
+
+62
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+Share based payment transactions (continued)
+
+The exercise price of options outstanding at 31 December 2015 range between £nil and 697.5p (2014: £nil and 600.0p) and their weighted average contractual life was 5.4 years (2014: 5.5 years).
+
+The weighted average share price at the date of exercise for share options exercised during the period was £7.95 (2014: £7.45).
+
+The fair values were calculated using the Black-Scholes valuation method. The inputs to the model were as follows:
+
+Weighted average share price (pence) Exercise price of options issued during the period Expected volatility % Expected life (years) Risk free rate (%) Dividend yield (%)
+
+2015
+795.80 575.5 27.63 2.00 1.00 -
+
+2014 745.39 697.5 31.00
+1.00 1.00
+-
+
+The Group did not enter into any share-based payment transactions with parties other than employees during the current or previous period.
+
+Expected volatility was determined by calculating the historic volatility of the Group's share price over the previous twelve month period. Expected life is based on the Group's assessment of the average life of the option following the vesting period. The market vesting condition was factored into the valuation of shares issued under the EBT as explained on page 20.
+Long term incentive plan
+
+In addition to those above, on 15 April 2015 the Group granted conditional share awards ("Awards") over 277,534 ordinary shares of 1 penny under the Long Term Incentive Plan ("LTIP"), which was approved by shareholders on 27 May 2014.
+
+During 2014, the company granted Awards over 222,206 ordinary shares of 1 penny under the LTIP.
+
+All Awards vest three years from the date of grant, are required to be held for a further six months, and are subject to certain performance conditions.
+
+The performance conditions for the 2015 Awards are achieved via compound share price growth rates from a share price of 545 pence per share over the vesting period. If the average share price ("ASP") during the thirty days prior to 15 October 2018 (the "test date") is 864.37 pence or more, 100% of the shares pursuant to the Award shall vest and the award shall be exercisable in full. The resulting shares from these awards are required to be held for a further six months following the test date.
+
+The Awards shall vest and become exercisable in respect of 30% of the shares comprised in it if the ASP is 805.16 pence. Between ASP of 805.16 and 864.37 pence, the Award shall vest and become exercisable on a straight line basis between 30% and 100%.
+
+The Awards shall not vest at all if the ASP is less than 805.16 pence. No consideration will be paid for the conditional shares upon their vesting.
+
+The performance conditions for the 2014 Awards are achieved via compound share price growth rates from a share price of 528.25 pence per share over the vesting period. If the ASP during the thirty days prior to 8 July 2017 (the "test date") is 803.40 pence or more, 100% of the shares pursuant to the Award shall vest and the award shall be exercisable in full. The resulting shares from these awards are required to be held for a further six months following the test date.
+
+63
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+Share based payment transactions (continued)
+
+The Awards shall vest and become exercisable in respect of 30% of the shares comprised in it if the ASP is 748.37 pence. Between ASP of 748.37 and 803.40 pence, the Award shall vest and become exercisable on a straight line basis between 30% and 100%.
+
+Awards shall not vest at all if the ASP is less than 748.37 pence. No consideration will be paid for the conditional shares upon their vesting.
+
+The fair values of the Awards at the dates of grant were calculated using the Monte Carlo statistical modelling approach to reflect the market conditions within the Award conditions. The inputs to this model were as follows:
+
+Expected volatility (%) Expected life years Risk free rate (%) Dividend yield (%)
+
+2015 30.00
+3.00 0.60
+-
+
+2014 32.00
+1.00 0.89
+-
+
+26.
+
+Notes to cash flow
+
+Reconciliation of cash generated from operations
+
+Group
+Profit before tax Depreciation and amortisation charges
+Tangible fixed assets (excluding finance leases) Development costs Acquired intangibles Finance leased assets Other intangibles Share based payment Finance costs Finance income
+
+2015 $000 7,220
+1,312 1,187 4,235
+48 99 629 491 (3) 15,218
+
+2014 restated *
+$000 5,129
+1,411 687
+2,273 48
+133 353 344 (2) 10,376
+
+Decrease in inventories Increase in trade and other receivables Increase in trade and other payables
+
+86 (1,912)
+1,320
+
+186 (1,821)
+1,899
+
+Cash generated from operations
+
+14,712
+
+10,640
+
+* The presentation of the 2014 foreign exchange movement has been represented within the movements of working capital to which the foreign exchange relates. The amount restated was not material to the Group.
+
+64
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+Notes to cash flow (continued)
+
+Company
+Profit before tax Depreciation and amortisation charges
+Tangible fixed assets Development costs Other intangibles Share based payment Finance costs Finance income
+
+2015 $000 2,843
+685 738
+98 629 480
+5,473
+
+2014 restated *
+$000 1,620
+1,062 733 81 323 332 (2)
+4,149
+
+Decrease in inventories Decrease in trade and other receivables (Decrease) / Increase in trade and other payables
+
+44 1,898 (345)
+
+44 1,278
+486
+
+Cash generated from operations
+
+7,070
+
+5,957
+
+* The presentation of the 2014 foreign exchange movement has been represented to reclassify $1.388m to the movements of working capital to which the foreign exchange has arisen.
+
+Reconciliation of net cash flow to movements in net funds and analysis of net funds
+
+The amounts disclosed on the cash flow statement in respect of cash and cash equivalents are in respect of these balance sheet amounts.
+
+Group Cash in hand & at bank
+
+2014 $000
+5,693
+
+Cash Flow $000
+(146)
+
+Exchange movement
+$000
+(240)
+
+2015 $000
+5,307
+
+5,693
+
+(146)
+
+(240)
+
+5,307
+
+Company Cash in hand & at bank
+
+1,309
+
+491
+
+1,309
+
+490
+
+(66)
+
+1,734
+
+(66)
+
+1,734
+
+65
+
+accesso Technology Group plc
+
+Notes to the consolidated financial statements (continued) for the financial year ended 31 December 2015
+
+27.
+
+Commitments under operating leases
+
+Total of future minimum operating lease payments under non-cancellable operating leases:
+
+Group Land & buildings Less than one year Within one to five years Greater than five years
+Other Less than one year Within one to five years Greater than five years
+Company Land & buildings Less than one year Within one to five years Greater than five years
+Other Less than one year Within one to five years Greater than five years
+
+2015 $000
+720 3,495 1,871 6,086
+47 87
+134
+93 604 817 1,514
+47 87
+134
+
+2014 $000
+813 1,730
+2,543
+98 24
+122
+104 -
+104
+30 24
+54
+
+Operating leases within `Land & buildings' include the leases of company and Group offices. Leasing arrangements from the respective lessors can be viewed as standard. Leases within `Other' include office equipment and a vehicle. Terms can be viewed as standard.
+
+66
+
+
